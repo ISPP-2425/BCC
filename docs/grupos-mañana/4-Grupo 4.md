@@ -1,6 +1,6 @@
 # Grupo 4 - Borroo
 
-En esta página se encuentra el feedback recogido por el equipo del grupo 9 durante las sesiones de clase. Con secciones para cada semana, se detallan los comentarios y sugerencias del profesor y los compañeros, así como las tareas a realizar para la siguiente semana. Además, se incluye una sección para cada grupo con el feedback proporcionado por el grupo 4.
+En esta página se encuentra el feedback recogido por el equipo del grupo 4 durante las sesiones de clase. Con secciones para cada semana, se detallan los comentarios y sugerencias del profesor y los compañeros, así como las tareas a realizar para la siguiente semana. Además, se incluye una sección para cada grupo con el feedback proporcionado por el grupo 4.
 
 ## Semana 2
 #### Feedback relacionado con la presentación
