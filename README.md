@@ -1,17 +1,52 @@
-# Sitio Web
-
 Este sitio web está construido usando [Docusaurus](https://docusaurus.io/), un generador moderno de sitios web estáticos.
 
-### Instalación
+# Cómo contribuir
+
+## Estructura de directorios
 
 ```
-$ npm install
+docs/
+  grupos-manana/
+    1-Grupo 1.md
+    2-Grupo 2.md
+    3-Grupo 3.md
+    4-Grupo 4.md
+    5-Grupo 5.md
+    6-Grupo 6.md
+  grupos-tarde/
+    1-Grupo 7.md
+    2-Grupo 8.md
+    3-Grupo 9.md
+    4-Grupo 10.md
+    5-Grupo 11.md
 ```
 
-### Desarrollo local
+## Cómo añadir feedback
+Cada grupo tiene su propio archivo markdown en la carpeta correspondiente (dependiendo si el grupo es de la mañana o de la tarde). Los archivos markdown contienen el feedback interno (el feedback interno corresponde al feedback recogido por el propio equipo de trabajo) recogido por cada grupo durante las sesiones de clase. Con secciones para cada semana, se detallan los comentarios y sugerencias del profesor y los compañeros, así como las tareas a realizar para la siguiente semana. Además, se incluye una sección para el resto de grupos con el feedback proporcionado por parte de dicho grupo.
 
+## Despliegue en local
+Para desplegar el sitio web en local, sigue los siguientes pasos:
+1. Clona el repositorio en tu máquina local.
 ```
-$ npm start
+git clone git@github.com:ISPP-2425/BCC.git
 ```
+2. Instala las dependencias necesarias.
+```
+cd BCC
+npm install
+```
+3. Inicia el servidor de desarrollo.
+```
+npm start
+```
+4. Desde la dirección [http://localhost:3000](http://localhost:3000) podrás acceder al sitio web y comprobar los cambios realizados a tiempo real en tu máquina local.
 
-Este comando inicia un servidor de desarrollo local y abre una ventana del navegador. La mayoría de los cambios se reflejan en vivo sin tener que reiniciar el servidor.
+## Cómo subir los cambios a GitHub
+Con el objetivo de evitar conflictos al subir los cambios a GitHub, se recomienda seguir los siguientes pasos:
+- Trabajar en la rama correspondiente al grupo de trabajo.
+- Hacer un pull request a la rama principal (main) de este repositorio.
+
+En caso de que se produzcan conflictos al hacer el pull request, se recomienda contactar con el administrador del repositorio [Angelgares](https://github.com/Angelgares) para resolverlos.
+
+## Despliegue automático
+Este repositorio está configurado para desplegar automáticamente los cambios en la rama principal (main) a través de [Vercel](https://vercel.com/). Por lo tanto, una vez que se haya hecho el pull request a la rama principal, los cambios se desplegarán automáticamente en la siguiente dirección: [Base de Conocimiento Común](https://bcc2425.vercel.app)
