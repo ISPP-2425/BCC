@@ -1,21 +1,133 @@
-# Grupo 11 - nombreDelProyecto
+# Grupo 11 - PawTel
 
-En esta página se encuentra el feedback recogido por el equipo del grupo 11 durante las sesiones de clase. Con secciones para cada semana, se detallan los comentarios y sugerencias del profesor y los compañeros, así como las tareas a realizar para la siguiente semana. Además, se incluye una sección para cada grupo con el feedback proporcionado por el grupo 11.
+
+En esta página se encuentra el feedback recogido por el equipo del grupo 11 durante las sesiones de clase. Haciendo uso de una división semanal, se detallan los comentarios y sugerencias del profesor y los compañeros, así como las tareas a realizar para la siguiente semana.
+
 
 ## Semana 1
-#### Feedback relacionado con la presentación
 
-#### Feedback relacionado con el desarrollo del proyecto
 
-#### Tareas a realizar para la siguiente semana
+
+
+**Fecha:** 07/02/2025
+
+## Introducción
+
+Este documento tiene como objetivo recopilar el feedback proporcionado por los profesores durante las presentaciones semanales de los grupos en la asignatura de Ingeniería del Software y Práctica Profesional (ISPP).  
+Es importante registrar los comentarios clave, observaciones adicionales y las tareas pendientes para mejorar nuestro proyecto.
+
+## Feedback de las presentaciones
+
+| Grupo | Feedback recibido | Observaciones adicionales |
+|-------|-------------------|---------------------------|
+| **Grupo 7 - MapYouWorld** | - Número de grupo visible. <br /> - Incluir el logo del proyecto en las diapositivas. <br /> - La plantilla debe transmitir algún valor (ejemplo: espacio de publicidad gratuita). <br /> - Incluir un manual de identidad corporativa. <br /> - Mejorar la legibilidad y la consistencia en la fuente de letra. <br /> - Apagar la presentación cuando se quiere captar la atención del público directamente. <br /> - No hablar rápido ni competir con textos largos en pantalla. <br /> - Evitar usar la presentación como guía; mejor tener un papel en la mano. | - Incluir mockups o elementos visuales cuando ayuden a la comprensión. <br /> - Presentar el análisis de competencias en forma de tabla. <br /> - Definir claramente si el público objetivo es un conjunto o subconjuntos disjuntos. <br /> - En el modelo freemium, todos los usuarios deben considerarse clientes potenciales. <br /> - No mezclar equipos con roles en la presentación. |
+| **Grupo 8 - Friends on Tour** | - Logo con letras y nombre. <br /> - Mejor poquito y bueno que mucho y mediocre en el MVP. <br /> - Modelo de negocio basado en comisión a terceros. <br /> - Explicar claramente las protopersonas. | - Hablar de la competencia antes de las amenazas. |
+| **Grupo 9 - Empollapp** | - Unir la value proposition con el participante en el business model canvas. <br /> - Logo y nombre que reflejen la utilidad de la app. <br /> - Orden de los puntos por importancia. <br /> - Exponer problema y solución antes de la monetización. | - Incluir solo la información relevante, evitar contenido innecesario. <br /> - Ser estrictos con quienes no contribuyen al trabajo. |
+| **Grupo 10 - Appagar** | - Índice legible y claramente ordenado. <br /> - No seccionar demasiado el índice. <br /> - Evitar explicar cosas obvias o innecesarias. | - No hacer una sección de preguntas y respuestas; responder en las diapositivas de manera natural. |
+| **Grupo 11 - MeetUs** | - No podemos ser nuestros propios clientes. <br /> - Justificar por qué los clientes pagarían. <br /> - Reconsiderar la idea. | - Decir lo que se ha hecho, aunque no esté en la presentación. |
+
+
+
+## Lista de tareas para la próxima semana
+
+-  Poner la base de conocimiento en común con el resto de grupos. Los profesores deben tener acceso. Ver DocuSaurus.
+-  Leer model business canvas libro de negocio. 
+SEMANA 2 - IDEA DE NEGOCIO
+- Key business idea clarisima, de que va y de que no va
+- Analisis de competidores preliminar muy riguroso, todos los competidores (si el profe encuentra otro nos one shotea)
+- Criterio de busqueda, como llegaste a la conclusion de que esos son los competidores. Tabla objetiva, nada de sesgo.
+- Análisis de coste TCO
+- Usuarios pilotos potenciales, pensar en la diversidad y planes de precio, cobertura de casos, población heterogenea
+- Como vamos a trabajar con los usuarios piloto, como guardar su info y como tratarla.
+- Prototipos de baja fidelidad
+MVP
+- Casos de uso core -> mockups con interacciones importantes -> balsamic y otros prototipos de media alta fidelidad
+- Discusion de la tecnologia
+EQUIPO
+- Uso de ia
+- Commitment
+- Analis de riesgo preliminar -> PMBOK -> negocio + ejecucion
+- Equipos y roles bien definidos
+- Habilidades del equipo
+
+---
 
 
 ## Semana 2
-#### Feedback relacionado con la presentación
 
-#### Feedback relacionado con el desarrollo del proyecto
 
-#### Tareas a realizar para la siguiente semana
+**Fecha:** 14/02/2025
+
+## Introducción
+
+Este documento tiene como objetivo recopilar el feedback proporcionado por los profesores durante las presentaciones semanales de los grupos en la asignatura de Ingeniería del Software y Práctica Profesional (ISPP).  
+Es importante registrar los comentarios clave, observaciones adicionales y las tareas pendientes para mejorar nuestro proyecto.
+
+
+## Feedback de las presentaciones
+| Grupo                         | Feedback recibido     | Observaciones adicionales |
+|-------------------------------|-----------------------|---------------------------|
+| **Grupo 7 - MapYouWorld**     | - No hacer referencias a presentaciones de semanas anteriores o a presentaciones de otros grupos. <br /> - Seguir buscando competidores, no vaya a ser que la caguemos. Preguntar a ChatGPT. Le damos la idea del negocio y que nos busque competidores. <br /> - Explicar por qué primero presentamos muchos competidores y luego nos centramos en unos pocos. ¿Por qué nos centramos en eso? ¿Son más parecidos? <br /> - Primero explicar las funcionalidades claramente y ya luego del sistema de negocio y costes. No hablemos del dinero hasta que no tengamos interés por pagar. <br /> - En el Business Model Canvas, no incluir cosas irrelevantes. Si los estudiantes no proponen un caso de uso distintivo, no lo ponemos. <br /> - Pensar incluir anuncios. <br /> - Agrupar funcionalidades similares en módulos al hacer comparaciones. <br /> - Ordenar comparaciones por casos de uso. <br /> - La publicidad debe estar en la parte superior y las conexiones deben ser claras. <br /> - Especificar explícitamente qué servicios son gratuitos y cuáles son de pago. | - En amenazas de la DAFO, dependencia de APIs de terceros. <br /> - Leer y hacer Business Model Canvas. <br /> - Han mostrado todas las funcionalidades junto a su mockup. Pensar si nos puede ser útil. <br /> - Triángulo de innovación de servicio, tecnología y negocio. |
+| **Grupo 8 - Nutribaby**       | - En mockups no poner lorem ipsums ni nada. ¡Poner textos realistas! <br /> - Tener en cuenta los costes sociales en sueldos y horas de trabajo. <br /> - Página para ver sueldos de perfiles en España: getmanfred.com, Tech Career Report. <br /> - Competidores después de las funcionalidades. No poner los costes en medio. <br /> - Hablar de la privacidad (aunque en nuestro caso sea el pago), como un riesgo. <br /> - Asegurar coherencia en el mensaje de la presentación. | - Comienzo fuerte. <br /> - Han puesto una foto de un móvil con varias aplicaiones en el escritorio y una de ellas es Nutribaby. Muy eficaz para demostrar potencial como aplicación real. Ya lo hicieron la otra vez y quedó muy bien. <br /> - Todo muy grande para que se viera bien, aunque a lo mejor han apurado demasiado los espacios. <br /> - Mucho texto. <br /> - Han hecho un cálculo de los costes y los presupuestos del proyecto. |
+| **Grupo 9 - Caronte**         | - Innovar. Salirse de las convenciones. Personalizar a generaciones futuras. Pensar cosas que tradicionalmente no se ven bien, pero no están justificados, y darles la vuelta. Ser disruptivos para captar la atención del cliente. <br /> - Transformar la idea de pasiva a activa, buscar cómo atraer a los usuarios. <br /> - Los UMLs se sienten demasiado formales y poco claros. Son técnicos pero no para ponerlos en una presentación. <br /> - Cuidado con que el Business Model Canvas sea demasiado chico y no se vea bien. <br /> - Generar hype con la presentación. <br /> - Alternar presentadores no siempre mejora la presentación, valorar hacerlo con un solo expositor. <br /> - No desacreditar a la competencia, sino resaltar diferencias estratégicas. | - Estrategias de publicidad. <br /> - Han hecho el Business Model Canvas (1 Ley parnerships, 2.1 Key activities, 2.2 Key rsources, 3 Value propositions, 4.1 Customer relationships, 4.2 Channels, 5 Customer segments, 6 Cost structure, 7 Revenue stream) <br /> - Han dado datos como el número de funerarias, el número de muertes anuales y demás. <br /> - Tecnologías preferidad de cada miembro. Habilidades: programación, business y soft skills. |
+| **Grupo 10 - Go4Surprise**    | - Gastos altísimos y probabilidad de beneficios muy bajas. <br /> - Demasiadas elecciones para el cliente. A veces la decisión genera estrés. <br /> - Mock ups que cuenten una historia. Que no sean ventanas random. Aquí la ventana del login, aquí la ventana de otra cosa... <br /> - Usar el espacio de pantalla eficientemente en los mock-ups. <br /> - Los iconos de las aplicaciones que no estén sueltos en la diapositiva. Que se explique para qué se va a usar cada una. Diagramas de arquitectura. No poner logos innecesarios, que no es publicidad. <br /> - Que el logo de la aplicación no esté en la parte superior izquierda. <br /> - Ir marcando las secciones para que la gente no se duerma. Con los números de las secciones, con las páginas (actual/total) <br /> - Considerar el hardware y amortización de costos. <br /> - Detallar el **Commitment Agreement** y un plan de cumplimiento semanal. <br /> - Incluir métricas como **TFO (Tiempo de Funcionamiento Operativo) por mes**. <br /> - Incluir costos de operación en GitHub y usar **HBS (Hora Básica de Servicio)** para estimaciones. | - Han hablado de los gastos de despliegue. |
+| **Grupo 11 - Pawtel**         | - Invertir más tiempo en qué somos que en qué no somos. Demasiadas preguntas sin respuestas. Demasiado mensajes negativos. Demasiado tiempo diciendo qué no somos. <br /> - Dejar un poco más claros los conceptos. No usar términos ambiguos. ¿Qué significa hotel para mascotas? Dice que usemos Residencia para mascotas mejor, pero ya veremos. Aclarar qué somos y diferenciarnos de hoteles "pet-friendly". <br /> - No hablar del posicionamiento muy temprano. Primero vamos a dejar claro de qué va la aplicación, y ya luego empezamos a comparar con otras <br /> - Reducir el "ruido" con respecto a la competencia. No queda claro muchas cosas. Durante esta parte seguimos hablando de lo que somos y no somos, como si no lo hubiéramos dejado claro. Y tenemos muchas diapositivas de competencia que saltan de un lado para otro, y queda un poco lioso. <br /> - Darle importancia a todas las cosas, que ha sido demasiado larga la presentación y hemos ido corriendo por algunas diapositivas. Lo que no vayamos a comentar no merece estar en la presentación. <br /> - Asegurar legibilidad y coherencia en las diapositivas. <br /> - Más grande los riesgos, que no se leen. <br /> - La presentación debe ser comprensible sin necesidad de visualizar las diapositivas. <br /> - No poner todos los riesgos si no los vamos a leer. Entonces no haría falta ponerlos todos. No hay que volcar documentación por volcarla. <br /> - Tipo de letra en soft skills no es buena. No decir que el gráfico está volcado para la derecha si no aporta nada. Si acaso, leyenda. Igual con las otras gráficas. <br /> - ¿Hacer la aplicación de pago? Porque no vaya a ser que no compren por ahí y al final no ganemos dinero. <br /> - Explicar cómo funcionará la monetización si no hay pasarela de pago en el MVP. <br /> - Relativizar los valores de mercado. ¿Es 10% más barato que lo que cobra Booking? ¿Es la ganancia inferior al 25% del mercado? <br /> - Ponemos strikes, sí, vale, pero hay que explicar qué significa un strike. ¿Un día sin trabajar? ¿Fuera del equipo? El objetivo es mejorar el ambiente de trabajo. El sistema de penalizaciones es el medio para alcanzar el objetivo. <br /> - Igual que hemos hecho con las softskills, hacedlo con las hardskills. Incluir habilidades tecnológicas del equipo y costos de aprendizaje de nuevas tecnologías. <br /> - Justificar reparto de equipo en grupos. <br /> - Aclarar que todos los miembros del equiupo pueden pertenecer a varios equipos, pero que todos los miembros del equipo desarrollan. <br /> - ¿Por qué hemos decidido las tecnlogías de backend y frontend? ¿Por qué si no las conocemos? Explicar. <br /> - Todo lo mostrado tiene que estar justificado, tanto en pantalla como por el presentador. Hay que soltar factos y datos concretos. <br /> - Nos falta sección de innovación. Poner junto/tras competidores. <br /> - Competidores: Si tienen el mismo modelo de negocio pero nada que ver con mascotas de este estilo, no son competidores. Seleccionar los más importantes. <br /> - Crear un **Business Model Canvas**. | - No sustituir palabras por imágenes. Mejor poner "Gratis para usuarios" que una foto que ponga "Gratis" y luego el título sea "Para usuarios". <br /> - Comentar que puedes buscar hotel para tu mascota en la ciudad a donde vayas, y poder llevártelo contigo. <br /> - En costes y tecnologías, el logo se ha salido fuera de pantalla. <br /> - Estudiar el porcentaje de comisión. |
+| **General**                   | - Orden de presentación: el producto que desarrollamos. La venta se hace "sola" si el problema que resolvemos está claro y es atractivo. <br /> - Menciones honoríficas de la semana y Hall of shame de la semana. <br /> - Alinear los riesgos con lo que hayamos hablado antes, principalmente la DAFO. Comentarlo o indicarlo visualmente. <br /> - Los riesgos no se definen por nada, sino para evitarlos. <br /> - Tener unidades homógeneas para los datos. <br /> - Las presentaciones deben ser autocontenidas, evitando referencias a presentaciones anteriores, nuestras o de otros equipos. |  |
+
+
+
+
+## Lista de tareas para la próxima semana
+
+#### Tiempos y test
+- 16 min. de presentación. 13 min. de feedback.
+- Test depués. Traer ordenador cargado.
+
+#### PMBOK
+- Planes para cada fase
+- Planes de calidad
+- Definir cuándo hacemos seguimiento y control
+- **Plan de gestión de riesgos**, incluyendo teoría y acciones concretas.
+
+#### Elevator pitch (inicio efectivo)
+- Claro todo desde el principio, sin ambiguedades, en 10 segundos, todo claro. Inicio efectivo.
+
+#### Costes
+- Coste de personal
+- Coste de amortización
+- Costes indirectos
+- Costes de herramientas y licencias
+- ...
+- **Análisis preliminar de costos** (TCO, amortización de activos, personal, licencias, etc.).
+
+#### Usuarios pilotos
+- Definir súper bien TODO del programa de usuarios pilotos.
+- Recolección de datos homogénea.
+
+#### MVP
+- Aclarar casos de uso clave.
+- Mockups que muestren interacciones, que cuenten una historia. O que sean interactuables.
+- Tener en cuenta UX no solo UI para los mockups. Echar un vistazo a lawsofux.com .
+
+#### Tecnología
+- GitHub, GitHub Actions y GitHub Projects.
+- Desplegar donde queramos, pero todos los despliegues tienen que ser auditables a futuro, es decir que tenemos que guardar todas las versiones de los despliegues (al menos 1 por semana) y que después se pueda acceder a cada una de ellas, no solo a la última.
+- **Justificación del stack tecnológico**, visualización del conocimiento del equipo.
+
+#### Página web para la startup
+- Branding page.
+- Correo de contacto al final.
+- Landing page con idea principal y contacto.
+
+#### Planificación sprints
+- Planificación MUY detallada del sprint 1 (siguiente semana). Roles y responsabilidades. Dónde estamos y dónde queremos acabar.
+- Planificación ligera de los dos sprints posteriores (2 y 3).
+- Hacer esto todas las semanas. Planificamos en detalle el siguiente sprint y planificamos ligeramente un sprint más.
+
+#### Doc IA
+- Uso estratégico de la IA en el desarrollo del proyecto.
+
+
 
 ## Semana 3
 #### Feedback relacionado con la presentación
@@ -23,96 +135,3 @@ En esta página se encuentra el feedback recogido por el equipo del grupo 11 dur
 #### Feedback relacionado con el desarrollo del proyecto
 
 #### Tareas a realizar para la siguiente semana
-
-## Grupo 7 - nombreDelProyecto
-# Semana 1
-#### Feedback relacionado con la presentación
-
-#### Feedback relacionado con el desarrollo del proyecto
-
-#### Tareas a realizar para la siguiente semana
-
-
-# Semana 2
-#### Feedback relacionado con la presentación
-
-#### Feedback relacionado con el desarrollo del proyecto
-
-#### Tareas a realizar para la siguiente semana
-
-# Semana 3
-#### Feedback relacionado con la presentación
-
-#### Feedback relacionado con el desarrollo del proyecto
-
-#### Tareas a realizar para la siguiente semana
-
-## Grupo 8 -  nombreDelProyecto
-# Semana 1
-#### Feedback relacionado con la presentación
-
-#### Feedback relacionado con el desarrollo del proyecto
-
-#### Tareas a realizar para la siguiente semana
-
-
-# Semana 2
-#### Feedback relacionado con la presentación
-
-#### Feedback relacionado con el desarrollo del proyecto
-
-#### Tareas a realizar para la siguiente semana
-
-# Semana 3
-#### Feedback relacionado con la presentación
-
-#### Feedback relacionado con el desarrollo del proyecto
-
-#### Tareas a realizar para la siguiente semana
-
-## Grupo 9 -  nombreDelProyecto
-# Semana 1
-#### Feedback relacionado con la presentación
-
-#### Feedback relacionado con el desarrollo del proyecto
-
-#### Tareas a realizar para la siguiente semana
-
-
-# Semana 2
-#### Feedback relacionado con la presentación
-
-#### Feedback relacionado con el desarrollo del proyecto
-
-#### Tareas a realizar para la siguiente semana
-
-# Semana 3
-#### Feedback relacionado con la presentación
-
-#### Feedback relacionado con el desarrollo del proyecto
-
-#### Tareas a realizar para la siguiente semana
-
-## Grupo 10 -  nombreDelProyecto
-# Semana 1
-#### Feedback relacionado con la presentación
-
-#### Feedback relacionado con el desarrollo del proyecto
-
-#### Tareas a realizar para la siguiente semana
-
-
-# Semana 2
-#### Feedback relacionado con la presentación
-
-#### Feedback relacionado con el desarrollo del proyecto
-
-#### Tareas a realizar para la siguiente semana
-
-# Semana 3
-#### Feedback relacionado con la presentación
-
-#### Feedback relacionado con el desarrollo del proyecto
-
-#### Tareas a realizar para la siguiente semana
-
