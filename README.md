@@ -1,41 +1,17 @@
-# Website
+# Sitio Web
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+Este sitio web está construido usando [Docusaurus](https://docusaurus.io/), un generador moderno de sitios web estáticos.
 
-### Installation
-
-```
-$ yarn
-```
-
-### Local Development
+### Instalación
 
 ```
-$ yarn start
+$ npm install
 ```
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-### Build
+### Desarrollo local
 
 ```
-$ yarn build
+$ npm start
 ```
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+Este comando inicia un servidor de desarrollo local y abre una ventana del navegador. La mayoría de los cambios se reflejan en vivo sin tener que reiniciar el servidor.

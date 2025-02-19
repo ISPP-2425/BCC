@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-#  Intro
+#  Inicio
 
 Bienvenido a la Base de Conocimiento Común de la asignatura Ingeniería del Software y la Práctica Profesional de la Universidad de Sevilla para el curso 2024/2025.
 ****
