@@ -2,7 +2,7 @@
 
 En esta página se encuentra el feedback recogido por el equipo del grupo 4 durante las sesiones de clase. Con secciones para cada semana, se detallan los comentarios y sugerencias del profesor y los compañeros, así como las tareas a realizar para la siguiente semana. Además, se incluye una sección para cada grupo con el feedback proporcionado por el grupo 4.
 
-## Semana 2
+##  Feedback Semana 2
 ### Feedback relacionado con la presentación
 
 - Mantuvimos un buen ritmo de presentación.
@@ -184,4 +184,66 @@ En esta página se encuentra el feedback recogido por el equipo del grupo 4 dura
 22. Gestión del código (política de etiquetado, para los entregables, definir cómo vamos a etiquetar cada cosa y qué política vamos a seguir para el versionado del código).
 23. Se despliega cada parte por separado. Nada de sustituir el sprint 1 por el 2 ni nada por el estilo. Platafor
 
+
+## Feedback Semana 4
+
+
+### Feedback relacionado con la presentación
+
+Empleamos buen tono de voz.
+
+Usamos ejemplos cotidianos que ayudan a que se entienda nuestra idea.
+
+Presentación fluida y con una buena gama de colores.
+
+Presentarse al comienzo.
+
+Inicio soso, necesitamos hacer algo tipo teatro.
+
+La landing page debe ir al principio de la presentación.
+
+### Feedback relacionado con el desarrollo del proyecto
+
+Es bueno tener el máximo de usuarios pilotos posibles.
+
+Debemos ajustar mejor el tema de pagos semanales, únicos y anuales.
+
+Aclarar si anuncio de alquiler es core.
+
+### Tareas que realizar durante esta semana:
+
+
+    Reloj de avance del proyecto
+
+    Cuánto tiempo hemos invertido de lo esperado hasta final de curso.
+    Cuánto tiempo llevamos y cuánto nos quedaría (barrita de progreso).
+
+    Planificación (15/20%)
+
+    Reestimación para el S1 y objetivos finales para el S1.
+    Reestimación para el S2 y S3 en caso de que se vea afectado.
+
+    Gestión de usuarios piloto (10% ir al grano)
+
+    Agenda para trabajar con ellos.
+    Cuándo vamos a contactar.
+    Cuántos días les damos para responder.
+    Cuándo les entregamos el software.
+    Cómo abordar el feedback que nos den.
+    Que quede claro el compromiso, mejor quedar con el usuario para el feedback.
+
+    Plan de gestión para el sprint siguiente
+
+    Uso de la IA
+
+    Resumen de cómo la hemos usado durante el S1.
+
+    Presentación más técnica
+
+    Rendimiento.
+    Solución de problemas.
+
+    Ensayar despliegue a la mitad del sprint
+
+    Si no desplegamos en la presentación, SUSPENSO.
 
