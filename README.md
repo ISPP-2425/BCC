@@ -6,6 +6,8 @@ Este sitio web está construido usando [Docusaurus](https://docusaurus.io/), un 
 
 ```
 docs/
+  conocimiento-común/
+    0-Presentaciones.md
   grupos-manana/
     1-Grupo 1.md
     2-Grupo 2.md
@@ -21,8 +23,13 @@ docs/
     5-Grupo 11.md
 ```
 
-## Cómo añadir feedback
+## Cómo añadir feedback individual
 Cada grupo tiene su propio archivo markdown en la carpeta correspondiente (dependiendo si el grupo es de la mañana o de la tarde). Los archivos markdown contienen el feedback interno (el feedback interno corresponde al feedback recogido por el propio equipo de trabajo) recogido por cada grupo durante las sesiones de clase. Con secciones para cada semana, se detallan los comentarios y sugerencias del profesor y los compañeros, así como las tareas a realizar para la siguiente semana. Además, se incluye una sección para el resto de grupos con el feedback proporcionado por parte de dicho grupo.
+
+## Cómo añadir feedback grupal
+El feedback grupal se recoge en el archivo markdown de la carpeta conocimiento-común. En este archivo se recoge el feedback común proporcionado por el profesor y los compañeros relativo a diferentes aspectos como la organización del equipo de trabajo, las presentaciones, la gestión de usuarios piloto, etc. 
+
+Para incluir información en este archivo, es necesario trabajar en la rama feedback-grupal y mantener dicha rama actualizada con regularidad.
 
 ## Despliegue en local
 Para desplegar el sitio web en local, sigue los siguientes pasos:
@@ -43,10 +50,11 @@ npm start
 
 ## Cómo subir los cambios a GitHub
 Con el objetivo de evitar conflictos al subir los cambios a GitHub, se recomienda seguir los siguientes pasos:
-- Trabajar en la rama correspondiente al grupo de trabajo.
-- Hacer un pull request a la rama principal (main) de este repositorio.
+- Trabajar en la rama correspondiente al grupo de trabajo o en la rama común (feedback-grupal).
+- Hacer una solicitud de pull request a la rama principal (main) de este repositorio.
+- Esperar a que la pull request sea revisada y aprobada por el administrador del repositorio.
 
-En caso de que se produzcan conflictos al hacer el pull request, se recomienda contactar con el administrador del repositorio [Angelgares](https://github.com/Angelgares) para resolverlos.
+En caso de que se produzcan conflictos durante la creación de la pull request, se recomienda contactar con el administrador del repositorio [Angelgares](https://github.com/Angelgares) para su resolución.
 
 ## Despliegue automático
 Este repositorio está configurado para desplegar automáticamente los cambios en la rama principal (main) a través de [Vercel](https://vercel.com/). Por lo tanto, una vez que se haya hecho el pull request a la rama principal, los cambios se desplegarán automáticamente en la siguiente dirección: [Base de Conocimiento Común](https://bcc2425.vercel.app)

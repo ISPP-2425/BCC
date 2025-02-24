@@ -1,118 +1,154 @@
-# Grupo 8 - nombreDelProyecto
+# Grupo 8 - Infantem
 
 En esta página se encuentra el feedback recogido por el equipo del grupo 8 durante las sesiones de clase. Con secciones para cada semana, se detallan los comentarios y sugerencias del profesor y los compañeros, así como las tareas a realizar para la siguiente semana. Además, se incluye una sección para cada grupo con el feedback proporcionado por el grupo 8.
 
 ## Semana 1
 #### Feedback relacionado con la presentación
+- Buscar logotipo (imagen + letra) y ponerlo en todas las diapositivas, que quede claro lo que estamos vendiendo.
+- Buscar formas de transmitir el objetivo lo más compacta posible, un eslogan muy resumido.
+- Centrarnos en la parte más relevante. Proyecto quizás demasiado grande, mejor menos cantidad pero de mayor calidad. Tiene que tener un alcance realista.
+- Análisis de competidores: muchas de las amenazas vienen de la competencia (cambiar el orden en las diapositivas para que vaya justo después del DAFO)
+- Mirar lienzo de modelo de negocios.
+- Riesgo con el tema de las apis, tener definido un acuerdo con un proveedor de servicios.
+  - Básicamente mirar bien todo el DAFO.
+  - Mala idea poner la descripción del equipo tras la portada, mejor centrarse directamente en la idea de negocio.
+- Primero mencionar qué problema se resuelve antes de introducir el pago
+- Durante las presentaciones decir solo lo útil, de otra forma se pierde tiempo y la atención de los oyentes
+- Presentarnos al principio
+
 
 #### Feedback relacionado con el desarrollo del proyecto
-
-#### Tareas a realizar para la siguiente semana
-
+- Centrarnos en un elemento diferenciador de nuestra idea. 
+  - Mirar que el elemento diferenciador sea posible, tanto por accesibilidad a recursos y por capacidad técnica. 
+  - Revisar si hay alguna característica que no tiene ninguno de los competidores. 
+- Mirar si hay partes que se pueden aislar. Ej: poder usar la parte de gestión de finanzas para eventos pequeños.
+- Modelo de monetización demasiado amplio, mejor centrarnos en uno (de esta parte no me he enterado bien)
+- Segmento de mercado: usar protopersonas (usuario potencial de nuestra aplicación, que tenga el perfil definido).
+  - Definir personas, estamos mezclando personas con grupos.
+- Casos de uso: mirar bien la trazabilidad
+  - Mirar que casos de usos que no son estrictamente necesarios (MVP) y centrarnos en esos.
 
 ## Semana 2
 #### Feedback relacionado con la presentación
+- Mucho texto en diapositivas
+- En los mockups no se ponen lorem ipsum ni datos vacíos, siempre casos reales.
+- Mirar una página: getmanfred.com, en esa página hay muchos datos sobre sueldos respecto a años de experiencias, tecnologías…
+  - Mirar también comparación con quien sabe inglés y quien no (esto es más como curiosidad)
+- Hemos tardado mucho en llegar a los competidores, esto mejor hacerlo después de las características.
+- Presentación un tanto corta, sobre todo si es la primera vez que hablamos de la idea
+- Nos faltan muchas cosas en las presentaciones.
+
 
 #### Feedback relacionado con el desarrollo del proyecto
+- No se tiene claro cómo se monetiza. El tema de pagar pediatras no está claro.
+  - Se habla de gastos, pero no de ingresos.
+- No se ponen las funcionalidades de pagos. Si solo son conexiones con pediatras hay muchos seguros privados que ya lo ofrecen, por lo que es improbable que la gente lo utilice.
+- **El problema que se plantea no es real puesto que ya en los hospitales las marcas se promocionan.**
+  - **De igual forma, se podría enfocar justo con las promociones con las marcas para intentar explotarlo en la aplicación**
+- Hay que madurar esta idea muchísimo.
+  - Si hay competencia mirar como lo hacen ellos, como cobran, cual es su modelo de negocio…
+  - Mirar varios percentiles: peso, tamaño de cabeza…
+- Costes: de dónde han salido las cifras?
+  - En el costes hay que tener en cuenta los impuestos y contribuciones sociales.
+- ¿Quién hace las dietas personalizadas?
+  - Pega más nutricionista que un médico 
+  - Hay que tener en cuenta los sueldos de los nutricionistas
+- Seguramente otras entidades hagan mejor nuestra funcionalidad que nosotros.
+- ¿Dónde está la principal diferencia con los competidores?
+- Privacidad importante.
 
-#### Tareas a realizar para la siguiente semana
-
-## Semana 3
-#### Feedback relacionado con la presentación
-
-#### Feedback relacionado con el desarrollo del proyecto
-
-#### Tareas a realizar para la siguiente semana
-
-## Grupo 7 - nombreDelProyecto
+## Grupo 7 - Map Your World
 # Semana 1
 #### Feedback relacionado con la presentación
+- Presentar de forma clara, evitar hablar muy rápido.
+- Plantillas para presentaciones útiles y con motivo: “es un espacio de publicidad gratuito”. Muy importante la estética.
+- Es importante que la presentación sea un soporte para lo que se cuenta: menos texto y más diagramas.
+- Tener en cuenta y cuidado elementos "tensores" en diapositivas (distraen).
+- No dejar mucho espacio en blanco.
+- Eslogan más claro y descriptivo. Además, al ser un texto muy largo no se suele leer y es importante que lo que se diga sea coherente con lo que pone. También marcar en negrita las cosas fundamentales.
+- Empatizar con el público, evitar decir la mejor aplicación para …
+- Evitar salir con un papel a presentar.
+- Tablas comparativas en la presentación (competidores).
+- Se pueden hacer varias y dividirlas por secciones.
+- No mezclar equipos y roles.
+
 
 #### Feedback relacionado con el desarrollo del proyecto
-
-#### Tareas a realizar para la siguiente semana
-
+- Tener un logo del proyecto.
+- Ahora mismo estamos en fase de análisis, por lo que no hace falta que se den las soluciones de implementación
+- Público objetivo: tenerlos muy claros y diferenciados (si son conjuntos o disjuntos, que elementos tienen que tener…)
+- Casos de usos: especificarlos por tipo de usuario
 
 # Semana 2
 #### Feedback relacionado con la presentación
+- No hacer referencias a presentaciones anteriores, tratar las presentaciones de forma autocontenida.
+- Demasiados competidores, hay que indicar CÓMO se han buscado esos competidores
+- Ordenar las tablas de competidores
+- Poner los usuarios pilotos
+- Nuevamente, si algo no se pone en la presentación, no se ha hecho
+- El coste se pone después de explicar las funcionalidades y despertar el interés de los espectadores.
+- Dar más importancia a la privacidad. Es importante eliminar los miedos de los clientes.
+- Poner leyendas si se ponen iconos (o no poner iconos).
+
 
 #### Feedback relacionado con el desarrollo del proyecto
+- Hay que explicar bien el solapamiento entre competidores (puede ser que uno no sea competidor)
+- En el caso de los usuarios objetivos, si uno de ellos no es relevante o no supone funcionalidades o perfiles específicos es mejor quitarlos.
 
-#### Tareas a realizar para la siguiente semana
-
-# Semana 3
-#### Feedback relacionado con la presentación
-
-#### Feedback relacionado con el desarrollo del proyecto
-
-#### Tareas a realizar para la siguiente semana
-
-## Grupo 9 -  nombreDelProyecto
+## Grupo 9 -  Caronte
 # Semana 1
 #### Feedback relacionado con la presentación
+- Intencionalmente en blanco
 
 #### Feedback relacionado con el desarrollo del proyecto
-
-#### Tareas a realizar para la siguiente semana
-
+- Intencionalmente en blanco
 
 # Semana 2
 #### Feedback relacionado con la presentación
+-  Hablar primero de nosotros (mayoritariamente de forma positiva) y luego las comparaciones con los demás.
 
 #### Feedback relacionado con el desarrollo del proyecto
+- No hay que criticar a la competencia, tan solo diferenciarse.
 
-#### Tareas a realizar para la siguiente semana
-
-# Semana 3
-#### Feedback relacionado con la presentación
-
-#### Feedback relacionado con el desarrollo del proyecto
-
-#### Tareas a realizar para la siguiente semana
-
-## Grupo 10 -  nombreDelProyecto
+## Grupo 10 -  Go 4 Surprise
 # Semana 1
 #### Feedback relacionado con la presentación
+- Intencionalmente en blanco
 
 #### Feedback relacionado con el desarrollo del proyecto
-
-#### Tareas a realizar para la siguiente semana
-
+- Intencionalmente en blanco
 
 # Semana 2
 #### Feedback relacionado con la presentación
+- Hacer mockups que cuenten una historia, no hacer mockups de informáticos para informáticos.
 
 #### Feedback relacionado con el desarrollo del proyecto
+- Demasiadas cosas 
 
-#### Tareas a realizar para la siguiente semana
-
-# Semana 3
-#### Feedback relacionado con la presentación
-
-#### Feedback relacionado con el desarrollo del proyecto
-
-#### Tareas a realizar para la siguiente semana
-
-## Grupo 11 -  nombreDelProyecto
+## Grupo 11 -  Pawtel
 # Semana 1
 #### Feedback relacionado con la presentación
+- Intencionalmente en blanco
 
 #### Feedback relacionado con el desarrollo del proyecto
-
-#### Tareas a realizar para la siguiente semana
-
+- Intencionalmente en blanco
 
 # Semana 2
 #### Feedback relacionado con la presentación
+- Invierten más tiempo en decir lo que no son que lo que son.
+- Demasiado enfocada la presentación en las partes negativas, esto tiene un impacto negativo en la audiencia.
+- Mucho ruido en la presentación.
+- Mockups muy cutres, no se diferencian de sus competidores 
+- Además durante la presentación no les ha dado importancia.
+- Diapositivas que no se leen bien (análisis de riesgos) 
+- No usar lenguaje informal (volcao pa la derecha)
+- Todos los datos tienen que tener algún tipo de justificación, sobre todo si son numéricos
+- Datos objetivos, evitar la subjetividad del presentador.
+- Explicar los conceptos que ser presenten y que sean originales y específicos del equipo
+- Habilidades técnicas del equipo, explicar las decisiones del equipo justificandolas con datos.
+
 
 #### Feedback relacionado con el desarrollo del proyecto
-
-#### Tareas a realizar para la siguiente semana
-
-# Semana 3
-#### Feedback relacionado con la presentación
-
-#### Feedback relacionado con el desarrollo del proyecto
-
-#### Tareas a realizar para la siguiente semana
-
+- No le ha quedado claro la idea, la descripción y marca tienen que ser más claras.
+- Ver si un competidor lo es realmente (en las píldoras vienen explicados 3 tipos, clasificarlos ahí)
+- Strikes (tarjetas amarilla y roja)
