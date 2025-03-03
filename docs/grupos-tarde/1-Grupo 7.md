@@ -70,6 +70,31 @@ En esta página se encuentra el feedback recogido por el equipo del grupo 7 dura
 - Implementar herramientas obligatorias como GitHub Actions y GitHub Projects.
 - Desarrollar una landing page clara para explicar la idea principal del proyecto.
 
+## Semana 3
+### Feedback relacionado con la presentación
+- Presentación un poco desordenada.
+- El Commitment Agreement está ubicado en medio, lo que afecta la coherencia.
+- Evitar hablar sobre un índice en la presentación.
+
+### Feedback relacionado con el desarrollo del proyecto
+- Cuidado con los costes, no sacar cifras del aire.
+- Investigar las mejores opciones, especialmente en publicidad.
+- Asegurar que todos los lanzamientos sean accesibles.
+- Se puede centralizar en un mismo deployment o evaluar distintas opciones.
+
+### Tareas a realizar para la siguiente semana
+- Asegurar que la retrospectiva de mitad de sprint ocupe entre el 40% y 50% de la presentación.
+- Mostrar el prototipo actual y su estado de desarrollo.
+- Realizar seguimiento a lo dicho en el Commitment Agreement.
+- Hacer seguimiento de la competencia y actualizar información si es necesario.
+- Explicar explícitamente si hay que reestimar la planificación y justificar los cambios.
+- Mostrar un "reloj de avance" del proyecto, indicando en qué punto de la planificación estamos y cuántas horas se han invertido respecto al total.
+- Mantener la planificación viva y reaccionar a cambios si es necesario.
+- Documentar cómo se está midiendo la productividad y las horas trabajadas.
+- Sacar métricas generales de productividad a partir de estadísticas de Git, pero sin usarlas como argumento absoluto.
+- Mostrar cómo se han resuelto problemas y actualizar el plan de riesgos en función de ello.
+- Explicar la gestión de los usuarios piloto y cómo se planifica la comunicación con ellos.
+- Asegurar que en la documentación de uso de ia se incluyan los prompts utilizados.
 
 
 ---
@@ -102,6 +127,24 @@ En esta página se encuentra el feedback recogido por el equipo del grupo 7 dura
 - Explorar más a fondo la competencia y analizar sus métodos de cobro.
 - Identificar mejor el uso de IA, tecnología y compromiso con el usuario (commitment agreement).
 
+### Semana 3
+#### Feedback relacionado con la presentación
+- Falta una descripción clara y ambiciosa del producto antes de hablar del MVP.
+- El orden del contenido no es intuitivo, es desordenado y se presentan riesgos antes de contextualizar el producto.
+- La tipografía no es legible, debe mejorarse.
+- Existen diferencias de tamaño y peso en los textos que generan desorientación.
+- Información importante no debe dejarse fuera de la presentación esperando que se pregunte después.
+- El precio del plan premium debe comentarse antes en la presentación, no en una diapositiva fuera de contexto.
+
+#### Feedback relacionado con el desarrollo del proyecto
+- Definir correctamente el producto antes de saltar al MVP.
+- Incluir una tabla de competidores bien explicada.
+- Evaluar correctamente ingresos y costes (beneficio = ingresos - costes).
+- No trabajar con precios sin IVA.
+- Considerar el cálculo de ramen survivability (punto de equilibrio financiero).
+- Explicar mejor la estructura de costos y especificar cálculos realizados.
+- Agregar elementos faltantes: commitment agreement, ALN, landing page, uso de IA.
+- No abordar riesgos técnicos o legales sin haber explicado antes las decisiones tomadas.
 ---
 
 ## Grupo 9 - Caronte
@@ -128,6 +171,18 @@ En esta página se encuentra el feedback recogido por el equipo del grupo 7 dura
 - Explorar estrategias disruptivas para posicionar el producto en el mercado.
 - Mejorar la identificación de los canales de distribución actuales.
 
+### Semana 3
+#### Feedback relacionado con la presentación
+- La información debe estar estructurada y explicada, no simplemente volcada en bruto. Cada diapositiva debe ser fácilmente comprensible.
+- Mejorar la tipografía, evitar que las flechas atraviesen todo el lienzo y hacer las imágenes más homogéneas.
+- La "nube de competidores" no aporta si no está organizada y explicada.
+- El salto del video a la presentación es confuso y debe hacerse más limpio.
+- Business Model Canvas: Cuidado con la disposición de las flechas para que el flujo sea claro.
+
+#### Feedback relacionado con el desarrollo del proyecto
+- Hay demasiada dependencia externa, lo que puede ser un riesgo.
+- Protopersonas vs. usuario piloto, una protopersona no da feedback real, hay que tener cuidado con cómo se presentan los datos y términos.
+
 ---
 
 ## Grupo 10
@@ -153,6 +208,21 @@ En esta página se encuentra el feedback recogido por el equipo del grupo 7 dura
 - Explorar modelos de monetización más concretos y estructurados.
 - Asegurar que los costes de mantenimiento sean viables a largo plazo.
 
+### Semana 3
+#### Feedback relacionado con la presentación
+- Mejorar la legibilidad de las diapositivas: evitar letras muy pequeñas y diapositivas con exceso de texto.
+- Ajustar el guion de la presentación para mayor claridad y fluidez.
+- En presentaciones con tiempo limitado, evitar el índice y estructurar el contenido como una historia.
+
+#### Feedback relacionado con el desarrollo del proyecto
+- Definir bien la escala del proyecto desde el inicio.
+- Asegurar un respaldo económico adecuado para una idea arriesgada.
+- No asumir todo el coste de los beneficios sin una estrategia clara.
+- Considerar alternativas de asignación de recursos.
+- Incluir costes sociales además del coste bruto.
+- Definir bien las unidades temporales en los cálculos de costes.
+- Priorizar volumen de clientes/usuarios para la viabilidad del proyecto.
+- Evaluar si el tiempo de respuesta para la devolución del dinero es suficiente, considerando imprevistos.
 
 ---
 
@@ -179,6 +249,19 @@ En esta página se encuentra el feedback recogido por el equipo del grupo 7 dura
 - Justificar con datos todas las decisiones estratégicas, incluyendo los cálculos realizados.
 - Considerar diferentes modelos de monetización, no solo por transacción sino también por tráfico.
 - Identificar riesgos de manera más fundamentada y no solo basándose en preocupaciones personales.
+
+### Semana 3
+#### Feedback relacionado con la presentación
+- Ajustar el equilibrio de contenido entre diapositivas con mucho y poco texto.
+- Revisar si las dobles flechas aportan valor; eliminarlas si no son necesarias.
+- Sustituir el imagotipo por un logotipo.
+- Usar fotos más homogéneas del equipo.
+
+#### Feedback relacionado con el desarrollo del proyecto
+- Analizar mejor los ingresos con un caso realista.
+- Revisar la presentación de los salarios de la Junta de Andalucía, ya que puede generar una mala impresión.
+- El plan de despliegue está bien trabajado.
+- La falta de planificación no debe considerarse un riesgo.
 
 
 
