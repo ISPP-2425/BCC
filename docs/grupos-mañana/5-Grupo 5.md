@@ -97,9 +97,57 @@ En esta página se encuentra el feedback recogido por el equipo del grupo 5 dura
 
 #### Feedback relacionado con la presentación
 
+- **Diseño de diapositivas**:
+  - No usar "10.000", sino "10k" en las cifras.
+  - En general el diseño ha gustado. 
+- **Estructura de la presentación**:
+  - Elevator pitch más corto.
+  - No detenerse demasiado en la diapositiva 2 (tipo de negocio, innovación, cliente-usuario).
+- **Forma de presentar**:
+  - Mejorar la vocalización siguiendo el video de Julian Treasure.
+  - Es recomendable grabarse para medir tiempos y mejorar la vocalización.
+  - Preparar un **speech de emergencia** en caso de que el tiempo se alargue.
+  - Se ha quedado un poco corta la presentación.
+  - Hablar más tiempo de competidores. 
+
 #### Feedback relacionado con el desarrollo del proyecto
 
+- **Gestión de usuarios pilotos**:
+  - Pocos usuarios pilotos (20).
+  - Diferenciar entre "Usuarios Pilotos" y "Pilotos Usuarios".
+  - Plan de comunicación y beneficio no deben mezclarse con la gestión de usuarios pilotos.
+- **Mockups y prototipos**:
+  - Mockups demasiado básicos, evitar incluir comentarios innecesarios.
+- **Gestión de riesgos**:
+  - Identificar opciones de mitigación para evitar que los riesgos se conviertan en problemas reales antes de que ocurran.
+- **MVP y Casos de Uso**:
+  - Sprint 1 debe centrarse en los **casos de uso core**, no en el MVP.
+
 #### Tareas a realizar para la siguiente semana
+
+1. **Introducción (15-20%)**
+2. **Killer opener**
+3. **Elevator pitch**
+4. **Resumen de competidores con la tabla**
+5. **Resumen de análisis de costes**
+6. **El equipo**: responsabilidades y evaluación de compromiso.
+7. **Prototipo**: mostrar un pequeño prototipo claro y conciso.
+8. **Retrospectiva de mitad de sprint**:
+   - Análisis de calidad del desarrollo.
+   - Evaluación de rendimiento del equipo (horas, productividad, medición).
+   - Problemas encontrados, trazabilidad con los riesgos y su estatus.
+   - Lecciones aprendidas.
+9. **Reloj de avance del proyecto**: comparación entre el tiempo invertido y el esperado.
+10. **Planificación (15-20%)**:
+    - Replanificación si es necesario.
+    - Objetivos finales del Sprint 1.
+    - Posibles efectos en los siguientes sprints.
+11. **Gestión de usuarios pilotos (10%)**:
+    - Cuántos usuarios hay y de qué tipo.
+    - Agenda para trabajar con ellos.
+    - Facilitar el feedback mediante plantillas.
+    - Plan de acción para el siguiente sprint.
+12. **Uso de la IA**.
 
 # Otros Grupos
 
@@ -160,6 +208,74 @@ En esta página se encuentra el feedback recogido por el equipo del grupo 5 dura
 
 ## Semana 3
 
+### Grupo 1 (Holos)
 #### Feedback relacionado con la presentación
+- N/A.
 
 #### Feedback relacionado con el desarrollo del proyecto
+- **Modelo de negocio:**
+  - Se recomienda reconsiderar la estrategia de precios fijos en los planes iniciales, ya que pueden representar una barrera para la adopción de la aplicación.
+- **Gestión de usuarios pilotos:**
+  - Se sugiere ampliar el abanico de usuarios pilotos para la próxima semana.
+
+### Grupo 2 (GastroStock)
+#### Feedback relacionado con la presentación
+- No se incluyeron números de página en la presentación.
+
+#### Feedback relacionado con el desarrollo del proyecto
+- **Gestión de usuarios pilotos:**
+  - Se cuenta con un buen número de usuarios pilotos (15).
+  - No se presentó un plan de gestión de usuarios pilotos.
+- **Análisis de competidores:**
+  - Falta una tabla comparativa con los competidores existentes en el mercado.
+- **Despliegue de la plataforma:**
+  - No se cuenta con una *landing page* desplegada.
+
+### Grupo 3 (Eventbride)
+#### Feedback relacionado con la presentación
+- El tono de la exposición fue monótono y no generó suficiente engagement.
+- El *elevator pitch* no fue acertado.
+- La diapositiva de casos de uso central no aportaba valor, considerando que ya se contaba con *mockups*.
+- Los *mockups* no deberían ubicarse al final de la presentación.
+
+#### Feedback relacionado con el desarrollo del proyecto
+- **IA:**
+  - Explicar mejor las conclusiones obtenidas a partir del reporte de IA.
+- **Gestión de riesgos:**
+  - Se pasó muy rápidamente por la sección de riesgos. Se recomienda una explicación más detallada.
+- **Métricas de encuestas:**
+  - Se sugiere incluir el ratio de respuestas obtenidas en comparación con las enviadas.
+
+### Grupo 4 (Borroo)
+#### Feedback relacionado con la presentación
+- El *killer opening* resulta poco atractivo. Evitar repeticiones excesivas para no perder impacto.
+- La *landing page* debería presentarse preferiblemente al final de la exposición.
+
+#### Feedback relacionado con el desarrollo del proyecto
+- **Casos de uso:**
+  - La lista de objetos es demasiado simple para ser el uso central de la aplicación.
+- **Análisis de competidores:**
+  - Se recomienda priorizar los aspectos que los diferencian de la competencia en la presentación.
+- **Planificación:**
+  - La distribución de casos dentro del sprint no es adecuada.
+  - Poner los planes de suscripción en el último sprint no le parece adecuado.
+- **Costes y precios:**
+  - Se han detectado errores en los precios mostrados en los *mockups*.
+  - El desglose de precios carece de suficiente información.
+
+### Grupo 6 (FisioFind)
+#### Feedback relacionado con la presentación
+- Algunos iconos utilizados no tenían un significado claro.
+- Evitar hacer demasiadas referencias a la semana pasada, salvo menciones puntuales al feedback recibido.
+
+#### Feedback relacionado con el desarrollo del proyecto
+- **Gestión de usuarios pilotos:**
+  - Se considera que hay pocos usuarios pilotos, se recomienda contar con al menos 10.
+- **Gestión de riesgos:**
+  - Es necesario detallar los riesgos, incluyendo su priorización, probabilidad de ocurrencia y acciones de mitigación.
+- **Costes:**
+  - La herramienta utilizada es adecuada, pero se debe mostrar un desglose claro de los costes.
+- **Equipo de trabajo:**
+  - Faltan roles y responsabilidades definidas para cada persona del equipo.
+- **Planificación:**
+  - En Sprint 1, es necesario asociar tareas con responsabilidades específicas.
