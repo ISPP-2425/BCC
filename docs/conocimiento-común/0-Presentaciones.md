@@ -1,6 +1,10 @@
 # Presentaciones
 
-En esta página se recoge el feedback proporcionado por el profesor y los compañeros relativo a las presentaciones realizadas por los grupos durante las sesiones de clase. El objetivo principal es identificar los puntos fuertes y aspectos a mejorar de cada presentación, con el fin de aprender de los errores y mejorar en futuras presentaciones. 
+En esta página se recoge el feedback proporcionado por el profesor y los compañeros relativo a las **presentaciones** realizadas por los grupos durante las sesiones de clase. El objetivo principal es identificar los puntos fuertes y aspectos a mejorar de cada presentación, con el fin de aprender de los errores y mejorar en futuras presentaciones. 
+
+## Semana 1
+
+## Semana 2
 
 ## Semana 3
 - Las partes de idea de negocio ya no son tan importantes, tienen que estar obligatoriamente enfocadas en las actualizaciones (como por ejemplo en los riesgos, AC, etc.).
