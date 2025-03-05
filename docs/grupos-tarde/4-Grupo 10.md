@@ -281,138 +281,161 @@ El próximo día se realizará la evaluación, la cual es vinculante. Habrá die
 Para la próxima sesión, se espera un inicio impactante con un discurso de ascensor que capte la atención en los primeros diez segundos y exponga la idea de forma clara y directa. Se debe definir el tipo de negocio, realizar un análisis exhaustivo de competidores explicando el proceso de selección, y presentar un análisis preliminar de costes que contemple los costes personales, activos (como la amortización de materiales), indirectos, herramientas y licencias. La estrategia para involucrar a los usuarios piloto debe indicar cómo se integrarán en el grupo, los canales de comunicación, las fechas y los compromisos previstos. Por último, el MVP debe mostrar claramente los casos de uso core, apoyándose en mockups que cuenten una historia, incluyan botones e interacciones, y se centren en la experiencia del usuario.
 
 **Tareas para la próxima semana**:
-Discurso de ascensores (Idea de negocio pero para los primeros 10 segundos)
-
-Tipo de negocio
-
-Análisis de competidores (Debemos indicar las razones y como hemos sacado los competidores)
-
-Análisis preliminar de costes
-
-Gestión de usuarios pilotos
-
-MVP (Casos de uso core, mockups con interacciones)
-
-Discusión sobre la innovación de negocio
-
-Stack tecnológico (conocimiento tecnológico del equipo de forma visual)
-
-Plan de gestión de riesgos
-
-Roles del equipo
-
-Commitment agreement
-
-Plan de gestión de calidad, gestión del pmbok, nivel de rendimiento
-
-herramientas obligatorias
-
-herramientas de libre elección, gestión de código
-
-landing page donde se explique la idea principal
-
-planificación de estimación para los siguientes sprints (sobre todo con mucho detalle el siguiente sprint, e 1)
-
-Informe del uso de la IA, indicando que se ha usado
-
+- Discurso de ascensores (Idea de negocio pero para los primeros 10 segundos)
+- Tipo de negocio
+- Análisis de competidores (Debemos indicar las razones y como hemos sacado los competidores)
+- Análisis preliminar de costes
+- Gestión de usuarios pilotos
+- MVP (Casos de uso core, mockups con interacciones)
+- Discusión sobre la innovación de negocio
+- Stack tecnológico (conocimiento tecnológico del equipo de forma visual)
+- Plan de gestión de riesgos
+- Roles del equipo
+- Commitment agreement
+- Plan de gestión de calidad, gestión del pmbok, nivel de rendimiento
+- herramientas obligatorias
+- herramientas de libre elección, gestión de código
+- landing page donde se explique la idea principal
+- planificación de estimación para los siguientes sprints (sobre todo con mucho detalle el siguiente sprint, e 1)
+- Informe del uso de la IA, indicando que se ha usado
 
 
 ## Semana 3
-#### Feedback relacionado con la presentación
+### Grupo 8
+- Han sobrado 4 minutos.
+- Han saltado directamente al MVP sin describir el producto.
+- No diferencian entre MVP y producto.
+- No explican la descripción del producto antes de presentar el MVP.
+- El producto debe presentarse de forma ambiciosa con todas las características y luego enfatizar lo esencial.
+- Mala estrategia de distribución de la información, no es digerible.
+- No explican el origen ni la dedicación de los competidores.
+- No se entiende la simbología (M.N, P.O…).
+- Saltan directamente a los riesgos.
+- Exceso de importancia a los números irrelevantes.
+- Mala tipografía para el contenido.
+- No se entiende si "beneficio" se refiere a ingresos o ganancias.
+- No deben incluir IVA en los cálculos, es un valor transparente.
+- No mencionan los precios de los planes.
+- Cifras deben estar justificadas.
+- La estructura de la información es confusa.
+- No mencionar decimales innecesarios.
+- No han comentado las tecnologías utilizadas.
+- No revisaron si todo lo del listado de tareas está en la presentación.
+- Falta el "Commit Agreement" y las herramientas obligatorias.
 
-#### Feedback relacionado con el desarrollo del proyecto
+- PMV: 
+  - Recomendaciones de recetas personalizadas.
+  - Detección de alergias o intolerancias mediante análisis.
+  - Logros e hitos.
+  - Marketplace.
+  - Calendario con recordatorios inteligentes.
+  - Foro de interacción.
+- **Competidores**: Litle Lunches, Fuddle, Solid Starts, Nutria PP.
+- **Riesgos**:
+  - Técnicos: seguridad de información y privacidad, fiabilidad de datos.
+  - Legales y regulatorios.
+  - De negocio: retención de usuarios, competencia, baja adopción.
+  - Operativos: mantenimiento, reputación, actualización de la base de datos.
+- **Beneficios**:
+  - Modelo Freemium.
+  - Publicidad segmentada.
+  - Marketplace.
+- **Infraestructura**: Google Cloud, App Engine, Github, VSCode.
+- **Usuarios piloto**: Padres primerizos, experimentados, premium, expertos en nutrición.
 
-#### Tareas a realizar para la siguiente semana
+---
 
-## Grupo 7 - nombreDelProyecto
-# Semana 1
-#### Feedback relacionado con la presentación
+### Grupo 7
+- Fuentes de ingreso con número negativo.
+- PMBOK es un marco de referencia, no una metodología.
+- Problema con Web Socket: conexión debe gestionarse manualmente.
+- **Competidores**: Stride Swarm, Mystery Hike, Fog of World, MapYourWorld.
+- **Funcionalidades core**:
+  - Mapa personal.
+  - Exploración de zonas.
+  - Registro de actividad.
+- **Preguntas clave**:
+  - ¿Cómo registran las zonas visitadas?
+  - ¿Cómo dividen Google Maps en zonas?
+  - ¿Tienen recompensas los usuarios piloto por feedback?
+- **Riesgos**: Dependencia de API de terceros.
 
-#### Feedback relacionado con el desarrollo del proyecto
+---
 
-#### Tareas a realizar para la siguiente semana
+### Grupo 9
+- Competidores repetidos sin explicación clara.
+- Salto de video a PowerPoint poco limpio.
+- "Nube de competidores" mal presentada.
+- **Protopersonas**: No aportan feedback real.
+- **Diseño**:
+  - Flechas en el Canvas atraviesan todo.
+  - Fotos homogéneas para la presentación.
+- **Preguntas clave**:
+  - ¿Cómo seleccionan los usuarios piloto?
+  - ¿Es rentable el modelo de negocio a ese precio?
+  - ¿Se puede incluir videos en las esquelas digitales?
 
+---
 
-# Semana 2
-#### Feedback relacionado con la presentación
+### Grupo 10 (Feedback): 
+Si se puede cancelar. el plan de contingencia no aseguramos realmente. No estamos evitando ese riesgo, simplemente ponemos el error. Muy poco tiempo para la empresa en el tema de gastos, no nos tenemos en cuenta otras empresas. Copiamos a otras empresas. Cualquiera de esos eventos no dura ni un día, se pierde mucha cantidad de dinero. Ese riesgo no va a favor de la empresa. Los riesgos altos y críticos parecen que van a suceder problemas en un futuro, condenados al fracaso. Las tiendas de ropa está muy similar a nuestro proyecto. Puedes probarte todo lo que tu quieras, pero luego puedes devolverlo. Asumimos todos el coste y perdemos el negocio. No cobramos ni nosotros ni ellos. Nos hemos puesto mucha cantidad de tiempo en el riesgo. El alcance geográfico hasta donde es. Es importante que se mencione. No es lo mismo nivel nacional a nivel mundial. Son mucha cantidad de planes al mes. Es importante para los números. A veces demasiado letra, no se ve el número de la letra y sobre todo. Quiere el número. Los riesgos operativos, Si no hay suficientes vanidades. Si hay muchas alternativas. El MVP va demasiado tarde. Tiene que ir de la mano de la planificación. Antes de todo el proceso de desarrollo. Está todo pero desbaratado. Se debería de contar antes de los riesgos. Índice muy estructurado no queda bien. Es ir de forma fluida entre una diapositiva y otra, como preguntas retóricas. El coste por hora que es, bruto o neto o como. Deberíamos decirlo y ponerlo en la presentación. Los costes sociales no se tienen en cuenta. Pierde un 30 %. No aparece en las nóminas. Además de todo el coste bruto. Hay que meterle ese coste. El neto y esos valores no se deben de decir, son valores sin importancia. No se pone si es por mes, por hora, por días… se pierden. Cuánto necesitamos de volumen para seguir con el proyecto. d
 
-#### Feedback relacionado con el desarrollo del proyecto
+¿Cómo se gestiona la cancelación de los planes? Puedes cancelarlo pero no te devuelven el dinero. Tener muchos riesgos críticos sería malo para la empresa. Es importante decir donde será escalable geográficamente, porque es importante para los números. A veces demasiada letra, y letra chica, que se vea mejor el número de página. Riesgo: falta de asignación de eventos. MVP antes de la planificación, antes que los riesgos también. Primero lo que vamos a hacer al principio. Ir contando una historia. Coste por hora?en bruto o neto? debemos indicarlo en la presentación. Costes sociales? La seguridad social se lleva un 36% del bruto, todos los salarios que nos encontramos por ahi son en bruto y tenemos que meterle un 30. Costes variables? Poner si es coste por mes, por semana. A veces lo importante es el coste en unidad por tiempo, cuánto necesitamos de volumen para ir para adelante con el proyecto.
 
-#### Tareas a realizar para la siguiente semana
+pero tendríamos que quedarnos nosotros con el 80% esq si no es vd que perdemos, tu en zara si te pasas de los dias de devolucion no te dan dinero directamente, bastante es que damos algo. Y tampoco podemos quedarnos con Sevilla, el problema es que en el lugar que seleccionen no haya eventos en esa fecha
 
-# Semana 3
-#### Feedback relacionado con la presentación
+#### Resumen: 
+- Plan de contingencia no resuelve los riesgos.
+- Riesgos críticos hacen parecer el proyecto inviable.
+- No consideran costes sociales ni impuestos.
+- **Escalabilidad**:
+  - Definir si el proyecto es local, nacional o internacional.
+  - Evaluar qué sucede si no hay eventos en ciertas ubicaciones.
+- **Presentación**:
+  - Fluidez en la narrativa.
+  - MVP debe presentarse antes que los riesgos.
+  - Demasiado texto, mejorar el enfoque visual.
+- **Costes y Finanzas**:
+  - Especificar si son costes brutos o netos.
+  - Incluir costes sociales (~30-36% del bruto).
+  - Definir si los costes son mensuales, semanales, por unidad de tiempo.
+  - Estimar volumen de clientes necesario para sostenibilidad.
 
-#### Feedback relacionado con el desarrollo del proyecto
+---
 
-#### Tareas a realizar para la siguiente semana
+### Grupo 11 (Feedback)
+- Diferenciar entre hoteles pet-friendly y residencias para mascotas.
+- Letra de la tabla de competidores muy pequeña.
+- No incluyen número de página.
+- **Stack tecnológico**:
+  - Bien descrito, con diagrama UML.
+  - Separar bien frontend de cliente/navegador.
+- **Costes**:
+  - Ingresos estimados basados en reservas (500-1000).
+  - Reservas de contingencia.
+- **Preguntas clave**:
+  - ¿Solo aceptan perros?
+  - ¿Qué proceso de selección usan para usuarios piloto?
+  - No mencionaron la matriz DAFO.
+  - ¿Aceptan otras mascotas grandes (caballos, etc.)?
 
-## Grupo 8 -  nombreDelProyecto
-# Semana 1
-#### Feedback relacionado con la presentación
+---
 
-#### Feedback relacionado con el desarrollo del proyecto
-
-#### Tareas a realizar para la siguiente semana
-
-
-# Semana 2
-#### Feedback relacionado con la presentación
-
-#### Feedback relacionado con el desarrollo del proyecto
-
-#### Tareas a realizar para la siguiente semana
-
-# Semana 3
-#### Feedback relacionado con la presentación
-
-#### Feedback relacionado con el desarrollo del proyecto
-
-#### Tareas a realizar para la siguiente semana
-
-## Grupo 9 -  nombreDelProyecto
-# Semana 1
-#### Feedback relacionado con la presentación
-
-#### Feedback relacionado con el desarrollo del proyecto
-
-#### Tareas a realizar para la siguiente semana
-
-
-# Semana 2
-#### Feedback relacionado con la presentación
-
-#### Feedback relacionado con el desarrollo del proyecto
-
-#### Tareas a realizar para la siguiente semana
-
-# Semana 3
-#### Feedback relacionado con la presentación
-
-#### Feedback relacionado con el desarrollo del proyecto
-
-#### Tareas a realizar para la siguiente semana
-
-## Grupo 11 -  nombreDelProyecto
-# Semana 1
-#### Feedback relacionado con la presentación
-
-#### Feedback relacionado con el desarrollo del proyecto
-
-#### Tareas a realizar para la siguiente semana
-
-
-# Semana 2
-#### Feedback relacionado con la presentación
-
-#### Feedback relacionado con el desarrollo del proyecto
-
-#### Tareas a realizar para la siguiente semana
-
-# Semana 3
-#### Feedback relacionado con la presentación
-
-#### Feedback relacionado con el desarrollo del proyecto
-
-#### Tareas a realizar para la siguiente semana
-
+### Indicaciones para la Próxima Semana
+- Implementación de Sprint 1 con enfoque más técnico.
+- Evaluación de desempeño individual basada en productividad.
+- **Elementos clave para la presentación**:
+  - Killer opener (claro y conciso).
+  - Elevator Pitch.
+  - Análisis de competidores (tabla).
+  - Análisis de costes.
+  - Definición de roles en el Sprint.
+  - Seguimiento del "Commit Agreement".
+  - Prototipo actual del software.
+  - Retrospectiva: qué fue bien/mal y qué mejorar.
+  - Análisis de rendimiento del equipo.
+- Cuantificación de métricas de productividad individual.
+  - Respuesta en tiempo a mensajes.
+  - Número de commits y contribuciones en GitHub.
+  - Análisis de rendimiento basado en datos.
+- **Política de versionado**: asegurarse de que cada versión esté correctamente documentada y congelada en los despliegues.
