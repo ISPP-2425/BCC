@@ -57,6 +57,29 @@ En esta página se encuentra el feedback recogido por el equipo del grupo 8 dura
 - ¿Dónde está la principal diferencia con los competidores?
 - Privacidad importante.
 
+## Semana 3
+#### Feedback relacionado con la presentación
+- No hay diferencia entre MVP y producto. No se ha especificado que es el producto.
+- No mencionamos de dónde hemos sacado los competidores ni qué hacen. 
+- La presentación debe ser autocontenida:
+  - No se puede depender de cosas mencionadas anteriormente ni cosas que ha mencionado ningún otro grupo.
+- Poner los riesgos al final, tras analizar todo lo relacionado con la idea del negocio.
+- Leyenda puesta en la parte de Competidores y no se usa.
+- Cambiar la tipografía de la presentación, utilizar una más legible.
+- En la presentación hablamos de ingresos no de beneficios,  estas diapositivas “no son legibles” .
+- Siempre se trabaja sin IVA, incluir el plan de precios y explicar en qué consiste. 
+- No se ha mencionado el coste del plan premium aunque esté en la presentación
+- Redondear a dos decimales o directamente a las unidades
+- Enfocar la presentación a un público técnico
+- Incluir todo lo que hay que presentar en la presentación.
+  - El principal problema ha sido desarrollar demasiado algunos puntos de forma que se han comido todo el tiempo, haciendo que eliminemos puntos necesarios. Es mejor comentar todo de forma resumida con solo los puntos importantes que explicar a fondo dos puntos.
+
+
+#### Feedback relacionado con el desarrollo del proyecto
+- Hemos incluido características que no pertenecen al MVP.
+- Métricas cuantitativas para el control y seguimiento.
+  - Cuidado al poner normas basadas en estas métricas (la gente suele obsesionarse con ellas y es lo que priorizan haciendo trampas muchas veces)
+
 ## Grupo 7 - Map Your World
 # Semana 1
 #### Feedback relacionado con la presentación
@@ -95,6 +118,14 @@ En esta página se encuentra el feedback recogido por el equipo del grupo 8 dura
 - Hay que explicar bien el solapamiento entre competidores (puede ser que uno no sea competidor)
 - En el caso de los usuarios objetivos, si uno de ellos no es relevante o no supone funcionalidades o perfiles específicos es mejor quitarlos.
 
+
+# Semana 3
+#### Feedback relacionado con la presentación
+- Intencionalmente en blanco
+
+#### Feedback relacionado con el desarrollo del proyecto
+- Intencionalmente en blanco
+
 ## Grupo 9 -  Caronte
 # Semana 1
 #### Feedback relacionado con la presentación
@@ -110,6 +141,13 @@ En esta página se encuentra el feedback recogido por el equipo del grupo 8 dura
 #### Feedback relacionado con el desarrollo del proyecto
 - No hay que criticar a la competencia, tan solo diferenciarse.
 
+# Semana 3
+#### Feedback relacionado con la presentación
+- Intencionalmente en blanco
+
+#### Feedback relacionado con el desarrollo del proyecto
+- Intencionalmente en blanco
+
 ## Grupo 10 -  Go 4 Surprise
 # Semana 1
 #### Feedback relacionado con la presentación
@@ -124,6 +162,16 @@ En esta página se encuentra el feedback recogido por el equipo del grupo 8 dura
 
 #### Feedback relacionado con el desarrollo del proyecto
 - Demasiadas cosas 
+
+# Semana 3
+#### Feedback relacionado con la presentación
+- Número de página muy pequeño. Barra de progreso que pasa desapercibido.
+- Cuidado con el cálculo de los costes de los empleados, principalmente con los costes sociales.
+- Especificar qué es exactamente cada número que aparezca en la presentación.
+
+
+#### Feedback relacionado con el desarrollo del proyecto
+- Tener cuidado con los riesgos y definir bien los planes de contingencia.
 
 ## Grupo 11 -  Pawtel
 # Semana 1
@@ -152,3 +200,11 @@ En esta página se encuentra el feedback recogido por el equipo del grupo 8 dura
 - No le ha quedado claro la idea, la descripción y marca tienen que ser más claras.
 - Ver si un competidor lo es realmente (en las píldoras vienen explicados 3 tipos, clasificarlos ahí)
 - Strikes (tarjetas amarilla y roja)
+
+
+# Semana 3
+#### Feedback relacionado con la presentación
+- En los costes poner un caso intermedio a parte del optimista y el pesimista.
+
+#### Feedback relacionado con el desarrollo del proyecto
+- Intencionalmente en blanco
