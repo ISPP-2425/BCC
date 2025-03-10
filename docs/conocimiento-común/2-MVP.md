@@ -1,9 +1,9 @@
 # MVP
 
-En esta página se recoge el feedback proporcionado por el profesor y los compañeros relativo al MVP en las presentaciones realizadas por los grupos durante las sesiones de clase. El objetivo principal es identificar los puntos fuertes y aspectos a mejorar con el fin de aprender de los errores y mejorar para el futuro.
+En esta página se recoge el feedback proporcionado por el profesor y los compañeros relativo al **MVP** en las presentaciones realizadas por los grupos durante las sesiones de clase. El objetivo principal es identificar los puntos fuertes y aspectos a mejorar con el fin de aprender de los errores y mejorar para el futuro.
 
 ## Semana 1
-- El MVP debe estar claramente definido, representando el mínimo viable para salir al mercado
+- El MVP debe estar claramente definido, representando el producto mínimo viable para salir al mercado
 - Especificar correctamente las funcionalidades clave del MVP y su viabilidad en el tiempo
 
 ## Semana 2
