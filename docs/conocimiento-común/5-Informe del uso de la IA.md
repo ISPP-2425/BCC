@@ -10,3 +10,7 @@ En esta página se recoge el feedback proporcionado por el profesor y los compa�
 
 ## Semana 3
 - Incluir en la documentación de uso de IA los prompts utilizados para mayor claridad en cómo se está empleando la IA dentro del proyecto
+
+## Semana 4
+- No se ha trabajado mucho en ella.
+- Explicar cómo se ha utilizado la IA en el proyecto y su impacto en el desarrollo.
