@@ -54,7 +54,23 @@ const config = {
       }),
     ],
   ],
-
+  plugins: [
+    [
+      require.resolve("docusaurus-plugin-search-local"),
+      {
+        indexDocs: true,
+        indexBlog: true,
+        indexPages: true,
+        highlightSearchTermsOnTargetPage: true,
+        searchResultLimits: 10,
+        hashed: true, 
+        translations: {
+          search_placeholder: "Buscar...",
+          no_results: "No se encontraron resultados.",
+        },
+      },
+    ],
+  ],  
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
