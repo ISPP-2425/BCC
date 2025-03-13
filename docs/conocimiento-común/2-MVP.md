@@ -15,7 +15,3 @@ En esta página se recoge el feedback proporcionado por el profesor y los compa�
 - El MVP debe ser presentado con claridad, especificando bien sus características y cómo se ajusta al mercado
 - Incluir un análisis claro de los ingresos y costos en el contexto del MVP
 - Asegurar que el MVP esté bien ajustado a la visión del producto y las necesidades reales del cliente
-
-## Semana 4
-- A través de una demo (en vivo o video pregrabado).
-- Se debe tener una agenda concreta sobre cómo se gestionan, qué feedback dan y cómo impacta en el desarrollo.

@@ -23,9 +23,3 @@ En esta página se recoge el feedback proporcionado por el profesor y los compa�
 - Priorizar volumen de clientes/usuarios para la viabilidad del proyecto
 - Evaluar si el tiempo de respuesta para la devolución del dinero es suficiente, considerando imprevistos
 - Mejorar el análisis de ingresos con un caso realista
-
-## Semana 4
-- Se recomienda un inicio efectivo con un *killer opening* (frase corta y llamativa).
-- Ir directo a lo clave: qué hace la competencia, qué hacemos distinto.
-- Presentar el TCO (Total Cost of Ownership) realista, diferenciando CAPEX (gastos de inversión) y OPEX (gastos operativos).
-- Estimaciones justificadas y visualmente claras (gráficos con proyección a corto y medio plazo).

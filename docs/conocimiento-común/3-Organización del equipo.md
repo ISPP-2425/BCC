@@ -11,8 +11,3 @@ En esta página se recoge el feedback proporcionado por el profesor y los compa�
 ## Semana 3
 - Mantener estructura de roles estable dentro del sprint
 - Asegurar que la organización del equipo sea clara y que cada miembro tenga un rol y responsabilidades bien definidas
-
-## Semana 4
-- Se debe registrar el esfuerzo de cada miembro y corregir desequilibrios.
-- Evaluar tiempo de respuesta, calidad de tareas, cumplimiento de plazos y correcciones en QA.
-- No contar qué se hizo, sino qué problemas surgieron y cómo se resolvieron.

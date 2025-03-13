@@ -13,8 +13,3 @@ En esta página se recoge el feedback proporcionado por el profesor y los compa�
 
 ## Semana 3
 - No se dice nada nuevo
-
-## Semana 4
-- Define compromisos del equipo y medidas ante incumplimientos.
-- Para asegurarse de que todos están alineados.
-- No solo contar horas trabajadas, sino calidad del trabajo y cumplimiento de responsabilidades.
