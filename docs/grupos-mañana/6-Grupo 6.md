@@ -1,9 +1,6 @@
-# FISIO FIND - FEEDBACK GRUPAL
-
-
+# GRUPO 6 - FISIO FIND
 
 **ÍNDICE**
-- [FISIO FIND - FEEDBACK GRUPAL](#fisio-find---feedback-grupal)
 - [Grupo 6 - Fisio Find](#grupo-6---fisio-find)
   - [Semana 1 (Gallery Guide)](#semana-1-gallery-guide)
       - [Feedback relacionado con la presentación](#feedback-relacionado-con-la-presentación)
@@ -17,7 +14,7 @@
       - [Feedback relacionado con la presentación](#feedback-relacionado-con-la-presentación-2)
       - [Feedback relacionado con el desarrollo del proyecto](#feedback-relacionado-con-el-desarrollo-del-proyecto-2)
       - [Tareas a realizar para la siguiente semana](#tareas-a-realizar-para-la-siguiente-semana-2)
-- [Grupo 1 - GiBart, previamente Convivio](#grupo-1---gibart-previamente-convivio)
+- [Grupo 1 - Holos](#grupo-1---holos)
   - [Semana 1](#semana-1)
   - [Semana 2](#semana-2-1)
   - [Semana 3](#semana-3-1)
@@ -54,7 +51,7 @@
 
 - **Fecha de Creación:** 20/02/2025  
 
-- **Versión:** v1.1
+- **Versión:** v1.2
 
 
 
@@ -66,6 +63,7 @@
 |------------|---------|----------------------------------|----------------------------|
 | 20/02/2025 | v1.0    | Antonio Macías Ferrera           | Elaboración del feedback grupal de las dos primeras presentaciones. |
 | 25/02/2025 | v1.1    | Alberto Carmona Sicre           | Elaboración del feedback grupal de la tercera presentación (21-02-2025). |
+| 13/03/2025 | v1.2    | Alberto Carmona Sicre           | Corrección errores |
 
 
 
@@ -308,7 +306,7 @@ La organización de la presentación no es la que indicaron los profesores.
 - Mejorar la visualización de la demo.
 
 ---
-<br>
+
 
 # Grupo 1 - Holos
 
@@ -428,7 +426,7 @@ El equipo de FISIO FIND destaca también el hilo de la presentación y la forma 
 
 - Posible integración de IA regenerativa.  
 ---
-<br>
+
 
 # Grupo 2 - Gastrostock, previamente EZStock
 
@@ -557,7 +555,7 @@ Un aspecto positivo que no se nombró pero que el equipo de FISIO FIND quiere an
 
 - Intencionalmente en blanco.
 ---
-<br>
+
 
 # Grupo 3 - Eventbride
 
@@ -695,7 +693,7 @@ Por otro lado, un aspecto que no se nombró en el feedback de los compañeros es
 
 - Mencionar pull requests.
 ---
-<br>
+
 
 # Grupo 4 - BORROO
 
@@ -859,7 +857,6 @@ El equipo de FISIO FIND, además de lo anterior, ha encontrado muy interesante e
 - Dedicar más tiempo a la retrospectiva y explicarla mejor.
 
 ---
-<br>
 
 # Grupo 5 - CAMYO
 
