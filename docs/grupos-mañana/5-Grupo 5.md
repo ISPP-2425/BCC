@@ -220,6 +220,55 @@ En esta página se encuentra el feedback recogido por el equipo del grupo 5 dura
     - Incluir información sobre posibles "alucinaciones" y cómo se han manejado.
 12. **Landing page.**
 
+
+## Semana 5
+### Feedback relacionado con la presentación
+- **Métricas de rendimiento**: Buen uso de métricas para evaluar el desempeño del equipo.
+- **Marketing**: Se debe tener en cuenta que los clientes principales son las empresas.
+- **Resolución de problemas**: El planteamiento de los problemas que han surgido y especialmente la resolución de estos ha sido valorada positivamente, como el asignar obligatoriamente a miembros para revisar PRs para evitar sobrecargar a los coordinadores.
+- **Iconos de roles**: Los iconos para distinguir el rol de camionero y el de empresa de la demo han gustado y sería buena idea que los iconos / roles estuviesen también presentes en el killer opener.
+
+
+### Feedback relacionado con el desarrollo del proyecto
+- **Resolución de problemas**: Se ha valorado positivamente la automatización en la resolución de problemas.
+- **Métricas automatizadas**: Se ha valorado positivamente el uso de herramientas que permitan obtener métricas automatizadas, se recomienda seguir en esta línea e incluso ampliar su uso.
+- **CapEx y OpEx**: Se ha cometido un error al invertir los conceptos de CapEx y OpEx. Es importante corregirlo en futuros análisis financieros.
+- **Desglose financiero**: Es necesario desglosar mejor CapEx y OpEx para mayor claridad en los costes de desarrollo y operación.
+
+#### Tareas a realizar para la siguiente semana
+
+1. **Refinamiento del killer opener** (máximo 1 minuto).
+2. **Elevator pitch**: Debe enlazar de manera fluida con el killer opener.
+3. **Análisis de competidores**: Revisión y actualización del análisis competitivo.
+4. **Storyboard de un anuncio futuro**:
+   - Definir tres tipos de destinatarios: usuario, cliente y/o inversores (cifras y datos).
+   - No es necesario producir el anuncio, solo conceptualizarlo e incluirlo en la presentación.
+5. **Implicaciones legales**:
+   - Considerar GDPR, tratamiento de datos personales y licencias.
+   - Incluir un checkbox de términos y condiciones en el registro.
+   - Definir un nuevo rol en el equipo para la administración de GDPR.
+6. **TCO**:
+   - **CapEx** (Gasto capitalizado): Elementos comprados que forman parte de la empresa (servidores, ordenadores).
+   - **OpEx** (Coste operativo): Costes de desarrollo y mantenimiento, no capitalizables (ejemplo: servicios en la nube).
+7. **Demo de mid-sprint 2**:
+   - Presentar los avances reales del sprint.
+   - Incluir datos reales y evitar placeholders genéricos.
+8. **Refinamiento de datos**:
+   - Incluir nombres de empresas y ofertas reales en las presentaciones para mayor autenticidad.
+9. **Retrospectiva**:
+   - Evaluación de métricas de rendimiento y mejoras en el desarrollo.
+10. **Gestión de usuarios pilotos**:
+    - Refinar la estrategia de gestión de usuarios pilotos y la recolección de feedback.
+11. **Planificación y reestimación del Sprint 2** en caso necesario.
+12. **Implementación de pagos reales en modo sandbox**.
+13. **Uso de IA**:
+    - Incluir métricas sobre su efectividad y posibles mejoras en su implementación.
+14. **Actualización de la landing page** con información relevante y refinada.
+
+
+
+
+
 # Otros Grupos
 
 ## Semana 1
@@ -460,3 +509,66 @@ En esta página se encuentra el feedback recogido por el equipo del grupo 5 dura
   - En los problemas mencionados, no quedó claro si se han solucionado o no. Deben especificarse los estados de los problemas y proponer medidas de satisfacción o seguimiento.
 - **Uso de la IA**:
   - No se mencionó nada sobre el uso de la IA. Es importante incluir datos sobre para qué se ha usado, si hubo alucinaciones, etc.
+
+
+## Semana 5
+
+### Grupo 1 (Holos)
+#### Feedback relacionado con la presentación
+- Se gestionó bien el plan B cuando la demo falló al intentar reproducirla.
+- Es positivo que no solo se valore el rendimiento y el trabajo, sino también la satisfacción general dentro del equipo, permitiendo mejoras tanto en el ámbito laboral como interpersonal.
+
+#### Feedback relacionado con el desarrollo del proyecto
+- CapEx y OpEx no están bien explicados, generan confusión.
+- Falta información en la estimación de costes, como el promedio de transacciones de artistas y otros detalles clave.
+- La métrica de commits por sí sola no es suficiente, ya que puede ser manipulada. Se recomienda complementarla con otras métricas.
+- Falta incluir el porcentaje de tareas entregadas a tiempo y detallar cómo se va a medir y mejorar.
+- Se recomienda usar métricas adicionales como el *cycle time* y gráficas de GitHub para un mejor seguimiento del progreso.
+
+
+### Grupo 2 (GastroStock)
+#### Feedback relacionado con la presentación
+- Se recomienda probar las animaciones antes de presentar y tener una versión en PDF disponible como respaldo.
+- Cuidado con el uso de lenguaje en la presentación.
+
+#### Feedback relacionado con el desarrollo del proyecto
+- Se debería dedicar más tiempo a la retrospectiva para analizar por qué se ha llegado a ciertos puntos.
+
+
+### Grupo 3 (Eventbride)
+#### Feedback relacionado con la presentación
+- Killer opener muy bueno, divertido y efectivo (pedida de matrimonio).
+- Hacer una pausa para beber agua y revisar apuntes es una buena táctica para gestionar la exposición, pero es mejor evitar sostener la botella en la mano durante la presentación.
+- Incluir un plan B en caso de que sobre tiempo al presentar. Se puede aprovechar para reforzar puntos clave si es necesario.
+
+#### Feedback relacionado con el desarrollo del proyecto
+- Las estimaciones no eran claras en cuanto a la base de los cálculos. Se recomienda explicitar estos fundamentos en la presentación.
+- Las demos deben contar con datos más realistas.
+- Los audios de los vídeos deben ser más homogéneos para evitar contrastes de sonido.
+- Falta información sobre el rendimiento del equipo, como gráficas o evolución de progreso en los sprints (S1, S2).
+- El procedimiento de análisis de problemas es demasiado genérico. Se recomienda especificar mejor los pasos y acciones tomadas.
+
+
+### Grupo 4 (Borroo)
+#### Feedback relacionado con la presentación
+- Killer opener bien trabajado y mejorado con el feedback de la semana anterior.
+- Se destacó bien qué características del proyecto se estaban utilizando en cada momento.
+- La demo fue bien temporizada y ejecutada, casi como si fuera en tiempo real.
+
+#### Feedback relacionado con el desarrollo del proyecto
+- No queda claro cómo va a evolucionar la gráfica real. La pendiente era demasiado brusca y se recomienda ajustarla para mayor realismo.
+- Falta información en la parte de problemas, incluyendo medidas concretas y soluciones planteadas.
+- Se ha detectado un alto nivel de alucinaciones en la IA utilizada. Es necesario analizar por qué ocurre y cómo corregir el planteamiento de la métrica de alucinación.
+
+
+### Grupo 6 (FisioFind)
+#### Feedback relacionado con la presentación
+- Killer opener muy profesional.
+- Hablar un poco más lento para mejorar la claridad.
+- La gráfica pesimista en paralelo debería ser un poco menos pesimista.
+
+#### Feedback relacionado con el desarrollo del proyecto
+- Muy bien resumido el análisis de rendimiento con una gráfica general que muestra toda la información.
+- Más énfasis en los porcentajes de suscripciones para mayor claridad en la presentación de los datos.
+- El mecanismo de quitar puntos no es intuitivo. Se sugiere utilizar términos de motivación en lugar de términos de castigo.
+- No están bien identificados los riesgos en relación con los problemas detectados.

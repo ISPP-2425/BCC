@@ -11,3 +11,8 @@ En esta página se recoge el feedback proporcionado por el profesor y los compa�
 ## Semana 3
 - Mantener estructura de roles estable dentro del sprint
 - Asegurar que la organización del equipo sea clara y que cada miembro tenga un rol y responsabilidades bien definidas
+
+## Semana 4
+
+## Semana 5
+- Se recomienda evitar términos de castigo en los sistemas de puntuación internos del rendimiento del equipo. En su lugar, utilizar términos de motivación para fomentar un ambiente positivo y productivo.
