@@ -10,3 +10,9 @@ En esta página se recoge el feedback proporcionado por el profesor y los compa�
 
 ## Semana 3
 - Incluir en la documentación de uso de IA los prompts utilizados para mayor claridad en cómo se está empleando la IA dentro del proyecto
+
+## Semana 4
+
+## Semana 5
+- Se puede utilizar el nivel de alucinaciones en la IA para evaluar la precisión de las respuestas generadas. 
+- El uso de bots y herramientas de automatización para generar métricas es muy útil.
