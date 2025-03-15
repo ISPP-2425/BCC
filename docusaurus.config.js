@@ -91,6 +91,10 @@ const config = {
                 to: '/docs/intro',
               },
               {
+                label: 'Conocimiento común',
+                to: '/docs/category/conocimiento-común',
+              },
+              {
                 label: 'Grupos de mañana',
                 to: '/docs/category/grupos-de-mañana',
               },
