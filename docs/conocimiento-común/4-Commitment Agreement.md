@@ -18,7 +18,7 @@ En esta página se recoge el feedback proporcionado por el profesor y los compa�
 
 ## Semana 6
 
-El **Commitment Agreement** es fundamental para garantizar la organización y responsabilidad dentro del equipo de trabajo. En el feedback de la Semana 6, se destacó la importancia de registrar y comunicar con claridad los motivos por los cuales un miembro no ha podido contribuir al proyecto. Expresiones ambiguas como **"por motivos varios"** deben evitarse, ya que no proporcionan información útil para la gestión del equipo. En su lugar, se recomienda indicar **"por motivos personales de distinta índole"**, lo que cierra la explicación de forma más concreta sin ser invasivo.
+En el feedback de la Semana 6, se destacó la importancia de registrar y comunicar con claridad los motivos por los cuales un miembro no ha podido contribuir al proyecto. Expresiones ambiguas como **"por motivos varios"** deben evitarse, ya que no proporcionan información útil para la gestión del equipo. En su lugar, se recomienda indicar **"por motivos personales de distinta índole"**, lo que cierra la explicación de forma más concreta sin ser invasivo.
 
 Otro punto relevante es la planificación y la forma en que se presentan los avances. Se enfatizó la necesidad de **no dividir una tabla en dos diapositivas** y de evitar explicar demasiado una parte mientras se omite la otra. Esto refleja la importancia de un compromiso equitativo en la exposición de la información, asegurando que cada aspecto del proyecto reciba la atención necesaria.
 
