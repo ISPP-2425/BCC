@@ -3,10 +3,22 @@
 En esta página se recoge el feedback proporcionado por el profesor y los compañeros relativo al **uso de la IA** en las presentaciones realizadas por los grupos durante las sesiones de clase. El objetivo principal es identificar los puntos fuertes y aspectos a mejorar con el fin de aprender de los errores y mejorar para el futuro.
 
 ## Semana 1
-- El uso de la IA debe ser algo más trasversal
+Durante la primera semana, el uso de la inteligencia artificial (IA) fue identificado como un elemento clave en la estrategia del proyecto. Se comenzó a evaluar cómo la IA podría **automatizar tareas y optimizar procesos** dentro del desarrollo del producto.  
+
+Algunas ideas preliminares incluyeron:  
+- **Explorar herramientas de IA** para mejorar la presentación del proyecto.  
+- **Analizar tendencias del mercado** mediante algoritmos de IA.  
+- **Considerar IA en el desarrollo del MVP**, evaluando su aplicabilidad en la optimización de la experiencia de usuario y la personalización de servicios.  
+
+El objetivo era entender **cómo la IA podía integrarse estratégicamente** y no solo como un añadido técnico.  
 
 ## Semana 2
-- No se dice nada nuevo
+En la segunda semana, el enfoque en la IA se volvió más específico y práctico. Se sugirió su **uso para la búsqueda y análisis de competidores**, incluyendo la posibilidad de preguntar a ChatGPT para obtener una lista más exhaustiva y evitar omisiones que puedan perjudicar la viabilidad del proyecto.  
+
+Puntos clave discutidos:  
+- **Búsqueda de competidores con IA**, asegurando un análisis más preciso y justificado.  
+- **Uso de IA para la estructuración de datos y modelos de negocio**, facilitando la toma de decisiones.  
+- **Justificación del stack tecnológico** considerando herramientas de IA en el desarrollo del producto.
 
 ## Semana 3
 - Incluir en la documentación de uso de IA los prompts utilizados para mayor claridad en cómo se está empleando la IA dentro del proyecto
