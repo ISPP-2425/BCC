@@ -1,81 +1,8 @@
-# EVENTBRIDE - FEEDBACK GRUPAL
-
-
-
-**ÍNDICE**
-- [Grupo 3 - EventBride](#grupo-3---eventbride)
-  - [Semana 1](#semana-1)
-      - [Feedback relacionado con la presentación](#feedback-relacionado-con-la-presentación)
-      - [Feedback relacionado con el desarrollo del proyecto](#feedback-relacionado-con-el-desarrollo-del-proyecto)
-      - [Tareas a realizar para la siguiente semana](#tareas-a-realizar-para-la-siguiente-semana)
-  - [Semana 2](#semana-2)
-      - [Feedback relacionado con la presentación](#feedback-relacionado-con-la-presentación-1)
-      - [Feedback relacionado con el desarrollo del proyecto](#feedback-relacionado-con-el-desarrollo-del-proyecto-1)
-      - [Tareas a realizar para la siguiente semana](#tareas-a-realizar-para-la-siguiente-semana-1)
-  - [Semana 3](#semana-3)
-      - [Feedback relacionado con la presentación](#feedback-relacionado-con-la-presentación-2)
-      - [Feedback relacionado con el desarrollo del proyecto](#feedback-relacionado-con-el-desarrollo-del-proyecto-2)
-      - [Tareas a realizar para la siguiente semana](#tareas-a-realizar-para-la-siguiente-semana-2)
-- [Grupo 1 - GiBart, previamente Convivio](#grupo-1---gibart-previamente-convivio)
-  - [Semana 1](#semana-1-grupo-1)
-  - [**Primer grupo (Convivio):**](#primer-grupo-convivio)
-  - [Semana 2](#semana-2-grupo-1)
-  - [Semana 3](#semana-3-grupo-1)
-- [Grupo 2 - Gastrostock, previamente EZStock](#grupo-2---gastrostock-previamente-ezstock)
-  - [Semana 1](#semana-1-grupo-2)
-  - [Semana 2](#semana-2-grupo-2)
-  - [Semana 3](#semana-3-grupo-2)
-- [Grupo 4 - BORROO](#grupo-4---borroo)
-  - [Semana 1](#semana-1-grupo-4)
-  - [Semana 2](#semana-2-grupo-4)
-  - [Semana 3](#semana-3-grupo-4)
-- [Grupo 5 - CAMYO](#grupo-5---camyo)
-  - [Semana 1](#semana-1-grupo-5)
-  - [Semana 2](#semana-2-grupo-5)
-  - [Semana 3](#semana-3-grupo-5)
-- [Grupo 6 - Fisio Find](#grupo-6---fisio-find)
-  - [Semana 1](#semana-1-grupo-6)
-  - [Semana 2](#semana-2-grupo-6)
-  - [Semana 3](#semana-3-grupo-6)
-
----
-
-**Ficha del documento**
-
-- **Nombre del Proyecto:** EVENTBRIDE
-
-- **Número de Grupo:** 3
-
-- **Entregable:** #DP
-
-- **Miembros del grupo:** Francisco Aviles Carrera, Daniel Benito Hidalgo, Ignacio Blanquero Blanco, Adrian Cabello Martín, María de la Salud Carrera Talaverón, Pablo Jesús Castellanos Compaña, Fernando José de Celis Hurtado, David Godoy Fernández, Miguel Hernández Sanchéz, Antonio Montero López, Gonzalo Navas Remmers, Héctor Noguera González, Natalia Olmo Villegas, Manuel Pérez Vélez, Andrés Pizzano Cerrillos, Sergio Pons López y Lorenzo Torralba Lanzas.
-
-- **Autores:** Manuel Pérez Vélez, David Godoy Fernández
-
-- **Fecha de Creación:** 26/02/2025  
-
-- **Versión:** v1.0
-
-
-
----
-
-**Histórico de Modificaciones**
-
-| Fecha      | Versión | Realizada por                    | Descripción de los cambios |
-|------------|---------|----------------------------------|----------------------------|
-| 26/02/2025 | v1.0    | Manuel Pérez Vélez           | Elaboración del feedback grupal de las tres primeras presentaciones. |
-| 26/02/2025 | v1.1    | David Godoy Fernández        | Elaboración del feedback grupal de las tres primeras semanas.        |
-
-
-
-# Grupo 3 - EventBride
+# Grupo 3 - EventiBride
 
 En esta página se encuentra el feedback recogido por el equipo del grupo 3 durante las sesiones de clase. Con secciones para cada semana, se detallan los comentarios y sugerencias del profesor y los compañeros, así como las tareas a realizar para la siguiente semana. Además, se incluye una sección para cada grupo con el feedback proporcionado por el grupo 3.
 
-
 ## Semana 1
-
 #### Feedback relacionado con la presentación
 
 + Diseño y estructura:
@@ -92,8 +19,6 @@ En esta página se encuentra el feedback recogido por el equipo del grupo 3 dura
   + Consolidar una imagen corporativa fuerte y bien definida.
 + Perfiles de usuario:
   + No es necesario incluir el análisis de perfiles en esta presentación.
-
-
 
 #### Feedback relacionado con el desarrollo del proyecto
 
@@ -135,7 +60,6 @@ En esta página se encuentra el feedback recogido por el equipo del grupo 3 dura
   + No es recomendable comenzar con los puntos positivos y negativos tan pronto en la presentación (especialmente en la diapositiva 3).
 + Legibilidad de las diapositivas:
   + El texto en las diapositivas de las encuestas es demasiado pequeño, lo que dificulta su lectura.
-
 
 #### Feedback relacionado con el desarrollo del proyecto
 
@@ -224,7 +148,6 @@ En esta página se encuentra el feedback recogido por el equipo del grupo 3 dura
 + Reformular el análisis de riesgo y compromiso:
   + En la siguiente fase, presentar un análisis de riesgos preliminar y un Commitment Agreement, en lugar del DAFO.
 
-
 ## Semana 3
 #### Feedback relacionado con la presentación
 
@@ -305,266 +228,619 @@ En esta página se encuentra el feedback recogido por el equipo del grupo 3 dura
 + Revisión y mejora de la visibilidad de las tablas de competidores:
   + Ajustar la visualización de las tablas para que sean claras y legibles.
 
+## Semana 4
+#### Feedback relacionado con la presentación
+
+No procede ya que no hubo clase.
+
+#### Feedback relacionado con el desarrollo del proyecto
+
+No procede ya que no hubo clase.
+
+#### Tareas a realizar para la siguiente semana
+
+No procede ya que no hubo clase
+
+## Semana 5 (07/03/2025)
+#### Feedback relacionado con la presentación
+
+* **Inicio (Killer Opener):**
+    * El inicio es efectivo, actual y relevante, captando la atención y facilitando la conexión con la aplicación.
+    * Se critica el cierre del inicio por considerarse poco profesional, especialmente para un lanzamiento de producto. Se sugiere retocar la última frase.
+    * Se recomienda moderar la velocidad de la exposición, hablando de forma más pausada.
+* **Presentación General:**
+    * Se reconoce que se han abordado todos los puntos requeridos.
+    * Se cuestiona la combinación de la presentación del equipo con la del rendimiento del mismo, sugiriendo separarlas para mayor profesionalidad.
+    * Se señala la ilegibilidad de la diapositiva 23 debido a la cantidad de texto y al tamaño de la fuente, recomendando resumir la información o aumentar el tamaño de la letra.
+    * Las transparencias no son un apoyo, es un complemento que refuerza el mensaje. No son unas notas del orador. Metáforas visuales.
+* **Demo:**
+    * La demo presenta problemas de legibilidad debido al tamaño reducido de la letra. Se enfatiza la importancia de solucionar este problema.
+    * Se critica la inclusión de los términos y condiciones en la demo, ya que no aporta información relevante.
+* **Retrospectiva:**
+    * Se recomienda realizar un seguimiento detallado de los problemas identificados y documentar las soluciones.
+    * Se sugiere incluir la diapositiva de lecciones aprendidas dentro de la sección de retrospectiva.
+    * Se critica la diapositiva 30 por la excesiva información y la presentación confusa de fechas, calendarios y planes de acción.
+* **Vídeo:**
+    * Se reconoce el talento creativo del equipo en la producción del vídeo.
+    * Se critica el enfoque del vídeo, recomendando focalizarlo para atraer a un público más amplio y considerar los aspectos legales.
+    * Transparencia que no se lea, transparencia que será un fail en todo el entregable.
+* **Texto en Transparencias:**
+    * Se critica la ilegibilidad del texto en algunas transparencias debido al tamaño de la letra.
+    * En la transparencia de los costes, hay también mucho texto.
+    * No poner m de euros, poner K euros.
+* **Usuarios Piloto:**
+    * Se expresa preocupación por la tipología de los usuarios piloto, recomendando especificar sus perfiles (potenciales usuarios de bodas, bautizos, comuniones, etc.).
+
+#### Feedback relacionado con el desarrollo del proyecto
+
+* **Commitment Agreement:**
+    * Se valora positivamente el cumplimiento del commitment agreement por parte de todos los miembros del equipo.
+* **Uso de IA:**
+    * Se anima a utilizar herramientas de IA como ChatGPT para el desarrollo de la aplicación, enfatizando la importancia de gestionar el tiempo eficientemente y enfocarse en otros aspectos del proyecto.
+    * La idea es que ChatGPT haga la aplicación.
+    * No cortarse en el uso de la IA.
+    * Hay que usarla sabiendo lo que se hace, para conseguir tener más ambición en el proyecto.
+* **Revisión de Problemas:**
+    * Se destaca la importancia de la fase de "in review" sobre la fase de "done", enfatizando la necesidad de un proceso de revisión efectivo.
+    * Interesante saber si vamos a hacer alguna acción sobre la. FASE ON REVIEW MAS IMPORTANTE QUE DONE. Cómo vamos a revisar.
+* **Ajuste de Horas:**
+    * Exponer que hemos ajustado las horas.
+
+#### Tareas a realizar para la siguiente semana
+
+* **Killer Opener:**
+    * Duración máxima: 1 minuto.
+* **Elevator Pitch:**
+    * Duración: 30 segundos.
+    * Descripción concisa del negocio.
+* **Presentación General:**
+    * Duración total: 15 minutos.
+    * Asistencia obligatoria.
+    * Se realizará un test posterior a la presentación.
+* **Contenido de la Presentación:**
+    * Resumen del análisis de competidores.
+    * Resumen del análisis de costes, incluyendo:
+        * Utilización del Coste Total de Propiedad (TCO).
+        * Diferenciación entre CAPEX (gastos de capital) y OPEX (gastos operativos).
+        * Detalle de OPEX: licencias, infraestructuras, mantenimiento, apoyo de marketing, etc.
+    * **Seguimiento Financiero:**
+        * Situación actual de gastos en relación con el total esperado.
+        * Estimación de gastos e ingresos a corto plazo (4-6 meses) y medio plazo (1-2 años), con inicio inmediato.
+        * Justificación de la procedencia de los ingresos.
+        * Estimaciones de gastos: escenarios pesimista, optimista y esperado.
+* **Presentación del Equipo:**
+    * Duración máxima: 2 minutos.
+    * Descripción detallada de los miembros del equipo.
+* **Demo:**
+    * Se requiere una presentación visualmente clara y dinámica.
+    * Inclusión de los casos de uso core (15% de la presentación).
+* **Retrospectiva:**
+    * Análisis del rendimiento del equipo:
+        * Presentación de datos sobre horas y productividad de cada miembro.
+        * Resultado del análisis de código y software.
+        * Detalle de problemas encontrados, incluyendo:
+            * Estado actual (abierto, solucionado, en revisión o progreso).
+            * Lecciones aprendidas (al final de la retrospectiva).
+            * Mecanismo de seguimiento para la resolución de problemas.
+        * Reloj de avance del proyecto:
+            * Porcentaje de inversión actual en relación con el total esperado.
+* **Usuarios Piloto:**
+    * No es necesario detallar la captación de usuarios piloto.
+    * Información requerida:
+        * Número de usuarios actuales y sus roles.
+        * Detalles de la comunicación: fechas, tiempos, gestión del feedback.
+        * Gestión del Sprint 2 para usuarios piloto.
+        * Replanificación de sprints.
+        * Planificación para el sprint 2
+* **Reporte de Uso de IA:**
+    * Detalle de prompts utilizados y alucinaciones encontradas.
+* **Landing Page:**
+    * Mejoras requeridas.
+* **Commitment Agreement:**
+    * Presentación del seguimiento del agreement.
 
 ---
 
-# Grupo 1 - GiBart, previamente Convivio
+## Grupo 1 - Holos
+# Semana 1
+#### Feedback relacionado con la presentación
 
-## Semana 1 Grupo 1
+Intencionalmente en blanco, ya que no se nos asignó recoger el feedback de dichos grupos.
 
-## **Primer grupo (Convivio):** 
-**Feedback recibido (resumen de los comentarios de los profesores)**
+#### Feedback relacionado con el desarrollo del proyecto
 
-+ Tiempo disponible para el feedback:
-  + Se dispuso de 13 minutos para la sesión de retroalimentación.
+Intencionalmente en blanco, ya que no se nos asignó recoger el feedback de dichos grupos.
 
-+ Principales observaciones:
-  + Señalan que no tienen claro el alcance de la aplicación.
-  + El grupo explicó que la aplicación está enfocada en pequeños grupos de convivencia y no en grandes comunidades o fincas. Se busca mejorar la comunicación y facilitar la gestión de problemas comunes, como incidencias en fontanería o carpintería.
-  + La profesora comentó que la propuesta termina pareciendo un simple chat entre inquilino y arrendador, lo cual no se percibe como innovador, ya que existen aplicaciones con funcionalidades similares.
-  + Expresó dudas sobre la seguridad que ofrece la aplicación. Sugirió que podría incluir un sistema de valoración periódica cada cierto tiempo.
-  + Indicó que se requiere una mayor diferenciación para competir con otras empresas que ofrecen servicios similares.
-  + Se debe continuar delimitando el alcance del proyecto para definir mejor su propuesta de valor.
-  + Sugirió implementar un seguimiento más exhaustivo para mejorar la calidad de las valoraciones.
-  + El tiempo de feedback finalizó antes de que pudiera proporcionar más comentarios en profundidad, aunque reiteró que el alcance de la aplicación no está suficientemente claro.
+#### Tareas a realizar para la siguiente semana
 
-+ Otras observaciones:
-  + Errores en el cálculo de costes y falta de análisis competitivo adecuado (se recomienda elaborar una tabla comparativa de competidores).
-  + Problemas en la presentación, como el uso de letra demasiado pequeña, lo que dificultó la lectura de algunos contenidos.
+Intencionalmente en blanco, ya que no se nos asignó recoger el feedback de dichos grupos.
 
-+ Principales observaciones por parte del alumnado:
-  + Una compañera expresó que no le queda claro el problema que la aplicación busca solucionar.
-  + Los estudiantes indican que la idea principal es facilitar la comunicación en caso de incidencias, como la necesidad de contactar con alguien para solucionar problemas relacionados con la convivencia (ejemplo: lista de la compra, fontanería o reserva de la lavadora en un horario común con los compañeros de piso).
-  + En términos generales, se busca mejorar la convivencia y optimizar la comunicación entre los inquilinos.
+# Semana 2
+#### Feedback relacionado con la presentación
 
-**Puntos positivos destacados**
+Intencionalmente en blanco, ya que no se nos asignó recoger el feedback de dichos grupos.
 
-- Intencionalmente en blanco.
+#### Feedback relacionado con el desarrollo del proyecto
 
-**Áreas de mejora sugeridas**
+Intencionalmente en blanco, ya que no se nos asignó recoger el feedback de dichos grupos.
 
-+ Se recomienda reforzar la claridad del alcance de la aplicación, diferenciarla de soluciones existentes y mejorar la presentación, incluyendo un análisis detallado de costos y competidores.
+#### Tareas a realizar para la siguiente semana
 
+Intencionalmente en blanco, ya que no se nos asignó recoger el feedback de dichos grupos.
 
+# Semana 3
+#### Feedback relacionado con la presentación
 
-## Semana 2 Grupo 1
+Intencionalmente en blanco, ya que no se nos asignó recoger el feedback de dichos grupos.
 
-**Feedback recibido (resumen de los comentarios de los profesores)**
+#### Feedback relacionado con el desarrollo del proyecto
 
-- Intencionalmente en blanco.
+Intencionalmente en blanco, ya que no se nos asignó recoger el feedback de dichos grupos.
 
-**Puntos positivos destacados**
+#### Tareas a realizar para la siguiente semana
 
-- Intencionalmente en blanco.
+Intencionalmente en blanco, ya que no se nos asignó recoger el feedback de dichos grupos.
 
-**Áreas de mejora sugeridas**
+# Semana 4
+#### Feedback relacionado con la presentación
 
-- Intencionalmente en blanco.
+No procede ya que no hubo clase.
 
+#### Feedback relacionado con el desarrollo del proyecto
 
+No procede ya que no hubo clase.
 
-## Semana 3 Grupo 3
+#### Tareas a realizar para la siguiente semana
 
-**Feedback recibido (resumen de los comentarios de los profesores)**
+No procede ya que no hubo clase.
 
-- Intencionalmente en blanco.
+# Semana 5 (07/03/2025)
+#### Feedback relacionado con la presentación
 
-**Puntos positivos destacados**
+* **Killer Opener:**
+    * Efectivo para captar la atención.
+    * Falta de conexión directa con el interés del usuario.
+    * Se sugiere explorar alternativas.
+* **Presentación General:**
+    * Mejora en la presentación visual.
+    * Potencial de JM como comunicador, pero se recomienda vocalización.
+    * Rentabilidad basada en volumen de mercado y penetración.
+    * Inconsistencia entre datos de la gráfica y volumen de mercado.
+* **Demo:**
+    * Falta de visibilidad a larga distancia.
+    * Mejora continua requerida hasta el final del curso.
+    * Mejorar la narración y explicación.
+* **Retrospectiva:**
+    * No iniciar con lecciones aprendidas.
+    * No incluir riesgos.
+* **Chat:**
+    * No es un caso de uso crítico ni core.
+    * Enfocarse en funcionalidades diferenciadoras.
+* **BurnUP:**
+    * La gráfica no tiene sentido.
 
-- Intencionalmente en blanco.
+#### Feedback relacionado con el desarrollo del proyecto
 
-**Áreas de mejora sugeridas**
+* **Plan de Negocio:**
+    * Crítica a la limitación permanente del número.
+* **Gastos:**
+    * Desglosar en CAPEX y OPEX.
+    * Explicación detallada de gastos de capital y operativos.
+    * Incluir costes e ingresos en gráficas.
+* **Planificación:**
+    * Falta de cambios en la planificación.
+* **Uso de la IA:**
+    * Falta de profundidad en la discusión.
+    * Explorar IA generativa como asistente creativo.
+* **Commitment Agreement:**
+    * Falta de mención en la retrospectiva.
+* **Rentabilidad:**
+    * La rentabilidad debía ser argumentada en volumen del mercado y penetración estimada.
 
-- Intencionalmente en blanco.
+#### Tareas a realizar para la siguiente semana
 
----
-
-# Grupo 2 - Gastrostock, previamente EZStock
-
-## Semana 1 Grupo 2
-
-**Feedback recibido (resumen de los comentarios de los profesores)**
-
-- Intencionalmente en blanco.
-
-**Puntos positivos destacados**
-
-- Intencionalmente en blanco.
-
-**Áreas de mejora sugeridas**
-
-- Intencionalmente en blanco.
-
-
-## Semana 2 Grupo 2
-
-
-**Feedback recibido (resumen de los comentarios de los profesores)**
-
-- Intencionalmente en blanco.
-
-**Puntos positivos destacados**
-
-- Intencionalmente en blanco.
-
-**Áreas de mejora sugeridas**
-
-- Intencionalmente en blanco.
-
-
-
-## Semana 3 Grupo 2
-
-**Feedback recibido (resumen de los comentarios de los profesores)**
-
-- Intencionalmente en blanco.
-
-**Puntos positivos destacados**
-
-- Intencionalmente en blanco.
-
-**Áreas de mejora sugeridas**
-
-- Intencionalmente en blanco.
-
+Intencionalmente en blanco.
 
 ---
 
-# Grupo 4 - BORROO
+## Grupo 2 -  GastroStock
+# Semana 1
+#### Feedback relacionado con la presentación
 
-## Semana 1 Grupo 4
+Intencionalmente en blanco, ya que no se nos asignó recoger el feedback de dichos grupos.
 
-**Feedback recibido (resumen de los comentarios de los profesores)**
+#### Feedback relacionado con el desarrollo del proyecto
 
-- Intencionalmente en blanco.
+Intencionalmente en blanco, ya que no se nos asignó recoger el feedback de dichos grupos.
 
-**Puntos positivos destacados**
+#### Tareas a realizar para la siguiente semana
 
-- Intencionalmente en blanco.
+Intencionalmente en blanco, ya que no se nos asignó recoger el feedback de dichos grupos.
 
-**Áreas de mejora sugeridas**
+# Semana 2
+#### Feedback relacionado con la presentación
 
-- Intencionalmente en blanco.
+Intencionalmente en blanco, ya que no se nos asignó recoger el feedback de dichos grupos.
 
+#### Feedback relacionado con el desarrollo del proyecto
 
-## Semana 2 Grupo 4
+Intencionalmente en blanco, ya que no se nos asignó recoger el feedback de dichos grupos.
 
-**Feedback recibido (resumen de los comentarios de los profesores)**
+#### Tareas a realizar para la siguiente semana
 
-- Intencionalmente en blanco.
+Intencionalmente en blanco, ya que no se nos asignó recoger el feedback de dichos grupos.
 
-**Puntos positivos destacados**
+# Semana 3
+#### Feedback relacionado con la presentación
 
-- Intencionalmente en blanco.
+Intencionalmente en blanco, ya que no se nos asignó recoger el feedback de dichos grupos.
 
-**Áreas de mejora sugeridas**
+#### Feedback relacionado con el desarrollo del proyecto
 
-- Intencionalmente en blanco.
+Intencionalmente en blanco, ya que no se nos asignó recoger el feedback de dichos grupos.
 
+#### Tareas a realizar para la siguiente semana
 
-## Semana 3 Grupo 4
+Intencionalmente en blanco, ya que no se nos asignó recoger el feedback de dichos grupos.
 
-- Intencionalmente en blanco.
+# Semana 4
+#### Feedback relacionado con la presentación
 
----
+No procede ya que no hubo clase.
 
-# Grupo 5 - CAMYO
+#### Feedback relacionado con el desarrollo del proyecto
 
-## Semana 1 Grupo 5
+No procede ya que no hubo clase.
 
-**Feedback recibido (resumen de los comentarios de los profesores)**
+#### Tareas a realizar para la siguiente semana
 
-- Intencionalmente en blanco.
+No procede ya que no hubo clase.
 
-**Puntos positivos destacados**
+# Semana 5 (07/03/2025)
+#### Feedback relacionado con la presentación
 
-- Intencionalmente en blanco.
+No tuvo feedback debido a la falta de tiempo.
 
-**Áreas de mejora sugeridas**
+#### Feedback relacionado con el desarrollo del proyecto
 
-- Intencionalmente en blanco.
+No tuvo feedback debido a la falta de tiempo.
 
+#### Tareas a realizar para la siguiente semana
 
-## Semana 2 Grupo 5
-
-**Feedback recibido (resumen de los comentarios de los profesores)**
-
-- Intencionalmente en blanco.
-
-**Puntos positivos destacados**
-
-- Intencionalmente en blanco.
-
-**Áreas de mejora sugeridas**
-
-- Intencionalmente en blanco.
-
-
-
-## Semana 3 Grupo 5
-
-**Feedback recibido (resumen de los comentarios de los profesores)**
-
-- Intencionalmente en blanco.
-
-**Puntos positivos destacados**
-
-- Intencionalmente en blanco.
-
-**Áreas de mejora sugeridas**
-
-- Intencionalmente en blanco.
+Intencionalmente en blanco.
 
 ---
 
-# Grupo 6 - Fisio Find 
+## Grupo 4 -  BORROO
+# Semana 1
+#### Feedback relacionado con la presentación
 
-## Semana 1 Grupo 6
+Intencionalmente en blanco, ya que no se nos asignó recoger el feedback de dichos grupos.
 
-**Feedback recibido (resumen de los comentarios de los profesores)**
+#### Feedback relacionado con el desarrollo del proyecto
 
-- Intencionalmente en blanco.
+Intencionalmente en blanco, ya que no se nos asignó recoger el feedback de dichos grupos.
 
-**Puntos positivos destacados**
+#### Tareas a realizar para la siguiente semana
 
-- Intencionalmente en blanco.
-
-**Áreas de mejora sugeridas**
-
-- Intencionalmente en blanco.
+Intencionalmente en blanco, ya que no se nos asignó recoger el feedback de dichos grupos.
 
 
+# Semana 2
+#### Feedback relacionado con la presentación
 
-## Semana 2 Grupo 6
+Intencionalmente en blanco, ya que no se nos asignó recoger el feedback de dichos grupos.
 
-**Feedback recibido (resumen de los comentarios de los profesores)**
+#### Feedback relacionado con el desarrollo del proyecto
 
-- Intencionalmente en blanco.
+Intencionalmente en blanco, ya que no se nos asignó recoger el feedback de dichos grupos.
 
-**Puntos positivos destacados**
+#### Tareas a realizar para la siguiente semana
 
-- Intencionalmente en blanco.
+Intencionalmente en blanco, ya que no se nos asignó recoger el feedback de dichos grupos.
 
-**Áreas de mejora sugeridas**
+# Semana 3
+#### Feedback relacionado con la presentación
 
-- Intencionalmente en blanco.
+Intencionalmente en blanco, ya que no se nos asignó recoger el feedback de dichos grupos.
 
+#### Feedback relacionado con el desarrollo del proyecto
 
+Intencionalmente en blanco, ya que no se nos asignó recoger el feedback de dichos grupos.
 
-## Semana 3 Grupo 6
+#### Tareas a realizar para la siguiente semana
 
-**Feedback recibido (resumen de los comentarios de los profesores)**
+Intencionalmente en blanco, ya que no se nos asignó recoger el feedback de dichos grupos.
 
-- Intencionalmente en blanco.
+# Semana 4
+#### Feedback relacionado con la presentación
 
-**Puntos positivos destacados**
+No procede ya que no hubo clase.
 
-- Intencionalmente en blanco.
+#### Feedback relacionado con el desarrollo del proyecto
 
-**Áreas de mejora sugeridas**
+No procede ya que no hubo clase.
 
-- Intencionalmente en blanco.
+#### Tareas a realizar para la siguiente semana
+
+No procede ya que no hubo clase.
+
+# Semana 5 (07/03/2025)
+#### Feedback relacionado con la presentación
+
+* **Killer Opener:**
+    * Muy llamativo y efectivo.
+    * Rapidez en la exposición, presentar demasiada información en poco tiempo.
+* **Presentación General:**
+    * Buena presentación y tranquilidad del presentador.
+    * Moderar la velocidad al hablar.
+    * Incluir al inicio de la demo una descripción de lo que se va a presentar.
+    * Visualización muy buena, con excepción de algunas transparencias.
+    * Inicio muy efectivo, aunque un poco largo.
+    * Problemas de copyright con la mascota, explorar alternativas con IA.
+    * Cuidado con preguntas al público que asuman respuestas.
+    * Cuidado con el listón tan alto que se ha puesto.
+* **Competidores:**
+    * Cuestionamiento de la inclusión de algunos competidores no directos.
+    * Identificar y destacar aspectos diferenciadores.
+    * Poner que funcionalidad el cliente va a elegir de ellos con respecto al resto del mercado.
+* **Demo:**
+    * Falta de visibilidad del prototipo.
+    * Hacer zoom en el navegador.
+    * Disculparse y explicar inconvenientes técnicos.
+    * Poner al principio de la demo lo que se va a mostrar, lo que los diferencia de los competidores.
+* **Transparencias:**
+    * Crítica a la tabla de la transparencia 8.
+    * La tabla del modelo de evaluación se ve fatal.
+    * Transparencia 20 del uso de la IA: Añadir título.
+* **Problemas:**
+    * Falta de número de página en la diapositiva.
+    * Incluir medidas para resolver problemas y su estado.
+    * Enlazar problemas con riesgos y planes de contingencia.
+* **Reuniones:**
+    * ¿Cómo disminuir tiempo de reuniones? Poner un % de bajada del tiempo, decir cuánto tiempo ha durado cada una y si se va consiguiendo o no. Si no se consigue, optar por medidas más drásticas.
+
+#### Feedback relacionado con el desarrollo del proyecto
+
+* **Costes:**
+    * Copiar plan de contingencia.
+    * Expresar cantidades grandes en miles (ej. 65K).
+* **Evaluación:**
+    * Cuestionamiento de quién realiza la evaluación.
+    * Utilizar herramientas como Sonar para análisis de código.
+    * Evaluar la calidad del software y otras funciones.
+    * Falta poner quién valora. Usar algo para code smells, potential bugs... Parámetros para saber si la gente cumple con las cosas. Métricas para gente que organiza y gente que desarrolla.
+* **Retrospectiva:**
+    * La retrospectiva era un 40-50% de la presentación de hoy.
+* **Uso de la IA:**
+    * Porcentaje de alucinaciones que tiene la IA (porcentaje de respuestas que no tienen nada que ver).
+
+#### Tareas a realizar para la siguiente semana
+
+Intencionalmente en blanco.
 
 ---
 
+## Grupo 5 -  CAMYO
+# Semana 1
+#### Feedback relacionado con la presentación
 
+Intencionalmente en blanco, ya que no se nos asignó recoger el feedback de dichos grupos.
+
+#### Feedback relacionado con el desarrollo del proyecto
+
+Intencionalmente en blanco, ya que no se nos asignó recoger el feedback de dichos grupos.
+
+#### Tareas a realizar para la siguiente semana
+
+Intencionalmente en blanco, ya que no se nos asignó recoger el feedback de dichos grupos.
+
+# Semana 2
+#### Feedback relacionado con la presentación
+
+Intencionalmente en blanco, ya que no se nos asignó recoger el feedback de dichos grupos.
+
+#### Feedback relacionado con el desarrollo del proyecto
+
+Intencionalmente en blanco, ya que no se nos asignó recoger el feedback de dichos grupos.
+
+#### Tareas a realizar para la siguiente semana
+
+Intencionalmente en blanco, ya que no se nos asignó recoger el feedback de dichos grupos.
+
+# Semana 3
+#### Feedback relacionado con la presentación
+
+Intencionalmente en blanco, ya que no se nos asignó recoger el feedback de dichos grupos.
+
+#### Feedback relacionado con el desarrollo del proyecto
+
+Intencionalmente en blanco, ya que no se nos asignó recoger el feedback de dichos grupos.
+
+#### Tareas a realizar para la siguiente semana
+
+Intencionalmente en blanco, ya que no se nos asignó recoger el feedback de dichos grupos.
+
+# Semana 4
+#### Feedback relacionado con la presentación
+
+No procede ya que no hubo clase.
+
+#### Feedback relacionado con el desarrollo del proyecto
+
+No procede ya que no hubo clase.
+
+#### Tareas a realizar para la siguiente semana
+
+No procede ya que no hubo clase.
+
+# Semana 5 (07/03/2025)
+#### Feedback relacionado con la presentación
+
+* **Presentación General:**
+    * Buen cambio de presentadores.
+    * Presentar nombres de presentadores y proyecto al inicio.
+    * Resumir la presentación del equipo.
+    * Retrospectiva sin mucho apoyo visual.
+    * Quizás se ha hablado demasiado sin apoyo visual.
+* **Competidores:**
+    * Tabla de competidores poco clara.
+    * Aclarar cada columna de la tabla (ej. búsqueda de contratos).
+    * Explicar la diferencia del negocio con los competidores.
+    * Tienen que dejar muy claro en qué se diferencian.
+    * Deben poner títulos más claros para la tabla de competidores.
+    * Tienen que explicar qué es cada una de las columnas.
+* **Inicio Efectivo (Killer Opener):**
+    * Buena idea involucrar al público, pero enfocarlo al proyecto.
+    * El ejemplo del marketing del boli no es relevante.
+    * Creen que deben buscar un killer opener relacionado con el tema y sobre todo de lo que los diferencia de los demás.
+    * Creen que el ejemplo del marketing del boli no ha sido del todo bueno.
+* **Usuarios Piloto:**
+    * Especificar fechas concretas para el feedback.
+    * Detallar cómo se pedirá el feedback y cuándo se dará el software.
+    * Quieren fechas, es decir, agenda para trabajar con los usuarios pilotos.
+    * Por ejemplo: El día X, se hace tal. El martes tal... Proporcionan el feedback por correo, por formulario. ¿Cómo se va a trabajar con el feedback recogido? Es decir, lo vamos a priorizar?
+* **Demo:**
+    * Formularios de registro irrelevantes, a menos que sean novedosos.
+    * Centrarse en casos de uso core y diferenciadores.
+    * Tipografía de la barra de menú poco visible.
+    * Lanza la idea de que sea una demo grabada.
+* **Gráficos:**
+    * Leyendas de gráficos deben ser visibles.
+    * Las leyendas tienen que verse.
+* **Planificación:**
+    * Transparencia de la planificación valorada positivamente.
+    * La traspa de la planificación es muy buena.
+* **Replanificación:**
+    * El tema de la replanificación se ha mencionando muy por encima. Poner: LA PLANIFICACIÓN INICIAL ERA ESTA, Y AHORA ES ESTA.
+
+#### Feedback relacionado con el desarrollo del proyecto
+
+* **Análisis del Rendimiento del Equipo:**
+    * Commits y horas no son métricas suficientes.
+    * Incluir métricas de análisis de calidad (ayuda a otros, funcionalidades).
+    * Cómo medir la productividad: En base a horas y commits no vale. Hay que buscar otras métricas, tiene que ser métricas más de análisis de calidad que cuantitativo. Intentar las dos cosas.
+* **Seguimiento de Problemas y Riesgos:**
+    * Detallar la evolución de los problemas con medidas cualitativas y cuantitativas.
+    * Medición de como evolucionan, están abiertos? Cómo se está midiendo esa evolución del problema.
+
+#### Tareas a realizar para la siguiente semana
+
+Intencionalmente en blanco.
+
+---
+
+## Grupo 6 -  FisioFind
+# Semana 1
+#### Feedback relacionado con la presentación
+
+Intencionalmente en blanco, ya que no se nos asignó recoger el feedback de dichos grupos.
+
+#### Feedback relacionado con el desarrollo del proyecto
+
+Intencionalmente en blanco, ya que no se nos asignó recoger el feedback de dichos grupos.
+
+#### Tareas a realizar para la siguiente semana
+
+Intencionalmente en blanco, ya que no se nos asignó recoger el feedback de dichos grupos.
+
+
+# Semana 2
+#### Feedback relacionado con la presentación
+
+Intencionalmente en blanco, ya que no se nos asignó recoger el feedback de dichos grupos.
+
+#### Feedback relacionado con el desarrollo del proyecto
+
+Intencionalmente en blanco, ya que no se nos asignó recoger el feedback de dichos grupos.
+
+#### Tareas a realizar para la siguiente semana
+
+Intencionalmente en blanco, ya que no se nos asignó recoger el feedback de dichos grupos.
+
+# Semana 3
+#### Feedback relacionado con la presentación
+
+Intencionalmente en blanco, ya que no se nos asignó recoger el feedback de dichos grupos.
+
+#### Feedback relacionado con el desarrollo del proyecto
+
+Intencionalmente en blanco, ya que no se nos asignó recoger el feedback de dichos grupos.
+
+#### Tareas a realizar para la siguiente semana
+
+Intencionalmente en blanco, ya que no se nos asignó recoger el feedback de dichos grupos.
+
+# Semana 4
+#### Feedback relacionado con la presentación
+
+No procede ya que no hubo clase.
+
+#### Feedback relacionado con el desarrollo del proyecto
+
+No procede ya que no hubo clase.
+
+#### Tareas a realizar para la siguiente semana
+
+No procede ya que no hubo clase.
+
+# Semana 5 (07/03/2025)
+#### Feedback relacionado con la presentación
+
+* **Killer Opener:**
+    * Demasiado largo, conectar con el problema.
+    * Máximo 1 minuto.
+* **Elevator Pitch:**
+    * Máximo 30 segundos.
+* **Presentación General:**
+    * Antonio, mirar a todo el público.
+    * Presentación de los tres, muy bien.
+    * Formato de la presentación, muy bueno.
+    * Pantalla amarillenta, quitar filtro.
+    * Demasiadas diapositivas, aglutinar información.
+    * Muchas transparencias.
+* **Competidores:**
+    * Señalar la parte de la que se habla.
+    * Cambiar nombre de la aplicación (ej. tuFisio, FisioYa).
+* **Costes:**
+    * Buen desglose CAPEX/OPEX.
+    * Resumir costes menos importantes.
+    * Diapositivas 9-10-11, difíciles de entender, demasiado largas.
+    * ¿"9K?"?
+    * Falta de ensayo.
+    * Poner moneda.
+    * Poner costes operacionales.
+    * Estimaciones de subscripciones.
+* **Equipo:**
+    * Demasiadas diapositivas.
+    * Fotos muy grandes.
+* **Demo:**
+    * Falta de visibilidad.
+    * Mejorar visibilidad.
+* **Problemas:**
+    * Falta de claridad en la solución.
+    * Reestructurar contenido.
+    * Problemas en otras secciones.
+    * Medir y mejorar problemas, plan de acción.
+* **Usuarios Piloto:**
+    * Enfoque en público joven.
+    * Incluir todo tipo de público.
+
+#### Feedback relacionado con el desarrollo del proyecto
+
+* **Rendimiento:**
+    * Buen rendimiento.
+    * Buen uso del burn up.
+    * Personalizar análisis de rendimiento.
+* **IA:**
+    * Falta de información.
+    * Incluir prompts.
+* **Usuarios Piloto:**
+    * Se han pasado 4 minutos del tiempo de presentación.
+    * El tema de usuarios pilotos, echa en falta la explicación de la funcionalidad core. Estaba demasiado pequeño.
+    * Dan la enhorabuena por la integración de la videollamada.
+    * Le ha gustado mucho lo del foro en Whatsapp.
+
+#### Tareas a realizar para la siguiente semana
+
+Intencionalmente en blanco.
