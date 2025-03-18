@@ -2,6 +2,9 @@
 
 En esta página se recoge el feedback proporcionado por el profesor y los compañeros relativo al **MVP** en las presentaciones realizadas por los grupos durante las sesiones de clase. El objetivo principal es identificar los puntos fuertes y aspectos a mejorar con el fin de aprender de los errores y mejorar para el futuro.
 
+## Semana 1
+En el feedback de la Semana 1, se destacó la importancia de definir claramente el **MVP (Producto Mínimo Viable)**, que representa el producto mínimo necesario para salir al mercado. Es fundamental especificar correctamente las **funcionalidades clave del MVP** y asegurar su viabilidad dentro del tiempo disponible.
+
 ## Semana 10/02
 - El MVP debe estar claramente definido, representando el producto mínimo viable para salir al mercado
 - Especificar correctamente las funcionalidades clave del MVP y su viabilidad en el tiempo
@@ -15,3 +18,11 @@ En esta página se recoge el feedback proporcionado por el profesor y los compa�
 - El MVP debe ser presentado con claridad, especificando bien sus características y cómo se ajusta al mercado
 - Incluir un análisis claro de los ingresos y costos en el contexto del MVP
 - Asegurar que el MVP esté bien ajustado a la visión del producto y las necesidades reales del cliente
+
+## Semana 4
+
+## Semana 5
+
+## Semana 6
+
+En el feedback de la Semana 6, no se ha mencionado nada relacionado con el **MVP (Minimum Viable Product)**, ya que este no formaba parte de los objetivos establecidos para esta semana.
