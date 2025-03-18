@@ -4,10 +4,13 @@ En esta página se recoge el feedback proporcionado por el profesor y los compa�
 
 ## Semana 1
 No procede
+
 ## Semana 2
 No procede
+
 ## Semana 3
 No procede
+
 ## Semana 4
 - Hace falta presentarse, nombres de los presentadores y del proyecto.
 - Inicio efectivo que sea fácil de relacionar con la aplicación.

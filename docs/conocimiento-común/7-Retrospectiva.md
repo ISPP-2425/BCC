@@ -4,10 +4,13 @@ En esta página se recoge el feedback proporcionado por el profesor y los compa�
 
 ## Semana 1
 No procede
+
 ## Semana 2
 No procede
+
 ## Semana 3
 No procede
+
 ## Semana 4
 - Análisis de rendimiento del equipo. Al menos una trasparencia con horas y productividad de los miembros del equipo. 
 - Resultados del análisis del código: medir la calidad. 
