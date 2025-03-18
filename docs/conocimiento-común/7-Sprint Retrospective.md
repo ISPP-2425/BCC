@@ -2,16 +2,16 @@
 
 En esta página se recoge el feedback proporcionado por el profesor y los compañeros relativo a la **retrospectiva** realizadas por los grupos durante las sesiones de clase. El objetivo principal es identificar los puntos fuertes y aspectos a mejorar de cada presentación, con el fin de aprender de los errores y mejorar en futuras presentaciones. 
 
-## Semana 1
+## Semana 10/02
 No procede
 
-## Semana 2
+## Semana 17/02
 No procede
 
-## Semana 3
+## Semana 24/02
 No procede
 
-## Semana 4
+## Semana 03/03
 - Análisis de rendimiento del equipo. Al menos una trasparencia con horas y productividad de los miembros del equipo. 
 - Resultados del análisis del código: medir la calidad. 
 - Lecciones aprendidas (de cada problema o global). 
