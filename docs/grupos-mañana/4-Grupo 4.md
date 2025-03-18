@@ -2,7 +2,7 @@
 
 En esta página se encuentra el feedback recogido por el equipo del grupo 4 durante las sesiones de clase. Con secciones para cada semana, se detallan los comentarios y sugerencias del profesor y los compañeros, así como las tareas a realizar para la siguiente semana. Además, se incluye una sección para cada grupo con el feedback proporcionado por el grupo 4.
 
-## Semana 2
+##  Feedback Semana 2
 ### Feedback relacionado con la presentación
 
 - Mantuvimos un buen ritmo de presentación.
@@ -185,3 +185,121 @@ En esta página se encuentra el feedback recogido por el equipo del grupo 4 dura
 23. Se despliega cada parte por separado. Nada de sustituir el sprint 1 por el 2 ni nada por el estilo. Platafor
 
 
+## Feedback Semana 4
+
+
+### Feedback relacionado con la presentación
+
+Empleamos buen tono de voz.
+
+Usamos ejemplos cotidianos que ayudan a que se entienda nuestra idea.
+
+Presentación fluida y con una buena gama de colores.
+
+Presentarse al comienzo.
+
+Inicio soso, necesitamos hacer algo tipo teatro.
+
+La landing page debe ir al principio de la presentación.
+
+### Feedback relacionado con el desarrollo del proyecto
+
+Es bueno tener el máximo de usuarios pilotos posibles.
+
+Debemos ajustar mejor el tema de pagos semanales, únicos y anuales.
+
+Aclarar si anuncio de alquiler es core.
+
+### Tareas que realizar durante esta semana:
+
+
+    Reloj de avance del proyecto
+
+    Cuánto tiempo hemos invertido de lo esperado hasta final de curso.
+    Cuánto tiempo llevamos y cuánto nos quedaría (barrita de progreso).
+
+    Planificación (15/20%)
+
+    Reestimación para el S1 y objetivos finales para el S1.
+    Reestimación para el S2 y S3 en caso de que se vea afectado.
+
+    Gestión de usuarios piloto (10% ir al grano)
+
+    Agenda para trabajar con ellos.
+    Cuándo vamos a contactar.
+    Cuántos días les damos para responder.
+    Cuándo les entregamos el software.
+    Cómo abordar el feedback que nos den.
+    Que quede claro el compromiso, mejor quedar con el usuario para el feedback.
+
+    Plan de gestión para el sprint siguiente
+
+    Uso de la IA
+
+    Resumen de cómo la hemos usado durante el S1.
+
+    Presentación más técnica
+
+    Rendimiento.
+    Solución de problemas.
+
+    Ensayar despliegue a la mitad del sprint
+
+    Si no desplegamos en la presentación, SUSPENSO.
+
+
+## Feedback Semana 5
+
+
+### Feedback relacionado con la presentación
+
+- Alumnos y profesores coincidieron en que la presentación tenía demasiado contenido.
+- De la mano del anterior punto, intentar hacer una presentacion mas tranquila y sin correr.
+- Antes de mostrar la demo de la aplicación, contar que se va a hacer para que al oyente no le pille de imprevisto.
+- Buscar una mascota que no pueda ocasionar probemas a nivel legal por derechos de autor/copyright (Doraemon).
+- Buscar la manera que se vea bien la demo, zoom, recortes...
+- Ser muy claros a la hora de decir que nos diferencia de los demas competidores.
+- Añadir el plan de contingencia a la presentación.
+- Redondear los precios(usar m o k).
+- Intentar actuar de manera mas tranquila ante adversidades en la presentación(final abrupto de la demo ya que estaba grabado con sonido).
+- Mejorar la apariencia de la diapositiva del modelo cuantitativo.
+- En la diapositiva del modelo cuantitativo definir que tipo de calidad es.
+- Reestructurar la diapositiva de problemas y añadir el número de la página.
+- Respecto a los problemas, ¿que medidas se van a tomar?, ¿estan solucionadas?
+- La retrospectiva debe tener un gran peso en la presentación.
+- Hay que enlazar, si procede, los problemas que surjan con los riesgos previstos.
+- Añadir titulo a la diapositiva 20.
+- Poner el porcentaje de alucinaciones de la ia
+
+### Feedback relacionado con el desarrollo del proyecto
+
+- Parametros para el modelo cuantitativo.
+- ¿Teneis alguna forma de saber que el coordinador coordina correctamente?
+- Reestructurar las reuniones para evitar tiempo vacio en clockify
+
+### Tareas que realizar durante esta semana:
+
+- Hay que crear parametros, de manera que la gente pueda saber que tiene que hacer para tener un buen rendimiento en el modelo cuantitativo.
+- Establecer un criterio base para que los coordinadores sigan el mismo criterio de manera consensuada.
+- Continuar con las tareas que quedan del sprint.
+- Correguir el feedback realicionado con la presentación.
+- Seguir las indicaciones para la entraga siguiente:
+  - Killer opener 1 min
+  - Elevator pitch 30 seg
+  - Analisis de competidores
+  - Analisis de costes(TCO) capex y opex
+  - Seguimiento de como vamos esperado vs realidad
+  - Estimacion a corto(4-6 meses) y medio(1-2 años) plazo de los gastos e ingresos(justificados, numero de clientes) pesimista optimista y real
+  - Equipo y roles max 2 mins
+  - Demo VISIBLE 15% d presentacion
+  - Retrospectiva
+    - Analisis del rendimiiento del equipo
+    - Medir calidad de software
+    - Problemas y sus estados
+    - Lecciones aprendidas
+    - Medicion si esta funcionando el mecanismo de solucion del problema
+    - Reloj del avance del proyecto(respecto al final de curso)
+  - Usuarios pilotos cuantos, roles, como te comunicas con ellos, como gestionas el trabajo con ellos, y como lo pensais para el sprint 2
+  - Replanificacion
+  - Reporte del uso de IA y que seamos criticos
+  - Landing page

@@ -8,6 +8,14 @@ Este sitio web está construido usando [Docusaurus](https://docusaurus.io/), un 
 docs/
   conocimiento-común/
     0-Presentaciones.md
+    1-Idea de negocio.md
+    2-MVP.md
+    3-Organización del equipo.md
+    4-Commitment Agreement.md
+    5-Informe de uso de la IA.md
+    6-Competidores.md
+    7-Killer opener.md
+    8-Retrospectiva.md
   grupos-manana/
     1-Grupo 1.md
     2-Grupo 2.md

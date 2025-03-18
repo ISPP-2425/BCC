@@ -281,138 +281,350 @@ El próximo día se realizará la evaluación, la cual es vinculante. Habrá die
 Para la próxima sesión, se espera un inicio impactante con un discurso de ascensor que capte la atención en los primeros diez segundos y exponga la idea de forma clara y directa. Se debe definir el tipo de negocio, realizar un análisis exhaustivo de competidores explicando el proceso de selección, y presentar un análisis preliminar de costes que contemple los costes personales, activos (como la amortización de materiales), indirectos, herramientas y licencias. La estrategia para involucrar a los usuarios piloto debe indicar cómo se integrarán en el grupo, los canales de comunicación, las fechas y los compromisos previstos. Por último, el MVP debe mostrar claramente los casos de uso core, apoyándose en mockups que cuenten una historia, incluyan botones e interacciones, y se centren en la experiencia del usuario.
 
 **Tareas para la próxima semana**:
-Discurso de ascensores (Idea de negocio pero para los primeros 10 segundos)
-
-Tipo de negocio
-
-Análisis de competidores (Debemos indicar las razones y como hemos sacado los competidores)
-
-Análisis preliminar de costes
-
-Gestión de usuarios pilotos
-
-MVP (Casos de uso core, mockups con interacciones)
-
-Discusión sobre la innovación de negocio
-
-Stack tecnológico (conocimiento tecnológico del equipo de forma visual)
-
-Plan de gestión de riesgos
-
-Roles del equipo
-
-Commitment agreement
-
-Plan de gestión de calidad, gestión del pmbok, nivel de rendimiento
-
-herramientas obligatorias
-
-herramientas de libre elección, gestión de código
-
-landing page donde se explique la idea principal
-
-planificación de estimación para los siguientes sprints (sobre todo con mucho detalle el siguiente sprint, e 1)
-
-Informe del uso de la IA, indicando que se ha usado
-
+- Discurso de ascensores (Idea de negocio pero para los primeros 10 segundos)
+- Tipo de negocio
+- Análisis de competidores (Debemos indicar las razones y como hemos sacado los competidores)
+- Análisis preliminar de costes
+- Gestión de usuarios pilotos
+- MVP (Casos de uso core, mockups con interacciones)
+- Discusión sobre la innovación de negocio
+- Stack tecnológico (conocimiento tecnológico del equipo de forma visual)
+- Plan de gestión de riesgos
+- Roles del equipo
+- Commitment agreement
+- Plan de gestión de calidad, gestión del pmbok, nivel de rendimiento
+- herramientas obligatorias
+- herramientas de libre elección, gestión de código
+- landing page donde se explique la idea principal
+- planificación de estimación para los siguientes sprints (sobre todo con mucho detalle el siguiente sprint, e 1)
+- Informe del uso de la IA, indicando que se ha usado
 
 
 ## Semana 3
-#### Feedback relacionado con la presentación
+### Grupo 8
+- Han sobrado 4 minutos.
+- Han saltado directamente al MVP sin describir el producto.
+- No diferencian entre MVP y producto.
+- No explican la descripción del producto antes de presentar el MVP.
+- El producto debe presentarse de forma ambiciosa con todas las características y luego enfatizar lo esencial.
+- Mala estrategia de distribución de la información, no es digerible.
+- No explican el origen ni la dedicación de los competidores.
+- No se entiende la simbología (M.N, P.O…).
+- Saltan directamente a los riesgos.
+- Exceso de importancia a los números irrelevantes.
+- Mala tipografía para el contenido.
+- No se entiende si "beneficio" se refiere a ingresos o ganancias.
+- No deben incluir IVA en los cálculos, es un valor transparente.
+- No mencionan los precios de los planes.
+- Cifras deben estar justificadas.
+- La estructura de la información es confusa.
+- No mencionar decimales innecesarios.
+- No han comentado las tecnologías utilizadas.
+- No revisaron si todo lo del listado de tareas está en la presentación.
+- Falta el "Commit Agreement" y las herramientas obligatorias.
 
-#### Feedback relacionado con el desarrollo del proyecto
+- PMV: 
+  - Recomendaciones de recetas personalizadas.
+  - Detección de alergias o intolerancias mediante análisis.
+  - Logros e hitos.
+  - Marketplace.
+  - Calendario con recordatorios inteligentes.
+  - Foro de interacción.
+- **Competidores**: Litle Lunches, Fuddle, Solid Starts, Nutria PP.
+- **Riesgos**:
+  - Técnicos: seguridad de información y privacidad, fiabilidad de datos.
+  - Legales y regulatorios.
+  - De negocio: retención de usuarios, competencia, baja adopción.
+  - Operativos: mantenimiento, reputación, actualización de la base de datos.
+- **Beneficios**:
+  - Modelo Freemium.
+  - Publicidad segmentada.
+  - Marketplace.
+- **Infraestructura**: Google Cloud, App Engine, Github, VSCode.
+- **Usuarios piloto**: Padres primerizos, experimentados, premium, expertos en nutrición.
 
-#### Tareas a realizar para la siguiente semana
+---
 
-## Grupo 7 - nombreDelProyecto
-# Semana 1
-#### Feedback relacionado con la presentación
+### Grupo 7
+- Fuentes de ingreso con número negativo.
+- PMBOK es un marco de referencia, no una metodología.
+- Problema con Web Socket: conexión debe gestionarse manualmente.
+- **Competidores**: Stride Swarm, Mystery Hike, Fog of World, MapYourWorld.
+- **Funcionalidades core**:
+  - Mapa personal.
+  - Exploración de zonas.
+  - Registro de actividad.
+- **Preguntas clave**:
+  - ¿Cómo registran las zonas visitadas?
+  - ¿Cómo dividen Google Maps en zonas?
+  - ¿Tienen recompensas los usuarios piloto por feedback?
+- **Riesgos**: Dependencia de API de terceros.
 
-#### Feedback relacionado con el desarrollo del proyecto
+---
 
-#### Tareas a realizar para la siguiente semana
+### Grupo 9
+- Competidores repetidos sin explicación clara.
+- Salto de video a PowerPoint poco limpio.
+- "Nube de competidores" mal presentada.
+- **Protopersonas**: No aportan feedback real.
+- **Diseño**:
+  - Flechas en el Canvas atraviesan todo.
+  - Fotos homogéneas para la presentación.
+- **Preguntas clave**:
+  - ¿Cómo seleccionan los usuarios piloto?
+  - ¿Es rentable el modelo de negocio a ese precio?
+  - ¿Se puede incluir videos en las esquelas digitales?
+
+---
+
+### Grupo 10 (Feedback): 
+El plan de contingencia actual no está funcionando de manera efectiva. No estamos gestionando correctamente el riesgo, simplemente lo estamos reconociendo como un posible error sin tomar medidas preventivas adecuadas. Además, el tiempo disponible para abordar los gastos es muy limitado, y no estamos considerando las prácticas de otras empresas. Actualmente, estamos copiando a otras empresas sin adaptar sus modelos a nuestra realidad. Cualquiera de los eventos planificados no duraría ni un día, lo que resultaría en una gran pérdida económica. Este tipo de riesgos no favorecen el éxito de la empresa, ya que los riesgos altos y críticos parecen indicar que se enfrentarán problemas en el futuro, lo cual pone en peligro la viabilidad del proyecto.
+
+Un modelo similar al nuestro es el de las tiendas de ropa, donde los clientes pueden probarse la ropa, pero si no la quieren, la devuelven. Asumimos todo el costo de las devoluciones y, al final, perdemos el negocio porque no cobramos ni nosotros ni las tiendas. Hemos dedicado demasiado tiempo y recursos a este riesgo, lo cual no está optimizando nuestro rendimiento. También es esencial que definamos claramente el alcance geográfico del proyecto. Es fundamental mencionar si el enfoque es nacional o mundial, ya que esto afecta significativamente a los números y a la planificación de la empresa.
+
+Otro punto que necesitamos mejorar es la claridad de los números. A veces, las diapositivas están llenas de texto, y el número o la cifra se pierde entre tanta información. Los inversores quieren ver números, y necesitamos hacerlos visibles y claros, con menos texto y más foco en los datos clave. En cuanto a los riesgos operativos, si no tenemos suficientes unidades o alternativas disponibles, podríamos enfrentar dificultades. El MVP (Producto Mínimo Viable) también está llegando demasiado tarde, lo que significa que no está alineado con el proceso de planificación. Deberíamos haberlo definido antes de comenzar con el desarrollo. En resumen, hay que reorganizar todo, porque el proceso actual está desestructurado.
+
+La estructura del índice debe ser fluida, evitando ser demasiado rígida. Las presentaciones deben seguir un hilo narrativo coherente, como contar una historia. En cuanto al coste por hora, es necesario especificar si es bruto o neto. También debemos incluir los costes sociales, que son muy importantes y no se están considerando correctamente. La Seguridad Social se lleva un 36% del sueldo bruto, lo cual debería estar reflejado en las proyecciones financieras. A menudo, en las presentaciones, se olvidan los costes variables, por lo que debemos ser claros y definir si los costes son por mes, semana o día. Además, es crucial entender el volumen necesario para mantener el proyecto a flote, es decir, cuánto necesitamos en términos de ventas y eventos para seguir avanzando.
+
+Respecto a la cancelación de los planes, es importante aclarar cómo se gestionará. Si un cliente decide cancelar, no debe recibir el reembolso del dinero, lo que es una práctica común en muchos negocios. Tener muchos riesgos críticos es peligroso para la empresa, por lo que debemos gestionarlos de manera más eficiente. También es clave aclarar dónde será escalable el negocio geográficamente, ya que esto tiene un impacto directo en la proyección financiera y en el crecimiento del proyecto.
+
+De nuevo, debemos tener cuidado con demasiada letra pequeña. Es fundamental que los números sean visibles y entendibles para todos, no solo los detalles pequeños. Respecto al MVP, necesitamos que esté listo mucho antes de que nos enfoquemos en los riesgos. Debemos contar primero qué vamos a hacer al principio y luego abordar cómo mitigaremos los posibles riesgos. Es necesario que todo esté alineado y que la presentación se convierta en una historia clara para el público.
+
+Finalmente, en cuanto a los costes sociales y los sueldos, no podemos olvidar el 30% adicional de los costes de Seguridad Social. Es importante mostrar estos valores con claridad, además de explicar si los costes se consideran por mes, semana o día, y cómo impactan en el volumen de negocio necesario para que el proyecto avance.
+
+#### Resumen: 
+- Plan de contingencia no resuelve los riesgos.
+- Riesgos críticos hacen parecer el proyecto inviable.
+- No consideran costes sociales ni impuestos.
+- **Escalabilidad**:
+  - Definir si el proyecto es local, nacional o internacional.
+  - Evaluar qué sucede si no hay eventos en ciertas ubicaciones.
+- **Presentación**:
+  - Fluidez en la narrativa.
+  - MVP debe presentarse antes que los riesgos.
+  - Demasiado texto, mejorar el enfoque visual.
+- **Costes y Finanzas**:
+  - Especificar si son costes brutos o netos.
+  - Incluir costes sociales (~30-36% del bruto).
+  - Definir si los costes son mensuales, semanales, por unidad de tiempo.
+  - Estimar volumen de clientes necesario para sostenibilidad.
+
+---
+
+### Grupo 11 (Feedback)
+- Diferenciar entre hoteles pet-friendly y residencias para mascotas.
+- Letra de la tabla de competidores muy pequeña.
+- No incluyen número de página.
+- **Stack tecnológico**:
+  - Bien descrito, con diagrama UML.
+  - Separar bien frontend de cliente/navegador.
+- **Costes**:
+  - Ingresos estimados basados en reservas (500-1000).
+  - Reservas de contingencia.
+- **Preguntas clave**:
+  - ¿Solo aceptan perros?
+  - ¿Qué proceso de selección usan para usuarios piloto?
+  - No mencionaron la matriz DAFO.
+  - ¿Aceptan otras mascotas grandes (caballos, etc.)?
+
+---
+
+### Indicaciones para la Próxima Semana
+- Implementación de Sprint 1 con enfoque más técnico.
+- Evaluación de desempeño individual basada en productividad.
+- **Elementos clave para la presentación**:
+  - Killer opener (claro y conciso).
+  - Elevator Pitch.
+  - Análisis de competidores (tabla).
+  - Análisis de costes.
+  - Definición de roles en el Sprint.
+  - Seguimiento del "Commit Agreement".
+  - Prototipo actual del software.
+  - Retrospectiva: qué fue bien/mal y qué mejorar.
+  - Análisis de rendimiento del equipo.
+- Cuantificación de métricas de productividad individual.
+  - Respuesta en tiempo a mensajes.
+  - Número de commits y contribuciones en GitHub.
+  - Análisis de rendimiento basado en datos.
+- **Política de versionado**: asegurarse de que cada versión esté correctamente documentada y congelada en los despliegues.
 
 
-# Semana 2
-#### Feedback relacionado con la presentación
+## Semana 4
+### Grupo 10
+Actualmente, no estamos trabajando bien y están surgiendo problemas, no solo en el desarrollo del software, sino también en la presentación. Se han abandonado elementos clave en comparación con la presentación anterior. Un aspecto fundamental es el inicio efectivo, donde se explica el proyecto y se capta la atención de la audiencia. Hasta ahora, no se ha logrado ese impacto inicial, y esto es crucial. Aunque no se haya pedido explícitamente, es un punto muy importante que debe estar listo para la próxima semana.
 
-#### Feedback relacionado con el desarrollo del proyecto
+Para generar ese impacto, se necesita un elevator pitch sólido, acompañado de un killer opening, una frase breve y llamativa que enganche desde el principio. En este punto del proyecto, no se puede seguir presentando sin esa introducción fuerte. Para alguien que ve la presentación por primera vez, después del inicio debe venir una explicación clara de por qué nosotros y un análisis de la competencia. No es necesario incluir un índice; la información debe estar organizada de manera fluida.
 
-#### Tareas a realizar para la siguiente semana
+Tras abordar los puntos débiles, la siguiente sección clave es la parte económica, donde se presentan los ingresos, los gastos y cómo se proyectan las cifras. Este enfoque debe seguir la estructura típica de las presentaciones para inversores, respondiendo a sus inquietudes. Es fundamental anticipar las dudas sobre la viabilidad del negocio y demostrar que hay una oportunidad real. Todo esto debe explicarse en tres minutos, sin extenderse demasiado en los costos.
 
-# Semana 3
-#### Feedback relacionado con la presentación
+Otro aspecto esencial es el equipo detrás del proyecto. Se debe destacar la experiencia de los fundadores y el equipo, transmitiendo confianza en la capacidad de ejecución. Esta primera parte se cierra con un bloque enfocado en ventas y en la explicación clara del problema, para que el público comprenda su importancia. Es importante notar que la parte técnica de informática no interviene en esta sección.
 
-#### Feedback relacionado con el desarrollo del proyecto
+A partir de aquí, la presentación pierde estructura. Un ejemplo de esto es la mención de los usuarios piloto, que en la presentación actual se introduce demasiado tarde. No basta con decir que tenemos usuarios piloto, sino que debemos explicar cómo los estamos gestionando, cómo interactuamos con ellos, cuánto tiempo damos para recibir feedback y cómo organizamos esa información. Además, debemos seguir buscando más usuarios piloto, ya sean amigos, vecinos o contactos interesados, para mejorar el producto con más retroalimentación real.
 
-#### Tareas a realizar para la siguiente semana
+Otro error es la inclusión de los riesgos, ya que no forman parte esencial de la presentación en este momento. En lugar de listar riesgos, hay que centrarse en los problemas actuales y en las acciones de mitigación que se han implementado. Es clave medir la evolución y revisar si los resultados actuales coinciden con lo que se esperaba anteriormente. Este análisis debe abrir un debate sobre lo que se ha hecho hasta ahora y los ajustes que han surgido en el proceso.
 
-## Grupo 8 -  nombreDelProyecto
-# Semana 1
-#### Feedback relacionado con la presentación
+En la retrospectiva, no basta con mencionar los problemas; también hay que detallar cómo se han gestionado. No se trata de destacar solo la actitud del equipo, sino de analizar cómo el compromiso y la seriedad con el proyecto afectan su desarrollo. Si no se toman acciones concretas, podemos encontrarnos con problemas mayores. En este sentido, el Commitment Agreement es una extensión del plan de riesgos y debe presentarse de manera seria. Antes de enviarlo, debe exponerse en clase para su evaluación.
 
-#### Feedback relacionado con el desarrollo del proyecto
+En cuanto a los horarios y la desviación en la planificación, si hay justificantes válidos deben ser mencionados; de lo contrario, es un aspecto que se debe corregir. Es necesario mostrar un enfoque más profesional en todos los aspectos del trabajo.
 
-#### Tareas a realizar para la siguiente semana
+Respecto al desarrollo, se ha señalado que no tiene sentido haber comenzado por el inicio de sesión. Hay ejemplos claros, como Amazon, donde no es necesario registrarse para comprar. Un inicio de sesión no es un caso de uso central en este momento, y hay alternativas más eficientes. Actualmente, ni siquiera hay zonas privadas en la plataforma, por lo que la autenticación no debería haber sido una prioridad. Se debe reconsiderar cómo se estructuran las funciones clave, de la misma manera que en un videojuego primero se diseña la experiencia de juego antes de centrarse en el menú.
 
+Otro punto débil es la landing page, que presenta problemas de diseño. La fuente del texto es demasiado pequeña y no se visualiza bien. Es necesario hacer cambios estéticos para mejorar su legibilidad y presentación. Además, debe contener datos reales que refuercen su credibilidad.
 
-# Semana 2
-#### Feedback relacionado con la presentación
+En general, la estructura de la presentación no está bien organizada. Es urgente reorganizar los contenidos, priorizando lo esencial y asegurando que el mensaje sea claro, impactante y estructurado de manera lógica.
 
-#### Feedback relacionado con el desarrollo del proyecto
+### Grupo 11
+Cosas positivas:
+Habéis abordado bien los puntos clave, y el guion ahora es mucho más fácil de seguir. Sin embargo, se ha notado que el número de páginas no es visible, lo cual puede ser un detalle importante para la presentación. Además, no tenemos un "Hall of Shame", lo que es positivo en cuanto a la transparencia.
 
-#### Tareas a realizar para la siguiente semana
+Respecto a los servicios extras, se mencionan características que tienen otras empresas pero que no ofrecemos, lo cual genera confusión sobre por qué se incluyen en la presentación. En cambio, sería más efectivo destacar lo que nosotros ofrecemos y cómo se diferencia. Por otro lado, en la retropectiva, a partir de ahora no es necesario enfocarse tanto en lo que se ha hecho, sino en los problemas que hemos enfrentado y cómo los hemos solucionado. A los evaluadores les interesa más el progreso realizado, cómo avanzamos en el proyecto y el cumplimiento del total del sprint. La evolución del trabajo debe ser visualmente representada para que se vea claramente si estamos avanzando al ritmo esperado, por ejemplo, si la aguja va por el 50%, está bien. Esto se puede hacer mediante un gráfico visual, que es lo que se está pidiendo, y debería integrarse en la presentación de la semana que viene.
 
-# Semana 3
-#### Feedback relacionado con la presentación
+Visualización del progreso:
+Todo lo que se explique con imágenes mejorará el esfuerzo de lectura y reducirá el estrés visual de los evaluadores. Es importante que todo el equipo vea cómo se va desarrollando el trabajo de manera tangible y con gráficos claros. El rendimiento también es clave, no solo en términos de horas trabajadas o commits realizados, sino evaluando si el esfuerzo es justo para todos los roles involucrados (código, documentación, etc.). Además, se debe analizar si es razonable pedir respuestas rápidas a los miembros del equipo, ya que esto puede afectar su productividad real. El número de líneas de código no es una métrica viable, ya que en ocasiones un número negativo puede indicar baja calidad. Debemos centrarnos en ver cómo mejoramos tras la refactorización o a través de un microdespliegue. Lo importante es que la métrica sea positiva o, en su defecto, esté cerca de cero.
 
-#### Feedback relacionado con el desarrollo del proyecto
+Métricas justas:
+Es necesario tener en cuenta las métricas de manera más racional, como el porcentaje de tareas completadas, pero también es importante que se premien tareas de mayor calidad y no solo tareas pequeñas. Hay que definir límites racionales para las horas a invertir y jugar con la desviación en las métricas de manera individual. Es incómodo, pero usar estas herramientas ayudará a medir la productividad real de cada miembro del equipo. Por ejemplo, penalizar a alguien pero luego darle una puntuación alta sin justificación no tiene sentido. Hay que asegurarse de que la correlación entre esfuerzo y resultados esté clara. Los métodos de puntuación deben ser individuales para que reflejen de manera justa el trabajo de cada uno.
 
-#### Tareas a realizar para la siguiente semana
+Retrospectiva:
+En cuanto a la retropectiva, no debe enfocarse en decir solo lo que se ha hecho, como las reuniones o el trabajo rutinario, sino más bien en los problemas encontrados y cómo los hemos resuelto. Se quiere ver cómo vamos completando el sprint, con un seguimiento visible del progreso. Es crucial mostrar la evolución de cada tarea. La aproximación al rendimiento ha sido buena, pero se debe evaluar si es justo para todos los roles.
 
-## Grupo 9 -  nombreDelProyecto
-# Semana 1
-#### Feedback relacionado con la presentación
+Usuarios piloto:
+Respecto a los usuarios piloto, se necesita una agenda más concreta. Aunque el plan de comunicación está bien estructurado, debe incluir fechas y tiempos específicos. Además, se deben evitar los anglicismos innecesarios, como "Configura el CI", que pueden resultar confusos.
 
-#### Feedback relacionado con el desarrollo del proyecto
+Métricas a mejorar: Las métricas deben incluir:
+- Tiempo de trabajo total.
+- Tiempo de respuesta.
+- Número de correcciones en QA.
+- Número de tareas completadas, siendo más específico en este punto según el volumen de cada tarea.
+- Cumplimiento del plazo de entrega.
 
-#### Tareas a realizar para la siguiente semana
-
-
-# Semana 2
-#### Feedback relacionado con la presentación
-
-#### Feedback relacionado con el desarrollo del proyecto
-
-#### Tareas a realizar para la siguiente semana
-
-# Semana 3
-#### Feedback relacionado con la presentación
-
-#### Feedback relacionado con el desarrollo del proyecto
-
-#### Tareas a realizar para la siguiente semana
-
-## Grupo 11 -  nombreDelProyecto
-# Semana 1
-#### Feedback relacionado con la presentación
-
-#### Feedback relacionado con el desarrollo del proyecto
-
-#### Tareas a realizar para la siguiente semana
+También es fundamental tener en cuenta los retrasos en lugar de solo el número total de tareas completadas. Los retrasos pueden ser indicativos de problemas en la planificación o ejecución, y deben ser evaluados para mejorar el proceso.
 
 
-# Semana 2
-#### Feedback relacionado con la presentación
+### Grupo 7
+Reflexiones sobre las presentaciones:
+En el primer grupo pensaban que no habían presentado el guion la semana pasada, pero en el segundo grupo sí. A pesar de que estuvieron más cerca de lo esperado, aún quedan elementos de presentaciones anteriores, lo que ha restado tiempo. Además, se permitió agregar información adicional que no era relevante y que ocupó tiempo innecesario. Como ejemplo, el DAFO y el Model Canvas que, aunque importantes, no son necesarios en esta etapa y ocuparon espacio innecesario.
 
-#### Feedback relacionado con el desarrollo del proyecto
+Gestión de riesgos y problemas a mitad del sprint:
+Es importante hablar de los problemas y la gestión del riesgo, mencionando si se ha introducido algún nuevo riesgo o si alguno de los riesgos previamente identificados se ha visto materializado. Deberíamos haber dejado más tiempo para lo que realmente era fundamental en esta semana. En lugar de introducir tantos detalles, es necesario centrarse en lo que realmente toca ahora, como explicar el problema desde el inicio de forma clara. Es crucial mantener una línea argumental coherente para que la presentación no pierda foco. A medida que avanzamos, la presentación debe convertirse en algo más técnico y organizativo, dos elementos claves que debemos mantener hasta el final del tercer sprint.
 
-#### Tareas a realizar para la siguiente semana
+Encuestas y feedback de los usuarios piloto:
+En cuanto a los usuarios piloto, los resultados de las encuestas apuntan a la necesidad de un plan de gestión claro. Ya se ha trabajado sobre los mockups en función de este feedback, y lo que se debe destacar en la presentación es lo mínimamente indispensable que los usuarios pidieron. Algunas personas han mencionado hasta tres puntos menos que otros compañeros, lo que refleja que todos deben cumplir con un mínimo común. El core de la presentación debe estar alineado para todos, siguiendo una línea argumental clara.
 
-# Semana 3
-#### Feedback relacionado con la presentación
+Presentación visual y de contenido:
+Es importante actualizar y no utilizar elementos que ya están obsoletos, como el Canvas, ya que ahora estamos en una fase de desarrollo y no corresponde mostrarlo. Las fuentes de ingresos pueden seguir siendo parte de la presentación, pero deben ser presentadas de forma más clara, ya que hay muchas otras fuentes que podrían entrar en juego. Los subtítulos son mejor valorados que los llaves; estas últimas quitan mucho espacio y no facilitan la comprensión. En vez de usar símbolos o ecuaciones complicadas, es más eficaz organizar la información en tablas, para facilitar la digestión del contenido.
 
-#### Feedback relacionado con el desarrollo del proyecto
+Alineación y legibilidad:
+Algunas de las diapositivas tienen demasiados detalles, como la diapositiva 27, que es imposible de leer debido a la sobrecarga de información. Se debe agrupar la información y alinearla correctamente a la derecha para mejorar la comprensión. Costes de personal y otros detalles como cuánto cobra cada rol son menos relevantes en esta etapa, por lo que es mejor no incluirlos si no hay tiempo para digerirlos. Se ha notado una mezcla de español e inglés en la presentación, lo cual puede resultar confuso, por lo que todo debe estar en español y evitar el uso de anglicismos innecesarios.
 
-#### Tareas a realizar para la siguiente semana
+Confusión entre problemas y riesgos:
+Una confusión que se ha observado es la mezcla de problemas y riesgos en las tablas. Los problemas deben diferenciarse claramente de los riesgos previstos. Cuando algo no estaba planificado y surge un problema, debe ser tratado como tal, y no mezclado con los riesgos. Además, se necesita una mejor gestión del tiempo en las reuniones: si se planean reuniones de dos horas, pero se extienden a cuatro, se está afectando el progreso. Hay que establecer cómo se alcanza el 100% de las tareas y cómo se resuelven los problemas que surgen.
 
+Soluciones a los problemas:
+Si un problema surge y se tiene una solución, se debe explicar cómo se solucionó y cómo se aplicó la acción de mitigación del riesgo. Si el plan no ha funcionado, es importante explicar por qué no ha funcionado en lugar de presentar una solución nueva sin análisis. Además, es crucial evitar demasiado texto y muchas tablas, ya que estas sobrecargan la presentación y no permiten que el público siga fácilmente el flujo de la información.
+
+Progreso del proyecto y presentación visual:
+Es fundamental incluir el porcentaje de avance del proyecto, en lugar de usar simplemente tildes. El uso de colores como el naranja no es adecuado, ya que no es fácil de entender si se ha avanzado mucho o poco. Si se utiliza un porcentaje, debe quedar claro si el 34% representa el trabajo completado hasta ahora o si es el progreso de todo el sprint. Además, se ha observado que la landing page debe estar siempre presente y ser accesible, ya que es algo permanente en la presentación.
+
+
+### Grupo 8
+Usuarios Piloto y Recopilación de Información:
+Los padres no son una fuente confiable de información real para este tipo de proyecto. Están proporcionando información falsa o de otro contexto, lo que no es útil para obtener insights precisos. Se debe buscar a usuarios reales del producto, no recurrir a fuentes fáciles como los padres. Los usuarios piloto deben ser más activos, no solo dar respuestas pasivas. Este cambio es importante para obtener resultados válidos.
+
+Mejoras en la Presentación:
+Hoy se ha mejorado en la organización, el contenido se acerca más al guion. Es crucial no recuperar elementos de presentaciones pasadas (como el Model Canvas) ya que no deben ser reemplazados o agregados nuevamente si no están alineados con la etapa actual del proyecto. Si algo no estaba antes, debe quedarse fuera. La documentación adjunta es la que debe cubrir los elementos que no se presentan en las diapositivas.
+
+Stack Tecnológico:
+El stack tecnológico debió haberse mencionado la semana pasada, pero no se incluyó. Esta información no debe estar oculta o tardar en aparecer. Presentarlo de manera clara y comprensible facilitará la digestión de la información.
+
+Costes y Organización de la Información:
+Los detalles sobre los costes deben ser organizados mejor. El desglose de costes de personal no es tan relevante. La presentación debe ser más clara y concisa, como el uso de tablas que permitan ver de forma rápida la información, y solo un subtotal de los costes totales, sin mostrar detalles innecesarios. Es importante que se indique el coste de herramientas, ya que parece ser mayor al del personal debido a la falta de decimales o puntos en la cifra. El 11,18% residual tiene importancia y debe destacarse.
+
+Amortización de Equipos:
+No están amortizando los equipos correctamente, lo cual es importante, ya que de lo contrario, Hacienda podría considerarlo un gasto inadecuado. Se debe cuidar cómo se presenta esta parte.
+
+Gráficos y Visualización:
+Para facilitar la comprensión, los costes por usuario y el coste de adquisición de usuario deberían presentarse con gráficos en lugar de texto y números extensos. Los gráficos son más fáciles de entender, y poner un porcentaje visualmente (como un 7%) facilita que la audiencia se quede con la idea clara de qué significa la conversión.
+
+Presentación Visual y Ritmo:
+Es importante que la presentación mantenga un ritmo adecuado. Si se olvida algo, seguramente no es relevante para la presentación. Deben filtrarse los detalles no necesarios. Lo más importante debe estar al principio, no al final, para que el público se enfoque en los puntos clave. No se debe abrumar con demasiado contenido, especialmente con tablas y detalles como los CPI y otros cálculos.
+
+Planificación y Diagrama de Gantt:
+El diagrama de Gantt y los detalles de planificación no son visibles ni fáciles de comprender en la presentación. Deben resumirse y mostrar solo los avances más relevantes en 2 o 3 barras, con lo más importante, para que sea más comprensible.
+
+Empatía y Comunicación:
+En el inicio efectivo de la presentación, faltó empatía hacia los niños y el contexto infantil. El tono debe ser más emocional y cercano, no en tercera persona, para lograr una conexión con la audiencia. La pasión al presentar es fundamental para que el mensaje llegue de manera efectiva.
+
+Deducción y Claridad de los Costes:
+La forma de mostrar los costes debe ser clara y fácil de procesar. Los decimales y puntos son esenciales para que los números sean correctos. En relación al hardware, debe quedar claro si el coste total de los equipos está siendo amortizado correctamente o si esto podría tener implicaciones fiscales. La reducción de la carga conceptual es clave para que la audiencia no se sienta abrumada con demasiada información. Mostrar el coste de adquisición de usuario en un gráfico es más efectivo que solo mostrar los números en texto.
+
+Planificación y Métricas:
+La planificación debe ser más visible y fácil de seguir. La presentación actual no resalta cuáles son los avances, ni qué se ha logrado. Los conceptos como CV, SV, etc. deben ser explicados de manera más clara para que el público entienda de dónde vienen estos términos y cómo se aplican al proyecto. La tabla de arriba también debe explicarse adecuadamente para evitar confusión.
+
+
+### Grupo 9
+Los costes son muy bajos, excesivamente bajos. Solo asumen esta parte inicial, luego, ¿qué? El soporte, atención al cliente… Hay servicios que tienen que montar encima. El tiempo es lo que les falta. Los costes, ingresos y gastos deben presentarse de forma que se pueda ver la evolución del proyecto. ¿Cuánta gente está en edad de morirse y pueda pagar eso? En la edad en la que nos preocupamos por estas cosas es cuando hay descendencia, por lo que hay que ser más conservadores en los cálculos, utilizando cifras normales. El tema de los gastos no es realista, ya que se cambian versiones, debe migrar, hay agujeros de seguridad… Siempre se debe mantener actualizado el software.
+
+¿Cuánto tardas en llegar a ese 1%? Se suele utilizar canales de forma inteligente. Si las floristerías tienen un negocio normal, a lo mejor se deberían de aliar con ellas. Tú lo encargas, una corona, algo muy típico. Utilizas un canal a un coste muy bajo. A la hora de la presentación, no se ha contado lo que hacen antes de hablar de la competencia. Dicen el ámbito en el que trabajan, pero deberían comenzar explicando qué producto y valor van a ofrecer antes de mencionar la competencia. ¿Qué otras opciones existen? Este es un punto de mejora clave en el discurso inicial.
+
+Se utiliza el tema de la venta para crear un clima al inicio y normalizarlo, pero si no, es imposible. Si hablamos de la muerte, ¿es demasiado pesimista? Es importante trabajar el entorno en toda esa parte inicial. La principal fricción que suele ocurrir con los seguros es que sale más caro cuanto más tarde en morirse la persona. Es raro que el servicio cueste. Si cobran una cuota constante, deben ofrecer un servicio constante para que la gente aprecie el valor. Es importante que esa parte se trabaje adecuadamente.
+
+Se puede pensar en el modelo de un solo pago. Si la empresa se muere antes que yo, ¿qué pasa? Eso deben tenerlo en cuenta. Es bueno trabajar todos los segmentos del mercado. Las cosas cambian, y los memes también. Pueden hacer algo para ver qué está de moda hoy día y qué está desfasado. En cuanto a los impuestos, no deben incluirse, ya que todo es antes de los impuestos. En este caso, no se trabaja con el IVA, lo cual lo pagan los consumidores. Deben incluir los costes sociales de los empleados. Existen técnicas para no pagar impuestos, como reinvertir, pero eso no se comenta.
+
+Solo se deben mostrar los datos en bruto, con el personal, que es lo más fundamental. Falta añadir el factor tiempo, que es crucial. El tiempo y el dinero son elementos clave. Si pueden duplicar dinero, pero no se dice cuánto tiempo tardan en hacerlo, eso es negativo. ¿Cuánto tiempo para pasar de 100 a 200? Es importante para la inversión. Deben saber cuándo. El tiempo es fundamental. Todos los aspectos relacionados con el dinero están directamente ligados al tiempo.
+
+Siguen pagando los costes sociales, especialmente los primeros 15 días, y los restantes… Pagan la nómina por los primeros tres meses. Si alguien se pone enfermo y tiene justificación, deben asumirlo como equipo y no trabajar más. Las vacaciones sí, pero si alguien se enferma más de lo esperado, eso debe ser revisado.
+
+En cuanto a cómo han conseguido los usuarios piloto, los han conseguido a través de amigos, padres, familiares… Si comienzan con 15 y cada uno encuentra 3 o 4 personas, ya pueden llegar a 50, teniendo en cuenta a los de su clase. Con 2 o 3 usuarios por persona, ya es un número significativo. No deben conformarse con lo que tienen, sino buscar siempre más.
+
+
+### Indicaciones para la Próxima Semana
+En la introducción, es fundamental transmitir el modelo de negocio de manera clara y concisa. La idea debe explicarse en un minuto utilizando un killer opener y un elevator pitch efectivo. Esto permitirá captar la atención desde el inicio y dejar una impresión clara de la propuesta.
+
+El análisis de competencia debe centrarse en lo esencial. Es clave responder a preguntas como qué hacemos, en qué mercado nos movemos y qué problema resolvemos. Además, hay que destacar con precisión qué nos diferencia de la competencia para que quede claro nuestro valor añadido.
+
+En cuanto al TCO (Total Cost of Ownership), este debe presentarse de forma realista y detallada, incluyendo los costos de capital (CAPEX) y los costos operativos (OPEX). La información financiera debe ser lo más limpia y clara posible, evitando confusión en la interpretación de los números.
+
+Para la situación actual y proyecciones financieras, se deben estimar ingresos y gastos a corto y medio plazo. En la semana 0 solo hay gastos, por lo que estos deben presentarse en la parte inferior de la gráfica, mientras que los ingresos estarán en la parte superior. A medida que pasa el tiempo, los ingresos deben ir aumentando y los gastos disminuyendo. Se recomienda representar estos datos con una curva de evolución, mostrando distintos escenarios: optimista, pesimista y realista. Es fundamental destacar que las primeras 15 semanas son cruciales, ya que el comportamiento financiero cambia en el largo plazo.
+
+La sección del equipo debe ser breve y colocarse al inicio de la presentación. Se debe mencionar únicamente a los integrantes clave sin entrar en detalles técnicos, ya que el foco principal es el negocio y no el perfil técnico de cada miembro.
+
+Para la DEMO del prototipo, es crucial presentar un producto funcional con los casos de uso clave bien definidos. Debe ser una demostración realista y creíble, donde el usuario pueda ver el valor del producto de manera inmediata. Se recomienda contar con un video grabado que resuma la funcionalidad, ya que la presentación es lo más importante y debe captar la atención antes de revisar documentación técnica o detalles del despliegue.
+
+El análisis de rendimiento del equipo debe reflejar la calidad del trabajo, los resultados obtenidos y los problemas enfrentados durante el sprint. Es importante comunicar que, al inicio, el progreso puede ser más lento, pero luego se puede recuperar. Durante el desarrollo, se debe mantener cierta flexibilidad, pero el cierre del sprint es el aspecto más crítico. La presentación debe incluir un resumen detallado de todo lo que ha ocurrido en el Sprint 1.
+
+En cuanto al reloj de avance, se debe mostrar claramente lo invertido y el total, sin recurrir a diagramas de Gantt poco visuales. La evolución del proyecto debe ser clara y comprensible, con gráficos que permitan ver el progreso de manera intuitiva.
+
+Respecto a los usuarios piloto, no solo es importante hacer un seguimiento del plan, sino también demostrar el avance logrado. Se debe presentar un registro de los usuarios que se han comprometido a participar y evaluar su efectividad. Es recomendable contar con un sistema de control para saber quiénes han entregado resultados y, en caso necesario, enviar recordatorios. En la presentación, se debe incluir solo la información clave, mientras que la documentación detallada se revisará por separado.
+
+Para el Sprint 2, es fundamental definir las responsabilidades al inicio y al final del sprint. Además, se debe ofrecer una estimación global del resto del proyecto, más allá del segundo sprint, para tener una visión clara del camino a seguir.
+
+El informe de uso de IA debe reflejar la transparencia en su implementación. Como parte de esto, se recomienda incluir una diapositiva final con la URL corta de la landing page, para que los interesados puedan acceder fácilmente a más información.
+
+Por último, es esencial mantener un equilibrio en los tiempos de la presentación. Cada sección debe recibir la atención adecuada sin extenderse innecesariamente, garantizando una exposición clara, efectiva y bien distribuida.
+
+
+#### Resumen
+- Intro: 20% de 15 minutos, y tiene que estar en esta intro:
+    - Modelo de negocio, es decir, transmitir la idea de negocio con inicio efectivo, elevator pitch y killer opener (1 minuto),
+    - Análisis de competidores más rápido e ir a la clave,
+    - TCO realista y detallada en el que distingamos el CAPEX y OPEX ,
+    - Cuál es la situación actual,
+    - Estimación de ingresos (tienen que estar justificados y que se vea de manera sencilla y clara) y gastos a corto y medio plazo
+    - Equipo (bastante corto)
+- Demo Sprint 1: 15%
+    - Desplegado con los casos de uso core de la app, tiene que ser probable y ver resultados (video(con una url no hace falta ponerlo en la diapositiva) o en directo)
+- Retrospectiva completa del sprint: 40/50%
+    - Rendimiento del equipo
+    - Resultados
+    - Cómo hemos medido
+    - Problemas encontrados
+- Gestión y todo lo de usuarios pilotos 10%
+    - Numero de usuarios
+    - Lo que nos han dado este sprint estos usuarios
+    - Plan del sprint 2 con estos usuarios
+- Planificación, como que vamos a hacer en el sprint 2 15%
+    - Estimación concreta con asignación de responsabilidades con objetivo para la mitad y final del sprint
+    - Estimación global del resto de sprint
+- Uso informe de la IA
+- Landing page (QR y url)
