@@ -15,4 +15,8 @@ En esta página se recoge el feedback proporcionado por el profesor y los compa�
 - Fuentes de letras legibles que prevalezcan frente la estética.
 - Es recomendable dejar fuera de la presentación cualquier dato que necesite mayor tiempo de explicación.
 
+## Semana 10/03
+- Mejorar el opener e introducción, fortalecer el inicio de la presentación con un “killer opener” y un elevator pitch impactante que cuente una historia atractiva, logrando un mayor dinamismo y captación de la atención desde el principio.
+- Mejorar el diseño empleando fondos y gráficos que aseguren legibilidad y resalten la información clave (por ejemplo, usando colores llamativos)
+- Acortar la duración de la introducción, debe ser mas ligera.
 

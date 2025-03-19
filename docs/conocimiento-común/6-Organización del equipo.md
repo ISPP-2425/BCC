@@ -24,6 +24,4 @@ En esta página se recoge el feedback proporcionado por el profesor y los compa�
 - Explicar con detalles y métricas la productividad del equipo. Este análisis no puede ser en ningun caso usando exclusivamente el número de commits, ya que estos son facilmente manipulables y no dejan ver otras actitudes valiosas para el equipo.
 
 ## Semana 10/03
-
-## Semana 17/03
 - En el feedback de la Semana 6, se destacó **evitar términos de castigo** en los sistemas de puntuación internos del rendimiento del equipo. En su lugar, se recomienda utilizar **términos de motivación** para fomentar un ambiente positivo y productivo. Este enfoque no solo contribuye a mantener un clima laboral constructivo, sino que también promueve la colaboración y el compromiso del equipo con los objetivos del proyecto.

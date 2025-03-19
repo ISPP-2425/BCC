@@ -18,3 +18,8 @@ En esta página se recoge el feedback proporcionado por el profesor y los compa�
 - Incluir los costes operacionales.
 - Rendondear los numeros de costes. 
 - Decir claramente cual es la situación real frente a la esperada.
+
+## Semana 10/03
+- Mejorar la comunicación de datos financieros usando gráficos claros y precisos
+- Para el punto de equilibrio se recomienda usar un grafico de barras positivas y negaticas de beneficios y gastos a lo largo del tiempo, con una curva por encima que represente los ingresos totales acumulados  
+- Presentar distintos escenarios de gastos
