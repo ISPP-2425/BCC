@@ -1,0 +1,22 @@
+# Análisis y garatía de la calidad
+
+En esta sección se presenta el feedback recibido sobre la **calidad del proyecto**, basado en las evaluaciones realizadas por el profesor y los compañeros durante las presentaciones. El enfoque principal es analizar la efectividad de las prácticas de garantía de calidad y el análisis del rendimiento del código. Se pretende identificar tanto los aspectos positivos como las áreas que requieren atención, con el fin de mejorar los procesos de desarrollo y asegurar la entrega de un producto final que cumpla con los estándares de calidad establecidos.
+
+## Semana 10/02
+No procede
+
+## Semana 17/02
+No procede
+
+## Semana 24/02
+No procede
+
+## Semana 03/03
+No procede
+
+## Semana 10/03
+- Debe incluir un enfoque detallado en la identificación de Code Smells, que son indicativos de posibles problemas en el código. Se recomienda el uso de herramientas como SonarQube para obtener métricas precisas que permitan evaluar la calidad del software de manera efectiva. Además, es crucial que la evaluación del rendimiento se realice de forma continua, incluyendo un análisis por cada sprint. Esto facilitará la observación de la evolución y las mejoras en la calidad del proyecto a lo largo del tiempo.
+
+- Se enfatiza que debe estar integrada en todos los procesos del desarrollo, y no limitarse a una revisión final. Es fundamental realizar pruebas estructuradas que aseguren la validación de elementos críticos, tales como APIs externas y sistemas de pago. Para lograr una verdadera garantía de calidad, la documentación correspondiente debe elaborarse desde el inicio del proyecto, asegurando que todos los aspectos sean probados y validados adecuadamente.
+
+- Es importante que la evaluación de calidad se enfoque en resolver las incertidumbres técnicas lo antes posible. Esto ayudará a evitar problemas en el futuro y asegurará un desarrollo más fluido. Aunque en algunos casos se destaca que la documentación de calidad fue bien elaborada, en otros se ha observado que no se ha puesto suficiente énfasis en garantizar la calidad desde el principio, lo que podría comprometer el éxito del proyecto.
