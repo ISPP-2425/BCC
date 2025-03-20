@@ -628,3 +628,188 @@ Por último, es esencial mantener un equilibrio en los tiempos de la presentaci�
     - Estimación global del resto de sprint
 - Uso informe de la IA
 - Landing page (QR y url)
+
+## Semana 5
+
+### Grupo 11
+
+#### Observaciones Generales
+El "killer opener" actual no es lo suficientemente atractivo; parece más un anuncio para inversores que una estrategia efectiva para captar la atención de la audiencia. Se recomienda utilizar un enfoque más llamativo que genere interés desde el principio. Una vez que se logre esto, las transiciones entre secciones serán mucho más fluidas y naturales.
+
+En la parte de apertura, la gráfica que muestra los usuarios proyectados para 2025 presenta un año incompleto. Se sugiere omitir este año o prorrogarlo para evitar confusiones. Además, la escala de la gráfica no es clara y puede llevar a malentendidos. Es importante recordar que los costes son altos al inicio, ya que no hay ingresos, y a partir de ese momento, al lanzar el producto, los costes seguirán variando. Inicialmente, los costes son elevados y luego disminuyen a medida que el producto se ajusta a las necesidades de los usuarios.
+
+El coste inicial debe estar claramente vinculado al desarrollo del MVP. Se deben utilizar términos precisos y apropiados. Normalmente, se utilizan gráficos de barras y un gráfico consolidado; en este caso, la presentación no logra hacer una distinción clara mediante el uso de colores y justificaciones en la misma gráfica. Además, se debe aclarar el embudo de conversión, especificando qué porcentaje de usuarios se convierte en cada etapa del proceso.
+
+Se ha observado cierta confusión en el concepto de "open apex" y en el manejo de los problemas relacionados con la comisionación de compras. Es esencial aclarar estos puntos y tener cuidado al presentar la tecnología utilizada, especialmente si el equipo es responsable de su desarrollo. Para aquellos que están al fondo de la sala, sería más efectivo incluir un video.
+
+Es importante señalar que los riesgos que se mencionan son, en última instancia, problemas de comunicación. En lugar de enfocarse únicamente en modelos UML, se debe dar prioridad a la definición clara de la interfaz y los contratos que faciliten la interacción entre los diferentes elementos del proyecto.
+
+Por último, el despliegue debe planificarse con antelación, evitando integraciones continuas a última hora. Una acción clave es mejorar el sistema y establecer cómo mediremos la efectividad de la solución propuesta para el problema identificado.
+
+#### Preguntas para el Grupo 11
+1. ¿Cómo habéis calculado el tiempo de respuesta de cada miembro del equipo para el análisis de rendimiento?
+2. ¿Cómo habéis gestionado la comunicación entre el equipo de backend y el equipo de frontend para asegurar que las tareas se realicen correctamente?
+3. ¿El usuario de gestión debe registrarse previamente, o es un usuario reservado únicamente para la gestión?
+
+#### Feedback Positivo
+- El análisis de costes está bien representado y explicado, destacando los números principales.
+- La planificación de los futuros sprints está claramente explicada.
+- Buena organización en la gestión de los usuarios piloto.
+
+---
+
+### Grupo 10
+
+#### Observaciones Generales
+El "killer opener" es un buen inicio, pero puede mejorarse. Actualmente, plantea preguntas al público que asumen que la situación es negativa, lo que puede desconectar a quienes no se sientan identificados. Es importante reformularlo para que sea inclusivo y capte la atención de todos, incluidos los profesores. Además, debe evitar referencias al alcoholismo, ya que este tema puede no ser bien recibido en contextos multiculturales.
+
+En lugar de apelar a la mala vida nocturna, sería beneficioso explorar un enfoque más positivo y social, como asociarse a iniciativas de concienciación, lo que podría resultar atractivo y relevante. El nombre del proyecto, que está en inglés, puede no tener sentido si se dirige únicamente a un público español; se recomienda adaptarlo al contexto local.
+
+Se ha valorado positivamente la transparencia en la presentación de gastos, así como las transiciones entre las diapositivas, que han mejorado notablemente. Sin embargo, se observó que algunas gráficas son diferentes entre sí cuando podrían presentarse de forma consolidada. Es crucial explicar las razones detrás de las caídas en los meses cinco y seis y asegurar que las cifras sean claras y visibles.
+
+Además, se debe cambiar la referencia de "semana" a "meses" para reflejar adecuadamente la estimación de ingresos. Las gráficas son en general muy buenas, pero la estimación media debe reformularse para que refleje la estimación esperada, en lugar de promedios entre cifras optimistas y pesimistas.
+
+También se destacó que el concepto de "full stack" cubre un amplio espectro tecnológico. Si todos los miembros del equipo son considerados full stack, no es necesario hacer distinciones. Esto proporciona mayor flexibilidad en la organización del trabajo.
+
+En la demo, se sugiere simplificar el proceso de registro y login, centrándose en la reserva, que es el aspecto más importante. Los vídeos de transición deben ser más rápidos y estar mejor sincronizados. Se recomienda hacer zoom en las partes clave del video para mejorar la visualización.
+
+La diapositiva 15 presenta demasiado texto; sería más efectiva si se dividiera en tres partes y se utilizara más contenido visual y metáforas. Si se van a comentar problemas, es preferible abordarlos antes de la retrospectiva para que no se genere una percepción negativa.
+
+En cuanto a la gestión de los usuarios piloto, ha faltado información sobre el análisis del feedback recibido. Es importante que este feedback sea analizado, categorizado y priorizado, ya que esto influye en la replanificación del Sprint 2 y en la inclusión de tareas para abordar los comentarios recibidos.
+
+#### Feedback Positivo
+- Se ha elogiado la presentación de los gastos y se ha solicitado más movimiento en las transiciones.
+- Las gráficas han sido bien recibidas, aunque se recomienda explicar mejor la estimación de ingresos.
+
+---
+
+### Grupo 8
+
+#### Observaciones Generales
+La presentación no ha logrado captar la atención del público; ha sido bastante neutra en su enfoque. Se sugiere incorporar un elemento llamativo, como un muñeco, que podría generar interés y conectar con la audiencia. Aunque la explicación del proyecto es muy buena, carece de impacto y parece que se ha dedicado demasiado tiempo a detallar el producto. Es importante no alterar el MVP en esta fase.
+
+Además, la presentación incluye demasiada información en algunas partes, lo que dificulta la comprensión. El formato general es espectacular, pero la utilización de muñecos es inconsistente; en algunos casos, no transmiten el mensaje deseado. En la sección de competidores, es correcto mantener una homogeneidad en el formato, pero no hay que temer a utilizar colores llamativos, como el rojo, que pueden captar la atención.
+
+En los mockups, es esencial evitar el uso de texto de ejemplo como "lorem ipsum", y es positivo que se utilicen datos realistas en la demo para mostrar lo fácil que es introducir información. En lugar de requerir registro o login, sería suficiente con mencionar que estas funciones están disponibles.
+
+Es preferible contar la historia desde la perspectiva del usuario para mejorar la experiencia, lo que puede conectarse con el inicio efectivo. Además, se debe revisar la disposición de los elementos en la presentación, evitando que el botón de retroceso esté demasiado cerca de la esquina.
+
+En cuanto al equipo, se ha notado una estructura demasiado piramidal. Aunque son 15 miembros, no se puede considerar que sea un grupo excepcional. Para la toma de decisiones, es útil tener una jerarquía clara, pero cada uno de los estratos debe tener un propósito definido. Mantener esta estructura es beneficioso, aunque se sugiere que se asuman varios roles para fomentar una mayor colaboración.
+
+El análisis del rendimiento debe incluir la identificación de "code smells". Es crucial aplicar herramientas como Sonar para analizar el código y garantizar su calidad. Además, es recomendable realizar un análisis de cada Sprint durante los despliegues de la aplicación para poder observar la evolución y las mejoras a lo largo del desarrollo.
+
+Sería útil implementar un sistema de integración continua, utilizando Pull Requests (PR) para optimizar este proceso. Los desarrolladores deben tener la oportunidad de corregir el código que han entregado, lo que les permitirá aprender y mejorar. También es positivo que se analicen y prioricen los comentarios de los usuarios piloto, de los cuales se mantienen 8.
+
+Entendemos que encontrar usuarios piloto puede ser complicado, por lo que se podrían explorar nuevas estrategias para reclutarlos. En relación a la inteligencia artificial, se debe profundizar más en su análisis y no limitarse a describir su uso.
+
+#### Preguntas para el Grupo 8
+1. ¿Por qué se utilizan datos ficticios en la demo?
+2. En el análisis de rendimiento, ¿se debería abordar las amenazas como problemas y ofrecer soluciones?
+3. En la parte de usuarios piloto, ¿cómo se gestionará la comunicación para evitar la pérdida de opiniones?
+
+#### Feedback Positivo
+- La representación del MVP ha sido bien recibida, siendo clara y concisa.
+- La tabla comparativa de estimaciones y resultados es efectiva y facilita la comprensión del progreso.
+
+---
+
+### Grupo 7
+
+#### Observaciones Generales
+En la DEMO, se experimentó el "efecto pantalla azul", lo que dejó una impresión negativa en la presentación. La forma de dividir el contenido en distritos es interesante, pero sería beneficioso considerar la integración de Google Feed para incorporar dispositivos que puedan recoger información en tiempo real. Esto podría ofrecer ciertas ventajas, aunque es necesario prestar atención a los permisos requeridos por las aplicaciones móviles para asegurar una correcta funcionalidad.
+
+Es fundamental incluir los comentarios de la entrega para permitir modificaciones en las diapositivas, ya que esto es un requisito legal que no debe pasarse por alto. Además, se observa que, con respecto a los problemas no previstos, no se han actualizado los riesgos. Esto ha ocurrido porque los problemas han estado muy interrelacionados, y no ha habido tiempo suficiente para registrar cada uno de ellos.
+
+Se recomienda centrarse en lo esencial y evitar incluir información innecesaria o mal organizada. Si no hay aspectos destacados, es preferible mencionar lo que se ha cumplido y omitir detalles superfluos. Es crucial resaltar la evolución y el impacto de las penalizaciones en los futuros sprints.
+
+Se sugiere que se incluya un diagrama de Grant para facilitar la comprensión de los procesos, ya que la falta de claridad en el significado de los colores utilizados genera confusión y requiere un esfuerzo cognitivo innecesario. En cuanto al uso de la inteligencia artificial, se ha hecho un buen trabajo al proporcionar ejemplos y detalles. Sin embargo, es fundamental que se ofrezca suficiente información al respecto; de lo contrario, podría ser motivo para recibir una calificación baja.
+
+#### Feedback Positivo
+- La gráfica de comparativa de costes e ingresos está bien representada y es fácil de entender.
+- La división del mapa en distritos es innovadora y aporta interés a la presentación.
+
+---
+
+### Grupo 9
+
+#### Observaciones Generales
+Estéticamente, la presentación está muy bien elaborada. Se nota el esfuerzo en la calidad de la información y en cómo está estructurada, lo que la hace visualmente atractiva y fácil de seguir. Sin embargo, los porcentajes presentados en la parte inferior no han sido bien recibidos. Es importante que el equipo tome la iniciativa para abordar este aspecto.
+
+En relación a los usuarios piloto, es necesario filtrar el feedback recibido, ya que no todas las opiniones son relevantes. Si bien se pueden observar las tendencias, es fundamental que la información no se presente de manera aislada; en cambio, debe reflejar la evolución acumulativa mes a mes. Al superponer la curva de beneficios con la curva de pérdidas, la comprensión de la situación será mucho más clara.
+
+En la sección del equipo, es importante mostrar quiénes son, cómo generan ingresos y cómo trabajan. Sin embargo, se ha notado que no se incluyen fotos de los miembros del equipo. Aunque esto no es un problema en sí mismo, transmitir el número de integrantes es esencial. Las imágenes no deberían repetirse; si se presentan varias responsabilidades, es recomendable incluir una imagen que muestre al equipo y otra que explique los roles sin necesidad de fotos adicionales.
+
+Además, se debe contar con una matriz que refleje las responsabilidades de cada miembro. En cuanto a la evaluación, los decimales no aportan información relevante. Se debería marcar claramente el tiempo transcurrido y las horas trabajadas por cada persona, ya que actualmente no se visualizan correctamente en la evaluación del Sprint 1. Las horas totales no son útiles si no se contextualizan adecuadamente.
+
+Es fundamental comenzar a trabajar en la garantía de calidad, asegurándose de que todo esté debidamente probado. Algunas funcionalidades, como las APIs externas, pueden ser complicadas de probar sin cometer errores. Los sistemas de pago cuentan con un entorno de sandbox, pero se debe proceder con precaución en otras áreas. Además, los porcentajes presentados no permiten evaluar si son altos o bajos. Es crucial centrarse en corregir los aspectos con mayor incertidumbre de inmediato.
+
+#### Feedback Positivo
+- La funcionalidad de la aplicación es intuitiva y facilita la visualización del contenido.
+- La parte de lecciones aprendidas está bien estructurada y se aprecia el enfoque en el análisis del feedback recibido.
+
+---
+
+### Apuntes Finales
+
+#### Aspectos Contables
+Los conceptos de CAPEX (gastos de capital) y OPEX (gastos operativos) deben ser claramente diferenciados. Los activos son elementos con valor económico, y en nuestro caso, tratamos con activos intangibles que son difíciles de medir. Las horas de trabajo de una persona en el desarrollo de un producto se convierten en una inversión, y desde una perspectiva contable, esto implica transformar recursos en activos cuantificables.
+
+Es fundamental activar la investigación y desarrollo (I+D) para transformar conocimientos en activos. Las empresas que generan beneficios deben pagar impuestos correspondientes, lo que significa que las horas de trabajo se convierten en activos gestionables. Los gastos de personal son costos operativos, y es importante no confundir la necesidad de ser realistas en la estimación de ingresos sin limitar el diseño del producto a contextos específicos.
+
+La gestión de despliegues requiere atención para evitar la pérdida de funcionalidades. La automatización de la calidad del código con herramientas como Sonar es esencial, pero todos deben comprender su funcionamiento. En algunos proyectos, falta un informe adecuado sobre el uso de la inteligencia artificial, y no se está aprovechando la tecnología de manera efectiva, optando por construir sistemas desde cero en lugar de utilizar soluciones manuales.
+
+Al diseñar productos, se debe asegurar que no estén contaminados por restricciones innecesarias. Además, el uso de autenticación social podría facilitar el inicio de sesión mediante plataformas como Facebook o Google, eliminando la necesidad de gestionar usuarios y contraseñas. Finalmente, es importante tener en cuenta que herramientas como Copilot pueden no captar el contexto de manera adecuada.
+
+
+#### Para la Próxima Semana
+1. **Presentación de Impacto/Marketing:**
+   - Iniciar con la parte inicial del modelo de negocio.
+   - Crear una presentación que incluya un storyboard visual.
+   - Definir cómo se llegará a cada tipo de usuario e inversores.
+
+2. **Consideraciones para Inversores:**
+   - Enfocarse en la rentabilidad y en motivar a los inversores a comprar.
+
+3. **Elementos a Incluir:**
+   - Presentar el "killer opener" y la "elevator pitch".
+   - Identificar y analizar a los competidores.
+
+4. **Impacto Legal:**
+   - Incluir aspectos legales del proyecto (licencias, acuerdos con clientes, etc.).
+   - Analizar la Ley de Protección de Datos y su impacto en la planificación.
+
+5. **Aspectos Financieros:**
+   - Establecer una línea base para gastos e ingresos.
+   - Incluir estimaciones optimistas de ingresos y presentar proyecciones gráficas.
+
+6. **Estructura del Equipo:**
+   - Definir roles y responsabilidades dentro del equipo.
+
+7. **Mitad del Sprint:**
+   - Preparar una demo del avance del proyecto.
+
+8. **Casos de Uso y Desarrollo:**
+   - Establecer los casos de uso principales y destacar incrementos en el desarrollo.
+   - Comentar problemas y novedades con transparencia, utilizando datos reales.
+
+9. **Retrospectiva:**
+   - Analizar lo que ha ido bien y mal, enfatizando la garantía de calidad con datos relevantes.
+
+10. **Seguimiento de Usuarios Piloto:**
+    - Realizar un seguimiento del rendimiento de los usuarios piloto en el Sprint 2.
+
+11. **Objetivos Finales del Sprint:**
+    - Incluir pagos reales utilizando cuentas sandbox.
+    - Asegurar que la funcionalidad de pago sea una parte clave del producto mínimo viable.
+
+12. **Estructura y Detalles en el Proyecto:**
+    - La explicación del proyecto debe ser compacta e incluir anuncios.
+    - Identificar y abordar los problemas del primer sprint, minimizando su frecuencia en futuros sprints.
+
+13. **Costes e Infraestructura:**
+    - Revisar los costes de infraestructuras y de personal.
+    - Considerar la necesidad de un manager de gestión de datos y de mercado.
+
+14. **Diferenciación para el Sprint 2:**
+    - Mantener la misma estructura con actualizaciones en pagos reales, registro, usuarios piloto, y contratos.
+    - Incluir detalles sobre ingresos y tres tipos de escenarios, así como la gestión de OPEX y el personal en relación con aspectos legales y storyboards.
