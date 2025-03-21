@@ -2,6 +2,8 @@
 
 En esta página se recoge el feedback proporcionado por el profesor y los compañeros relativo a la **idea de negocio** en las presentaciones realizadas por los grupos durante las sesiones de clase. El objetivo principal es identificar los puntos fuertes y aspectos a mejorar con el fin de aprender de los errores y mejorar para el futuro.
 
+## Semana 03/02
+
 ## Semana 10/02
 - Definir claramente el público objetivo y el modelo de negocio
 - El modelo de negocio debe estar más centrado y especificado
@@ -23,3 +25,7 @@ En esta página se recoge el feedback proporcionado por el profesor y los compa�
 - Priorizar volumen de clientes/usuarios para la viabilidad del proyecto
 - Evaluar si el tiempo de respuesta para la devolución del dinero es suficiente, considerando imprevistos
 - Mejorar el análisis de ingresos con un caso realista
+
+## Semana 03/03
+
+## Semana 10/03

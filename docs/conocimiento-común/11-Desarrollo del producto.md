@@ -1,6 +1,6 @@
 # Desarrollo del producto
 
-En esta página se recoge el feedback proporcionado por el profesor y los compañeros relativo a la **desarrollo del producto** realizadas por los grupos durante las sesiones de clase. Se centra mas en temas y recomedaciones relaciones con desarrollo de productos software ya sea **tecnologia**, **CD/CI**, **testing** ect 
+En esta página se recoge el feedback proporcionado por el profesor y los compañeros relativo a la **desarrollo del producto** realizadas por los grupos durante las sesiones de clase. Se centra mas en temas y recomedaciones relaciones con desarrollo de productos software ya sea **tecnologia**, **CD/CI**, **testing**, etc.
 
 ## Semana 10/03
 - Implementar medidas robustas de calidad de código mediante la automatización de la medición (por ejemplo, con SonarQube)

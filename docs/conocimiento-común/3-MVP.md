@@ -17,10 +17,7 @@ En esta página se recoge el feedback proporcionado por el profesor y los compa�
 - Incluir un análisis claro de los ingresos y costos en el contexto del MVP
 - Asegurar que el MVP esté bien ajustado a la visión del producto y las necesidades reales del cliente
 
-## Semana 4
+## Semana 03/03
+- El MVP debe ser presentado en los primeros minutos de la presentación, de forma clara y concisa. Es imprescindible que se transmita de manera efectiva cuáles son las funcionalidades clave que lo componen y, posteriormente, se hable acerca de los competidores y la propuesta de valor.
 
-## Semana 5
-
-## Semana 6
-
-En el feedback de la Semana 6, no se ha mencionado nada relacionado con el **MVP (Minimum Viable Product)**, ya que este no formaba parte de los objetivos establecidos para esta semana.
+En próximos feedback, no se ha mencionado nada relacionado con el **MVP (Minimum Viable Product)**, ya que este no forma parte de los objetivos establecidos para la presentación.

@@ -4,8 +4,8 @@ En esta página se recoge el feedback proporcionado por el profesor y los compa�
 
 ## Semana 10/03
 - Preparar la demo en lugar de realizarla en directo
-- Asegurar su claridad mediante videos de respaldo
+- Asegurar su claridad mediante vídeos de respaldo
 - Focalizarse en lo esencial y en los incrementos
 - Incorporar elementos reales (como personas) para mejorar la conexión con el usuario.
-- Ajustar la velocidad de los videos para evitar que se perciban lentos y garantizar una experiencia dinámica.
+- Ajustar la velocidad de los vídeos para evitar que se perciban lentos y garantizar una experiencia dinámica.
 - Eliminar la inclusión de registros y procesos de login para agilizar la demo
