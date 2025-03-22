@@ -2,6 +2,58 @@
 
 En esta página se encuentra el feedback recogido por el equipo del grupo 1 durante las sesiones de clase. Con secciones para cada semana, se detallan los comentarios y sugerencias del profesor y los compañeros, así como las tareas a realizar para la siguiente semana. Además, se incluye una sección para cada grupo con el feedback proporcionado por el grupo 1.
 
+**INDICE**
+- [Grupo 1 - Holos](#grupo-1---holos)
+    - [Semana 1](#semana-1)
+    | [Semana 2](#semana-2)
+    | [Semana 3](#semana-3)
+    | [Semana 4](#semana-4)
+    | [Semana 5](#semana-5)
+    | [Semana 6](#semana-6)
+- [Grupo 2 - GastroStock](#grupo-2---gastrostock)
+    - [Semana 1](#semana-1-1)
+    | [Semana 2](#semana-2-1)
+    | [Semana 3](#semana-3-1)
+    | [Semana 4](#semana-4-1)
+    | [Semana 5](#semana-5-1)
+    | [Semana 6](#semana-6-1)
+- [Grupo 3 - EventBride](#grupo-3----eventbride)
+    - [Semana 1](#semana-1-2)
+    | [Semana 2](#semana-2-2)
+    | [Semana 3](#semana-3-2)
+    | [Semana 4](#semana-4-2)
+    | [Semana 5](#semana-5-2)
+    | [Semana 6](#semana-6-2)
+- [Grupo 4 - Borroo](#grupo-4----borroo)
+    - [Semana 1](#semana-1-3)
+    | [Semana 2](#semana-2-3)
+    | [Semana 3](#semana-3-3)
+    | [Semana 4](#semana-4-3)
+    | [Semana 5](#semana-5-3)
+    | [Semana 6](#semana-6-3)
+- [Grupo 5 - Camyo](#grupo-5----camyo)
+    - [Semana 1](#semana-1-4)
+    | [Semana 2](#semana-2-4)
+    | [Semana 3](#semana-3-4)
+    | [Semana 4](#semana-4-4)
+    | [Semana 5](#semana-5-4)
+    | [Semana 6](#semana-6-4)
+- [Grupo 6 - FisionFind](#grupo-6---fisiofind)
+    - [Semana 1](#semana-1-5)
+    | [Semana 2](#semana-2-5)
+    | [Semana 3](#semana-3-5)
+    | [Semana 4](#semana-4-5)
+    | [Semana 5](#semana-5-5)
+    | [Semana 6](#semana-6-5)
+- [Feedback de final de clase](#feedback-de-final-de-clase)
+    - [Semana 1](#semana-1-6)
+    | [Semana 2](#semana-2-6)
+    | [Semana 3](#semana-3-6)
+    | [Semana 4](#semana-4-6)
+    | [Semana 5](#semana-5-6)
+    | [Semana 6](#semana-6-6)
+
+# Grupo 1 - Holos
 ## Semana 1
 
 **Convivio**
@@ -143,6 +195,87 @@ App para venta de obras de artistas.
 - Felicita el uso de Canvas.
 - Le encanta la presentación.
 
+## Semana 5
+
+**Holos**
+
+## Feedback positivo de estudiante
+- Killer opener sencillo pero efectivo, toda la clase con la mano levantada.
+- Ha mejorado la tranquilidad que transmite.
+- Muestra claramente la responsabilidad de cada miembro del grupo.
+- Buenas diapositivas para los costes
+- Sinceridad con los problemas
+- Se pone solución a los problemas surgidos y se explica qué se hará.
+- Uso de tablero niko niko el cual es una métrica adicional útil.
+muy bien el final de la presentación en cuestión de tiempo.
+
+## Feedback negativo de estudiante
+- No llega a relacionar bien el problema con la solución.
+- Tardamos  en explicar a qué nos dedicamos, quizá sería buena idea ajustar el nivel de detalle.
+- No hemos hecho caso al feedback. Pablo nos sugirió eliminar el plan premium y sacar únicamente dinero por comisiones.
+- En algunos datos se usa el k para referirse a los miles y en otros no.
+- Gráfica no muy intuitiva del análisis de coste. Quizás el diagrama de barras no es la mejor idea.
+- La explicación de los porcentajes no ha quedado claro.
+- El ritmo de la demo es muy lento, No se ha preparado bien el video de la demo.
+- No se ve muy bien el video de la demo. Faltan zooms o tamaños de letra más grandes.
+- Mucho tiempo explicando el equipo, quizá sería adecuado ajustar el nivel de detalle.
+- Foto con marca de agua. Sensación de que no es provisional.
+- Anque va mejorando, el presentador repite todavia la muletilla “estilo” con cierta regularidad.
+- En la presentación se hace mención "tareas de CI/CD", quizás un usuario promedio que escuche la charla no sepa lo que es.
+- No hicimos caso al feedback: Nos comentaron que basar las métricas de rendimiento según el número de commits no es recomendable. Es muy falseable.
+- Las fechas de la gráfica del Niko-Niko están mal (21/02, 03/02, 21/02).
+- Da la sensación de una presentación poco preparada. Se ha dado mucha prisa al final. Demasiadas diapositivas (tenemos 40).
+
+## Feedback de profesores (Carlos)
+- Le ha gustado la idea de que haga que levantemos la mano, pero opina que tiene sus desventajas, como en el caso de que nadie la levante.
+- Le gusta la idea del proyecto.
+- El tema de trackear el uso de IA, pregunta como lo haremos. Él no lo ve sencillo​. Pero Portela se ha defendido muy bien (grande mi presi).
+- Estimar también el número de transacciones
+- Piensa que tenemos liado el Capex y el Opex.
+- En el tema de estimaciones lo ha hecho solo en base al número de artistas, pero si esos artistas no llevan transacciones pueden dejar de ser clientes. nos sugiere estimar también el número de transacciones
+- Le ha gustado “el plan B” de la demo, ir moviendo la barra del video manualmente. Muy bien reaccionado.
+- No se ve el texto en la demo.
+- El número de commits es una métrica que se puede pervertir. 
+- Necesita otras metricas que sirvan para medir el avance. 
+- Ojo con el despliegue. Lo avisa con tiempo. Si no se tiene cuidado nos podemos quedar sin creditos o sin espacio etc. 
+
+## Semana 6
+
+**Holos**
+
+App para venta de obras de artistas.
+
+## Feedback positivo de estudiante
+- Killer opener paseándose por la clase, algo nuevo.
+- El storyBoard está muy bien hecho y a mano además, somos consecuentes con el no uso de la ira en el arte..
+- Hila bien las transparencias y la temática.
+Usa lenguaje coloquial chocante: “Se jode”, por otra parte esto puede ser peligroso.
+- Los gráficos del coste son muy ilustrativos. 
+- Hace hincapié en las licencias, lo cuál no ha sido mencionado por ningún otro grupo.
+- Le da la importancia a la GDPR que debe tener, algo imprescindible.
+- Pone métricas a todos los problemas que hemos tenido y también a las soluciones
+- Calendario niko-niko único.
+
+## Feedback negativo de estudiante
+- Hay bordes negros, no se aprovecha al máximo las dimensiones.
+- La demo ha sido quizás demasiado lenta, distorsionando demasiado el audio.
+
+## Feedback de profesores (Pablo)
+- El tema del inicio efectivo, pablo plantearía algo mas enfocado a un hecho o una historia, que permita introducir más rapido el tema, por ej: picasso tuvo 4 intentos de suicidio cuando no fue capaz de tener los encargos a tiempo. (que se entienda el dolor y la necesidad del proyecto, que hay un problema que solucionar)
+- Le preocupa el tema de la IA, que es como un report, ya lo dijo que le parece un error, pues es imposible detectar si algo está hecho por IA o no, replantearnos el esfuerzo en ese aspecto, y que justifiquemos si de verdad es clave e interesante y diferenciador. No entiende nuestro valor diferenciador.
+- En la transparencia 11, no entiende las variaciones en los gastos y costes estimados. Dice que no está bien hecho porque hay que tener en cuenta las amortizaciones a lo largo del proyecto, la gráfica tiene muchísimos problemas.
+
+## Feedback de profesores (Cristina)
+
+- Inicio efectivo ha usado el storyboard, es ocurrente, pero no le ha quedado claro quien es el cliente. Asume que todos somos artistas. 
+- En las siguientes transparencias, dice “le interesa mucho a la clientela”, pero a Cristina no le queda nada claro quién es nuestra clientela.
+- En la diapositiva 11 (gráfica), no se ha entendido bien el eje x, porque no es nada intuitivo. Quizás sería mejor poner fechas.
+- “Tema licencia, Tema noseque…,” hay que intentar transicionar de forma más profesional.
+- La demo es genial, le ha encantado.
+- Vamos atrasados en cuenta a la implementación.
+- Algunas transparencias le han gustado mucho, pero en la traspa 25, más que soluciones son propuestas.
+- Medidas más cuantitativas para, medir mejor la evolución de los problemas, la intención solo no es suficiente.
+- En la traspa 30,31 hay que revisarlo un poco, hay una persona que ha hecho un 0% de tareas a tiempo.
 -------------------------------------------
 
 # Grupo 2 - GastroStock
@@ -284,6 +417,88 @@ Ayuda a la gestión de inventarios de bares y mejora de logística mediante IA.
 **Feedback de profesores (Pablo)**
 - No dio tiempo.
 
+## Semana 5
+
+**GastroStock**
+
+Ayuda a la gestión de inventarios de bares y mejora de logística mediante IA.
+
+**Feedback positivo de estudiante**
+- Empieza con energía. ​
+- Empieza desarrollando una historia con la que nos podemos identificar (estudiantes sin dinero). 
+- Inicio muy efectivo.
+- Deja claro su objetivo de negocio.
+- Diapositivas muy visuales, no están recargadas de texto. Tienen el texto justo.*
+- Aún con los problemas puntuales ha sabido actuar y los ha solucionado rápidamente sin perder el hilo.
+- Gráficas muy visuales.
+- Buena explicación de los costes donde se comentan los gastos ya cubiertos
+- Perfiles del equipo muy bien definidos.
+- Muy sinceros con sus problemas.*
+- Decisión muy valiente hacerlo en un TPV. Mucha curiosidad por ver cómo sale.*
+
+
+**Feedback negativo de estudiante**
+- Inicio no apto para todas las edades, ya que se centra en el caso de los estudiantes.  
+- Se han pasado del minuto que debe durar el inicio efectivo.  
+- Problema en la presentación.  
+- Mala coordinación presentando.  
+- Ha faltado mucha preparación.  
+- No han puesto K en los costes.  
+- No ponen la landing page.  
+- Han comenzado un modelo de negocio que depende de que los clientes trabajen el doble, y encima le piden que les den sus datos gratuitamente.  
+
+
+**Feedback de profesores (Carlos)**
+- Más tiempo dedicado a la retrospectiva, era interesante ir directamente a los problemas y no a que no funciona la app.  
+- ¿Coste de TPV? ¿De hardware?  
+- Promocionar un TPV no tiene mucho sentido.  
+- Analizar el porqué se ha llegado a esa situación.  
+- Han cambiado a un grupo más grande de WhatsApp en vez de subdividirlo, lo cual no sabe si es buena idea, ya que otros grupos partieron de un grupo grande y acabaron en subdivisiones.  
+- Hay que tomar cartas en el asunto, porque no lo ve claro, la cantidad de horas trabajadas es escasa.  
+- Cuidado con el lenguaje sexista, expresión: “estos tíos”, usar "camareros, camareras".  
+- Ha faltado preparación en la presentación. Se queja de las animaciones. Hace falta un plan B si hay algún problema con la presentación.  
+- Alaba su honestidad.  
+- ¿Esto es feedback o una ejecución pública?  
+
+## Semana 6
+
+**GastroStock**
+
+Ayuda a la gestión de inventarios de bares y mejora de logística mediante IA.
+
+
+**Feedback positivo de estudiante**
+
+- Killer opener que relaciona el problema con una solución
+- Expone muy calmado, quizás demasiado. Falta emoción.
+- Da información precisa sobre el costo de una TPV, lo cual no es de conocimiento común y aporta al contexto.
+- Crea un personaje “tio gilito” que retoma un poco la atención.
+- Los tiempos de la demo están más o menos bien cuadrados.
+- El chascarrillo sobre el nuevo integrante del grupo ha sentado bien.
+- Usa un lenguaje con impacto “las cabras del equipo”. En este entorno funciona.
+- Robo de de portátil a un compañero se toma como riesgo y se evalua.
+- Buena idea usar el ratón como pasante.
+
+**Feedback negativo de estudiante**
+- Killer opener muy largo, comparado con otros grupos no tiene el mismo impacto.
+- Es un poco monótono en el discurso, lo que provoca una pérdida de interés en el público.
+- Pasan muy rápido los competidores, dice que lo hace porque ya los conocemos, entonces por qué poner 3 diapositivas dedicadas a ellos.
+- El video de la demo no está muy preparado.
+
+**Feedback de profesores (Pablo)**
+- No se aporta información cuantitativa de nada. No se apoya en nada.
+- A partir de ahora lo normal es que un público común no entienda la parte más técnica de la presentación. Al no existir elementos cuantitativos, ha generado suspicacia, informalidad e inseguridad. Se piden datos como porcentajes de mejora, rendimiento….
+- Cuando se introduzca un dato cuantitativo, se debe introducir un contexto, si un inversor llega a ver si hay potencial y retorno de inversión, en la presentación dice que “obtendrán un x% del mercado”, el inversor no va a sacar una calculadora y a ponerse a hacer cálculos, se le deben entregar los números que permitan al oyente analizar si tus argumentos son o no creibles. (no un %, sino miles de euros por ejemplo, o no un % del mercado sino introducción en 500 locales)
+- La penetración de mercado se puede hacer como un estimado, si nos equivocamos pues bueno, pero está bien que se estime. (una estimación en dinero es mucho mas dificil que una en clientes, pues este primero es una consecuencia lógica del segundo)
+
+**Feedback de profesores (Cristina)**
+
+- Inicio efectivo bueno, pero muy largo. Dice detalles menos relevantes. Debe acortarse. Está bien alineado con la presentación.
+- Muy monótono. He empezado con energía, pero he bajado el nivel.
+- En los costes, la elección de colores debe ser intuitiva, lo bueno debe ir en verde y lo malo en rojo por ejemplo.
+- Demo muy mejorable, mucho “también puede ver”, hay que amenizar. Faltan personajes y guión, contar una historia.
+- Los anuncios no se ven bien. Replantearía muchas partes de la presentación. 
+- Faltan problemas, riesgos, storyboard…
 ----------------------------------
 
 # Grupo 3 -  EVENTBRIDE
@@ -466,10 +681,96 @@ Aplicación para gestionar eventos cristianos; bodas, bautizos y comuniones
 - El tema de “la cosa es que ChatGPT no nos haga la aplicación” no es un problema y sería válido que lo hiciera, pero tienen que echar 50 horas. Si lo hacen todo en 1h, el resto hay que echarlo en otras cosas.  
 - Es interesante saber si se van a tomar medidas con las **pull request** a la hora de integrar.  
 - Es más importante la fase **InReview** que la fase **Done**.  
+
+## Semana 5
+
+**EVENTBRIDE** 
+
+Aplicación para gestionar eventos cristianos; bodas, bautizos y comuniones
+
+**Feedback positivo de estudiante**
+- El mejor inicio en años. Incluso los fallos en la presentación han “casado” genial con el tono cómico.  
+- Muy acertados los chascarrillos.  
+- Han hecho caso al feedback (poner presupuestos con K).*+  
+- Gráfica de la rentabilidad muy clara.
+- Muy claros los roles de cada integrante del grupo.  
+- Demo guiada con un narrador. Decisión muy acertada.  
+- Se nota que han practicado la presentación, en todo momento sabían lo que venía a continuación.
+- Sinceros con los problemas.  
+- Reestimación de tareas para solucionar problemas.  
+- Diapositivas muy visuales, con el texto justo. En ninguna le sobra texto. 
+- Planificación de sprint clara y sencilla donde se entiende perfectamente las tareas destinadas a cada uno.  
+- Muy clara la gestión de usuarios pilotos en una sola diapositiva (intereses de los usuarios, etc.).
+- 30 diapositivas, cantidad justa para contar todo.  
+
+**Feedback negativo de estudiante**
+- Mucha información quizá en los costes.
+- En ocasiones acelera mucho su dicción.
+- Uso de IA un poco recargado.
+
+**Feedback de profesores (Carlos)**
+- La botella es un gran recurso para cuando no te acuerdas de algo.  
+- Estimación de rentabilidad: deben poner los datos en los que se basan para esa estimación.  
+- Las demos deben tener datos reales o al menos realistas.  
+- Audios de los vídeos más homogéneos.  
+- Le parece muy trabajada la fórmula de rendimiento. Poner los datos.  
+- El procedimiento para solucionar problemas está contado de manera demasiado genérica.  
+- Elasticidad a la hora de presentar: tener en cuenta qué cosas puedes contar extra si te queda mucho tiempo.  
+
+## Semana 6
+
+**EVENTBRIDE** 
+
+Aplicación para gestionar eventos cristianos; bodas, bautizos y comuniones
+
+**Feedback positivo de estudiante**
+- Muy buen killer opener que hila con la historia de la semana pasada y con el propósito de la app.
+- Miguel es un icono de la efusividad, lo cual hace que el killer opener sea más cómico.
+- Mucho entusiasmo y energía en la presentación.
+- Hablan sobre el seguimiento de un código de conducta, lo cual es muy interesante.
+- Muy interesante las menciones especiales.. Han hecho caso al feedback.
+- Tienen desarrolladas cuentas de instagram y tik tok.
+- Muy buen storyboard.
+- Han definido un público objetivo para el storyBoard.
+- Muy buena demo. Se escucha muy bien, hay zooms y tiene muy buen guión.
+- Buena autocrítica.
+- Muy buena presentación en el rendimiento.
+- Son sinceros con los problemas.
+- Buena velocidad mental para responder a las preguntas de los alumnos.
+
+**Feedback negativo de estudiante**
+- Sigue hablando muy rápido.
+- La fórmula se ve muy mal, podrían introducirla en latex.
+
+**Feedback de profesores (Carlos)**
+- Cree urgente que obtengan un pasante (para no tener que ir mirando al que pasa las diapositivas).
+- Muy bien enlazado el killer opener con el problema que solucionan. 
+- El storyboard lo ve MUY BIEN. Le ha gustado el detalle de dibujarlo a mano. 
+- En el anuncio, centrarse en bodas no es buena idea, porque das a entender que es lo único que haces.
+- Falta la viñeta final de pricing.
+- Diagrama de barras para ver la diferencia entre costes y ganancias.
+- Hay que destacar más la línea de costes. Se queda perdida.
+- Muy buenas las fórmulas, dan bastante detalle, pero falta algo más, quizás una pequeña gráfica para el rendimiento entre sprints (si va en aumento o decremento).
+- Marvilla de demo, le ha encantado. Imposible no estar atento a la demo. Lo único es cuando la octogenaria dice que es muy complicado y después que es una maravilla.
+- Falta gráfica para ver cómo evoluciona la calidad del código.
+- Lo bueno se copia
+- Hay que ser capaces de medir las soluciones. 
+
+**Feedback de profesores (Cristina)**
+
+- No hacer referencias a las semanas anteriores.
+- Cuesta seguir los números muchas veces, pues la única referencia que se da es: “Como se puede ver aquí”
+- En la trasparencia 8, la línea de corte ha de estar más destacada
+- En cuanto al equipo, le queda la duda si tienen un GDPR manager.
+- Diapositiva 27, se habla de problemas y luego de problemas encontrados, preferiría todos los problemas en la misma transparencia.
+
 --------------------------------------------------
 
 # Grupo 4 -  BORROO
 ## Semana 1 
+
+**BORROO**
+
 Aplicación para generalizar el alquiler de objetos, es de matchmaking-improved market
 
 **Feedback de estudiantes**
@@ -510,6 +811,9 @@ Quedan muchas mas cosas en el tintero, se le acaba el tiempo.
 
 
 ## Semana 2
+
+**BORROO**
+
 Aplicación para generalizar el alquiler de objetos, es de matchmaking-improved market
 
 **Feedback de estudiantes**
@@ -637,11 +941,91 @@ Aplicación para generalizar el alquiler de objetos, es de matchmaking-improved 
 - Dejar en claro las métricas que deben de seguir los QA para valorar la calidad.
 - No invertir demasiado tiempo en reuniones.
 - No han hecho enlace con los riesgos. ¿Se está aplicando los planes de contingencia?
+
+## Semana 5
+
+**BORROO**
+
+Aplicación para generalizar el alquiler de objetos, es de matchmaking-improved market
+
+
+**Feedback positivo de estudiante**
+- Inicio efectivo divertido (Don Ramón).  
+- Se visualizan muy bien los costes Capex y Opex, se puede observar perfectamente en qué va destinado cada parte gracias a esa división.  
+- Buena tabla comparativa.  
+- Deja claro en qué se centra su app y en qué se diferencia desde el principio.  
+- Utilizan "mil" en lugar de "K", pero han hecho caso al feedback.  
+- Gráfica del coste clara.  
+- Clara explicación de las responsabilidades de cada miembro del grupo.  
+- Demo muy clara y muy bien explicada por el presentador.  
+- Modelo de evaluación detallado para saber los aspectos que se tienen en cuenta y cómo se calcula.  
+- Diapositivas muy claras, con la cantidad de texto justa y necesaria. Muy visuales.  
+- Me ha parecido interesante cómo miden la calidad del código realizado.  
+- Sinceridad con respecto a los problemas que han tenido.  
+- En cuanto a las diapositivas de los problemas, me han gustado las transiciones de la explicación y su solución y cómo iban pasando a "Solucionados".  
+- Muy clara la planificación de los distintos Sprints.  
+- Buen detalle dejar el QR de la landing page al final de la presentación.  
+- Presentación muy bien preparada.  
+
+**Feedback negativo de estudiante**
+- Problemas con la demo
+
+**Feedback de profesores (Carlos)**
+- Respecto al killer opener: es muy buena idea cambiarle los colores a Doraemon y el nombre a Don Ramón.  
+- Muy buena idea hacer referencia a la época en la que estamos, como la Semana Santa o la Feria.  
+- Es normal que los costes sean altos al principio y después se reduzcan, ya que serán costes de mantenimiento. Cambiará la pendiente.  
+- El formato de los problemas le ha encantado.  
+- Ha faltado comentar cómo se ha medido si las soluciones a los problemas son buenas.  
+- Muy bien temporizada la demo.  
+
+## Semana 6
+
+**BORROO**
+
+Aplicación para generalizar el alquiler de objetos, es de matchmaking-improved market
+
+**Feedback positivo de estudiante**
+
+- Killer opener bueno, hila muy bien con su app
+- Vuelve a hilar la presentación con el killer opener.
+- El segundo storyboard que muestra es mejor que el primero. - Simple, pero muestra la funcionalidad.
+- Don Ramón nos acompaña durante la presentación.
+- No hay parte de la pantalla que se desperdicie, utilizan la completitud del espacio que tienen, dando una sencilla visión al público.
+- Incluyen métodos cuantitativos para evaluar el rendimiento.
+- Hace referencia a riesgos que se encontraron y sucedieron, y como la solución a estos ha resultado en una clara mejora en este sprint.
+- Han mejorado mucho la forma de presentar, ha sido más calmado.
+
+**Feedback negativo de estudiante**
+- Es el mismo killer opener que en la última presentación, si bien funciona, quizás seria buena idea innovar.
+- Mucho tiempo analizando competidores, no es necesario.
+- Storyboard muy escueto, solo dos imágenes y sin mucho sentido. El segundo anuncio mejora.
+- El video demo no está mal, pero no tiene voz ni guion ni personajes.
+- Las imágenes en usuarios piloto no tienen ningún tipo de relación con lo que se está hablando.
+- Presentación muy larga.
+
+**Feedback de profesores (Pablo)**
+
+- No usa K, usan mil y recomienda poner K.
+- Insiste en que en la gráfica de revisiones de estimaciones (10), se debería entender la diapositiva en términos de qué significa, lo de k € viene recogido en la RAE y debe ser lo utilizado en su opinión. Si lo que hay que analizar en la gráfica es si es realista, hay que entender de donde salen los números, y para entenderlo bien hay que entender la atracción estimada (volumen de transacciones, clientes atraídos), para yo estimar cómo de realista es, deberíamos estimar cuántas transacciones se realizarán.
+- Desde el sprint 1 debe haber feedback de los usuarios piloto y que la usen, por ahora no han podido usarla los usuarios pilotos, a día de hoy si no se ha podido usar todavía, vamos fatal. Estamos en peligro.
+- Las transparencias genéricas no son buena idea, si en una transparencia no hay algo específico del proyecto, hay que repensar si es necesario ponerlo, pues si es algo común a todos los proyectos, nohace falta ponerlo.
+- Lo de la solicitud de alquiler le ha sorprendido, pues era su valor diferencial y lo han dejado para el Sprint 2, todos los esfuerzos han de ir dirigidos al valor diferencial en contra de la competencia.
+
+**Feedback de profesores (Cristina)**
+
+- En la transparencia número 4, el storyBoard le ha parecido poco ocurrente y bastante simple, con la imagen no se describe la historia que proclaman sigue.
+- No intenta convencer a ningún inversor, tienen que decir, cuánto tienen que abonar y cuánto ganarán.
+- En la traspa 23 (rendimiento del equipo), cuando dicen que todos han sacado un 10, ¿han cumplido todos con todo?
+- En la 38 (IA), la diapo es muy genérica, se habla mucho pero hay poco, se podria decir que herramientas IA se han usado, como, debe ser más completa la traspa.
+- Trampas sin título han sido corregidas, aquí han seguido el feedback
+
 -----------------------------------------------------
 
 
 # Grupo 5 -  Camyo
 ## Semana 1 
+
+**Camyo**
 
 App para juntar camioneros con empresas
 
@@ -666,6 +1050,8 @@ Poner datos en crudo que ni se ven es mala idea, decidir que nivel de informaci�
 
 
 ## Semana 2
+
+**Camyo**
 
 App para juntar camioneros con empresas
 
@@ -795,6 +1181,96 @@ App para juntar camioneros con empresas
 - Le encanta la transparencia 25. Mezcla muy bien texto con iconos.
 - Mucho tiempo sin apoyo visual en alguna transparencia.
 - No han puesto de forma visual la replanificación y sería una buena idea.
+
+## Semana 5
+
+**Camyo**
+
+App para juntar camioneros con empresas
+
+**Feedback positivo de estudiantes**
+- Inicio efectivo que continúa la historia de anteriores presentaciones.  
+- Diferenciación muy clara en la tabla de competidores.  
+- Han hecho caso al feedback en costes al poner la K.  
+- Costes muy claros.  
+- Gráficas muy claras, muy limpio el diseño. Además, han puesto las suposiciones que han hecho para sacar las gráficas.  
+- Diapositivas visuales, con el texto justo.  
+- Hila muy bien de una diapositiva a otra (transiciones), se nota que se ha practicado.  
+- Expone a un ritmo perfecto, no va apurado ni despacio. Conoce de sobra el contenido de la presentación.  
+- Gestión de los usuarios pilotos indicándose las funciones a probar, para obtener el feedback de estas.  
+- Muy claros los puestos de cada miembro del equipo.  
+- Video demo genial, con un narrador y un guión muy original.  
+- Vídeo demo mostrando la app desde los dos perfiles que tienen como objetivo. Muy bien pensado.  
+- Muy sinceros con los problemas.  
+- Resolución muy clara de los problemas.  
+- Métricas muy buenas para medir las alucinaciones de la IA.  
+- Muy clara y bien explicada la planificación de los Sprints.  
+- Buen detalle dejar el QR de la landing page al final.  
+
+
+**Feedback negativo de estudiante**
+- No procede.
+
+**Feedback de profesores (Carlos)**
+- El icono de la demo indicando el rol que usa la aplicación es muy bueno.  
+- Le ha gustado mucho las métricas (de IA).  
+- Podrían meterse ellos mismos en los iconos. Ayuda para enlazar el killer opener con la demo y que quede todo muy hilado.  
+- Deben revisar Capex y Opex, deben desglosarlo.  
+- Son el primer grupo que plantea bien el problema y la solución.  
+- Le gusta la gráfica que se cruza con costes y presupuestos.  
+- En cuanto a los usuarios piloto, asumen que todo el feedback son errores; ellos dicen que no.  
+
+## Semana 6
+
+**Camyo**
+
+App para juntar camioneros con empresas
+
+**Feedback positivo de estudiantes**
+
+- Buen killer opener
+- Presentación muy visual
+- Muy buena la traspa de los costes.
+- Muy buena cantidad de diapositivas.
+- Muy buenos datos de usuarios piloto.
+- Comenta peticiones de los UP, muy interesante
+- Demo completa, se muestra la funcionalidad completa.
+- Han resuelto bien sus problemas de carga de trabajo de backend y frontend.
+- Han tomado medidas para la planificación del proyecto creando todas las issues en el primer día.
+- Han hecho caso al feedback y han añadido los empleados de la semana.
+- Termina con el QR de la landing page.
+
+**Feedback negativo de estudiante**
+
+- Presentador nervioso. Da paseillos.
+- La demo no se ve bien y tampoco se escucha muy bien.
+- Es importante vocalizar en la demo, no se entiende.
+- Muy larga la demo.
+
+**Feedback de profesores (Carlos)**
+
+- He empezado más nervioso de la cuenta por el problema técnico, hay que empezar como si nada hubiera pasado.
+- El storyBoard necesita un usuario target definido, sino no funciona, si quieres centrarte en un público objetivo tienes que dedicarle a ellos el storyBoard.
+- El killer opener le ha gustado, aprovechar elementos del momento siempre está muy bien, pero le sigue faltando una mejor conexión con la demo.
+- Capex y opex bien interpretados
+- Tienen separado costes y ganancias y no le permite unirlo todo. Una gráfica de corte puede quedar bien (Gastos/Ingresos).
+- Ha dicho muchas cosas sin apoyo visual, esto puede hacer que los oyentes desconecten.
+- La demo se escucha y se ve poco.
+- El audio lo ha grabado una sola persona y deberían ser dos.
+- En la traspa 19 (reloj de avance del proyecto) hay demasiada incertidumbre.
+
+**Feedback de profesores (Cristina)**
+
+- Inicia muy bien la presentación.
+- Un poco rápido, la primera parte se la han perdido, tras los competidores, lo que hace la app en el storyboard no se ha entendido
+- ¿A quién va dirigido el storyBoard? Quizás haya que hacer un storyBoard por cada usuario target.
+- Le gusta el enfoque del ámbito legal, las conclusiones y decisiones le gustan.
+- Cuidado con la expresión. «Bueno, ¿Cuánto costamos?», hay que intentar matizar bien los términos que se usan. También usa «Competición» en lugar de competidores. Hay que corregirlo.
+- No le ha quedado claro si han clasificado o no el feedback de los UP, es importante clasificarlos por importancia para el sprint 3.
+- La demo no se ve bien, no se escucha bien, y se hace monótona.
+- Le falta el email de contacto en la última transparencia.
+- No han tenido ningún problema en la retrospectiva, esto le resulta raro.
+
 -----------------------------------------
 
 
@@ -947,5 +1423,382 @@ App para consultas de fisioterapia
 - La **demo** no se veía.  
 - Han personalizado bien el **análisis de rendimiento**.  
 - **Uso de prompts**.  
+
+## Semana 5
+
+**FisioFind**
+
+App para consultas de fisioterapia
+
+**Feedback positivo de estudiante**
+- Killer opener espectacular. Han hecho caso al feedback: relacionan el problema que pretenden resolver.  
+- Todos los rangos de edades pueden sentirse identificados con el killer opener.  
+- Tabla de competidores muy visual.  
+- Van a un ritmo que hace que se mantenga la atención.  
+- Han seguido el feedback y los costes son redondeados (uso de K).  
+- No han dejado solo al manager para la asignación de tareas.  
+- Son sinceros con respecto a las horas trabajadas y toman medidas para subsanar el problema.  
+- Las transparencias de los costes se ven muy bien, todo muy claro.  
+- Tamaño de letra muy bueno.  
+- Equipos explicados de manera muy clara, con un nivel de detalle adecuado.  
+- Demo muy visual, va explicando todo a medida que sucede. Va al grano.  
+- Han logrado implementar el caso de uso core que tenían, su factor diferencial.  
+- Han hecho caso al feedback y han puesto al final las lecciones aprendidas.  
+- Se nota que han practicado la presentación.  
+- Han bajado el número de diapositivas, han hecho caso al feedback.  
+
+**Feedback negativo de estudiante**
+- No han hecho caso al feedback de la semana pasada con respecto a decir qué van a enseñar en el video de la demo antes de ponerlo.  
+- Se ve un poco pequeña la demo, pero mejor que la semana pasada.  
+- Quizás vaya demasiado rápida la demo, apenas da tiempo a observar bien todo.  
+
+
+**Feedback de profesores (Carlos)**
+- Han empezado un poco rápido.  
+- No entiende muy bien la parte del video donde dice que “pierde todo el día”. Propone que se vea más claro, como por ejemplo en la consulta de un fisioterapeuta esperando.  
+- Felicita la presentación en general (usa el adjetivo espectacular).  
+- Le han gustado mucho las gráficas pesimista, optimista y esperada.  
+- Dice que en la pesimista se es muy pesimista, debe ser algo menos pesimista.  
+- Más énfasis en los porcentajes de las estimaciones.  
+- Muy bien hilado.  
+- No se veía muy bien la descripción de cada párrafo de la demo.  
+- Bien resumido el análisis de rendimiento de compañeros.  
+- Le parece extraño el mecanismo de quitar puntos.  
+- Bien planteado el tema de los riesgos. Pregunta si ha habido problemas con los riesgos identificados, dice que falta en la presentación.  
+- Deben medir si el foro está funcionando. Hacer una métrica de dudas planteadas y dudas respondidas para comprobar si está funcionando.  
+- ¿Cuánto feedback de usuarios pilotos han añadido a historias de usuarios?  
+
+## Semana 6
+
+**FisioFind**
+
+App para consultas de fisioterapia
+
+**Feedback positivo de estudiante**
+
+- Killer opener muy bueno. Una historia que une con el problema. 
+- Ataca a la sanidad pública.
+- Buena idea cambiar los presentadores en una semana intermedia.
+- El presentador se nota preparado.
+- Hace referencia a las Theory Pills, para marcar su seguimiento.
+- Buen cambio en el CA, al cambiar la penalización por un sistema de recompensas.
+- Introduce los 3 mejores miembros del equipo en la semana.
+- Utilizan lo que funciona en otros grupos y lo toman como suyo.
+- La presentación se ve muy bien. Mantiene un diseño homogéneo muy bueno. Muy visual.
+- Son conscientes de que una solución dada a un problema del sprint anterior se ha convertido en un problema (Foro de FAQ).
+- Muy buena idea el meme de la semana.
+- Costes claros.
+- Hace buenos chascarrillos durante la presentación para retomar la atención de la audiencia.
+- Termina con toda la información y del QR.
+
+**Feedback negativo de estudiante**
+
+- Tiene una dicción demasiado rápida a veces. Pero no parece nervioso.
+- Se para mucho en los competidores.
+- Añaden una métrica y luego le restan valor diciendo que no es representativa del estado actual del proyecto.
+- Demo muy rápida, sin zooms y sin voz ni, evidentemente guion. Muy por detrás del resto de la clase. Es importante copiar lo bueno.
+- La demo no da tiempo a ver bien, va muy rápido,  hay pantallas donde la letra es muy pequeña.
+- La demo va tan rápida que se ha perdido con la presentación. 
+Storyboard muy breve. Y en un estado precario.
+
+**Feedback de profesores (Carlos)**
+
+- A Dani le ha faltado un poco de energía al presentar.
+- Lo que le faltaba al supermega anuncio de Guadalupe era lo que hoy ha comentado Miguel.
+- La mezcla sería estupendisima y divina de la muerte
+- Hay que pensar formas más efectivas de hacer graficas. Como gráficas acumulativas para ver todas las tasks que están en to do, in progres…
+- Los carteles que explican la funcionalidad pasan muy rápido. Podrían ponerme más tiempo o ponerlo a un lado.
+- Ya están contemplando el tema de aspectos legales, esto le gusta mucho.
+- Deberían copiar algunas métricas que funcionan en otros grupos o dar un mayor nivel de detalle en las suyas propias.
+- El sistema de recompensas debería ser gratuito. (Dejar que él elija primero la issue que quiera hacer)
+- En las transparencias 19 y 20. Falta evolución de los problemas encontrados. Falta ver si la solución es eficiente,
+- Cambiar los colores de abierto y cerrado. Sale abierto en verde y cerrado en rojo.
+- Medir cuán alcanzable es el objetivo hasta la fecha.
+
+**Feedback de profesores (Cristina)**
+
+- Buen inicio efectivo, deja bien claro lo que no existe para que en el elevator pitch se destaque lo positivo. Bien ensayado el discurso.
+- Ha mejorado mucho la apariencia visual. Le gusta mucho, es muy profesional.
+- Han dedicado mucho tiempo en los competidores.
+- Buen guiño a la píldora teórica.
+- Mucho implementado
+- La demo no se ve bien, es muy pequeña.
+- Los jueves el aula está reservada, se lo recuerda al grupo por algo.
+- Pregunta cómo se mide el rendimiento del equipo.
+- Esperan ver todas las semanas el rendimiento.
+- La métrica a veces es un objetivo y otra cosa es la evolución para llegar al objetivo, ponerlo en una misma columna de métrica no es adecuado.
 ------------------------------------------
 
+# Feedback de final de clase
+
+## Semana 1
+
+
+- Commitment agremment firmado <br />
+- Sistema gestión del tiempo (clockify)
+- Presupuesto temporal<br />
+- Velocidad presentación bien 2do turno, eficiencia de las presentaciones<br />
+- Identificación de los roles, ajustado a los tiempos que tenemos<br />
+- Indicar el TCO<br />
+- Centrarnos en lo que nos piden, con todo el detalle que comentemos<br />
+- Analizar el DAFO vs Describir el DAFO
+- Mejor analizar en como neutralizar debilidades y amenazas <br />
+- Claro modelo de negocio, planes de precio<br />
+- Casos de uso core
+- Qué funcionalidad está dispuesto el usuario piloto a pagar, que no ofrezcan otros
+- Refinar la idea clave de negocio. Business Statement (frase, intro interesante, etc.)<br />
+- Análisis de competidores
+	Profundizar, analizar, y si es necesario, pivotar.
+Tiene que quedar claro <br />
+- Lista exhaustiva, y no evidente <br />
+- En la presentación lo que se pueda asimilar, no todo. Ya luego se puede preguntar
+Usuarios pilotos  <br />
+- Más de 12 usuarios pilotos, mínimo. Normal de 20 a 30, de cada tipo
+- Si hay problemas encontrándolos, no está claro el objetivo o no hay mercado
+- Segmentar para ver quién llamar si falla
+- Ver cómo interactuar con ellos
+- Yo creo que reuniones de 1 hora, en general mejor. Por subgrupos. Cada reunión de unos 10 a 15 min, a poder ser<br />
+
+MVP, casos uso core<br />
+Mockup entendido como algo centrado en la funcionalidad<br />
+Grado Innovación, lo que hay por detrás<br />
+Composición, soft skills<br />
+Comentar el commitment agreement<br />
+El estado, si firmado, lo que queramos resaltar IA <br />
+Empezar a pensar en un análisis de riesgos inicial<br />
+¿Qué puede hacer que sea un fracaso el proyecto? Planes de contingencia y demás<br />
+
+## Semana 2
+
+- Anexos: Commitment Agremment, con responsabilidades y demás, reflejado aquí
+    - Si no se cumple con algo, hay un responsable
+    - Todo plasmado
+- Presentación: También si no se ha cumplido algún punto, por qué (anónimo o con responsable)
+    - Versionados para el CA también
+- En lugar de echar del grupo, penalizaciones. Hemos sido muy estrictos quizás
+    - Lo comentan sobre todo por nosotros
+    - Reencaminar la situación
+- Puntuaciones entre nosotros:
+    - Hay que hacerlo en cada entregable
+    - Va a tener impacto en la nota al final
+- Nos subirán Failure conditions, para saber qué no falla seguro, porque si no suspenso:
+    - Un riesgo es un evento que puede causar pérdidas económicas en 
+        - Los más importantes en la presentación
+        - Priorizarlos
+        - Acciones para mitigarlos
+    - TCO general, por meses, facturación mensual no por año
+        - Sin iva, porque es el total y el iva va por otro lado
+        - Los costes de la empresa es distinto del salario bruto del neto
+        - Tener en cuenta el problema del coste para la empresa
+        - Añadir coste de GitHub para desarrollo
+    - Termino para los servicios
+        - COSTES DE PSG2, por los servicios
+        - Añadir en las transparencias los valores entre general y específico, con la prueba del algodón (que se vea)
+        - 16 min de presentación
+            - 40 o 50 diapositivas no es viable
+            - Son estrictos hasta la médula. Ni un segundo de más, pero acabar en el último minuto
+            - Asistencia obligatoria
+            - Se pedirá feedbacks voluntarios, o lo piden
+            - Atender sí o sí, propuestas o cosas positivas
+            - Test corto de teoría, traer portátil
+    - Qué esperan ver:
+        - Elevator speech, describiendo muy bien la temática, que capte la atención del público
+        - Tipo de negocio
+        - Análisis de competidores
+        - Analisis preliminar de TCO
+            - Personal
+            - Proyecto
+            - Apoyo, (Github, office, etc)
+            - Licencias
+            - Costes indirectos
+            - Mantenimiento
+        - Gestión usuarios pilotos
+            - Píldoras teóricas
+        - Mockups más específicos, con finalidad para el Sprint 1
+            - La idea es que en el S1 estén todos estos casos de uso
+        - Innovación
+        - Stack tecnológico
+        - Plan de gestión de riesgos
+        - Equipo
+            - Buena imagen, ver los miembros
+            - Imagen corporativa
+                - No papá noel
+                - Uniforme, Skills
+        - Desarrollo
+            - Plan gestión calidad
+                - Ante fallos, cómo medir y solucionar
+            - Modelo rendimiento del equipo
+                - Cómo van cada semana
+                - Cuantitativo
+            - Stack tecnológico
+                - GitHub
+                - Actions
+                - Projects (es bueno por aquí, porque se monitorizará finalmente)
+                - Controlemos CD/CI
+            - Gestión del código
+                - De cara a los S1/2/3
+                    - Cómo etiquetar, versionado del código
+            - En los entregables hay varios despliegues, estáticos, para que queden fijos, y así pueden mirarlos siempre
+                - Importante en dónde lo desplegaremos, que ahí estarán los 5 despliegues
+                - Todas las elecciones hay que verificarlas si se pueden llevar en esos despliegues
+                - Análisis para ver que siempre se pueda acceder al final ahí
+            - Landing page, privada con acceso a los profes
+                - Con email, resumen equipo, etc
+                - Última diapositiva, con QR para poder acceder
+    - Planificación
+        - División de casos de uso en cada Sprint, más concreto para el Sprint 1. Cuánto podemos tener implementado para el siguiente sprint
+- Reporte uso IA
+- Presentar con el nivel de detalle importante. Si nos piden más detalle, otras diapositivas
+- Landing page:
+    - “Despliegue”. Google Sites por ejemplo
+
+## Semana 3
+
+- Para facilitar la obtención de más feedback, las presentaciones se limitan a 15 minutos. Es necesario recalcular el tiempo disponible para el feedback.
+- En relación a los usuarios pilotos, el plazo para apuntarse finaliza hoy a las 20:00.
+- Todo lo relacionado con la evaluación debe ser cuantitativo y objetivo, utilizando métricas claras como tareas completadas, horas registradas en Clockify y el ratio de respuesta.
+
+**Introducción (15-20% del tiempo)**
+
+- Killer opener: Comienza con algo impactante que capte la atención.
+- Elevator pitch: Breve y claro resumen de la propuesta de valor.
+- Resumen de análisis de competidores: Incluir una tabla comparativa con los diferenciadores clave, realizando un análisis rápido.
+- Resumen de análisis de costes: Explicar brevemente los aspectos clave de costes.
+- Equipo (10%): Presentar al equipo y sus roles, destacando el compromiso y cualquier situación relevante en el "commitment agreement".
+
+**Prototipo (15%)**
+
+- Capturas de pantalla de código: Mostrar ejemplos relevantes del código para evidenciar el trabajo realizado.
+- Videos concisos: Incluir videos que vayan al grano y aporten valor real, demostrando funcionalidades clave.
+- Tecnología aplicada: Explicar cualquier tecnología utilizada para mejorar el desarrollo.
+- Análisis del rendimiento del equipo: Describir cómo cada miembro contribuye y las tareas que realiza.
+- Productividad de cada miembro: Incluir métricas de productividad de los miembros del equipo.
+- Trazabilidad y gestión de riesgos: Mostrar cómo se identificaron los riesgos, el estado actual de los mismos y cómo se están gestionando.
+- Lecciones aprendidas: Presentar los aprendizajes obtenidos de cualquier problema enfrentado.
+- Reloj de avance del proyecto: Incluir una visualización clara de cuánto tiempo se ha invertido y cuánto queda por completar.
+
+**Planning (15-20%)**
+
+- Reestimación del sprint 1: Ajustar los objetivos finales del primer sprint con base en el progreso actual.
+- Estimación de los sprints 2 y 3: Presentar estimaciones de tiempo y objetivos para los siguientes sprints.
+
+**Gestión de usuarios pilotos (10%)**
+
+- Usuarios pilotos: Detallar cuántos usuarios piloto se tienen, su tipo y una agenda para trabajar con ellos.
+- Proceso de contacto: Explicar cuándo y cómo se contacta a los usuarios pilotos, el tiempo que se les da para responder, cuándo se les entregará el software y cómo se recibirá su feedback.
+- Planificación temporal: Asegurarse de que la planificación del trabajo con los usuarios pilotos sea clara y concisa.
+- Responsabilidad del feedback: Es importante recordar que la responsabilidad del feedback es del equipo, no solo de los usuarios. Facilitarles la tarea puede ser clave, por ejemplo, proporcionando plantillas para facilitar la recopilación de feedback.
+
+**Uso de IA**
+
+- Resumen del uso de IA: Explicar cómo se ha utilizado la inteligencia artificial durante el sprint 1 y sus beneficios.
+
+**Presentaciones más técnicas**
+
+- Analizar problemas reales: Analizar casos reales y problemas concretos que se hayan enfrentado durante el desarrollo del producto.
+- Recomendación para el próximo despliegue: Sugerir realizar el despliegue para la siguiente sesión, basándose en los avances actuales.
+
+## Semana 4
+
+
+- Siguiente clase evaluación.
+- 15 minutos para presentar.
+- Asistencia obligatoria, test.
+- Nueva píldora teórica.
+- El contenido de la presentación no cambia.
+- Se espera ver:
+  - Killer opener 1 minuto.
+  - Elevator pitch 30/45 seg.
+  - Resumen del análisis de competidores.
+  - Resumen de análisis de costes (concepto TCO, diferenciar capex y opex?).
+  - Estimación a corto 4,6 meses (desde ya) y a medio 1,2 años de los gastos y los ingresos. Gráficas. Tres curvas: la pesimista, optimista y esperada. (ESTO NO SE PIDIO ANTES).
+  - Situación actual respecto al total esperado (Seguimiento).
+  - Ingresos, justificar de donde vienen y justificar a donde van.
+  - En gastos: 3 curvas: Pesimista, optimista, esperada.
+  - Equipo max 2 minutos.
+  - La demo que se vea.
+  - Pensar en formas más amenas de presentar la demo. Editar el vídeo, por ejemplo.
+  - Demo con casos de uso core (15%?).
+  - Retrospectiva:
+    - Análisis de rendimiento de equipo 1 traspa con productividad y análisis del equipo.
+    - Resultados automatización y análisis del código.
+    - Problemas con su estado abierto, solucionado…
+    - Lecciones aprendidas.
+    - Medición: forma de saber si está funcionando el mecanismo de solución del problema.
+  - Reloj del avance del proyecto (inversión respecto a esperado).
+  - Medir la calidad del software.
+  - Gestión de usuarios piloto:
+    - No hace falta comentar cómo hemos captado los up.
+    - Ya no nos centramos en la captación de usuarios pilotos, los que tenemos son los que son, estamos en el periodo de gestión. Cómo los gestionamos.
+    - Cuántos tenemos.
+    - Los roles que tienen.
+    - Cómo nos comunicamos con ellos, cómo gestionamos su feedback, fechas…
+    - Cómo se gestionan de cara al S2.
+  - Necesitamos ya feedback de los up.
+  - Planificación para el sprint 2.
+  - Si afecta, planificación para el sprint 3.
+  - Reporte del uso de la IA. Analicemos la salida.
+  - Última diapositiva landing page.
+  - Más la documentación de la failure conditions: Utilizar markdown no pdfs.
+
+## Semana 5
+
+- Usar enlaces en Markdown.  
+- Usar [contributors](https://docusaurus.io/docs/markdown-features) del README de Docusaurus.  
+- Incluir licencias que estemos usando (informarnos de estas).  
+- BCC: ¿Hay protocolo para controlarlo? Muy pobres los informes de aportaciones a la BCC.  
+- Evidenciar el trabajo en los Markdown, a nivel de implementación, de Clockify, etc.  
+- Automatizar métricas y otras cosas.  
+- Informes de tiempo invertido individuales.  
+- Incluir "empleado de la semana". Un ranking. Póngase el top 3. Destacar en positivo los que más han trabajado.  
+
+- 15 mins presentación.  
+- Killer opener de 1 min.  
+- Elevator pitch que enlace con el killer opener. Si se enlaza bien, queda en una frase.  
+- Análisis de competidores.  
+- Storyboard de un anuncio:  
+  - Anuncio usuarios.  
+  - Anuncio inversores (totalmente distinto a los otros: datos, cifras, etc.).  
+  - Anuncio clientes.  
+- Implicaciones legales (GDPR obligatorio).  
+- ¿En qué afecta el GDPR en la implementación? Recomienda asignar a alguien encargado de esta parte.  
+- Haced términos y condiciones.  
+- CapEx es gasto capitalizado.  
+- Estimaciones a corto, medio y largo plazo.  
+- Demo con datos reales o realistas a partir de ahora.  
+- Gestión de UP para el S2.  
+
+## Semana 6
+
+- Proximo dia evaluación, ver las píldoras teóricas.
+- Sugiere no hablar mucho de las reuniones en las presentaciones. Sugiere también un calendario compartido para llevar a cabo las reuniones.
+- Recomienda tener un changelog para tener un seguimiento.
+- fix, docs, feats, son etiquetas que nos recomienda usar para mejorar el historial
+- Pilot User Commitment Agreement con los estudiantes.
+- Tener cuidado a la hora de salir y entrar.
+
+- Introducción killer opener max 1 min
+- Elevator pitch 30 seg
+- Análisis de competidores al grano
+- Storyboard de otro target (usuario, cliente, inversor)
+- Customer agreement (clausular no abusivas a ser posible)
+- Princing
+- Acuerdo de nivel de servicios
+- Implicaciones con apis a nivel de terceros que quiza debamos añadir, si tienen repercusión. 
+- SLAs
+- Implicación en la implementación
+- TCO igual que hasta ahora
+- Resumen del equipo y roles.
+- Commitment Agreement Status.
+- Demo mejorar.
+- retrospectiva sprint 2
+- Añadir un gráfico (matriz de rendimiento y esfuerzo con 4 cuadrantes, arriba derecha alto rendimiento y esfuerzo, alto rend y poco esfuerzo, poco rend poco esf…)
+- Resultado de análisis de software
+- Problemas encontrados: Además del estado, decir explícitamente acciones concretas de cómo se ha abordado o se está abordando el problema y tenemos que evaluar de alguna forma estas soluciones. (ha servido la solución o no) y lecciones aprendidas
+- Reloj del avance del proyecto con rendimineto y esfuerzo
+- Gestión de usuario piloto, feedback recibido, comunicación con ellos…
+- Planificación y replanificación (de cara al sprint 3)
+- (S3) Aspectos de seguridad: Validar cuentas de correos, que las tarjetas de crédito tengan el numero de digitos… - Validez de datos, validez en los formularios.
+- ¿Las api de comprobación tienen reflejos en el opex?
+- Se puede hacer lo de enviar un correo y que se pulse un botón como verificación.
+- Evitar cosas genéricas. No triviales.
