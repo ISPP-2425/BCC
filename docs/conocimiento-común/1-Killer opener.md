@@ -20,3 +20,8 @@ En esta página se recoge el feedback proporcionado por el profesor y los compa�
 - Crear una historia que conecte con el problema que se encarga de resolver la aplicación.
 - Conectar el Killer opener con la demostración funcional del producto.
 - Orientar el Killer opener a todo el público, evitando el uso de preguntas abiertas en las que se conoce la respuesta.
+
+## Semana 17/03
+- El killer opener debe estar estrechamente relacionado con el tema a tratar y servir como una introducción breve. Además, esta conexión debe ser evidente y comprensible de inmediato para facilitar una transición rápida hacia la introducción (no nos interesa extendernos demasiado).
+- Tener cuidado con el copyright, es importante atenerse a la legislación vigente.
+- Utilizar un tema impactante, que demuestre que existe una necesidad acuciante que nuestro factor diferencial consigue suplir.
