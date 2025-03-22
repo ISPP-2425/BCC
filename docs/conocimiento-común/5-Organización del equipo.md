@@ -25,3 +25,7 @@ En esta página se recoge el feedback proporcionado por el profesor y los compa�
 
 ## Semana 10/03
 - En el feedback de la Semana 6, se destacó **evitar términos de castigo** en los sistemas de puntuación internos del rendimiento del equipo. En su lugar, se recomienda utilizar **términos de motivación** para fomentar un ambiente positivo y productivo. Este enfoque no solo contribuye a mantener un clima laboral constructivo, sino que también promueve la colaboración y el compromiso del equipo con los objetivos del proyecto.
+
+## Semana 17/03
+- No incluir un sistema de recompensas basado en dinero, es preferible otro tipo de incentivo (ej: Dejar a elección la primera tarea que se quiera realizar)
+- **Copia de buenas prácticas de otros equipos** (team bonding, empleados del sprint, meme de la semana...) en pos de reforzar la conexión entre los miembros y generar sensación de unidad y **sentimiento de pertenencia**.

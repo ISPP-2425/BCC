@@ -32,3 +32,13 @@ En esta página se recoge el feedback proporcionado por el profesor y los compa�
 - Acortar la duración de la introducción, debe ser mas ligera.
 - Incluir en la diapositiva final un enlace a la landing page o a la web del proyecto, las posibles redes sociales y un enlace al vídeo demo del proyecto.
 
+## Semana 17/03
+
+- **Claridad y estructura:** Explicar bien la propuesta de valor y priorizar información relevante. Si la diapositiva es genérica, es decir, común a todos los proyectos, no tiene cabida en la presentación, es importante centrarse en las particularidades.
+- **Acompañamiento visual**: Es importante que el presentador no hable en exceso de un tema sin apoyo visual de la presentación, esto provoca desconexión en la audiencia.
+- **Expresión oral:** Ensayos previos para mejorar la fluidez, pausas y vocalización. Es importante decidir con antelación qué elementos son prescindibles, por si se da el caso de que el presentador vaya con el tiempo justo para terminar, ser capaz de, con soltura, poder decidir que elementos desechar y cuáles aportan valor diferencial.
+- **Convencer a los inversores**: Especificar rentabilidad, mercado objetivo y diferenciación, los inversores no deben realizar cálculos con los porcentajes entregados en la presentación, es mejor darles los datos en la forma más sencilla (ej. no decir que tenemos un 1% del mercado, sino comentar que estamos instalados en 1000 locales)
+- **Utilizar la notación K €** para referirse a miles.
+- **Colores intuitivos**: Hacer uso de la psicología de colores (ej: usar el verde para lo positivo y rojo para lo negativo).
+
+

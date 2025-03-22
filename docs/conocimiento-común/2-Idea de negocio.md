@@ -29,3 +29,7 @@ En esta página se recoge el feedback proporcionado por el profesor y los compa�
 ## Semana 03/03
 
 ## Semana 10/03
+
+## Semana 17/03
+- Realizamos estimaciones de la rentabilidad en términos monetarios, pero estas se basan en la penetración de mercado (cantidad de usuarios absorbidos). Por lo tanto, es fundamental considerar ambas métricas de manera coherente.
+- Uso de datos cuantitativos, a los inversores no les basta con decir "Seremos muy rentables", es necesario indicarles cuánto sera necesario que aporten, en cuánto tiempo recuperarán la inversión y qué ganancias procederán desde entonces. Todo con datos específicos.

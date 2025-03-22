@@ -31,3 +31,10 @@ En esta página se recoge el feedback proporcionado por el profesor y los compa�
 - Mejorar la comunicación de datos financieros usando gráficos claros y precisos
 - Para el punto de equilibrio se recomienda usar un grafico de barras positivas y negaticas de beneficios y gastos a lo largo del tiempo, con una curva por encima que represente los ingresos totales acumulados  
 - Presentar distintos escenarios de gastos
+
+## Semana 17/03
+
+- **Estimación realista de los costes**: no es correcto añadir un valor arbitrario a los equipos, estos se deben tratar como amortizaciones.
+- Es importante **justificar los cálculos de costes** y no dejar cifras al aire sin explicar de dónde provienen, hay que justificar la rentabilidad monetaria con la penetración de mercado, pues esta primera deriva de la segunda.
+- Se deben proporcionar cifras claras sobre el retorno de inversión (ROI) y los costos operativos (OPEX) para que inversores y audiencias puedan evaluar la sostenibilidad del proyecto.
+- Inclusión de más datos cuantitativos para respaldar la viabilidad del negocio.

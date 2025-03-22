@@ -43,3 +43,7 @@ En esta página se recoge el feedback proporcionado por el profesor y los compa�
 - Otro punto relevante es la planificación y la forma en que se presentan los avances. Se enfatizó la necesidad de **no dividir una tabla en dos diapositivas** y de evitar explicar demasiado una parte mientras se omite la otra. Esto refleja la importancia de un compromiso equitativo en la exposición de la información, asegurando que cada aspecto del proyecto reciba la atención necesaria.
 
 - Además, en la evaluación individual y de equipo, se mencionó la importancia de explicar cómo las métricas de productividad afectan la valoración del trabajo realizado. Esto implica que el compromiso de cada miembro debe ser medido y visible, de manera que todos comprendan su impacto en el proyecto y puedan ajustar su rendimiento en función del análisis proporcionado.
+
+## Semana 17/03
+- Comentar explícitamente si ha habido algún miembro que **no ha cumplido con las expectativas**, compromisos no cumplidos del CA, **qué medidas se han tomado** y si estas han servido para solventar el problema.
+
