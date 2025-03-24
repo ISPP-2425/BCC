@@ -220,14 +220,13 @@ En esta página se encuentra el feedback recogido por el equipo del grupo 5 dura
     - Incluir información sobre posibles "alucinaciones" y cómo se han manejado.
 12. **Landing page.**
 
-
 ## Semana 5
+
 ### Feedback relacionado con la presentación
 - **Métricas de rendimiento**: Buen uso de métricas para evaluar el desempeño del equipo.
 - **Marketing**: Se debe tener en cuenta que los clientes principales son las empresas.
 - **Resolución de problemas**: El planteamiento de los problemas que han surgido y especialmente la resolución de estos ha sido valorada positivamente, como el asignar obligatoriamente a miembros para revisar PRs para evitar sobrecargar a los coordinadores.
 - **Iconos de roles**: Los iconos para distinguir el rol de camionero y el de empresa de la demo han gustado y sería buena idea que los iconos / roles estuviesen también presentes en el killer opener.
-
 
 ### Feedback relacionado con el desarrollo del proyecto
 - **Resolución de problemas**: Se ha valorado positivamente la automatización en la resolución de problemas.
@@ -236,7 +235,6 @@ En esta página se encuentra el feedback recogido por el equipo del grupo 5 dura
 - **Desglose financiero**: Es necesario desglosar mejor CapEx y OpEx para mayor claridad en los costes de desarrollo y operación.
 
 #### Tareas a realizar para la siguiente semana
-
 1. **Refinamiento del killer opener** (máximo 1 minuto).
 2. **Elevator pitch**: Debe enlazar de manera fluida con el killer opener.
 3. **Análisis de competidores**: Revisión y actualización del análisis competitivo.
@@ -265,8 +263,89 @@ En esta página se encuentra el feedback recogido por el equipo del grupo 5 dura
     - Incluir métricas sobre su efectividad y posibles mejoras en su implementación.
 14. **Actualización de la landing page** con información relevante y refinada.
 
+## Semana 6
 
+### Feedback relacionado con la presentación
 
+### Feedback relacionado con la presentación
+
+- **Ritmo de la presentación**: Se percibió un ritmo algo rápido en las primeras diapositivas, lo cual puede atribuirse a los nervios iniciales. Ajustar el ritmo al comienzo podría mejorar la atención del público. Se destacó un buen inicio de presentación.
+- **Storyboard y target**: Faltó incluir información sobre los usuarios finales en el storyboard. Es recomendable desarrollar un storyboard específico para cada objetivo, centrado en un target claramente definido, en lugar de uno general que no clarifique su audiencia. El storyboard dirigido a inversores no resultó convincente, ya que no se mencionó el retorno de inversión esperado. Esto es crucial para captar su interés.
+- **Estrategia de comunicación**: Se plantea como un problema potencial que los camioneros, uno de los públicos objetivo, no ven la televisión regularmente, lo que podría limitar el alcance del anuncio. Se sugiere enfocar más esfuerzos hacia los inversores como audiencia clave.
+- **Killer opener**: debe estar más conectado con la demo. Relacionar ambos elementos de manera coherente ayudará a mantener la atención y reforzar el mensaje central. La idea del *killer opener* utilizando la alarma fue valorada positivamente. Sin embargo, debe integrarse mejor con la demo.
+- **Uso del lenguaje**: Evitar expresiones como "cuánto costamos" y corregir términos como "competición" (en lugar de "competidores") para mejorar la precisión del lenguaje.
+- **Apoyo visual**: Muchas ideas importantes se explicaron sin apoyo visual, como ocurrió al comentar el feedback y los cambios realizados tras las pruebas con usuarios piloto. Incorporar gráficos o esquemas visuales mejoraría la comprensión. En la diapositiva final, sería útil incluir el correo electrónico de contacto para facilitar la interacción posterior.
+- **Demostración**: La demo podría beneficiarse de contar con varias voces y establecer una conexión más clara con el *killer opener* para evitar la monotonía y mejorar la experiencia auditiva. La calidad de audio y video de la demo fue deficiente, lo que afectó la percepción general. Se recomienda mejorar tanto la grabación como la edición.
+- **Aspectos técnicos**: Los problemas detectados no solo se relacionan con errores de código, sino también con aspectos de coordinación y gestión del equipo. Esto debe ser abordado en futuras iteraciones.
+- **Gestión del tiempo**: En el reloj de avance del proyecto, se observó que algunas tareas tardaron más de lo esperado en cerrarse. Se sugiere reconsiderar los puntos de historia para distribuir mejor el trabajo y cerrar tareas de forma más progresiva.
+
+### Feedback relacionado con el desarrollo del proyecto
+
+- **Tratamiento de usuarios**: Las explicaciones sobre el tratamiento de los usuarios fueron claras y bien estructuradas.
+- **Clasificación del feedback**: No se explicó cómo se clasificó y priorizó el feedback recibido de los usuarios piloto. Documentar este proceso permitirá justificar las decisiones tomadas y mejorar la transparencia.
+- **Análisis financiero**: Se recomienda crear una tabla que combine los datos de costes/gastos con los beneficios esperados, lo que facilitará una visión integral de la viabilidad económica del proyecto.
+
+#### Tareas a realizar para la siguiente semana
+
+1. **Refinamiento del killer opener** (máximo 1 minuto).  
+   - Asegurarse de que esté conectado con la demo y refleje claramente el propósito del proyecto.
+2. **Elevator pitch** (30 segundos).  
+   - Debe ser conciso, impactante y enlazar fluidamente con el killer opener.
+3. **Análisis de competidores**:  
+   - Revisar y actualizar el análisis competitivo, destacando las diferencias clave con respecto a la competencia.
+4. **Storyboard de un anuncio futuro**:  
+   - Enfocar el storyboard hacia un target específico: usuario, cliente o inversores.  
+   - Seguir las píldoras teóricas sobre storyboards y evitar enfocarlo en inversores.  
+   - Conceptualizar el anuncio sin necesidad de producirlo, centrándose en la narrativa y los elementos clave.
+5. **Customer agreement**:  
+   - Definir los términos y condiciones del servicio, prestando especial atención a:  
+     - Cláusulas abusivas.  
+     - Pricing y SLA (Acuerdos de Nivel de Servicio).  
+     - Implicaciones legales relacionadas con APIs de terceros u otros aspectos que deban incluirse en los términos.  
+6. **TCO (Total Cost of Ownership)**:  
+   - Refinar el análisis de costes:  
+     - **CapEx**: Inversiones en activos duraderos (servidores, equipos, etc.).  
+     - **OpEx**: Gastos recurrentes como servicios en la nube o mantenimiento.  
+   - Mejorar las estimaciones basándose en los aprendizajes recientes.
+7. **Equipo**:  
+   - Mantener la estructura actual de roles, asegurándose de que estén claramente definidos y asignados.
+8. **Commitment agreement status**:  
+   - Evaluar si se ha cumplido con los compromisos establecidos en el acuerdo inicial.  
+   - Documentar cualquier desviación y las acciones tomadas para corregirla.
+9. **Demo**:  
+   - Preparar una demo clara y bien estructurada que muestre los avances reales del proyecto.  
+   - Mejorar la calidad audiovisual y considerar el uso de varias voces para evitar la monotonía.  
+10. **Retrospectiva del Sprint 2** (40-50% de la presentación):  
+    - Utilizar gráficos para analizar el rendimiento y el esfuerzo del equipo:  
+      - **Alto rendimiento / Alto esfuerzo**.  
+      - **Alto rendimiento / Bajo esfuerzo**.  
+      - **Bajo rendimiento / Alto esfuerzo**.  
+      - **Bajo rendimiento / Bajo esfuerzo**.  
+    - Incluir un gráfico de rendimiento del equipo y evaluar las métricas clave.  
+11. **Resultado del análisis de software**:  
+    - Presentar los hallazgos del análisis realizado, destacando fortalezas y áreas de mejora.
+12. **Problemas encontrados**:  
+    - Detallar cada problema identificado, incluyendo:  
+      - Descripción del problema.  
+      - Solución implementada (acciones concretas).  
+      - Evaluación de la efectividad de la solución.  
+      - Estado actual del problema.  
+    - Extraer lecciones aprendidas para futuros sprints.
+13. **Reloj de avance del proyecto**:  
+    - Analizar el progreso del proyecto utilizando el reloj de avance.  
+    - Reconsiderar los puntos de historia para cerrar tareas de forma más paulatina y eficiente.
+14. **Gestión de usuarios pilotos**:  
+    - Refinar la estrategia de gestión de usuarios pilotos basándose en las píldoras teóricas.  
+    - Recopilar y analizar el feedback recibido, documentando cómo se ha clasificado y priorizado.
+15. **Planificación y replanificación**:  
+    - Realizar una planificación detallada para el próximo sprint.  
+    - Si es necesario, ajustar la planificación actual para alinearla con los objetivos del proyecto.
+16. **Uso de IA**:  
+    - Evaluar si se ha mejorado el uso de la IA desde el inicio del proyecto.  
+    - Documentar lecciones aprendidas, incluyendo casos de alucinaciones de la IA y cómo se han abordado.
+17. **Landing page y contacto**:  
+    - Actualizar la landing page con información relevante e incluirla en la presentación.
+    - Incluir el correo electrónico de contacto en la página final de la presentación para facilitar la interacción posterior.
 
 
 # Otros Grupos
@@ -510,7 +589,6 @@ En esta página se encuentra el feedback recogido por el equipo del grupo 5 dura
 - **Uso de la IA**:
   - No se mencionó nada sobre el uso de la IA. Es importante incluir datos sobre para qué se ha usado, si hubo alucinaciones, etc.
 
-
 ## Semana 5
 
 ### Grupo 1 (Holos)
@@ -572,3 +650,61 @@ En esta página se encuentra el feedback recogido por el equipo del grupo 5 dura
 - Más énfasis en los porcentajes de suscripciones para mayor claridad en la presentación de los datos.
 - El mecanismo de quitar puntos no es intuitivo. Se sugiere utilizar términos de motivación en lugar de términos de castigo.
 - No están bien identificados los riesgos en relación con los problemas detectados.
+
+## Semana 6
+
+### Grupo 1 (Holos)
+#### Feedback relacionado con la presentación
+- Introducir el tema de manera más efectiva, utilizando un hecho específico en lugar de generalidades.
+- Clarificar en los costes incurridos a qué sprints corresponden (sprint 1 o sprint 2).
+- Incluir una gráfica de rendimiento del equipo, incluso si los datos son anonimizados.
+
+#### Feedback relacionado con el desarrollo del proyecto
+- Mejorar el cumplimiento del *commitment agreement*, utilizando medidas cuantitativas para evaluar los problemas de forma más precisa.
+
+### Grupo 2 (GastroStock)
+#### Feedback relacionado con la presentación
+- Sin comentarios adicionales específicos.
+
+#### Feedback relacionado con el desarrollo del proyecto
+- Añadir datos cuantitativos para respaldar afirmaciones sobre el progreso del proyecto.
+
+### Grupo 3 (Eventbride)
+#### Feedback relacionado con la presentación
+- La demo fue muy bien recibida.
+- El *killer opener* fue altamente valorado.
+- El storyboard, realizado en estilo anuncio y dibujado, fue muy valorado.
+- Buscar una herramienta para cambiar diapositivas sin tener que decir continuamente "pasa", ya que esto puede dar una mala imagen.
+- No centrar el storyboard en una sola funcionalidad de la aplicación y añadir información sobre pricing al final.
+- Saltarse el paso del login en la demo, ya que es básico y no aporta valor.
+- No separar el análisis de problemas entre gestión y desarrollo, sino integrarlos de manera coherente.
+- Mostrar las soluciones implementadas para los problemas encontrados.
+
+#### Feedback relacionado con el desarrollo del proyecto
+- Utilizar un diagrama de barras en lugar de otro tipo de representación para el análisis de costes.
+- Destacar claramente la línea de corte de rentabilidad en los gráficos financieros.
+- Incluir datos de rendimiento de todos los miembros del equipo (anonimizados) para evaluar el progreso general.
+
+### Grupo 4 (Borroo)
+#### Feedback relacionado con la presentación
+- Centrarse en aspectos específicos y relevantes, evitando generalidades que no aportan valor.
+
+#### Feedback relacionado con el desarrollo del proyecto
+- Centrar el storyboard en una historia concreta y un target específico.
+- Revisar la asignación de calificaciones, ya que resulta extraño que todos los miembros tengan un "10".
+- Proporcionar un informe más detallado sobre el uso de IA: qué herramientas se utilizaron y cómo se aplicaron.
+
+### Grupo 6 (FisioFind)
+#### Feedback relacionado con la presentación
+- El inicio fue efectivo y estuvo bien relacionado con el *elevator pitch* y la demo.
+- Se valoró positivamente el tratamiento del tema legal relacionado con la denuncia de datos.
+- El storyboard fue bien recibido.
+- Dedicar menos tiempo al análisis de competidores.
+- Mejorar la visibilidad de la demo, ya que los elementos mostrados eran demasiado pequeños.
+- Evitar hablar sobre la demo.
+- Asegurarse de que los carteles explicativos en la demo permanezcan visibles el tiempo suficiente para ser comprendidos.
+
+#### Feedback relacionado con el desarrollo del proyecto
+- Refactorización y tests unitarios no deben considerarse como peticiones de cambio, sino como parte del proceso habitual.
+- Considerar el uso de un *accumulative flow* en lugar de un *burn up* para mostrar el progreso del proyecto.
+- Revisar el sistema de recompensas gratuito, ya que podría no ser viable económicamente.
