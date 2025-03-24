@@ -27,10 +27,15 @@ En esta página se recoge el feedback proporcionado por el profesor y los compa�
 - Es recomendable dejar fuera de la presentación cualquier dato que necesite mayor tiempo de explicación.
 
 ## Semana 10/03
-- Mejorar el opener e introducción, fortalecer el inicio de la presentación con un “killer opener” y un elevator pitch impactante que cuente una historia atractiva, logrando un mayor dinamismo y captación de la atención desde el principio.
-- Mejorar el diseño empleando fondos y gráficos que aseguren legibilidad y resalten la información clave (por ejemplo, usando colores llamativos)
-- Acortar la duración de la introducción, debe ser mas ligera.
-- Incluir en la diapositiva final un enlace a la landing page o a la web del proyecto, las posibles redes sociales y un enlace al vídeo demo del proyecto.
+- Mejorar el opener e introducción, fortalecer el inicio de la presentación con un “killer opener” y un "elevator pitch" impactantes que cuenten una historia atractiva, logrando un mayor dinamismo y captación de la atención desde el principio.
+- Mejorar el diseño empleando fondos y gráficos que aseguren legibilidad y resalten la información clave (por ejemplo, usando colores llamativos).
+- Acortar la duración de la introducción, debe ser más ligera, sin perder el importante énfasis que hay que hacer en esta.
+- Incluir en la diapositiva final un enlace a la "landing page" o a la web del proyecto, las posibles redes sociales y un enlace al vídeo demo del proyecto.
+- El feedback de los usuarios piloto debe quedar reflejado. Esto es, si hay alguna HU que provenga de algún comentario de los usuarios piloto, debe indicarse en la presentación, por ejemplo, con un icono.
+- Es recomendable poner el aumento de características que se dan en los sprints, reflejándose con colores distintos a las características inicialmente pensadas, para que así destaquen más.
+- Debe de haber elasticidad en la forma de presentar, tener pensado qué cosas de las que se cuentan sobran, para no perjudicar el ritmo. Se puede volver a transparencias anteriores si sobra tiempo.
+-	Hay veces que no hay que traducir ciertas expresiones, como code smells -> código que apesta.
+
 
 ## Semana 17/03
 
