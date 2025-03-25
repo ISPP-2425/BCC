@@ -813,3 +813,102 @@ Al diseñar productos, se debe asegurar que no estén contaminados por restricci
 14. **Diferenciación para el Sprint 2:**
     - Mantener la misma estructura con actualizaciones en pagos reales, registro, usuarios piloto, y contratos.
     - Incluir detalles sobre ingresos y tres tipos de escenarios, así como la gestión de OPEX y el personal en relación con aspectos legales y storyboards.
+
+## Semana 6
+
+### Grupo 9
+
+La presentación fue clara y bien estructurada, con un killer opener que captó la atención del público. Se recomienda reforzarlo con elementos visuales o una despedida más impactante para hacerlo más memorable.
+
+El storyboard está bien planteado y transmite emociones de manera efectiva. Se sugiere mejorar la visibilidad de ciertos elementos con acercamientos en frases clave. La gráfica de monetización es excelente, y en cuanto al lenguaje, es preferible referirse a "gastos" en lugar de "pérdidas" para evitar connotaciones negativas.
+
+Respecto a la normativa GDPR, es clave considerar su impacto en la implementación del proyecto, especialmente en temas como el derecho al olvido y los mecanismos de denuncia. No se trata de automatizar todo, sino de establecer procesos adecuados que cumplan con la normativa sin comprometer la seguridad de los datos. También es fundamental medir el tiempo de reuniones y establecer métricas para evaluar el progreso.
+
+El equipo ha invertido muchas horas en el proyecto, y si es necesario, se puede ajustar el alcance para optimizar esfuerzos. La tecnología debe utilizarse de manera estratégica, enfocándose en lo que realmente aporta valor. La autenticación y otros aspectos técnicos deben evaluarse en función de su impacto en la productividad. El product backlog está bien estructurado, y se recomienda medir también los retrasos en las tareas.
+
+En la demo, sería útil indicar qué caso de uso se está mostrando y utilizar un icono de usuario en progreso para mejorar la comprensión. Es recomendable mostrar el video en el momento adecuado sin adelantar información.
+
+El uso de Códacy es positivo, pero se sugiere no limitarse a lo que muestra la plataforma, sino analizar las métricas y su evolución. Es importante monitorear los "bad smells" para mejorar el rendimiento. La falta de una métrica clara sobre el rendimiento del proyecto es una debilidad y podría afectar la evaluación del entregable. También se recomienda mejorar la comunicación y establecer mecanismos para detectar y solucionar problemas, como el uso de Niko Niko para evaluar la efectividad del equipo.
+
+### Grupo 10
+
+La fórmula de ingresos no fue bien recibida y generó dudas en la audiencia. La propuesta de licencias para usuarios también suscitó discusión, especialmente en la parte del software. El storyboard recibió opiniones divididas, pero las bromas de Pablo fueron valoradas positivamente. La encuesta y algunas secciones de la presentación fueron demasiado rápidas, lo que pudo generar confusión y sensación de agobio.
+
+Se destacó la atención de Trinidad y sus preguntas sobre ciertos aspectos del proyecto. Fue positivo que se estén tomando medidas con un miembro de bajo rendimiento, pero persisten dudas sobre los avances reales en este sprint con los usuarios piloto. Además, no hubo consenso sobre la fórmula de ingresos.
+
+Las presentaciones están mejorando en calidad y estructura, pero aún hay aspectos por pulir. La introducción explicó bien el proyecto, aunque no enfatizó suficientemente en su propósito exacto. La mención de la venta de entradas puede llevar a confusión, por lo que se recomienda destacar la experiencia diferenciadora desde el killer opener. No se aconsejan preguntas abiertas en esta sección, sino construir una narrativa efectiva.
+
+En términos técnicos, los costos de personal deben presentarse como una inversión, no como un gasto. En la presentación, no es necesario mostrar la fórmula completa, sino solo los factores clave y un resumen. La explicación debe ser intuitiva y centrarse en las variables relevantes en lugar de la ecuación en sí. En cuanto a temas legales, se debe resaltar que el código no debe ser público y que los profesores pueden tener acceso sin necesidad de abrirlo completamente.
+
+El storyboard debe evitar la "magia" de la aplicación y enfocarse en la historia desde el inicio. En la demo, es crucial indicar el tiempo restante hasta la siguiente pista. La velocidad de la presentación debe ajustarse para facilitar el seguimiento. Si el registro no es imprescindible, puede omitirse para agilizar la experiencia del usuario. Se recomienda mejorar la presentación de la información en la encuesta y otras secciones para asegurar su comprensión. Por ejemplo, los datos monetarios pueden mostrarse en una barra en lugar de números.
+
+Uno de los problemas recurrentes es la falta de comunicación. Simplemente eliminar a miembros del equipo no es una solución; se deben implementar mecanismos de seguimiento para evaluar la efectividad de las medidas adoptadas. Es importante analizar las razones detrás de los problemas, como la falta de pruebas o la ineficacia de las pull requests. En la tabla de planificación de usuarios piloto, se recomienda mejorar la visualización de las fechas para mayor claridad.
+
+### Grupo 11
+
+El killer opener captó la atención, pero la estructura de la presentación podría mejorar con una mejor transición entre secciones. Se sugiere reforzar el cierre con un call-to-action más claro.
+
+El storyboard es sólido, pero faltó claridad en algunos elementos visuales clave. Se recomienda mejorar la sincronización de las animaciones con la narración para mayor impacto. En cuanto a métricas, se debe incluir un seguimiento más detallado del progreso del equipo.
+
+La demo fue efectiva, aunque se podría mejorar la navegación para que el flujo sea más intuitivo. Es importante también enfatizar cómo la solución se diferencia de alternativas existentes en el mercado.
+
+### Grupo 7
+
+El equipo mostró una gran evolución en la presentación, con una introducción bien definida. Sin embargo, se notó cierta rigidez en la exposición. Se recomienda practicar más la naturalidad al presentar.
+
+La estrategia de monetización generó dudas en la audiencia. Es importante clarificar los costos y beneficios del modelo de negocio para evitar confusión. También se sugirió mejorar la forma en la que se presentan los datos de mercado para hacerlos más persuasivos.
+
+El storyboard refleja bien el uso de la aplicación, aunque algunos aspectos parecían demasiado ideales. Se recomienda incluir más ejemplos de posibles dificultades que puedan surgir y cómo abordarlas.
+
+### Grupo 8
+
+El grupo logró captar la atención con un inicio dinámico, pero algunas secciones de la presentación fueron demasiado técnicas. Se recomienda simplificar ciertos conceptos para que sean accesibles a toda la audiencia.
+
+El diseño visual de las diapositivas es atractivo, pero en algunos casos la cantidad de texto dificultaba la lectura. Se sugiere resumir información clave y apoyarse en gráficos para hacer la presentación más digerible.
+
+La demo fue funcional, pero faltó contexto al explicar cada paso. Es importante guiar a la audiencia a través de la solución con ejemplos prácticos y destacar cómo resuelve un problema real.
+
+### Apuntes Finales
+
+#### Aspectos generales
+
+**Anotaciones finales:**
+
+La próxima evaluación consistirá en una presentación de 15 minutos. Además, se introducirán nuevas píldoras teóricas que deberán ser revisadas para comprender mejor los conceptos y aplicar los aprendizajes.
+
+En cuanto al Customer Agreement, es fundamental que este obligue al cliente a aceptar los términos de servicio. Además, debemos garantizar que tengamos evidencia de que el usuario ha estado de acuerdo con las condiciones, como las de uso. Un ejemplo de cómo hacerlo bien es PayPal, que cuando envía los textos legales, los resume de forma sencilla y clara para que el usuario pueda entenderlo fácilmente. Podemos adoptar un enfoque similar, asegurándonos de que el cliente pase por cada sección de los términos rápidamente pero de manera comprensible.
+
+También tenemos la obligación de almacenar evidencia de que el cliente ha leído el documento legal. Como mínimo, debemos asegurarnos de que haya abierto el documento. Si lo ha leído, ya no es nuestra responsabilidad. Sin embargo, esta medida nos ayuda a protegernos y garantizar que el usuario está plenamente informado.
+
+**Sugerencias para mejorar los procesos:**
+
+En cuanto a la gestión de reuniones y la comunicación, algunos equipos, como el de comunicación, podrían beneficiarse de un calendario compartido para facilitar la organización de las llamadas, especialmente en grupos grandes. Esto ayudará a que todos estén al tanto de las horas disponibles y evitará confusiones sobre la disponibilidad.
+
+Respecto a los ChangeLogs, estos son fundamentales para tener un registro claro de las actualizaciones y cambios en el proyecto. Es importante saber qué es nuevo y qué ha cambiado. Utilizar herramientas como Conventional Commits puede ayudarnos a definir una estructura para los commits, asegurando que todos sigan el mismo formato y que el historial de cambios sea coherente y fácil de entender.
+
+Por último, en cuanto a los usuarios pilotos, es esencial llegar a un acuerdo formal con ellos. No se trata solo de tener un plan, sino de formalizar los compromisos a través de un documento de términos de relación. Por ejemplo, el proyecto debe comprometerse a desplegar el sistema en una fecha concreta, mientras que los usuarios pilotos deben completar sus tareas dentro de un plazo determinado. De esta forma, ambas partes se comprometen de manera clara y formal.
+
+#### Para la Próxima Semana
+- No cambios en porcentajes, agregar.
+
+- El storyboard debe tener uno para cada tipo de cliente: clientes del establecimiento, clientes de mascotas, usuarios e inversores.
+
+- Evitar cláusulas abusivas en los términos de servicio. Si hay alguna cláusula abusiva, justificarla. El Customer Agreement debe incluir la información sobre los términos de servicio y lo que ofrece el servicio. No se puede obligar al cliente a dar información. Hay herramientas para evitar cláusulas abusivas. Definir los términos de servicio en el Customer Agreement.
+
+- No ha habido tiempo de respuesta ni de disponibilidad del servicio al cliente. Si dependemos de APIs externas, como en el caso del mapa, debe indicarse.
+
+- El pricing debe ser lo más claro posible. Las tablas de precios son casi una obligación, y deben usarse para definir nuestro modelo de negocio.
+
+- Los SLA, licencias y la protección de datos deben definirse claramente. También se debe especificar el uso de APIs externas y cómo nos comprometen, especialmente con el procesamiento de datos personales.
+
+- El análisis de costes se estandariza ahora a 2 años, comenzando desde el primer día del cuatrimestre. Se debe distinguir entre CAPEX (inversiones) y OPEX (gastos operativos). CAPEX se refiere a inversión, no a gastos.
+
+- La retrospectiva es lo más importante. Mostrar una matriz de rendimiento y esfuerzo, enfrentando a cada miembro con estos dos factores. Cada persona es un punto, y la gráfica debe mostrar el rendimiento y esfuerzo. Incluir una línea de 10 horas como referencia.
+
+- Gestionar el feedback revisando las píldoras teóricas.
+
+- En la planificación del Sprint 3, tener en cuenta lo que viene después del Sprint 3, incluyendo el pago real (que funcione el caso de uso del pago), el registro y pago deben incluirse. Aspectos de seguridad son muy importantes. Validar datos como cuentas de correo, teléfonos, direcciones y tarjetas de crédito. Usar APIs para verificación.
+
+- Si se reduce el alcance del proyecto, hay que replanificar. Si hay tiempo, se puede realizar un Sprint 4 hipotético y plantear qué hacer si algo no cabe en el Sprint 3.
+
+- Analizar el uso de la IA, cómo está ayudando y si está mejorando. Incluir las lecciones aprendidas, especialmente de los storyboards, y documentar las alucinaciones encontradas de la IA.
