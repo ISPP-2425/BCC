@@ -46,4 +46,8 @@ En esta página se recoge el feedback proporcionado por el profesor y los compa�
 - **Utilizar la notación K €** para referirse a miles.
 - **Colores intuitivos**: Hacer uso de la psicología de colores (ej: usar el verde para lo positivo y rojo para lo negativo).
 
+## Semana 21/03
+
+- Revisar la velocidad y fluidez de las transiciones, evitando que algunas se alarguen en exceso o se aceleren de manera abrupta al final.
+- Si el presentador habla rapidp aprovechar la rapidez en el discurso como una habilidad, manteniendo la claridad sin que se convierta en un defecto comunicativo.
 

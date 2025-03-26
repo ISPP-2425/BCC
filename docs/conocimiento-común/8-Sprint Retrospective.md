@@ -29,3 +29,7 @@ En esta página se recoge el feedback proporcionado por el profesor y los compa�
 - Destacar los problemas encontrados, **no es aceptable comunicar que "no ha habido problemas"**, pues estos siempre están al acecho, y **es necesario evaluarlos** minuciosamente con la mayor prontitud y **proponer soluciones factibles**, además debemos comentar si estas soluciones han surtido efecto, y en este caso, si **son definitivas, o simples parches temporales**.
 
 - Es una buena práctica **generar gráficas para las métricas de rendimiento**, para ser capaces de evaluar la eficiencia de los miembros (tiempo/tarea realizada) y su evolución durante los sprints.
+
+## Semana 21/03
+
+- Se reitera en d   efinir y comunicar de forma precisa las soluciones a los problemas, detallando métricas, riesgos, procesos y causas específicas para evaluar su efectividad y garantizar un impacto medible de las acciones implementadas.
