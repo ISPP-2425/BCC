@@ -14,26 +14,53 @@
       - [Feedback relacionado con la presentación](#feedback-relacionado-con-la-presentación-2)
       - [Feedback relacionado con el desarrollo del proyecto](#feedback-relacionado-con-el-desarrollo-del-proyecto-2)
       - [Tareas a realizar para la siguiente semana](#tareas-a-realizar-para-la-siguiente-semana-2)
+  - [Semana 5](#semana-5)
+      - [Feedback relacionado con la presentación](#feedback-relacionado-con-la-presentación-3)
+      - [Feedback relacionado con el desarrollo del proyecto](#feedback-relacionado-con-el-desarrollo-del-proyecto-3)
+      - [Tareas a realizar para la siguiente semana](#tareas-a-realizar-para-la-siguiente-semana-3)
+  - [Semana 6](#semana-6-1)
+      - [Feedback relacionado con la presentación](#feedback-relacionado-con-la-presentación-4)
+      - [Feedback relacionado con el desarrollo del proyecto](#feedback-relacionado-con-el-desarrollo-del-proyecto-4)
+      - [Tareas a realizar para la siguiente semana](#tareas-a-realizar-para-la-siguiente-semana-4)
+  - [Semana 7](#semana-7-1)
+      - [Feedback relacionado con la presentación](#feedback-relacionado-con-la-presentación-5)
+      - [Feedback relacionado con el desarrollo del proyecto](#feedback-relacionado-con-el-desarrollo-del-proyecto-5)
+      - [Tareas a realizar para la siguiente semana](#tareas-a-realizar-para-la-siguiente-semana-5)
 - [Grupo 1 - Holos](#grupo-1---holos)
   - [Semana 1](#semana-1)
   - [Semana 2](#semana-2-1)
   - [Semana 3](#semana-3-1)
-- [Grupo 2 - Gastrostock, previamente EZStock](#grupo-2---gastrostock-previamente-ezstock)
+  - [Semana 5](#semana-5-1)
+  - [Semana 6](#semana-6)
+  - [Semana 7](#semana-7)
+- [Grupo 2 - Gastrostock](#grupo-2---gastrostock)
   - [Semana 1](#semana-1-1)
   - [Semana 2](#semana-2-2)
   - [Semana 3](#semana-3-2)
+  - [Semana 5](#semana-5-2)
+  - [Semana 6](#semana-6-1)
+  - [Semana 7](#semana-7-1)
 - [Grupo 3 - Eventbride](#grupo-3---eventbride)
   - [Semana 1](#semana-1-2)
   - [Semana 2](#semana-2-3)
   - [Semana 3](#semana-3-3)
+  - [Semana 5](#semana-5-3)
+  - [Semana 6](#semana-6-2)
+  - [Semana 7](#semana-7-2)
 - [Grupo 4 - BORROO](#grupo-4---borroo)
   - [Semana 1](#semana-1-3)
   - [Semana 2](#semana-2-4)
   - [Semana 3](#semana-3-4)
+  - [Semana 5](#semana-5-4)
+  - [Semana 6](#semana-6-3)
+  - [Semana 7](#semana-7-3)
 - [Grupo 5 - CAMYO](#grupo-5---camyo)
   - [Semana 1](#semana-1-4)
   - [Semana 2](#semana-2-5)
   - [Semana 3](#semana-3-5)
+  - [Semana 5](#semana-5-5)
+  - [Semana 6](#semana-6-4)
+  - [Semana 7](#semana-7-4)
 
 ---
 
@@ -305,6 +332,92 @@ La organización de la presentación no es la que indicaron los profesores.
 
 - Mejorar la visualización de la demo.
 
+## Semana 6
+#### Feedback relacionado con la presentación
+
+- Han empezado muy rápido. Al final también fue rápido.
+
+- Muy profesional el killer opener.
+
+- "Perder un día entero para ir al fisio", poder ver al usuario en el fisio esperando, en vez de simplemente sentado en el suelo del gym (hablando del video).
+
+- El elevator pitch debería de ser un poquito más lento, hay que hacer un buen énfasis en este.
+
+- Muy bien las gráficas de costes, pero la de pesimista debe de ser menos pesimista.
+
+- Más énfasis en porcentaje de suscripción.
+
+- Muy bien que la demo esté hilada con el killer opener. Se ve razonablemente bien, aunque no se ve el epígrafe de cada párrafo.
+
+#### Feedback relacionado con el desarrollo del proyecto
+
+- Muy bien el análisis de rendimiento de los compañeros. Extraño mecanismos de quitar puntos. Deben de funcionar en términos de motivación y no de penalización. Funcionar con strikes, 3 strikes.
+
+- Bien planteado el tema de los riesgos. Hay que decir si son nuevos o son ya identificados. También definir si los problemas son ajenos a los riesgos o no.
+
+- Medir el FAQ, si bajan las dudas o si todas se resuelven está funcionando, si se quedan así y no se responden no funciona.
+
+- ¿El feedback de usuarios piloto se ha implementado? Al principio no, porque esta semana no se ha planteado, pero la siguiente ya sí. Recomendable indicar las HU que provengan de usuarios piloto con algún icono,por ejemplo.
+
+#### Tareas a realizar para la siguiente semana
+
+- Mejorar el énfasis en el elevator pitch.
+
+- Mejorar el mecanismo de puntos.
+
+- Definir si los problemas son ajenos o no a los riesgos.
+
+- Medir el FAQ.
+
+- Considerar el feedback de usuarios piloto e implementarlo a ser posible.
+
+## Semana 7
+#### Feedback relacionado con la presentación
+
+- Dani debería hablar con más fuerza.
+
+- Buen inicio efectivo destacando que NO existe en el mercado y por qué nos diferenciamos. Complementando al anuncio de la semana anterior.
+
+- Han respondido al feedback del killer opener.
+
+- Los competidores deben pasar más rápido.
+
+- Buen guiño a las píldoras teóricas.
+
+- Quizás se deberían usar otras gráficas que se dieron en otras asignaturas.
+
+- La gráfica sobre tareas realizadas debería ser de barras, en lugar de área.
+
+- La demo se veía muy pequeña, debería tener audio incluido (diferenciando por rol), los títulos de cada funcionalidad deberían ser estáticos y pequeños que se deberían mostrar más tiempo.
+
+- Muy bien el canal de denuncias.
+
+- ¿Como miden el rendimiento del equipo? Deberian poner cómo se hace. Además de mostrar una gráfica.
+
+- Detallar un poco más la gráfica de evaluación de la calidad.
+
+- Añadir apartado de evolución de los problemas (problema -> métrica -> objetivo -> estado).
+
+- Algunas métricas son objetivos. 
+
+- Se ha mejorado estéticamente la presentación.
+
+- En costes, falta indicar qué porcentaje de fisios tienen qué plan.
+
+#### Feedback relacionado con el desarrollo del proyecto
+
+- Revisar qué es una RfC (debe ser una petición que realiza un usuario para cambiar o añadir funcionalidad).
+
+- Sistema de recompensas: hay que intentar buscar un sistema que no cueste dinero. Por ejemplo, que elija la tarea.
+
+#### Tareas a realizar para la siguiente semana
+
+- Mejorar la presentación y la demo con las varias sugerencias del profesor.
+
+- Realizar una redefinición de lo que es una RfC para usarla en contextos correctos.
+
+- Mejorar el sistema de recompensas.
+
 ---
 
 
@@ -372,6 +485,7 @@ El equipo de FISIO FIND destaca también el hilo de la presentación y la forma 
 **Áreas de mejora sugeridas**
 
 - Modelo de negocio
+
 - Usuarios piloto
 
 ## Semana 5
@@ -425,10 +539,104 @@ El equipo de FISIO FIND destaca también el hilo de la presentación y la forma 
 - Realizar ejercicios de vocalización.  
 
 - Posible integración de IA regenerativa.  
+
+## Semana 6
+
+**Feedback alumnos**
+
+- Han sabido atraer la atención del público desde el principio. Consigue que empaticemos con la solución.
+
+- Bien identificados los problemas.
+
+- Muy buena la estética en general y costes.
+
+- Se mide la satisfacción dentro del grupo, cosa que los profesores recomendaban.
+ 
+**Feedback recibido (resumen de los comentarios de los profesores)**
+
+- Si cuando se pide que se levante la mano nadie la levanta puede quedar mal.
+
+- Muy bueno lo de "tablero scrum para artistas".
+
+- ¿Cómo se rastrean las IAS?  
+
+	- Lo hace con los reportes y los administradores.
+
+- Las estimaciones de costes no están muy claras, el CapEx y el OpEx están un poco liados.
+
+- Muy bien el plan B del video. Iba muy lento y lo han adelantado a mano.
+
+- No se ve del todo bien la demo desde el final.
+
+- Métrica del número de commits muy pervertible, por ejemplo, haciendo muchos commits muy pequeños. Número de commits - entrega de issues.
+
+- ¿Cómo solucionan los problemas? Hay que convertir la solución en una métrica. 
+
+- No han podido desplegar bien. 
+
+- FEEDBACK GENERAL PARA LA CLASE: cuidado con el despliegue por si se acaban los créditos.  
+
+
+**Puntos positivos destacados**
+
+- Buena estética en general.
+
+- Muy bueno lo de "tablero scrum para artistas".
+
+- Muy bien el plan B del video.
+
+**Áreas de mejora sugeridas**
+
+- Aclarar las estimaciones de costes.
+
+- Demo mejorable visualmente.
+
+- Sustituir la métrica de número de commits.
+
+## Semana 7
+
+**Feedback alumnos**
+
+- Buen inicio efectivo.
+
+- El GDPR está muy bien descrito.
+ 
+**Feedback recibido (resumen de los comentarios de los profesores)**
+
+- En el inicio efectivo no quedaba claro quién era el cliente. No se ha enfocado bien al publico de la presentación, ya que nosotros seríamos un público “usuario” y no un público “artista”. Además, debería ser más específico, para que no se pierda tiempo.
+
+- En Costes, las licencias.
+
+- La gráfica para los costes incurridos no es intuitiva.
+
+- La demo se veía y se oía bien. Sobre todo se entendía bien, mostraba un CU fácil de seguir.
+
+- Las soluciones son propuestas, no son compromisos.
+
+- Pequeño fallo: hasta ahora no tenían Github Project.
+
+- En cumplimiento de plazos poner claramente si alguien ha sido marcado por no cumplir con plazos.
+
+- En el apartado de IA, no parece que esté bien planteado porque actualmente no hay formas de detectar si se usa o no.
+
+- Los costes tienen defectos que deberían corregirse.
+
+**Puntos positivos destacados**
+
+- Buena demo.
+
+**Áreas de mejora sugeridas**
+
+- Mejorar costes y licencias.
+
+- Inicio efectivo más específico.
+
+- Replantear cómo se detecta el uso de IAs.
+
 ---
 
 
-# Grupo 2 - Gastrostock, previamente EZStock
+# Grupo 2 - Gastrostock
 
 ## Semana 1
 
@@ -554,6 +762,112 @@ Un aspecto positivo que no se nombró pero que el equipo de FISIO FIND quiere an
 **Áreas de mejora sugeridas**
 
 - Intencionalmente en blanco.
+
+## Semana 6
+
+**Feedback alumnos**:
+
+-	El killer opener muy bien conectado con la gente.
+
+-	Muy bien explicado lo que hacen y los objetivos.
+
+-	Mucha calma a pesar de los errores.
+
+-	Está bien que hayan dicho que tienen muchos problemas sin que les de vergüenza, además de detallar cuales han sido y las soluciones.
+
+- Gráficas muy buenas, color rojo y animaciones bien en conjunto.
+
+**Feedback recibido (resumen de los comentarios de los profesores)**
+
+-	El killer opener está razonablemente bien, se pueden usar memes. Falta sacar alguna sonrisa.
+
+-	Deberían haber dedicado más tiempo a la retrospectiva, que es lo más importante. Que no esté desplegado el producto es muy malo. Hay que comentar más cuáles han sido los problemas y cómo solucionarlos. 
+
+-	Ha habido falta de comunicación clara. Y la solución de hacer un grupo grande no es la mejor. Otros compañeros ya han recibido ese feedback anteriormente.
+
+-	El cambio a TPV genera dudas, el coste del hardware es dudoso, así como los proveedores si no es página web. 
+
+- Explicación PM:
+
+	- Usuarios piloto no quisieron pasar datos reales para la ia. ¿Estaba contemplado en riesgos? Sí, escrepear ¿Se ha empezado a usar?
+
+	- Que sea solo web no funciona en bares porque se debe de usar dos veces. Por eso el TPV.
+
+- Se puede simular la funcionalidad de la IA o pueden crearlos ellos mismos. 
+
+- Cuidado con el lenguaje sexista. Solo se han referido a camareros hombres.
+
+- Las animaciones no pueden fallar. En general deben de tener muchos planes B para que si falla algo se pueda solucionar rápidamente, como venir a reuniones de prueba.
+
+-	Alabar la sinceridad y honestidad al contar los problemas.
+
+- ¿De qué forma se puede castigar?
+
+	- Si alguien tiene una falta grave, haces toda la funcionalidad. Es algo peligroso.
+
+  -	Avisar con tiempo de los strikes.
+
+-	El sprint parece que lleva un progreso de más del 50%.
+
+
+**Puntos positivos destacados**
+
+- Sinceridad y honestidad.
+
+-	El killer opener está razonablemente bien.
+
+**Áreas de mejora sugeridas**
+
+- Dedicar más tiempo a la retrospectiva.
+
+- Aumentar la comunicación sin formar un grupo grande.
+
+- Funcionalidad de la IA simulable.
+
+- Plan B para las presentaciones.
+
+- Redefinir los castigos y avisos.
+
+## Semana 7
+
+**Feedback alumnos**:
+
+- Buen inicio efectivo.
+
+- Responden al feedback explicando correctamente la funcionalidad y los distintos dispositivos donde quieren desplegar/hacer una app.
+
+- Siguen poniendo las cifras de precios sin Ks.
+
+**Feedback recibido (resumen de los comentarios de los profesores)**
+
+- Tiene que apoyar las cosas que dice en información cuantitativa que evidencie lo dicho y que sea fácil de entender (que permita saber si es creíble, etc). No es recomendable que el público tenga que dejar de atender para calcular/entender los datos.
+
+- Buen inicio efectivo, pero un poco largo.
+
+- Ha empezado con mucha energía, pero un poco monótono.
+
+- En el gráfico de costes, poner colores que tengan un significado estándar. Por ejemplo, no poner una línea de valoración pesimista en verde, cuando este se suele usar para indicar beneficios.
+
+- La demo es bastante mejorable.
+
+- Los anuncios no se ven bien.
+
+- Rendimiento del equipo, problemas encontrados, storyboard no han puesto.
+
+**Puntos positivos destacados**
+
+- Buen inicio efectivo.
+
+**Áreas de mejora sugeridas**
+
+- Apoyarse en datos.
+
+- Colores en las gráficas con sentido, aunque pueda parecer una tontería.
+
+- Demo mejorable.
+
+- Faltan métricas cuantitativas de calidad.
+
 ---
 
 
@@ -692,6 +1006,124 @@ Por otro lado, un aspecto que no se nombró en el feedback de los compañeros es
 - Tener en cuenta los aspectos legales.
 
 - Mencionar pull requests.
+
+## Semana 6
+
+**Feedback alumnos**
+
+- Inicio efectivo original y bueno. Muy buen diseño. Analisis de competidores lo han trabajado. Problemas encontrados muy bien también. 
+
+- El documento de IA muy bien. Muy buenos zooms y mejora.
+
+-	Al análisis de competidores tiene pinta de haberse echado muchas horas.
+
+- Han tenido plan B para el video, además de traer altavoz propio para que se escuche bien.
+
+- Rendimiento mediante fórmula clara. 
+
+- Retrospectiva clara.
+
+- Muy bien la centralización de información por el problema del aislamiento.
+
+- Me gusta la transparencia con la que se muestra el esfuerzo del equipo.
+
+- Muy bien la diapositiva de la IA, miden si se tiene que editar y miden el tiempo ahorrado. Incluso quitan una IA.
+
+
+**Feedback recibido (resumen de los comentarios de los profesores)**
+
+- Muy buen killer opener. Se sugiere seguir con la historia.
+
+- Cuando no te acuerdas de algo, puedes beber agua de la botella que **está en la mesa**. Si está en la mano siempre la atención se va allí.
+
+-	Las estimaciones deberían haberse explicado un poco mejor, ha faltado comentar detalles como de dónde sale la gráfica, con qué usuarios de cada tipo, etc.
+
+- Las demos deben de tener datos realistas, para así evitar la falta de profesionalidad.
+
+-	Intentar audios más homogéneos: misma velocidad, mismo tono, etc. Sobre todo si hablan distintas personas.
+
+- Se debe comentar lo que va a aparecer en la demo, para así seguir mejor el hilo de esta.
+
+-	La fórmula de rendimiento está bien trabajada, pero falta poner los números de cada uno de los miembros, al menos anonimizados. Se recomienda incluso añadir una evolución entre sprints usando gráficas de barras.
+
+-	El procedimiento de cómo resolver problemas es muy genérico (en las diapositivas). Está bien poner ejemplos, como el problema de las estimaciones.
+
+- Debe de haber elasticidad en la forma de presentar, tener pensado qué cosas de las que se cuentan sobran, para no perjudicar el ritmo. Se puede volver a transparencias si sobra tiempo.
+
+**Puntos positivos destacados**
+
+- Killer opener espectacular.
+
+- Fórmula de rendimiento bien trabajada.
+
+**Áreas de mejora sugeridas**
+
+- Mejor explicación de las estimaciones.
+
+- Audios más homogéneos.
+
+- Comentarlo que va a aparecer en la demo.
+
+- Evitar diapositivas muy genéricas. Incluir ejemplos es recomendable.
+
+- Ensayar más las presentaciones para conseguir una mayor elasticidad.
+
+## Semana 7
+
+**Feedback alumnos**
+
+- Inicio efectivo chulo. 
+
+- Dos tardes haciendo el storyboard.
+
+- Muy informal la demo.
+
+- No se ve muy bien la demo, pero parece que va al target.
+
+**Feedback recibido (resumen de los comentarios de los profesores)**
+
+- Deberían usar un aparato para cambiar de diapositiva.
+
+- Muy buena conexion entre killer openers.
+
+- No hacer referencia a las semanas pasadas.
+
+- Buen desarrollo de los storyboards (a mano, directos, claros, no demasiadas escenas).
+
+- Parece que no es multievento en la presentación.
+
+- Mostrar más claramente las líneas de corte de los costes.
+
+- Equipo: no está puesto el responsable de GDPR.
+
+- Muy buena demo. Se escuchaba alto y claro, se definían bien los roles y era relativamente cómico. Quizás mejorar la experiencia de usuario.
+
+- Destacar el workflow.
+
+- Hay que ser capaz de medir las soluciones.
+
+- Es necesario una gráfica de barras para mostrar la evolución cuantitativa del rendimiento del equipo.
+
+**Puntos positivos destacados**
+
+- Buena conexión entre killers openers.
+
+- Muy buena demo.
+
+- Workflow destacable.
+
+- Muy buenos storyboards.
+
+**Áreas de mejora sugeridas**
+
+- Mostrar mejor las líneas de corte de los costes.
+
+- Mejorar la experiencia de usuario en la demo (que se vea bien).
+
+- Soluciones medibles.
+
+- Gráfica de barras de evolución cuantitativa del rendimiento del equipo.
+
 ---
 
 
@@ -856,6 +1288,113 @@ El equipo de FISIO FIND, además de lo anterior, ha encontrado muy interesante e
 
 - Dedicar más tiempo a la retrospectiva y explicarla mejor.
 
+## Semana 6
+
+**Feedback alumnos**
+
+- Buen desglose de los costes.
+
+- El estudio que han hecho, amortización en base a encuestas, hace que la suposición tenga menos riesgo (estimación de costes).
+
+- Muy buen ritmo.
+
+- Problemas, se han solucionado casi todos. Son transparentes en que hay riesgos que no estaban previstos y en el ritmo de completar las tareas.
+
+- Simple pero claro las alucinaciones de la IA.
+
+- Tabla comparativa, diferencias con los competidores, costes han puesto K para los miles, gráfica de coste muy visual, responsabilidades muy claras.
+
+- Buena estética, cómo se han mostrado los problemas y se han solucionado la mayoría.
+
+**Feedback recibido (resumen de los comentarios de los profesores)**
+
+- El killer opener no está tan enlazado porque Doraemon tenía muchas cosas que prestar, el nuevo personaje no tiene eso. Habría que mejorarlo.
+
+-	El análisis de los costes es muy bueno, pero hay que tener en cuenta cómo evolucionará el avance real de costes.
+
+- Muy buen formato, pero puede ser un problema. No han puesto las medidas para resolver y el cómo miden (métricas).
+
+- Hay que resaltar la característica que están mostrando en la demo.
+
+- La demo parecía en tiempo real, que es algo muy bueno.
+
+- Muy bien haber puesto el incremento de características para el segundo sprint. Lo podrían poner en otro color para que resaltase más.
+
+- ¿Por qué la IA alucina tanto? ¿Por qué sucede eso? No lo saben, pero es raro.
+
+**Puntos positivos destacados**
+
+- Análisis de costes muy bueno.
+
+- La naturalidad de la demo.
+
+- Inclusión del incremento de características en futuros sprints.
+
+**Áreas de mejora sugeridas**
+
+- Falta algo de enlace entre el killer opener y la presentación.
+
+- Tener en cuenta la evolución del avance real de los costes.
+
+- No han puesto las medidas para resolver y el cómo miden.
+
+- Resaltar la funcionalidad que se muestra en la demo.
+
+- Realizar análisis de las alucinaciones de la IA.
+
+## Semana 7
+
+**Feedback alumnos**
+
+- Muy buena esa comparación entre las gráficas "burn down".
+
+- Han mejorado mucho la forma de presentación, ahora tiene un ritmo más calmado.
+
+**Feedback recibido (resumen de los comentarios de los profesores)**
+
+- Personajes poco acertados en la demo y el killer opener.
+
+- Pequeño fallo: ponen mil en vez de k para representar cifras grandes.
+
+- En las gráficas de costes, es importante poner de dónde salen los números, porque el público se va a preguntar si es realista. Se tiene que poner el número de usuarios/transacciones en cada punto.
+
+- Los usuarios piloto deberían probar la aplicación. Tienen que poner su valor diferencial y lo que valoran los usuarios piloto.
+
+- Muchas cosas que han dicho no están apoyadas en datos cuantitativos.
+
+- Han puesto dos storyboards, pero parecen poco ocurrentes (expresión literal).
+
+- La demo se puede poner más grande.
+
+- Diapositiva de IA poco genérica. Solo había tres textos. Se podría haber puesto de herramientas usadas, métricas… Faltan más transparencias en este apartado.
+
+- No se deben hacer afirmaciones absolutas que se apliquen a todos los proyectos sin excepción.
+
+- Han mejorado la presentación poniendo títulos en todas las diapositivas.
+
+- Es importante detallar más el proceso de evaluación del rendimiento individual del equipo.
+
+**Puntos positivos destacados**
+
+- Han mejorado la presentación poniendo títulos en todas las diapositivas.
+
+**Áreas de mejora sugeridas**
+
+- Buscar personajes adecuados para el killer opener y la demo.
+
+- Usar la k en los costes.
+
+- Poner de dónde salen los números en las gráficas de costes.
+
+- Que los usuarios piloto prueben la app.
+
+- Apoyarse en datos cuantitativos.
+
+- Los storyboards son poco ocurrentes.
+
+- Más diapositivas de IA.
+
+- Detallar el proceso de evaluación del rendimiento individual del equipo.
 ---
 
 # Grupo 5 - CAMYO
@@ -1010,5 +1549,113 @@ Los compañeros de clase felicitamos al equipo por la claridad de la exposición
 
 - Si hay pull request de mejora se debe decir en la presentación.
 
+## Semana 6
 
+**Feedback alumnos**:
+
+-	Está bien como han mostrado los problemas, sus soluciones y los resultados.
+
+- Muy bien bots y métricas utilizas para la IA. Muy bien la estética.
+
+**Feedback recibido (resumen de los comentarios de los profesores)**
+
+-	Las métricas muy bien.
+
+-	Los íconos en la demo, que indican qué usuario está usando la app en cada momento, son una muy buena idea. Estaría bien que en el killer opener se conectasen los presentadores con dichos iconos, para así enlazar el killer opener con la demo y todo lo demás.
+
+-	Debería ser el empleado el que piense en que ojalá haya una app que haga tal y cual, no el empleador, al menos en este caso.
+
+-	Revisar CapEx y OpEx, hay que desglosar bien las cosas.
+
+-	Hay veces que no hay que traducir ciertas cosas, como code smells -> código que apesta.
+
+-	El tema de plantear el problema, la solución, cómo se mide y el avance es superior a todos los grupos. Usar hasta CodiumIA para automatizar métricas de problemas es muy útil. Ayuda a que la obtención de métricas sea lo más barato y automatizado posible.
+
+-	Resaltar la gráfica que se cruza de costes y presupuestos.
+
+-	La gestión de usuarios pilotos, la gestión del feedback, se asume que todo tiene errores, lo cual no tiene por qué ser así. Hay que generalizar adecuadamente.
+
+**Puntos positivos destacados**
+
+- Buenas métricas.
+
+- Iconos de usuarios en la demo.
+
+- La gestión de problemas es superior a todos los grupos.
+
+- Gráfica de costes y presupuestos.
+
+**Áreas de mejora sugeridas**
+
+- Estaría bien que en el killer opener se conectasen los presentadores con los iconos.
+
+- Revisar CapEx y OpEx.
+
+- Cuidado al traducir literalmente.
+
+- Generalizar adecuadamente.
+
+## Semana 7
+
+**Feedback alumnos**:
+
+- Buen inicio efectivo como si fuera un simulacro de incendios.
+
+- Se ha equivocado un poco al explicar los derechos sobre los datos.
+
+- Muy bien el top 3 de rendimiento semanal.
+
+**Feedback recibido (resumen de los comentarios de los profesores)**
+
+- El principio muy rápido. Parece casi que no ha dicho el elevator pitch. Quizás ha sido por los problemas técnicos iniciales.
+
+- ¿A quién va dirigido el storyboard? Parece que va a varios targets y eso puede hacer que no funcione. Debería ser dirigido a solo un target.
+
+- Muy buen killer opener por lo de la alarma, ha captado la atención completamente. Sin embargo, ha faltado que conecte con la demo.
+
+- El impacto legal está muy bien, tanto las conclusiones como lo que afecta al usuario.
+
+- CapEx y OpEx están bien.
+
+- Falta una gráfica de corte para mostrar cuándo se empieza a ganar más de lo que se gasta.
+
+- ¿Han priorizado el feedback? 
+
+	- Está en proceso de priorización porque es reciente.
+
+- En la gestión de usuarios piloto han dicho muchas cosas sin apoyo visual. Hace falta apoyo (seguramente será porque es reciente).
+
+- Además del QR, poner un email de contacto.
+
+- La demo se escucha poco y se ve poco. 
+
+- Una propuesta de mejora es que los audios en las demos sean grabados por varias personas, para identificar aun mejor cuando se cambie entre distintos usuarios.
+
+- No han dicho ningún problema. Parece que es porque no hay ninguno.
+
+	- Esta semana están probando una solución, por lo que no saben si está funcionando o no.
+
+- La trasparencia de historias de usuario tiene demasiada incertidumbre, porque depende de los últimos dias del sprint.
+
+**Puntos positivos destacados**
+
+- Buena captación de atención en el killer opener.
+
+- Muy bien definido el impacto legal.
+
+- Bien el CapEx y el OpEx.
+
+**Áreas de mejora sugeridas**
+
+- Principio demasiado rápido.
+
+- Dirigir el storyboard a un solo target.
+
+- Falta una gráfica de corte para mostrar cuándo se empieza a ganar más de lo que se gasta.
+
+- Usar apoyo visual.
+
+- Demo mejorable audiovisualmente. Además de añadir distintas voces.
+
+- No se ha hablado expresamente de problemas/soluciones/estado.
 
