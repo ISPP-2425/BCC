@@ -10,10 +10,6 @@ En esta sección se presenta el feedback recibido sobre la **calidad del proyect
 - Es importante que la evaluación de calidad se enfoque en resolver las incertidumbres técnicas lo antes posible. Esto ayudará a evitar problemas en el futuro y asegurará un desarrollo más fluido. Aunque en algunos casos se destaca que la documentación de calidad fue bien elaborada, en otros se ha observado que no se ha puesto suficiente énfasis en garantizar la calidad desde el principio, lo que podría comprometer el éxito del proyecto.
 
 ## Semana 17/03
-
 - **Falta de métricas cuantitativas**: En varios casos, no se han proporcionado datos numéricos que respalden el rendimiento del producto o su impacto. Sin estos, la presentación puede generar dudas sobre su viabilidad. Se recomienda incluir porcentajes de mejora, estimaciones de rendimiento o datos financieros claros.
 - **Entrega tardía de la app a usuarios piloto**: el retraso en el recibimiento de feedback de los usuarios piloto nos deja menos margen de tiempo de respuesta para corregir errores, por lo que **es crucial comenzar con este proceso** para ir realizando análisis de aceptación a lo largo del tiempo, y comprobar de esta manera si la opinión con respecto a la aplicación mejora o no.
-
-## Semana 21/03
-
 - Mejorar el estilo y consistencia del código, utilizando herramientas como Codacy para monitorizar la evolución, sintaxis y calidad del código de forma continua.

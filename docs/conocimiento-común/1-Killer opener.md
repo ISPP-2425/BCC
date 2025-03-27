@@ -25,8 +25,6 @@ En esta página se recoge el feedback proporcionado por el profesor y los compa�
 - El killer opener debe estar estrechamente relacionado con el tema a tratar y servir como una introducción breve. Además, esta conexión debe ser evidente y comprensible de inmediato para facilitar una transición rápida hacia la introducción (no nos interesa extendernos demasiado).
 - Tener cuidado con el copyright, es importante atenerse a la legislación vigente.
 - Utilizar un tema impactante, que demuestre que existe una necesidad acuciante que nuestro factor diferencial consigue suplir.
-
-## Semana 21/03
 - Potenciar la narrativa con apoyo visual emocional y una introducción natural del producto, evitando apariciones “mágicas” y repeticiones innecesarias que diluyan el mensaje.
 - Incrementar la energía inicial del discurso, asegurando se comunique de forma clara qué hace la aplicación, con un cierre impactante y un hilado adecuado con los storyboards si es lo que sigue.
 - Si durante la narrativa hemos usado un objeto de apoyo visaul, no dejarlo mucho tiempo después del inicio ya que solo quitara atención y dificultará la comunicación con el público.

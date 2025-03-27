@@ -33,7 +33,6 @@ En esta página se recoge el feedback proporcionado por el profesor y los compa�
 - Presentar distintos escenarios de gastos
 
 ## Semana 17/03
-
 - **Estimación realista de los costes**: no es correcto añadir un valor arbitrario a los equipos, estos se deben tratar como amortizaciones.
 - Es importante **justificar los cálculos de costes** y no dejar cifras al aire sin explicar de dónde provienen, hay que justificar la rentabilidad monetaria con la penetración de mercado, pues esta primera deriva de la segunda.
 - Se deben proporcionar cifras claras sobre el retorno de inversión (ROI) y los costos operativos (OPEX) para que inversores y audiencias puedan evaluar la sostenibilidad del proyecto.
