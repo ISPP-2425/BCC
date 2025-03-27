@@ -32,4 +32,4 @@ En esta página se recoge el feedback proporcionado por el profesor y los compa�
 
 ## Semana 21/03
 
-- Se reitera en d   efinir y comunicar de forma precisa las soluciones a los problemas, detallando métricas, riesgos, procesos y causas específicas para evaluar su efectividad y garantizar un impacto medible de las acciones implementadas.
+- Se reitera en definir y comunicar de forma precisa las soluciones a los problemas, detallando métricas, riesgos, procesos y causas específicas para evaluar su efectividad y garantizar un impacto medible de las acciones implementadas.

@@ -18,4 +18,4 @@ En esta p√°gina se recoge el feedback proporcionado por el profesor y los compa√
 
 ## Semana 21/03
 
-- Destacar de forma precisa los casos de uso implementados y que se quieren mostrar durante la demo para evidenciar las funcionalidades de interes
+- Destacar de forma precisa los casos de uso implementados y que se quieren mostrar durante la demo para evidenciar las funcionalidades de interes.

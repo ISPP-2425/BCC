@@ -49,5 +49,5 @@ En esta p√°gina se recoge el feedback proporcionado por el profesor y los compa√
 ## Semana 21/03
 
 - Revisar la velocidad y fluidez de las transiciones, evitando que algunas se alarguen en exceso o se aceleren de manera abrupta al final.
-- Si el presentador habla rapidp aprovechar la rapidez en el discurso como una habilidad, manteniendo la claridad sin que se convierta en un defecto comunicativo.
+- Si el presentador habla rapido aprovechar la rapidez en el discurso como una habilidad, manteniendo la claridad sin que se convierta en un defecto comunicativo.
 
