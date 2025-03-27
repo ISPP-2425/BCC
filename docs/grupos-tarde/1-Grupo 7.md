@@ -209,8 +209,69 @@ Uso inconsistente del idioma (se recomienda unificar en inglés o español).
       - Definir metas claras para el final del sprint.
       - Implementar pagos reales con cuentas sandbox para probar la monetización para final del sprint.
 
+## Semana 6
+### Feedback relacionado con la presentación
+- La presentación inicial necesita más energía y un "killer opener" con storytelling para captar la atención desde el principio. 
+- Las transiciones son muy lentas y el último tercio se presenta demasiado rápido.
+- Dirigirse a personas interesadas en geocaching, pensando en perfiles generales y nichos específicos. Identificar posibles aficiones de los usuarios (senderismo, turismo) y destacar cómo el proyecto promueve una actividad saludable.
+- Los storyboards deben conectar emocionalmente y mostrar interacciones reales del producto.
+- El storyboard de inversores debe incluir datos financieros reales y expectativas de ganancias.
+- En lugar de riesgos, destacar problemas específicos y cómo se van a abordar, con medidas claras y resultados verificables.
+- Mejorar las diapositivas de problemas y el análisis de competidores con metáforas visuales y gráficas más claras.
+- Añadir fotos del equipo y mostrar gráficos de evolución del código y rendimiento del equipo.
+- Aclarar casos de uso en los videos y revisar la coherencia del storytelling. 
+- Incluir ejemplos gráficos y más detalles específicos en el análisis de competidores y modelos de negocio.
 
 
+### Feedback relacionado con el desarrollo del proyecto
+- Asegurarse de que todas las soluciones a problemas estén bien definidas y se expliquen con métricas claras para evaluar su efectividad.
+- Incluir la opción de que el usuario pueda solicitar el borrado de datos para cumplir con el GDPR y mostrar gráficos de PSG2 para la seguridad del sistema.
+- Revisar el estilo de código, compartir configuraciones de entornos y mostrar gráficamente la evolución del código (Codacy).
+- Incluir los riesgos identificados previamente y explicar cómo se gestionarán.
+- Integrar botones claros para acceder a funciones premium y el plan premium cuando se intenta realizar una acción restringida. 
+
+### Tareas a realizar para la siguiente semana
+
+   1. **Compromiso y aceptación de CA:**
+      - Garantizar que los usuarios comprenden y aceptan el Compromiso de Aceptación (CA).
+      - Guardar evidencia legal de que el usuario ha leído y aceptado el CA.
+
+   2. **Storyboard:**
+      - Crear un storyboard para cada actor relevante y uno específico para el inversor.
+
+   3. **Condiciones y cláusulas:**
+      - Evitar cláusulas abusivas en los términos de servicio.
+      - Incluir una descripción clara de lo que ofrece el servicio.
+
+   4. **SLAs y certificaciones:**
+      - Definir los acuerdos de nivel de servicio (SLA) y evaluar qué sucede si proveedores externos (como los de mapas) fallan.
+      - Verificar y validar los niveles de certificación.
+
+   5. **Costes y proyección:**
+      - Crear gráficas de proyección de costes a dos años a partir del WPL.
+
+   6. **Retrospectiva del Sprint 2:**
+      - Dedicación del 50% de la presentación.
+      - Mostrar un gráfico matriz rendimiento/esfuerzo (con ejes de rendimiento y esfuerzo), destacando la media grupal y considerando las 20 horas.
+
+   7. **Planificación Sprint 3:**
+      - Validar aspectos de seguridad: correos electrónicos reales, tarjetas de crédito y otros datos validables.
+      - Evitar trabajar solo en el 'happy path' y considerar posibles errores.
+      - Confirmar los pagos reales y su seguridad.
+
+   8. **Feedback y comunicación:**
+      - Aplicar píldoras de feedback para mejorar el flujo de trabajo.
+      - Para problemas de comunicación, utilizar calendarios compartidos.
+
+   9. **Uso de la IA:**
+      - Analizar el impacto del uso de la IA en el proyecto.
+      - Identificar lecciones aprendidas y posibles alucinaciones (errores) de la IA.
+
+   10. **Changelog:**
+      - Crear un changelog automático para registrar cambios y novedades relevantes.
+
+   11. **Recortes en el alcance:**
+   Si no se pueden aplicar todos los cambios debido a limitaciones de tiempo, documentar lo pendiente para realizarlo en el Sprint 4.
 
 
 ---
@@ -291,6 +352,25 @@ Uso inconsistente del idioma (se recomienda unificar en inglés o español).
 - Configurar sistemas que rechacen pull requests de baja calidad.
 - Pensar en diseñar la app para que pueda usarse con una sola mano.
 - Usuarios piloto: Buscar más testers reales para validar el producto.
+
+### Semana 6
+#### Feedback relacionado con la presentación
+- Evitar hablar en tercera persona en los storyboards dirigidos a inversores.
+- Incluir cifras claras y presentarlas en gráficas para facilitar la comprensión.
+- Asegurarse de que el nombre "Infanten" no aparezca sin contexto en los storyboards.
+- Saltarse el "meta anuncio" para mantener la atención en el contenido principal.
+- Homogeneizar las fotos del equipo para una imagen más profesional.
+- Mejorar las gráficas de número de horas para que sean más claras y efectivas.
+- Reducir el nivel de detalle en la sección de impacto legal.
+- Evitar que el producto aparezca "mágicamente" en la narrativa; debe haber una introducción clara.
+
+#### Feedback relacionado con el desarrollo del proyecto
+- Evaluar el coste de mantenimiento futuro para contratar nutricionistas como consultores.
+- Adaptar las funcionalidades del producto a las capacidades y servicios de un dietista/nutricionista real.
+- Solucionar el problema del 0% de testing en el código, ya que es preocupante.
+- Resolver los problemas con el despliegue continuo.
+- Analizar el atractivo del contenido premium, especialmente las recetas para bebés, ya que parecen ser el principal incentivo para pagar.
+
 ---
 
 ## Grupo 9 - Caronte
@@ -366,6 +446,23 @@ Uso inconsistente del idioma (se recomienda unificar en inglés o español).
 - La calidad del código debe garantizarse con pruebas funcionales y herramientas estáticas de análisis.
 - Un 90% de avance suele significar que una tarea está hecha pero no probada.
 - La sección de "problemas" no debe estar dentro de la parte del equipo.
+
+### Semana 6
+#### Feedback relacionado con la presentación
+- El "killer opener" está bien, pero se sugiere añadir un apoyo visual más emocional.
+- Storyboard mostrarlo claramente cuando se hable del anuncio y añadir información de precios.
+- Usar "gastos" en lugar de "pérdidas".
+- Se recomienda hacer demostraciones grabadas para evitar fallos de latencia y asegurar claridad en los casos de uso probados.
+- No mezclar información de algunos apartados con los cambios hechos a partir de comentarios de usuarios piloto.
+- Mejorar la gráfica del product backlog separando las categorías de estado de cada tarea.
+
+#### Feedback relacionado con el desarrollo del proyecto
+- Los datos de usuarios que abandonan deben anonimizarse, pero no borrarse para análisis estadísticos.
+- Evaluar la efectividad de las soluciones implementadas.
+- Reducir el alcance de tareas no esenciales para ajustar las horas estimadas.
+- Aprovechar la tecnología para optimizar recursos y reducir costes.
+- Utilizar Codacy para evaluar la calidad del código a lo largo del tiempo y medir el rendimiento individual de forma anónima.
+
 ---
 
 ## Grupo 10 - Go4Surprise
@@ -441,6 +538,24 @@ Uso inconsistente del idioma (se recomienda unificar en inglés o español).
 - Es importante hacer una mejor categorización y análisis del feedback recibido.
 - El registro y login no son necesarios en la presentación.
 - El equipo full-stack debería definir mejor sus roles para evitar redundancias.
+
+### Semana 6
+#### Feedback relacionado con la presentación
+- Iniciar de manera efectiva explicando quiénes son sin decir explícitamente lo que hacen. Resaltar lo que los hace únicos antes de describir el producto o servicio.
+- Evitar preguntas abiertas al público al inicio para prevenir respuestas múltiples y dispersas.
+- No mostrar fórmulas complejas en las diapositivas; mejor explicar los factores clave de manera clara y sencilla.
+- Mejorar la aparición del producto en el storyboard para que sea más natural, evitando la sensación de que aparece "mágicamente".
+- Hacer los elementos visuales de la aplicación más atractivos y legibles, evitando fondos oscuros en las gráficas que dificulten la lectura.
+- Resumir y simplificar la planificación de usuarios piloto, evitando sobrecargar de información las diapositivas.
+
+#### Feedback relacionado con el desarrollo del proyecto
+- Asegurarse de que los compromisos y objetivos cumplidos sean coherentes con los problemas identificados (por ejemplo, cumplimiento vs. comunicación).
+- Evaluar si las soluciones implementadas realmente funcionan y tienen el impacto esperado.
+- Entrar en detalle al explicar problemas específicos, como errores en la revisión de código, para entender mejor sus causas y posibles soluciones.
+- Las gráficas de rendimiento individual son útiles, pero se debe asegurar que sean claras y bien presentadas.
+- Cuidar la coherencia al comunicar los resultados: no decir que algo ha ido bien si hay un aspecto relacionado que ha fallado.
+- Si se muestra código fuente, evitar hacerlo público y restringir el acceso solo a personas autorizadas, como profesores.
+
 ---
 
 ## Grupo 11 - Pawtel
@@ -520,3 +635,21 @@ Uso inconsistente del idioma (se recomienda unificar en inglés o español).
 - Problemas entre backend y frontend no se resuelven con UML, sino con una definición clara del contrato de la API.
 - Definir cómo se medirá si una solución está funcionando correctamente.
 
+### Semana 6
+#### Feedback relacionado con la presentación
+- Terminar el "killer opener" dejando claro qué hace la aplicación para cerrar con impacto.
+- Evitar pasos innecesarios en la explicación, como registrarse, si se sobreentienden.
+- El presentador habla rápido; usar la rapidez como una habilidad efectiva y no como un defecto.
+- Usar una palabra clave o el nombre de la mascota como un recordatorio claro y repetible de la aplicación.
+- No usar frases como "como hemos dicho otras veces"; la presentación debe ser autocontenida.
+- Simplificar el análisis de rendimiento y evitar desglose excesivo por equipos para una visión más general.
+- Mostrar la landing page y el email de contacto al final para cerrar con un llamado a la acción claro.
+
+#### Feedback relacionado con el desarrollo del proyecto
+- Revisar el manejo de datos personales y el cumplimiento del RGPD, considerando si realmente son necesarios.
+- Identificar si los costes son CAPEX (gastos de capital) u OPEX (gastos operativos) correctamente.
+- Evitar soluciones "mágicas" en los storyboards; especificar claramente los procesos y los beneficios, como el buscador gratuito y las comisiones.
+- Alinear el estilo de código entre todo el equipo para evitar "malos olores" y lograr consistencia visual y funcional.
+- 600+ problemas detectados es una cantidad elevada; evaluar la gravedad y priorizar la solución.
+- Asegurarse de que, si se afirma un avance del 90%, haya pruebas y tests concluyentes.
+- En la demo, destacar los casos de uso implementados y resaltar los que se van a mostrar.
