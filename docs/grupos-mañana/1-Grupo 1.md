@@ -276,6 +276,7 @@ Usa lenguaje coloquial chocante: “Se jode”, por otra parte esto puede ser pe
 - Algunas transparencias le han gustado mucho, pero en la traspa 25, más que soluciones son propuestas.
 - Medidas más cuantitativas para, medir mejor la evolución de los problemas, la intención solo no es suficiente.
 - En la traspa 30,31 hay que revisarlo un poco, hay una persona que ha hecho un 0% de tareas a tiempo.
+
 -------------------------------------------
 
 # Grupo 2 - GastroStock
@@ -317,6 +318,7 @@ Enfoque correcto, pero le sigue chinando como se va a usar la IA, al no usar int
 **Feedback de profesores**
 
 buen speach inicial buena soltura.
+
 
 -mucha ambición.
 
@@ -499,6 +501,18 @@ Ayuda a la gestión de inventarios de bares y mejora de logística mediante IA.
 - Demo muy mejorable, mucho “también puede ver”, hay que amenizar. Faltan personajes y guión, contar una historia.
 - Los anuncios no se ven bien. Replantearía muchas partes de la presentación. 
 - Faltan problemas, riesgos, storyboard…
+
+**Feedback negativo de estudiante**
+- Parece que no tienen prototipo, muestran mockups.
+- Solo tienen hasta ahora 13 usuarios piloto, lo cual quizás sea indicativo de algo.
+- Notificación durante la presentación.
+- No hay QR a landing page
+
+**Feedback de profesores (Cristina)**
+- No dio tiempo.
+**Feedback de profesores (Pablo)**
+- No dio tiempo.
+
 ----------------------------------
 
 # Grupo 3 -  EVENTBRIDE
@@ -770,7 +784,6 @@ Aplicación para gestionar eventos cristianos; bodas, bautizos y comuniones
 ## Semana 1 
 
 **BORROO**
-
 Aplicación para generalizar el alquiler de objetos, es de matchmaking-improved market
 
 **Feedback de estudiantes**
@@ -1527,6 +1540,7 @@ Storyboard muy breve. Y en un estado precario.
 - Pregunta cómo se mide el rendimiento del equipo.
 - Esperan ver todas las semanas el rendimiento.
 - La métrica a veces es un objetivo y otra cosa es la evolución para llegar al objetivo, ponerlo en una misma columna de métrica no es adecuado.
+
 ------------------------------------------
 
 # Feedback de final de clase

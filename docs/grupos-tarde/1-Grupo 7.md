@@ -96,6 +96,122 @@ En esta página se encuentra el feedback recogido por el equipo del grupo 7 dura
 - Explicar la gestión de los usuarios piloto y cómo se planifica la comunicación con ellos.
 - Asegurar que en la documentación de uso de ia se incluyan los prompts utilizados.
 
+## Semana 4
+### Feedback relacionado con la presentación
+- Se incluyen elementos no requeridos en el guion (DAFO, BMC, etc.), lo que genera rapidez en la exposición. 
+- Si no está en el guion, debe eliminarse.
+- Las llaves ocupan demasiado espacio y dificultan la comprensión; se sugiere reemplazarlas por una tabla con unidades claras y datos digeribles.
+- Números de página demasiado pequeños.
+- Tablas con problemas deben aclarar la terminología (riesgos y problemas no deben mezclarse).
+Uso inconsistente del idioma (se recomienda unificar en inglés o español).
+- Demasiado contenido textual, se necesitan más elementos visuales.
+- La última diapositiva debe ser la landing page.
+
+### Feedback relacionado con el desarrollo del proyecto
+- No se entiende qué significa que una tarea esté "empezada"; se recomienda indicar el porcentaje de avance.
+- No solo globalizar el porcentaje de progreso del proyecto si se está en un sprint específico, enfocarse tambien en el sprint actual.
+- Excesivo detalle en costos de personal; se recomienda resumir y alinear la información en una tabla.
+
+### Tareas a realizar para la siguiente semana
+- Incluir gráficos subtitulados para una mejor comprensión del progreso individual.
+- Asegurar que el informe refleje un reparto equitativo de horas trabajadas.
+- El report debe contener el mismo contenido que la base de conocimiento, no solo un enlace.
+- Implementar un buscador en Docusaurus para facilitar la navegación.
+- Toda la documentación debe ser editable en formato Markdown (.md), evitando PDF.
+- Crear una guía de revisión del software como documento nuevo.
+- Facilitar la consulta del software mediante casos de uso y expectativas para el próximo día.
+- Explicación clara de qué ha pasado en el Sprint 1.
+- Detalles sobre el funcionamiento de la aplicación (parte más estable del proyecto).
+
+- #### **Estructura de la Presentación:**
+   **Introducción (15-20%)**
+   - Explicación del modelo de negocio y elevator pitch (1 min).
+   - Análisis de competidores enfocado en diferenciación del nicho.
+   - Análisis detallado de CAPEX, OPEX y costes, asegurando claridad en los números.
+   - Estimaciones de costes e ingresos a corto y largo plazo, incluyendo un gráfico ilustrativo.
+   - Breve presentación del equipo (sin enfoque en conocimientos técnicos).
+
+   **Demo de Resultados (15%)**
+   - Demostración del prototipo desplegado con casos de uso clave.
+
+   **Retrospectiva Completa (40-50%)**
+   - Evaluación del rendimiento del equipo.
+   - Medición de calidad del trabajo realizado hasta ahora.
+   - Análisis de tiempo invertido y posición actual en relación al total del proyecto.
+
+   **Gestión de Usuarios Piloto (10%-15%)**
+   - Presentación de los números finales de compromiso de los usuarios.
+   - Plan de acción para el final del sprint.
+
+   **Planificación de los Próximos Sprints (15%)**
+   - Estimación concreta del Sprint 2.
+   - Objetivos de mitad y final de sprint.
+   - Planificación y estimación del desarrollo restante.
+
+   **Final**
+   - Slide final con landing page, QR y URL bien visibles.
+
+## Semana 5
+### Feedback relacionado con la presentación
+- Evitar demostraciones en directo, es mejor llevarlas preparadas.
+- Colocar comentarios y enlaces al final, no en medio de la presentación.
+- Usar fondos que garanticen buena legibilidad (evitar textos oscuros sobre fondos oscuros).
+- Presentar solo la información esencial para evitar sobrecarga de datos.
+- Evitar términos vagos como "motivos variados"; especificar si son personales o de diversa índole.
+
+### Feedback relacionado con el desarrollo del proyecto
+- Considerar el uso de pulseras de actividad.
+- Tener en cuenta restricciones de batería y ahorro de energía.
+- Añadir problemas imprevistos al análisis de riesgos.
+- Consolidar métricas de productividad, explicando su aplicación y ponderación.
+- Evaluar la evolución de los sistemas.
+- No dar demasiado peso a la valoración individual; consolidar métricas grupales y definir el resultado final de la evaluación.
+- El diagrama de Gantt en la planificación del sprint requiere demasiado esfuerzo cognitivo y visual.
+- Buen uso de la IA, seguir aplicándolo.
+- Cuidado con el coste de los despliegues
+- Falta la automatización de la medición de la calidad del código
+- No hacéis un uso inteligente de la tecnología: auth 0, login social. No ser artesanos de la tecnología, si no lo vas a hacer mejor, buscar formas de hacerlo
+- Reducir el tiempo general de la introducción
+
+### Tareas a realizar para la siguiente semana
+   1. **Presentación de Impacto y Marketing**
+      - Elaborar una presentación más orientada a ventas e impacto.
+      - Crear un storyboard para cada tipo de usuario (clientes, usuarios, inversores).
+      - Diseñar el esquema visual estilo cómic con muñecos de palo.
+      - Definir el guión visual de la historia que vamos a contar.
+      
+   2. **Impacto Legal del Proyecto**
+      - Analizar licencias, protección de datos (RGPD) y otros requisitos legales.
+      - Identificar implementaciones necesarias en términos de cumplimiento legal.
+      - Determinar costos legales y la posible necesidad de un manager legal.
+      
+   3. **Gastos y Finanzas**
+      - Realizar estimaciones de gastos con escenarios pesimista y optimista.
+      - Definir distintas proyecciones y puntos de equilibrio.
+      - Evaluar costos legales y otras inversiones necesarias.
+      
+   4. **Equipo**
+      - Revisar y consolidar la estructura del equipo.
+      - Definir roles y responsabilidades.
+      
+   5. **Demo y Desarrollo**
+      - Preparar una demo de lo que se tenga desarrollado hasta el momento.
+      - Identificar principalmete los casos de uso core y los incrementos en el desarrollo.
+      
+   6. **Análisis de Calidad del Código**
+      - Realizar retrospectiva de mitad de sprint.
+      - Evaluar la calidad del código con herramientas como SonarQube.
+      
+   7. **Gestión de Usuarios Piloto**
+      - Monitorear la tasa de abandono y el seguimiento de usuarios piloto.
+      
+   8. **Planificación y Objetivos del Sprint**
+      - Definir metas claras para el final del sprint.
+      - Implementar pagos reales con cuentas sandbox para probar la monetización para final del sprint.
+
+
+
+
 
 ---
 
@@ -145,6 +261,36 @@ En esta página se encuentra el feedback recogido por el equipo del grupo 7 dura
 - Explicar mejor la estructura de costos y especificar cálculos realizados.
 - Agregar elementos faltantes: commitment agreement, ALN, landing page, uso de IA.
 - No abordar riesgos técnicos o legales sin haber explicado antes las decisiones tomadas.
+
+### Semana 4
+#### Feedback relacionado con la presentación
+- Es necesario resumir y concentrar la información, especialmente en costos y ganancias. Se debe facilitar la digestión de los datos con tablas y números bien formateados.
+- La tipografía no se ve bien y las diapositivas son densas. Es recomendable usar siglas comprensibles y hacer la información más digerible.
+- El diagrama de Gantt y otros elementos visuales (CV, SV, CPI, SPI) no se ven bien. No basta con capturas de pantalla; deben integrarse correctamente en la presentación.
+- Se debe controlar mejor el ritmo de la presentación, filtrando la información relevante antes de presentarla, no en el último momento.
+- El inicio de la presentación debería generar más conexión con el problema del proyecto, mostrando empatía, especialmente considerando el público objetivo (niños).
+
+#### Feedback relacionado con el desarrollo del proyecto
+- No es recomendable limitarse a los usuarios piloto asignados por la asignatura; es necesario hacer el esfuerzo de encontrar más participantes. Además, asignarles roles no tiene sentido.
+- Debe mejorar la presentación de la planificación para que sea comprensible para todos, sin asumir que el público conoce ciertos conceptos.
+- Es clave definir mejor el punto de equilibrio entre costes y beneficios y presentar esta información de manera clara. Además, se debe hablar de retorno por usuario en lugar de ganancias.
+- No se debe incluir contenido solo porque faltó en entregas anteriores; la información debe estar en el momento adecuado según el avance del proyecto.
+
+### Semana 5
+#### Feedback relacionado con la presentación
+- Generar más impacto en menos tiempo, especialmente en el elevator pitch.
+- Buena estética, pero algunos gráficos no aportan y pueden distraer. Se recomienda resaltar información clave con colores llamativos (ej. rojo).
+- No usar lorem ipsum ni datos genéricos, sino información realista.
+- Incluir personas reales en la demo para mejorar la conexión con el usuario.
+- No incluir registro ni login para agilizar la experiencia.
+- Estructura de la presentación es correcta, pero necesita mayor atractivo y efectividad en la introducción.
+
+#### Feedback relacionado con el desarrollo del proyecto
+- Estructura del equipo es actualmente muy piramidal, evaluar si realmente es funcional o si se puede hacer más plana.
+- Implementar herramientas como SonarQube para medir deuda técnica y evolución del código.
+- Configurar sistemas que rechacen pull requests de baja calidad.
+- Pensar en diseñar la app para que pueda usarse con una sola mano.
+- Usuarios piloto: Buscar más testers reales para validar el producto.
 ---
 
 ## Grupo 9 - Caronte
@@ -183,9 +329,46 @@ En esta página se encuentra el feedback recogido por el equipo del grupo 7 dura
 - Hay demasiada dependencia externa, lo que puede ser un riesgo.
 - Protopersonas vs. usuario piloto, una protopersona no da feedback real, hay que tener cuidado con cómo se presentan los datos y términos.
 
+### Semana 4
+#### Feedback relacionado con la presentación
+- El orden de la presentación no es adecuado: primero se debe explicar qué se ofrece antes de hablar de la competencia.
+- Hay confusión con la numeración de las páginas.
+- No se justifica de dónde sale la estimación de clientes.
+- Falta claridad en cómo se venderá el producto y cuándo.
+- No se menciona qué pasa si un usuario se enferma y cómo se justifica.
+
+#### Feedback relacionado con el desarrollo del proyecto
+- Los costes a largo plazo no están bien considerados.
+- Se deben incluir costes de soporte técnico y atención al cliente.
+- Se necesita una proyección clara de ingresos, gastos y costes en el tiempo.
+- La idea de un solo pago puede ser viable, pero se debe analizar el riesgo si la empresa desaparece antes que los clientes.
+- El 1% de la población española puede parecer poco, pero hay que considerar la disposición real de los clientes potenciales.
+- El público más probable son personas con hijos, aunque técnicamente todos puedan ser clientes.
+- Se deben explorar todos los segmentos del mercado, pero también considerar si es una moda pasajera.
+- Puede haber fricción con los seguros de decesos; si se cobra un pago constante, se debe ofrecer un servicio constante.
+- El factor tiempo es fundamental y debe ser analizado con detalle.
+- Es importante evaluar tendencias y modas para determinar la viabilidad a largo plazo.
+- No se han considerado los costes asociados a enfermedades.
+- La idea de "3 usuarios piloto por persona" debe ser revisada para entender su impacto real en la estrategia.
+
+### Semana 5
+#### Feedback relacionado con la presentación
+- No aplicar todo el feedback sin un análisis crítico previo.
+- Separar en la presentación el proyecto y el equipo de los problemas que ha habido.
+- Diferenciar claramente entre personas y roles. Si alguien está en más de dos equipos, se habla de roles, no de departamentos.
+- Buscar otra forma de mostrar el número de miembros por equipo.
+- En la gráfica de monetización, usar una curva acumulativa de beneficios y marcar claramente el punto donde se cruza el 0 (inicio de beneficios).
+
+#### Feedback relacionado con el desarrollo del proyecto
+- Las incertidumbres tecnológicas deben resolverse lo antes posible mediante pruebas de concepto.
+- En todo proyecto, los aspectos más problemáticos deben abordarse primero.
+- Horas trabajadas:Marcar la línea de los mínimos esperados, no mostrar horas totales, sino valores más útiles como la media, no usar decimales en las horas.
+- La calidad del código debe garantizarse con pruebas funcionales y herramientas estáticas de análisis.
+- Un 90% de avance suele significar que una tarea está hecha pero no probada.
+- La sección de "problemas" no debe estar dentro de la parte del equipo.
 ---
 
-## Grupo 10
+## Grupo 10 - Go4Surprise
 ### Semana 1
 #### Feedback relacionado con la presentación
 - Mantener una plantilla visual coherente.
@@ -224,6 +407,40 @@ En esta página se encuentra el feedback recogido por el equipo del grupo 7 dura
 - Priorizar volumen de clientes/usuarios para la viabilidad del proyecto.
 - Evaluar si el tiempo de respuesta para la devolución del dinero es suficiente, considerando imprevistos.
 
+### Semana 4
+#### Feedback relacionado con la presentación
+- El inicio debe ser impactante; eliminar contenido innecesario.
+- No es necesario un índice, la presentación debe fluir naturalmente de un tema a otro.
+- Enfocarse en demostrar que el proyecto es viable y que hay negocio.
+- Destacar la parte económica, mostrando cifras claras.
+- Hablar del equipo: su historia, experiencia y por qué son adecuados para el proyecto.
+- No centrarse en que son los usuarios piloto, sino en cómo se gestionan y el feedback obtenido.
+- La parte de riesgos no es prioritaria; solo mencionar problemas concretos y su resolución.
+- Asegurar que la demo se vea bien y sea efectiva.
+
+#### Feedback relacionado con el desarrollo del proyecto
+- Se debe tratar con más seriedad la falta de horas registradas en Clockify, ya que sugiere que algunos miembros no han trabajado.
+- El inicio de sesión no es un caso de uso central, por lo que no debía haberse priorizado en el desarrollo.
+- El registro no es necesario para el modelo de negocio; se debería permitir la compra como invitado.
+- En la gestión de usuarios y problemas, es clave mitigar los inconvenientes que surjan.
+
+### Semana 5
+#### Feedback relacionado con la presentación
+- El "killer opener" debe ser más entusiasta y cauteloso con preguntas abiertas que asuman respuestas, pueden hacer perder el interés del público.
+- Evitar referencias al alcohol, ya que no es universalmente aceptado.
+- La transición en la estimación de ingresos debe ser más suave, usando "ingresos esperados" en vez de "ingresos medios".
+- La diapositiva de gastos es buena, pero se sugiere mostrar escenarios pesimista, estimado y optimista
+- Evitar mezclar en una sola diapositiva lo que ha ido bien, mal y lo que hay que mejorar; mejor usar tres diapositivas separadas con metáforas visuales.
+- El video se percibe lento.
+- La demo debe centrarse en lo importante: la reserva.
+- Reducir texto y hacer la presentación más visual.
+
+#### Feedback relacionado con el desarrollo del proyecto
+- El diagrama de Gantt es útil para secuenciar tareas y visualizar paralelismo, pero no para mostrar todo lo realizado. Se puede usar para incidencias y retrasos.
+- No queda claro si se ha realizado un análisis del feedback de los usuarios piloto.
+- Es importante hacer una mejor categorización y análisis del feedback recibido.
+- El registro y login no son necesarios en la presentación.
+- El equipo full-stack debería definir mejor sus roles para evitar redundancias.
 ---
 
 ## Grupo 11 - Pawtel
@@ -263,5 +480,43 @@ En esta página se encuentra el feedback recogido por el equipo del grupo 7 dura
 - El plan de despliegue está bien trabajado.
 - La falta de planificación no debe considerarse un riesgo.
 
+### Semana 4
+#### Feedback relacionado con la presentación
+- El número de página no se ve bien (blanco sobre rosa).
+- "Servicios extra" no se entiende bien, cambiar el nombre para mayor claridad.
+- Reducir la carga cognitiva de las diapositivas.
+- No usar anglicismos si existe una palabra equivalente en español.
+- La tarjeta de perfil de usuario parece un mock-up.
+- La presentación debería contar una historia en lugar de ser una secuencia estática de pantallas.
+- Buena transparencia en el BMC (Business Model Canvas), transmite mucha información de forma simple.
+- El inicio de la presentación es efectivo: presenta cifras y el problema de manera clara.
+- Se agradece una diapositiva que condense información clave y permita digerirla mejor.
 
+#### Feedback relacionado con el desarrollo del proyecto
+- Explicar mejor cómo se compagina el equipo full-stack con el resto.
+- La retrospectiva debe enfocarse en los problemas enfrentados y cómo se han superado, más que en una lista de tareas realizadas.
+- Incluir un reloj o indicador del progreso del proyecto.
+- Presentar el punto de equilibrio en una gráfica.
+- Refinar las métricas para que sean justas para todos los roles.
+- Las métricas deben inducir el comportamiento adecuado y no generar efectos negativos.
+- Considerar métricas negativas y normalizar el número de tareas.
+- Definir límites razonables en las métricas y evaluar desviaciones.
+- Presentar gráficos de métricas de forma individual para identificar mejor el desempeño de cada miembro del equipo.
+- Incluir métricas individuales para facilitar la evaluación final y asegurar correlación con el desempeño.
+- Agregar fechas de los usuarios piloto para dar contexto.
+
+### Semana 5
+#### Feedback relacionado con la presentación
+- La presentación debe centrarse en el negocio futuro y no solo en el producto actual.
+- Opener poco atractivo, debe ser más llamativo, contar una historia que enganche y se refiera al final de la presentación. Evitar enfocarlo en inversores si el público objetivo son clientes.
+- Evitar el año 2025 en gráficas si los datos no están completos. No mezclar dimensiones en el análisis de ingresos. Representar el punto de balance con una gráfica de barras negativas y positivas junto con la línea del total.
+- Asegurar que la demo sea clara, con un video de respaldo. Tener cuidado con el zoom en presentaciones en vivo.
+- Considerar a las personas daltónicas en el diseño.
+
+#### Feedback relacionado con el desarrollo del proyecto
+- Cuidado con el modelo basado en anuncios. Los costes no serán constantes a lo largo de los 24 meses; inicialmente serán altos, luego bajarán y después disminuirán progresivamente.
+- Separar correctamente las dimensiones, ya que el número de usuarios no está directamente relacionado con la comisión mensual generada.
+- Implementar un sistema de CI/CD en lugar de hacer despliegues a última hora. Elegir bien la instancia de despliegue para evitar agotar créditos.
+- Problemas entre backend y frontend no se resuelven con UML, sino con una definición clara del contrato de la API.
+- Definir cómo se medirá si una solución está funcionando correctamente.
 
