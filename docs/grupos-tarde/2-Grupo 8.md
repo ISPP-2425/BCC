@@ -124,6 +124,29 @@ En esta página se encuentra el feedback recogido por el equipo del grupo 8 dura
 - No estamos usando sonar ni herramientas para comprobar el código que haya que refactorizar (podemos analizar la evolución de las métricas de sonar a lo largo de los siguiente sprints).
 - Analizar cuando “alucinan” las IAs que estamos usando y marcarlo en el documento de prompts para cuando se haga el análisis.
 
+## Semana 6
+#### Feedback relacionado con la presentación
+- No hablar de la persona en el StoryBoard de inversores. Dirigirse a los inversores y hablar de los beneficios que puedan sacar.
+- A la hora de sacar las cifras, dar un rendimiento y cifras atractivas para hacer que la peña pague
+- Involucrar a 3os para el storyboard, no hacer que el producto aparezca mágicamente
+- Gráficas
+- Juntar las gráficas de costes en una sola diapositiva
+- FOTOS HOMOGÉNEAS (IMPORTANTE)
+- Copiarle la gráfica de rendimiento a caronte
+- Impacto legal, menos texto y quedarse con lo más importante
+- INICIO EFECTIVO Y mejorar presentación. Mejorar el killer opener, hilar con la demo y el final, importante "cerrar el círculo".
+
+
+
+#### Feedback relacionado con el desarrollo del proyecto
+- Poner coste extra para posible revisión de los planes de nutrición
+- Justificar la parte premium para recetas personalizadas
+- Terminar de ajustar la parte del negocio (que pague la peña morosos)
+- Tac y Lgv métricas de clientes
+- No dar información donde no toca
+- Poner las herramientas de la ia y poner casos de uso reales
+
+
 
 
 ## Grupo 7 - Map Your World
@@ -208,6 +231,13 @@ En esta página se encuentra el feedback recogido por el equipo del grupo 8 dura
 
 - Buen uso de la IA exponiendo casos reales.
 
+# Semana 6
+#### Feedback relacionado con la presentación
+- Intencionalmente en blanco
+
+#### Feedback relacionado con el desarrollo del proyecto
+- Intencionalmente en blanco
+
 
 ## Grupo 9 - Caronte
 # Semana 1
@@ -258,6 +288,20 @@ En esta página se encuentra el feedback recogido por el equipo del grupo 8 dura
 - En la diapositiva 7, la transparencia refleja datos mes a mes, pero no de manera acumulativa. Se debería mostrar de forma acumulativa e incluir pérdidas y ganancias.
 
 - Anticipar el problema de gestión de pagos desde el inicio, ya que incluso el equipo cree que puede ser un inconveniente. La PoC (prueba de concepto) debería haberse realizado en el Sprint 1.
+
+# Semana 6
+#### Feedback relacionado con la presentación
+- Importante hacer la presentación autocontenida (pequeñas explicaciones)
+- Story Board: Un poco de información spam
+- La grafica esta super bien, los colores bien (aunque la semana pasada dijo lo contrario)
+- Lecciones aprendidas: Medir como  de bien están funcionando las soluciones aplicadas
+- Importante hacer video en la demo explicando lo que estamos haciendo (pueden fallar mas cosas online)
+- Hay que reflejar el rendimiento del equipo en total (a lo largo del tiempo)
+
+
+#### Feedback relacionado con el desarrollo del proyecto
+- GDPR: Hace falta un mecanismo para borrar los datos de un usuario y tener un plan por si denuncian
+- Uso de codacy importante 
 
 ## Grupo 10 - Go 4 Surprise
 # Semana 1
@@ -329,7 +373,18 @@ En esta página se encuentra el feedback recogido por el equipo del grupo 8 dura
 
 - Se ha echado en falta información sobre cómo se ha tenido en cuenta el feedback de los usuarios piloto.
 
+# Semana 6
+#### Feedback relacionado con la presentación
+- Inicio efectivo: Cuando explica el proyecto Explica quien son sin explicar lo que hacen (organizar bien la presentación)
+- Orientar el discurso inicial en torno a una palabra
+- No hacer preguntas!!!! En vez de eso, comenzar planteando una situación que estemos seguros que todos van a entender y empatizar con ella
+- No esta bien poner la formula de los costes (explicar factores pero no darle demasiada importancia)
+- No enseñar el código fuente
+- Lo ideal es ir del tiron a los casos de uso core
+- Cuidado con los colores de fondo
 
+#### Feedback relacionado con el desarrollo del proyecto
+- Intencionalmente en blanco
 
 ## Grupo 11 - Pawtel
 # Semana 1
@@ -402,3 +457,13 @@ En esta página se encuentra el feedback recogido por el equipo del grupo 8 dura
 - Es importante optimizar las llamadas a la API para mejorar la comunicación entre el backend y el frontend.
 
 - Se recomienda mejorar el sistema CI/CD.
+
+# Semana 6
+#### Feedback relacionado con la presentación
+- Muy buena presentación
+- Hilar el inicio con la explicación de lo que somos
+- Hablar flojo
+- Story Board autocontenido (super importante)
+
+#### Feedback relacionado con el desarrollo del proyecto
+- Intencionalmente en blanco
