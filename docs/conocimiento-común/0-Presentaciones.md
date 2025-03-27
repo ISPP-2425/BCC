@@ -27,8 +27,24 @@ En esta página se recoge el feedback proporcionado por el profesor y los compa�
 - Es recomendable dejar fuera de la presentación cualquier dato que necesite mayor tiempo de explicación.
 
 ## Semana 10/03
-- Mejorar el opener e introducción, fortalecer el inicio de la presentación con un “killer opener” y un elevator pitch impactante que cuente una historia atractiva, logrando un mayor dinamismo y captación de la atención desde el principio.
-- Mejorar el diseño empleando fondos y gráficos que aseguren legibilidad y resalten la información clave (por ejemplo, usando colores llamativos)
-- Acortar la duración de la introducción, debe ser mas ligera.
-- Incluir en la diapositiva final un enlace a la landing page o a la web del proyecto, las posibles redes sociales y un enlace al vídeo demo del proyecto.
+- Mejorar el opener e introducción, fortalecer el inicio de la presentación con un “killer opener” y un "elevator pitch" impactantes que cuenten una historia atractiva, logrando un mayor dinamismo y captación de la atención desde el principio.
+- Mejorar el diseño empleando fondos y gráficos que aseguren legibilidad y resalten la información clave (por ejemplo, usando colores llamativos).
+- Acortar la duración de la introducción, debe ser más ligera, sin perder el importante énfasis que hay que hacer en esta.
+- Incluir en la diapositiva final un enlace a la "landing page" o a la web del proyecto, las posibles redes sociales y un enlace al vídeo demo del proyecto.
+- El feedback de los usuarios piloto debe quedar reflejado. Esto es, si hay alguna HU que provenga de algún comentario de los usuarios piloto, debe indicarse en la presentación, por ejemplo, con un icono.
+- Es recomendable poner el aumento de características que se dan en los sprints, reflejándose con colores distintos a las características inicialmente pensadas, para que así destaquen más.
+- Debe de haber elasticidad en la forma de presentar, tener pensado qué cosas de las que se cuentan sobran, para no perjudicar el ritmo. Se puede volver a transparencias anteriores si sobra tiempo.
+-	Hay veces que no hay que traducir ciertas expresiones, como code smells -> código que apesta.
+
+
+## Semana 17/03
+
+- **Claridad y estructura:** Explicar bien la propuesta de valor y priorizar información relevante. Si la diapositiva es genérica, es decir, común a todos los proyectos, no tiene cabida en la presentación, es importante centrarse en las particularidades.
+- **Acompañamiento visual**: Es importante que el presentador no hable en exceso de un tema sin apoyo visual de la presentación, esto provoca desconexión en la audiencia.
+- **Expresión oral:** Ensayos previos para mejorar la fluidez, pausas y vocalización. Es importante decidir con antelación qué elementos son prescindibles, por si se da el caso de que el presentador vaya con el tiempo justo para terminar, ser capaz de, con soltura, poder decidir que elementos desechar y cuáles aportan valor diferencial.
+- **Convencer a los inversores**: Especificar rentabilidad, mercado objetivo y diferenciación, los inversores no deben realizar cálculos con los porcentajes entregados en la presentación, es mejor darles los datos en la forma más sencilla (ej. no decir que tenemos un 1% del mercado, sino comentar que estamos instalados en 1000 locales)
+- **Utilizar la notación K €** para referirse a miles.
+- **Colores intuitivos**: Hacer uso de la psicología de colores (ej: usar el verde para lo positivo y rojo para lo negativo).
+- Revisar la velocidad y fluidez de las transiciones, evitando que algunas se alarguen en exceso o se aceleren de manera abrupta al final.
+- Si el presentador habla rapido aprovechar la rapidez en el discurso como una habilidad, manteniendo la claridad sin que se convierta en un defecto comunicativo.
 

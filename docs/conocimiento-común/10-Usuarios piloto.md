@@ -16,3 +16,6 @@ En esta página se recoge el feedback proporcionado por el profesor y los compa�
 ## Semana 10/03
 - Mejorar la categorización y análisis del feedback recibido de los usuarios piloto para extraer insights útiles que orienten las mejoras del producto.
 - Es crucial incluir un proceso sistemático para analizar y priorizar el feedback recibido de los usuarios piloto. Esto no solo ayuda a identificar áreas de mejora, sino que también proporciona una base sólida para la replanificación de las tareas en los sprints posteriores.
+
+## Semana 17/03
+- Si los usuarios piloto aún **no han tenido la oportunidad de probar la aplicación**, nos encontramos en una **situación crítica**. Es fundamental recibir su feedback sobre las funcionalidades clave. Si estas aún no están implementadas, esto indica un **retraso significativo en el desarrollo** que hay que paliar con la mayor presteza posible.

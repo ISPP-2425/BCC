@@ -43,3 +43,6 @@ En esta página se recoge el feedback proporcionado por el profesor y los compa�
 - Además, se resaltó que algunos equipos han elaborado un **documento detallado sobre IA**, lo cual fue valorado positivamente. Esto sugiere que, para optimizar la integración de esta tecnología en el desarrollo del proyecto, es recomendable registrar de manera estructurada cómo y en qué áreas se está utilizando la IA, así como los desafíos y mejoras identificados a lo largo del proceso.
 
 - En conclusión, el feedback recibido resalta la necesidad de **transparencia y precisión** tanto en el compromiso de los miembros del equipo como en el uso de la IA. Explicar con claridad la participación de cada integrante y proporcionar evidencia concreta del uso de IA permite mejorar la calidad del proyecto y facilita la toma de decisiones informadas.
+
+## Semana 17/03
+- **No realizar comentarios genéricos** sobre el uso de la IA, como lo pueden ser: "La IA nos ha ayudado mucho" o "Hemos ahorrado tiempo", es preferible dar datos cuantitativos, comentar **qué problema en específico ha resuelto** y **cuánto tiempo se cree ha ahorrado con ello**.

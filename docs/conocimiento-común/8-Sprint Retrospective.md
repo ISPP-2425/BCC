@@ -23,3 +23,8 @@ En esta página se recoge el feedback proporcionado por el profesor y los compa�
 - Se destacó la importancia de registrar y comunicar con claridad los motivos por los cuales un miembro no ha podido contribuir al proyecto. Esto es fundamental para evaluar el impacto de cada integrante en el desempeño general del equipo y para garantizar una distribución equitativa del trabajo.
 
 - La forma en que se presentan los avances influye en la percepción del compromiso del equipo. Se hizo énfasis en evitar desequilibrios en la exposición de la información, lo que puede reflejar desigualdad en la implicación de los integrantes.
+
+## Semana 17/03
+- Destacar los problemas encontrados, **no es aceptable comunicar que "no ha habido problemas"**, pues estos siempre están al acecho, y **es necesario evaluarlos** minuciosamente con la mayor prontitud y **proponer soluciones factibles**, además debemos comentar si estas soluciones han surtido efecto, y en este caso, si **son definitivas, o simples parches temporales**.
+- Es una buena práctica **generar gráficas para las métricas de rendimiento**, para ser capaces de evaluar la eficiencia de los miembros (tiempo/tarea realizada) y su evolución durante los sprints.
+- Se reitera en definir y comunicar de forma precisa las soluciones a los problemas, detallando métricas, riesgos, procesos y causas específicas para evaluar su efectividad y garantizar un impacto medible de las acciones implementadas.
