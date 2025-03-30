@@ -2,7 +2,7 @@
 
 En esta página se encuentra el feedback recogido por el equipo del grupo 9 durante las sesiones de clase. Con secciones para cada semana, se detallan los comentarios y sugerencias del profesor y los compañeros, así como las tareas a realizar para la siguiente semana. Además, se incluye una sección para cada grupo con el feedback proporcionado por el grupo 9.
 
-## Semana 1
+## Semana 10/02
 #### Feedback relacionado con la presentación
 - Orden de las diapositivas. Comenzar con la idea de negocio, seguida de la descripción en 50 palabras, logo y concepto antes de introducir al equipo de trabajo.
 - Eliminar excesivos índices dentro de la presentación, hacerla más directa.
@@ -28,7 +28,7 @@ En esta página se encuentra el feedback recogido por el equipo del grupo 9 dura
 - No tener miedo a aplicar castigos si es necesario dentro del proyecto.
 - Destacar lo generado por IA si se ha utilizado en el desarrollo.
 
-## Semana 2
+## Semana 17/02
 #### Feedback relacionado con la presentación
 - Orden de la presentación. Es importante hablar primero del proyecto y luego de la competencia. La introducción debe centrarse en explicar quiénes somos antes de compararnos con otros.
 - Presentación individual. Se recomienda que solo una persona exponga, salvo que haya una división clara de roles (por ejemplo, técnico vs. financiero).
@@ -47,7 +47,7 @@ En esta página se encuentra el feedback recogido por el equipo del grupo 9 dura
 - Certificación de defunción: Se debe asegurar que las esquelas solo se creen tras la validación de un parte de defunción.
 - Integración con servicios existentes: Considerar que los tanatorios ya cuentan con ciertos servicios, lo que puede afectar la propuesta de valor de la aplicación.
 
-## Semana 3
+## Semana 24/02
 #### Feedback relacionado con la presentación
 - Mejorar la gestión del tiempo y las transiciones durante la presentación.
 - Realizar una presentación que sea lineal.
@@ -60,8 +60,56 @@ En esta página se encuentra el feedback recogido por el equipo del grupo 9 dura
 #### Feedback relacionado con el desarrollo del proyecto
 - No limitar la aplicación a una aplicación web y escoger las tecnologías que permiten el desarrollo de una aplicación web y móvil.
 
+## Semana 03/03
+#### Feedback relacionado con la presentación
+- Hablar del valor del producto de nuestra aplicación antes que la propia competencia.
+- Incluir una gráfica de costes, ingresos y gastos.
+- Crear un clima en el que se normalice la muerte sin abusar de lo políticamente incorrecto.
+- Mejorar el Killer Opener de la presentación.
+- Presentación muy correcta con un tono formal y atractivo. Seguimiento lineal de todas las secciones.
+- Mejorar la sección del prototipo funcional para hacerlo más dinámico, visual e interactivo.
+- Mejorar la visualización de las gráficas de rendimiento y desempeño individual.
+- Buena gestión del programa de usuarios piloto (gran número de participantes, calendario detallado, etc.).
+- Mejorar el estado del progreso de las diferentes secciones de la presentación.
+
+#### Feedback relacionado con el desarrollo del proyecto
+- En la sección de análisis de costes y TCO, considerar las diferentes fases del proyecto diferenciando entre las fases de desarrollo y lanzamiento. Establecer un análisis de beneficios progresivo durante la fase de lanzamiento, incluyendo el factor tiempo. Determinar un alcance realista de usuarios de la aplicación.
+- Determinar qué pasará en el caso de que la empresa desaparezca.
+
+## Semana 10/03
+#### Feedback relacionado con la presentación
+- Mejorar la representación del porcentaje de cada sección para que tenga un refuerzo gráfico detrás.
+- Mejorar la diapositiva relativa a la organización del equipo de trabajo para que represente de una manera más visual la capacidad de cada rol designado en el equipo.
+- Mejorar la representación gráfica de rendimiento del equipo de trabajo (añadir límite de horas necesario, media de horas de trabajo, no incluir el total de horas, etc.).
+- Buen trabajo por el cuidado de la presentación. A veces, las cosas más simples son las mejores.
+
+#### Feedback relacionado con el desarrollo del proyecto
+- Se ha incluido información en la presentación acerca del uso de IA durante el desarrollo del proyecto, uno de los pocos grupos que lo ha hecho (era un punto obligatorio a tratar).
+- En la sección de análisis de costes y TCO, incluir una curva acumulativa de beneficios para visualizar de una manera más clara el punto de retorno de la inversión.
+- Comenzar a utilizar alguna herramienta de análisis y monitoreo de código y la deuda técnica adquirida.
+- Dar una prioridad más alta a aquellas tareas que se estiman como críticas por su complejidad o duración.
+- Gestionar de una manera adecuada todo el feedback recibido, ya sea por parte del profesor, los compañeros o el resto de usuarios piloto.
+- Se ha valorado positivamente el uso de gráficas Burnup para el seguimiento y control de las tareas asignadas en el Sprint correspondiente, así como del Product Backlog de manera global.
+
+## Semana 17/03
+#### Feedback relacionado con la presentación
+- Mejorar el Killer opener, incluyendo un apoyo visual. Buen uso de las pausas para llamar la atención a la audiencia.
+- Mejorar la presentación del Storyboard, incluyendo uno para cada uno de los usuarios de la aplicación (clientes, empresas e inversores).
+- Incluir los factores establecidos para la evaluación del rendimiento de los miembros del equipo.
+- Evitar realizar la demostración funcional de la aplicación en directo, empleando el vídeo previa edición con el incremento funcional de esta semana.
+- Buen uso de la gestión y evolución de la calidad del código utilizando la herramienta de seguimiento Codacy, incluyendo los aspectos positivos y a mejorar de cara a próximas semanas de desarrollo, análisis de code smells y duplicidad de código, entre otros.
+- La gráfica de análisis de costes y TCO y la gráfica de análisis de rendimiento del equipo reúne toda la información necesaria.
+
+
+#### Feedback relacionado con el desarrollo del proyecto
+- En la sección de análisis de costes y TCO, cambiar el término Pérdidas por Gastos.
+- En la sección de análisis de rendimiento del equipo, incluir factores cuantitativos y cualitativos, del mismo modo, es necesario la presencia de una gráfica que indique el rendimiento individual de cada miembro del equipo de manera conjunta. 
+- Definir correctamente los riesgos, realizar una diferenciación clara respecto a los problemas e introducir una sección de análisis de las medidas llevadas a cabo y su seguimiento.
+- Incluir en la aplicación un mecanismo de denuncia que permita a los usuarios contactar con nosotros cuando tengan algún problema.
+
+
 ## Grupo 7 - Map Your World
-# Semana 1
+# Semana 10/02
 #### Feedback relacionado con la presentación
 - Mantener una estética homogénea en todas las diapositivas (fuentes, colores, estructura, márgenes).
 - Incluir el logo del proyecto o un elemento identificador en cada diapositiva.
@@ -91,7 +139,7 @@ En esta página se encuentra el feedback recogido por el equipo del grupo 9 dura
 - Mejorar la documentación de reuniones y orden del día.
 - Evaluar el sistema de penalizaciones para hacerlo más justo.
 
-# Semana 2
+# Semana 17/02
 #### Feedback relacionado con la presentación
 - Autocontención. No hacer referencias a presentaciones anteriores, cada una debe ser comprensible por sí sola.
 - Legibilidad. No incluir contenido que no se pueda leer claramente.
@@ -114,7 +162,7 @@ En esta página se encuentra el feedback recogido por el equipo del grupo 9 dura
 - Corrección en el uso de términos. Usar "ludificación" en lugar de "gamificación".
 - Optimización del Business Model Canvas. Diferenciar correctamente los segmentos de clientes y eliminar solapamientos en los perfiles.
 
-# Semana 3
+# Semana 24/02
 #### Feedback relacionado con la presentación
 - Utilizar un lenguaje más visual y sencillo (uso de una simbología más clara).
 - Mejorar el orden de la presentación. Algunas secciones deberían ir con antelación de otras, es muy importante seguir una línea temporal a lo largo de la presentación.
@@ -130,8 +178,65 @@ En esta página se encuentra el feedback recogido por el equipo del grupo 9 dura
 - La landing page tiene una correcta presentación y contenido. Bastante completa y visualmente atractiva.
 - Un modelo publicitario implica costos asociados a la aparición de publicidad, por lo que es fundamental considerar y planificar estos gastos.
 
+# Semana 03/03
+#### Feedback relacionado con la presentación
+- Utilizar términos técnicos relacionados con el marco de referencia de PMBOK.
+- Ser consistentes con el idioma a lo largo de la presentación.
+- Las diapositivas contienen demasiado texto y carecen de metáforas visuales. Reducir el contenido de información por diapositiva para mejorar su comprensión.
+- El número de diapositivas no es visible.
+- Durante la sección de seguimiento de tareas y planificación, es necesario mostrar las tareas en curso junto con un porcentaje que refleje su nivel de progreso.
+- No presentar secciones que no están contempladas en el guión de la presentación (ej. Business Model Canvas).
+- Diferenciación clara entre riesgos y problemas detectados.
+- El presentador ha hablado demasiado rápido debido al exceso de información y temas a tratar de la presentación.
+- Mantener un orden correcto en la presentación, hablando antes sobre la innovación de la idea antes que hablar de la competencia.
+
+#### Feedback relacionado con el desarrollo del proyecto
+- Mejorar la gestión del programa de usuarios piloto.
+- Mejorar el contenido, añadiendo más información al respecto, en la fuente de ingresos.
+
+# Semana 10/03
+#### Feedback relacionado con la presentación
+- Mejorar el Killer opener para que sea más atractivo y se enfoque en dar una solución a un problema.
+- Incluir los enlaces a demostraciones y a la aplicación web en la diapositiva final.
+- Cuidar la terminología empleada durante la presentación.
+- Evitar el uso de diagramas de colores y simplificar el contenido mostrado en dichas gráficas para mejorar la visualización de los datos.
+- Pronunciar correctamente el nombre del grupo, el presentador ha hablado demasiado rápido porque tiene mucho contenido que contar.
+- Cambiar la presentación del resultado del análisis de rendimiento y/o Sprint Retrospective. Utilizar un orden de: cosas que han ido mal, cosas que mejorar y cosas que se han hecho bien y, si es posible, utilizar una diapositiva para sección.
+- Se ha hablado antes de los competidores que de la propia propuesta de la aplicación, error que se cometió la semana pasada por otro grupo.
+- Ser consistentes con el idioma empleado a lo largo de toda la presentación.
+- Falta de apoyo durante la demostración del vídeo (muchos silencios incómodos).
+- Mejorar la consistencia en los estilos de las diapositivas, respetar los márgenes y espacios para los títulos.
+- Mejorar la presentación de información a través de tablas para mejorar su apariencia y comprensión por parte de la audiencia.
+- Falta de homogeneidad en las imágenes del equipo de trabajo, error que se cometió anteriormente por otro grupo.
+- Las personas que quieran contribuir en la presentación deberían presentarse (aunque sea durante la fase de feedback).
+- Mejorar el reparto de tiempo para las diferentes secciones de la presentación.
+
+#### Feedback relacionado con el desarrollo del proyecto
+- Actualizar los riesgos, acciones tomadas y análisis de las medidas que vayan surgiendo a lo largo del desarrollo de la aplicación.
+- Considerar la pérdida de transmisión de datos en tiempo real por parte de dispositivos móviles en algunos casos específicos (ej. modo de ahorro de energía).
+- Estudiar la viabilidad de implementar la actividad por pulseras inteligentes de actividad (Google Fit) o Smartwatches.
+- Incluir la repercusión de las penalizaciones tomadas en la nota final de los miembros del equipo de trabajo.
+- Incluir el Project Launch en la planificación completa de la asignatura, después del Sprint 3 no va el World Project Launch.
+- Se ha incluido información en la presentación acerca del uso de IA durante el desarrollo del proyecto, uno de los pocos grupos que lo ha hecho (era un punto obligatorio a tratar).
+- En la sección de análisis de costes y TCO, considerar que los costes de mantenimiento, soporte, etc. no son constantes a lo largo del tiempo.
+
+# Semana 17/03
+#### Feedback relacionado con la presentación
+- Centrar la demostración al core de la aplicación (evitar la muestra de gestión de usuarios) y hacerla más atractiva para la audiencia (muchos silencios incómodos).
+- Mejorar el Killer opener para que sea más atractivo y llame la atención a la audiencia. Definir un perfil de usuario para que el inicio efectivo sea atrayente a la mayor cantidad de personas.
+- Centralizar los Storyboard acordes con el nicho de la aplicación, enfocar la demostración visual a los distintos usuarios de la aplicación. Incluir datos y cifras reales para el Storyboard de los inversores.
+- Presentar con antelación la presentación para llevar una estimación de la duración de cada una de las diferentes secciones expuestas, de esta forma se evitaría tener que hablar rápido y agilizar el contenido para acabar en el tiempo establecido.
+- Las diapositivas contienen demasiado texto y carecen de metáforas visuales. Reducir el contenido de información por diapositiva para mejorar su comprensión.
+
+
+#### Feedback relacionado con el desarrollo del proyecto
+- Definir correctamente los riesgos, realizar una diferenciación clara respecto a los problemas e introducir una sección de análisis de las medidas llevadas a cabo y su seguimiento.
+- Incluir factores cuantitativos y cualitativos en la sección de análisis de rendimiento del equipo, del mismo modo, es necesario la presencia de una gráfica que indique el rendimiento individual de cada miembro del equipo de manera conjunta.
+- Mejorar la fluidez del vídeo de la demostración funcional para que sea más dinámica, evitando el uso de transiciones lentas.
+
+
 ## Grupo 8 -  Infantem
-# Semana 1
+# Semana 10/02
 #### Feedback relacionado con la presentación
 - Mantener coherencia estética en todas las diapositivas (fuentes, colores, márgenes, estructura).
 - Incluir el logo y el nombre de la aplicación en todas las diapositivas, no solo en la primera.
@@ -166,7 +271,7 @@ En esta página se encuentra el feedback recogido por el equipo del grupo 9 dura
 - Definir mejor la viabilidad del negocio y las limitaciones de implementación.
 - Revisar el Business Model Canvas para mejorar el enfoque estratégico.
 
-# Semana 2
+# Semana 17/02
 #### Feedback relacionado con la presentación
 - Orden de los temas. La sección de competidores apareció demasiado tarde en la presentación, debe reorganizarse para mayor claridad.
 - Tipografía y legibilidad. Aumentar el tamaño de la tipografía y corregir faltas de ortografía. 
@@ -189,7 +294,7 @@ En esta página se encuentra el feedback recogido por el equipo del grupo 9 dura
 - Casos reales y ejemplos concretos. Se debe dar mayor énfasis a la implementación práctica del producto.
 - Idea innovadora. Tiene un enfoque interesante y dirigido a un público amplio.
 
-# Semana 3
+# Semana 24/02
 #### Feedback relacionado con la presentación
 - Presentación muy visual y dinámica con un buen opening para enganchar a la audiencia.
 - Falta la definición del producto (Idea en 50 palabras), DAFO, Commitment Agreement y uso de la IA.
@@ -215,8 +320,66 @@ En esta página se encuentra el feedback recogido por el equipo del grupo 9 dura
 - Detallar los diferentes planes que ofrece la aplicación.
 - Detallar los precios, características y condiciones del plan premium.
 
+# Semana 03/03
+#### Feedback relacionado con la presentación
+- No presentar secciones que no están contempladas en el guión de la presentación.
+- Las diapositivas contienen demasiado texto y carecen de metáforas visuales. Reducir el contenido de información por diapositiva para mejorar su comprensión.
+- Mejorar visualmente la sección de planificación y seguimiento del proyecto.
+- Falta de apoyo visual en el Killer Opener (demasiado extenso).
+- Las diapositivas contienen demasiada información y contienen errores ortográficos. Explicar cada una de las siglas que se introducen y mejorar los elementos de apoyo (uso de porcentajes ‘%’).
+- Mejorar la sección de análisis de costes para hacerla más dinámica e interesante.
+ -Establecer un estilo homogéneo a lo largo de todas las diapositivas de la presentación que sea visualmente atractivo y legible.
+- Sintetizar el contenido de la presentación y mostrar los resultados en lugar del proceso previo de análisis (seguimiento de riesgos, lecciones aprendidas, etc.).
+- Mejorar la visualización del diagrama de Gantt.
+
+#### Feedback relacionado con el desarrollo del proyecto
+ -Mejorar la sección de costes, facilitando su comprensión y visualización. Todo el contenido debe ser consistente y realista.
+- Tratar el MVP con ese nombre, no como PMV.
+- Incluir la gestión del programa de usuarios piloto, un usuario no puede ser un integrante del propio equipo desarrollador.
+- En la sección de seguimiento de tareas, indicar de una manera cuantitativa el estado de las tareas que están en progreso.
+
+# Semana 10/03
+#### Feedback relacionado con la presentación
+- Mejorar el Killer opener para que sea más atractivo y directo.
+- Se ha destinado mucho tiempo para explicar el MVP.
+- Sintetizar la información necesaria para la presentación, centrándose en las secciones y contenido solicitado.
+- Las diapositivas contienen demasiado texto y carecen de metáforas visuales. Reducir el contenido de información por diapositiva para mejorar su comprensión.
+- Falta de consistencia en los estilos y títulos de la presentación, faltas de ortografía a lo largo de las diapositivas.
+- Utilizar datos realistas durante la demostración del producto. 
+- Centrar la demostración al core de la aplicación (evitar la muestra de gestión de usuarios) y hacerla más atractiva para la audiencia.
+ -La sección de feedback de usuarios piloto ha sido muy clara y visualmente atractiva gracias al buen uso de las metáforas visuales.
+ -No se dice Usuarios Pilotos sino Usuarios Piloto.
+ -Evitar el uso de diagramas de colores.
+
+#### Feedback relacionado con el desarrollo del proyecto
+- En la sección de organización del equipo de trabajo, reducir el número de personas que se encuentran en puestos de dirección/organización al tratarse de un grupo reducido de 15 personas (5 personas en puestos de dirección equivalen a +30% del equipo).
+- Comenzar a utilizar alguna herramienta de análisis y monitoreo de código y la deuda técnica adquirida.
+- Incluir la sección de análisis del uso de la IA, sección obligatoria que no se ha tenido en cuenta en la presentación.
+- En la sección de análisis de costes y TCO, las gráficas han sido claras y concisas
+- Actualizar los riesgos, acciones tomadas y análisis de las medidas que vayan surgiendo a lo largo del desarrollo de la aplicación.
+
+# Semana 17/03
+#### Feedback relacionado con la presentación
+- Mejorar el Killer opener para que sea más atractivo y llame la atención a la audiencia. 
+- Falta de homogeneidad en las imágenes del equipo de trabajo, error que se cometió anteriormente por otro grupo.
+- Falta de consistencia en los estilos y títulos de la presentación, faltas de ortografía a lo largo de las diapositivas.
+- En la sección de análisis de costes y TCO, unificar toda la información en una única diapositiva para mejorar la visualización de los datos y tener una visión global de los datos proporcionados.
+- En la sección de rendimiento del equipo de trabajo, mejorar la gráfica para que no contenga tantos colores, no muestre las horas totales empleadas, ni se muestre de manera porcentual el esfuerzo realizado por cada uno de los integrantes del equipo. Además, debe incluir un límite de las horas necesarias y la media de horas de trabajo.
+- No utilizar la presentación para leer el contenido expuesto, sino como apoyo visual. 
+- Se ha hablado antes de los competidores que de la propia propuesta de la aplicación, error que se cometió en semanas pasadas por otro grupo.
+- Las diapositivas contienen demasiado texto y carecen de metáforas visuales. Reducir el contenido de información por diapositiva para mejorar su comprensión.
+No se dice Usuarios Pilotos sino Usuarios Piloto, error que también se cometió la semana pasada.
+
+#### Feedback relacionado con el desarrollo del proyecto
+- En la sección de los Storyboard, no emplear el uso de la tercera persona para referirse al grupo de los inversores, sino tratarlos de una manera más directa. Suprimir el “meta anuncio” para introducir cómo llega la aplicación a los usuarios, ser más directos.
+- Definir a qué edad la aplicación dejará de ser útil para un usuario.
+- En la sección de análisis de costes y TCO, unificar toda la información en una única diapositiva para mejorar la visualización de los datos y tener una visión global de los datos proporcionados.
+- Mejorar la cobertura de código.
+- Incluir factores cuantitativos y cualitativos en la sección de análisis de rendimiento del equipo, del mismo modo, es necesario la presencia de una gráfica que indique el rendimiento individual de cada miembro del equipo de manera conjunta.
+ 
+
 ## Grupo 10 -  Go4Surprise
-# Semana 1
+# Semana 10/02
 #### Feedback relacionado con la presentación
 - Reducir la cantidad de secciones para hacerlo más claro y conciso.
 - Si se incluye un índice, debe ser numerado y con un orden lógico, sin exceso de divisiones.
@@ -235,7 +398,7 @@ En esta página se encuentra el feedback recogido por el equipo del grupo 9 dura
 - Ser más realistas con la idea del proyecto, evitando planteamientos demasiado optimistas o poco prácticos.
 - Ajustar la propuesta de valor para que tenga sentido en el contexto en el que se va a aplicar.
 
-# Semana 2
+# Semana 17/02
 #### Feedback relacionado con la presentación
 - Reducir la sobrecarga de información. Actualmente, la cantidad de datos es abrumadora. Se debe priorizar la información clave y estructurarla de manera más digerible.
 - Controlar el flujo de información. Saber cuándo sorprender al público y cuándo centrarse en el valor recibido.
@@ -255,7 +418,7 @@ En esta página se encuentra el feedback recogido por el equipo del grupo 9 dura
 - El hardware es amortizable. Considerar esto en los cálculos financieros.
 - Cuidado con las decisiones estresantes. Algunas personas no disfrutan las sorpresas, por lo que es clave gestionar bien la forma en que se presentan elementos inesperados.
 
-# Semana 3
+# Semana 24/02
 #### Feedback relacionado con la presentación
 - Mejorar el orden y la linealidad de las secciones de la presentación para favorecer una presentación más dinámica y fluida. El MVP, junto con la Idea de negocio, deben presentarse en las primeras secciones de la presentación.
 - En la sección de análisis de costes, indicar si los datos han sido calculados en neto o en bruto y tener en cuenta los costes sociales, así como mostrar una relación precio/período temporal (€/semana, €/mes, €/año, etc.).
@@ -270,8 +433,72 @@ En esta página se encuentra el feedback recogido por el equipo del grupo 9 dura
 - Mejorar el plan de contingencia, todos los riesgos deben tener su plan de contingencia asociado. Las cancelaciones pueden llegar a suponer pérdidas y bajar la reputación y el número de usuarios. No basarse en el resto y buscar soluciones efectivas para mejorar estos riesgos/problemas.
 - Explicar en detalle el alcance geográfico de la aplicación y su escalabilidad/expansión en un futuro si procede.
 
+# Semana 03/03
+#### Feedback relacionado con la presentación
+- No presentar secciones que no están contempladas en el guión de la presentación y mantener una linealidad efectiva entre las diferentes secciones.
+- Falta de un Killer Opener atractivo y el Elevator Pitch.
+- No dedicar tanto espacio en la presentación para la sección de análisis de costes y TCO.
+- Sintetizar el contenido de la presentación y mostrar los resultados en lugar del proceso previo de análisis (programa de usuarios piloto, análisis de riesgo, etc.).
+- Ampliar el grupo de usuarios del programa de usuarios piloto.
+- Mejorar la presentación de la demo para mejorar el aspecto visual.
+- Incluir una sección para hablar del equipo de trabajo.
+- Incluir el análisis de competidores en la presentación.
+- Incluir un estado de progreso a lo largo de las diferentes secciones de la presentación.
+- No utilizar anglicismos (la palabra gamificación lo es).
+
+#### Feedback relacionado con el desarrollo del proyecto
+- Falta de un Killer Opener atractivo.
+- Detallar información acerca del programa de usuarios piloto.
+- Ampliar el grupo de usuarios del programa de usuarios piloto.
+- En la sección de análisis de costes y TCO, realizar un análisis de miedos en inversores y diferenciar correctamente entre los ingresos y gastos de la aplicación.
+- Mejorar la sección de costes, facilitando su comprensión y visualización. Todo el contenido debe ser consistente y realista.
+- Mejorar el análisis de riesgos (considerar la gestión de tareas como posibles causas de retrasos en los tiempos establecidos).
+- Cuidar el formato y estilos de la landing page para una mejor visualización.
+- Correcta definición de los casos de uso core (gestión de usuarios excluida).
+- Incluir en la demostración de la aplicación vistas con contenido y datos reales (no usar pantallas estáticas).
+- Seguimiento riguroso del Commitment Agreement.
+
+# Semana 10/03
+#### Feedback relacionado con la presentación
+- Mejorar el Killer opener para que esté orientado a todo el público y evitar el uso de preguntas abiertas en las que se conoce la respuesta.
+- Hablar sobre el alcohol es un tema delicado, en España el 13% de la población es abstemia y existen algunos países donde socialmente no se acepta el consumo de alcohol.
+- Las diapositivas contienen demasiado texto y carecen de metáforas visuales. Reducir el contenido de información por diapositiva para mejorar su comprensión.
+- Centrar la demostración al core de la aplicación (evitar la muestra de gestión de usuarios) y hacerla más atractiva para la audiencia.
+- En la sección de riesgos acontecidos o lecciones aprendidas, exponer en primer lugar los problemas y, posteriormente, la solución implantada así como su análisis y seguimiento.
+- Mejorar la sección de Sprint Retrospective de modo que se muestren las debilidades, puntos a mejorar y fortalezas de manera individualizada.
+- Mejorar la consistencia en los estilos de las diapositivas, respetar los márgenes y espacios para los títulos.
+- Falta de homogeneidad en las imágenes del equipo de trabajo, error que se cometió anteriormente por otro grupo.
+- Sintetizar la información necesaria para la presentación, centrándose en las secciones y contenido solicitado. No presentar secciones que no están contempladas en el guión de la presentación (Sprint 3 Backlog) y mantener una linealidad efectiva entre las diferentes secciones
+
+#### Feedback relacionado con el desarrollo del proyecto
+- En la sección de organización del equipo de trabajo, mejorar la distribución o reparto de roles de trabajo (no merece la pena distinguir entre los roles de frontend, backend y full-stack.
+- Asumir la aparición de nuevos cambios que conllevarán en la realización de una nueva planificación de tareas.
+- En la sección de análisis de costes y TCO, las gráficas han sido claras y concisas. Considerar que el caso realista no tiene que representar la media entre los casos optimista y pesimista.
+- En la sección de feedback de usuarios piloto ha faltado centrarse en el propio feedback para su posterior análisis e implementación de posibles cambios/mejoras de la aplicación.
+
+# Semana 17/03
+#### Feedback relacionado con la presentación
+- Killer opener bastante atractivo y que llame la atención. Intentar no utilizar el recurso de las preguntas abiertas para no seccionar a la audiencia.
+- Se ha hablado antes de los competidores que de la propia propuesta de la aplicación, error que se cometió la semana pasada por otro grupo.
+- Mantener una linealidad efectiva entre las diferentes secciones de la presentación, respetar los márgenes y espacios para los títulos.
+- No se dice Usuarios Pilotos sino Usuarios Piloto.
+- Ser consistentes con el idioma empleado a lo largo de toda la presentación. 
+- Mejorar la presentación de información a través de tablas para mejorar su apariencia y comprensión por parte de la audiencia.
+- Las diapositivas contienen demasiado texto y carecen de metáforas visuales. Reducir el contenido de información por diapositiva para mejorar su comprensión.
+- Centrar la demostración al core de la aplicación (evitar la muestra de gestión de usuarios) y hacerla más atractiva para la audiencia.
+- Hacer más énfasis en el factor diferencial de la aplicación y no definirse como algo que no son.
+- Diferenciar claramente las cosas que han ido bien y qué ha ido mal, dividiendo cada información en diapositivas diferentes para una correcta separación del análisis del Sprint Retrospective.
+- La gráfica del rendimiento de los miembros del equipo de trabajo ha quedado muy representativa al indicarse la diferencia de trabajo respecto a la semana anterior. De esta forma, se puede llevar un correcto seguimiento sobre los miembros del equipo y su rendimiento por semana.
+
+#### Feedback relacionado con el desarrollo del proyecto
+- En la sección de análisis de costes y TCO, considerar el tiempo del equipo de trabajo como una inversión y no como un coste. Al mismo tiempo, incluir en las gráficas los beneficios acumulados para una correcta visualización del retorno de la inversión. No mostrar las fórmulas empleadas para la elaboración de las gráficas.
+- Mejorar el planteamiento de la Storyboard, eliminando el factor “magia” (de repente aparece la aplicación).
+- Incluir factores cuantitativos y cualitativos en la sección de análisis de rendimiento del equipo, del mismo modo, es necesario la presencia de una gráfica que indique el rendimiento individual de cada miembro del equipo de manera conjunta.
+- Definir correctamente los riesgos, realizar una diferenciación clara respecto a los problemas e introducir una sección de análisis de las medidas llevadas a cabo y su seguimiento.
+
+
 ## Grupo 11 -  Pawtel
-# Semana 1
+# Semana 10/02
 #### Feedback relacionado con la presentación
 - La presentación es demasiado plana y simple, sin una identidad visual fuerte.
 - Falta Imagen Corporativa (IC) en las diapositivas, lo que haría que el proyecto se vea más profesional y estructurado.
@@ -286,7 +513,7 @@ En esta página se encuentra el feedback recogido por el equipo del grupo 9 dura
 - No se percibe como innovador, por lo que habría que enfocarse en qué la hace distinta a otras soluciones en el mercado.
 - Es necesario definir mejor el valor diferencial del proyecto para justificar su propuesta.
 
-# Semana 2
+# Semana 17/02
 #### Feedback relacionado con la presentación
 - Uso de varios estilos y tipografías, lo que genera inconsistencia visual.
 - Letra demasiado pequeña y compacta, dificultando la lectura.
@@ -324,7 +551,7 @@ En esta página se encuentra el feedback recogido por el equipo del grupo 9 dura
 - Los mockups actuales se asemejan demasiado a Booking.
 - Falta detalle en los mockups, lo que puede hacer que la aplicación parezca poco diferenciada frente a la competencia.
 
-# Semana 3
+# Semana 24/02
 #### Feedback relacionado con la presentación
 - Presentación con un buen opening para enganchar a la audiencia, pero no preguntar por mascotas y acto seguido centrarse en el campo de aplicación para perros.
 - Corregir la falta de tildes en títulos y textos de la presentación. Establecer un estilo fijo a lo largo de toda la presentación (título completo en mayúscula, sólo la primera letra, etc.). Evitar que cada palabra de los títulos comience por mayúscula (generado por IA), en caso de usarse, es necesario una consistencia clara (todos los títulos o ninguno).
@@ -347,3 +574,47 @@ Las stats “modo FIFA” no tienen ningún sentido en cuanto a reparto de habil
 - Detallar la reserva de contingencia durante el análisis de riesgos y el plan de contingencia (si se dice que es un 10%, que se indique sobre qué).
 - Establecer un análisis de costes con un mejor enfoque. Un promedio de precio entre 10-25€ (la diferencia supera al precio más bajo estimado) es demasiado amplio. Todos los datos deben ser realistas y estar respaldados con páginas fiables (no utilizar los datos de la Junta de Andalucía).
 - Cambiar el enfoque y abrir la solución tecnológica a más mascotas. Actualmente, tiene muchas similitudes con Petclinic.
+
+# Semana 03/03
+#### Feedback relacionado con la presentación
+- El número de diapositivas no es visible.
+- Sintetizar el contenido de la presentación y mostrar los resultados en lugar del proceso previo de análisis (seguimiento de riesgos, lecciones aprendidas, etc.).
+- No utilizar anglicismos.
+- Las diapositivas contienen demasiado texto y carecen de metáforas visuales. Reducir el contenido de información por diapositiva para mejorar su comprensión.
+- Las diapositivas contienen errores ortográficos.
+- En un contexto académico no es necesario explicar el diagrama UML.
+- Mejorar el estado del progreso de las diferentes secciones de la presentación.
+- Incluir el uso de la IA en la presentación.
+
+#### Feedback relacionado con el desarrollo del proyecto
+- Incluir en la demostración de la aplicación vistas con contenido y datos reales (no usar pantallas estáticas). Contar una historia.
+- En la sección del Sprint 1 Retrospective.
+- En la sección de organización del equipo establecer más roles además de los relacionados con la programación en backend y frontend.
+- En la sección de planificación y seguimiento de tareas se ha realizado un trabajo exhaustivo y muy completo.
+
+# Semana 10/03
+#### Feedback relacionado con la presentación
+- Mejorar el Killer opener para que sea más atractivo y directo.
+- No mezclar dimensiones en las gráficas (nº de usuarios, dinero, búsqueda, etc.).
+- Evitar el uso de gráficas muy actuales. En el caso de aparecer el año actual, tratarlo como una estimación con la información actual proporcionada.
+- Evitar el uso de diagramas de colores y simplificar el contenido mostrado en dichas gráficas para mejorar la visualización de los datos.
+- Falta de homogeneidad en las imágenes del equipo de trabajo, error que se cometió anteriormente por otro grupo.
+- No utilizar anglicismos en las diapositivas y evitar emplear términos que no son correctos (utilización de sobresaltado en lugar de sobresalido).
+
+#### Feedback relacionado con el desarrollo del proyecto
+- En la sección de análisis de costes y TCO, los costes asociados no pueden mantenerse constantes a lo largo del tiempo. 
+- En la sección de riesgos acontecidos o lecciones aprendidas, exponer en primer lugar los problemas y, posteriormente, la solución implantada así como su análisis y seguimiento.
+
+# Semana 17/03
+#### Feedback relacionado con la presentación
+- Buen Killer opener, quizás un poco extenso porque se ha tardado mucho tiempo en introducir la aplicación, pero es necesario vincularlo con el resto de la presentación (incluido el Storyboard) para que se cuente una historia completa y que enlace con las diferentes secciones de la presentación en todo momento.
+- Falta de homogeneidad en las imágenes del equipo de trabajo, error que se cometió anteriormente por otro grupo.
+- Mencionar los casos de uso que vamos a ver y no en la demostración.
+- Mejorar la última diapositiva para que contenga más información de la aplicación.
+- Centrar la demostración al core de la aplicación (evitar la muestra de gestión de usuarios).
+- Tomarse de una manera más seria la sección de feedback del profesor como críticas constructivas sobre mejoras a incluir tanto en la presentación y el proyecto.
+- La presentación debe ser autocontenida y no se puede mencionar en ningún momento aspectos expuestos en semanas anteriores.
+- Mantener una linealidad efectiva entre las diferentes secciones de la presentación, respetar los márgenes y espacios para los títulos.
+
+#### Feedback relacionado con el desarrollo del proyecto
+- En la sección de análisis de costes y TCO, diferenciar claramente entre los términos CAPEX y OPEX (los gastos operativos no pueden ser tratados como CAPEX).

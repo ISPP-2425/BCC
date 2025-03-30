@@ -1,6 +1,30 @@
 # Grupo 11 - PawTel
+**Universidad de Sevilla**  
+**Escuela Técnia Superior de Ingeniería Informática**  
+**Ingeniería de Software y Práctica Profesional (ISPP)**  
+**Curso 2024-25**  
+---
 
+![Logo de PAWTEL](https://github.com/user-attachments/assets/f3a1b73a-1301-4b0d-aa3a-f40bdb735b32)
 
+**Equipo:**
+- Andrés Martínez Reviriego
+- Claudio Cortés Carrasco
+- Daniel Flores De Francisco
+- David González Martínez
+- Fernando Castelló Sánchez
+- Francisco Miguel Jiménez Morales
+- Javier García Sebastián
+- Javier Ruiz Garrido
+- Jorge Gómez de Tovar
+- Luis Mellado Díaz
+- Manuel Castillejo Vela
+- Rafael Castillo Cebolla
+- Sergio Trenado González
+- Yesica Garate Fuentes
+
+---
+## Introducción
 En esta página se encuentra el feedback recogido por el equipo del grupo 11 durante las sesiones de clase. Haciendo uso de una división semanal, se detallan los comentarios y sugerencias del profesor y los compañeros, así como las tareas a realizar para la siguiente semana.
 
 
@@ -11,12 +35,8 @@ En esta página se encuentra el feedback recogido por el equipo del grupo 11 dur
 
 **Fecha:** 07/02/2025
 
-## Introducción
 
-Este documento tiene como objetivo recopilar el feedback proporcionado por los profesores durante las presentaciones semanales de los grupos en la asignatura de Ingeniería del Software y Práctica Profesional (ISPP).  
-Es importante registrar los comentarios clave, observaciones adicionales y las tareas pendientes para mejorar nuestro proyecto.
-
-## Feedback de las presentaciones
+### Feedback de las presentaciones
 
 | Grupo | Feedback recibido | Observaciones adicionales |
 |-------|-------------------|---------------------------|
@@ -28,7 +48,7 @@ Es importante registrar los comentarios clave, observaciones adicionales y las t
 
 
 
-## Lista de tareas para la próxima semana
+### Lista de tareas para la próxima semana
 
 -  Poner la base de conocimiento en común con el resto de grupos. Los profesores deben tener acceso. Ver DocuSaurus.
 -  Leer model business canvas libro de negocio. 
@@ -58,13 +78,10 @@ EQUIPO
 
 **Fecha:** 14/02/2025
 
-## Introducción
-
-Este documento tiene como objetivo recopilar el feedback proporcionado por los profesores durante las presentaciones semanales de los grupos en la asignatura de Ingeniería del Software y Práctica Profesional (ISPP).  
-Es importante registrar los comentarios clave, observaciones adicionales y las tareas pendientes para mejorar nuestro proyecto.
 
 
-## Feedback de las presentaciones
+
+### Feedback de las presentaciones
 | Grupo                         | Feedback recibido     | Observaciones adicionales |
 |-------------------------------|-----------------------|---------------------------|
 | **Grupo 7 - MapYouWorld**     | - No hacer referencias a presentaciones de semanas anteriores o a presentaciones de otros grupos. <br /> - Seguir buscando competidores, no vaya a ser que la caguemos. Preguntar a ChatGPT. Le damos la idea del negocio y que nos busque competidores. <br /> - Explicar por qué primero presentamos muchos competidores y luego nos centramos en unos pocos. ¿Por qué nos centramos en eso? ¿Son más parecidos? <br /> - Primero explicar las funcionalidades claramente y ya luego del sistema de negocio y costes. No hablemos del dinero hasta que no tengamos interés por pagar. <br /> - En el Business Model Canvas, no incluir cosas irrelevantes. Si los estudiantes no proponen un caso de uso distintivo, no lo ponemos. <br /> - Pensar incluir anuncios. <br /> - Agrupar funcionalidades similares en módulos al hacer comparaciones. <br /> - Ordenar comparaciones por casos de uso. <br /> - La publicidad debe estar en la parte superior y las conexiones deben ser claras. <br /> - Especificar explícitamente qué servicios son gratuitos y cuáles son de pago. | - En amenazas de la DAFO, dependencia de APIs de terceros. <br /> - Leer y hacer Business Model Canvas. <br /> - Han mostrado todas las funcionalidades junto a su mockup. Pensar si nos puede ser útil. <br /> - Triángulo de innovación de servicio, tecnología y negocio. |
@@ -77,7 +94,7 @@ Es importante registrar los comentarios clave, observaciones adicionales y las t
 
 
 
-## Lista de tareas para la próxima semana
+### Lista de tareas para la próxima semana
 
 #### Tiempos y test
 - 16 min. de presentación. 13 min. de feedback.
@@ -133,13 +150,8 @@ Es importante registrar los comentarios clave, observaciones adicionales y las t
 
 **Fecha:** 21/02/2025
 
-## Introducción
 
-Este documento tiene como objetivo recopilar el feedback proporcionado por los profesores durante las presentaciones semanales de los grupos en la asignatura de Ingeniería del Software y Práctica Profesional (ISPP).  
-Es importante registrar los comentarios clave, observaciones adicionales y las tareas pendientes para mejorar nuestro proyecto.
-
-
-## Feedback de las presentaciones
+### Feedback de las presentaciones
 
 | Grupo                         | Feedback recibido     | Observaciones adicionales |
 |-------------------------------|-----------------------|---------------------------|
@@ -151,10 +163,10 @@ Es importante registrar los comentarios clave, observaciones adicionales y las t
 | **General**                   | - Orden de presentación: el producto que desarrollamos. La venta se hace "sola" si el problema que resolvemos está claro y es atractivo. <br/>- Menciones honoríficas de la semana y Hall of shame de la semana. <br/>- Alinear los riesgos con lo que hayamos hablado antes, principalmente la DAFO. Comentarlo o indicarlo visualmente. <br/>- Los riesgos no se definen por nada, sino para evitarlos. <br/>- Tener unidades homogéneas para los datos.  <br/>- Las presentaciones deben ser autocontenidas, evitando referencias a presentaciones anteriores, nuestras o de otros equipos. |  |
 
                                                 
-## Para hacer pero no necesariamente para la presentación
+### Para hacer pero no necesariamente para la presentación
 - Métricas cuantitativas para seguir el rendimiento. Sacar números para saber cómo van las cosas. De GitHub por ejemplo. Cuidado con las normas basadas en estas métricas, por si la gente infla el número de commits con tonterías.
 
-## Para la presentación
+### Para la presentación
 - Killer opener, business model, transmitir la idea y crear hype.
 ' Analisis de costes.
 - Competidores.
@@ -170,7 +182,7 @@ Es importante registrar los comentarios clave, observaciones adicionales y las t
 - Gestión de usuarios pilotos (MUY IMPORTANTE). Más detalle ya. Cómo vamos a comunicarnos, cómo se lo vamos a dar. Hablar de la agenda. Cómo vamos a tomar el feedback.
 - Report de como hemos usado la IA.
 
-## Estimación de tiempos de presentación
+### Estimación de tiempos de presentación
 - 15 min de presentación a partir de ahora.
 - Unos 6 o 7 minutos para estas cosas nuevas de evaluación de rendimiento, retrospectiva y tal.
 - Reducir previas partes:
@@ -178,6 +190,193 @@ Es importante registrar los comentarios clave, observaciones adicionales y las t
     - Equipo, reducir mucho
     - Reducir competidores (no significa ponerlo y pasar para adelante)
 
-## Adicional
+### Adicional
 - Arreglar lo del patrocinador en los documentos.
 - Estudiar competidores cada semana (si no cambia, perfecto; si sí, pues cambiar). Si tenemos definido un proceso concreto para sacarlos, repetirlo.
+
+## Semana 5
+
+**Fecha:** 07/02/2025
+
+
+
+### Feedback de las presentaciones
+
+| Grupo                         | Feedback recibido     | Observaciones adicionales |
+|-------------------------------|-----------------------|---------------------------|
+| **Grupo 7 - MapYouWorld**     | - Poner el porcentaje de avance en la parte de avance del proyecto. | - Los precios no están muy claros, mejor en una tabla. No usar llaves, quitan espacio. <br/> - Usar términos aprendidos en otras asignaturas (PSG2). <br/> - Los números de las páginas deben verse bien. <br/> - No mezclar español e inglés. <br/> - Enfocar la parte de problemas en Problema -> Solución (con todo lo que conlleva). |
+| **Grupo 8 - Nutribaby**       | - | - Buscar usuarios piloto útiles, los usuarios piloto locales no son padres. <br/> - Si falta algo en una presentación y en la siguiente no hay que ponerlo, no se pone aunque no lo hayas puesto antes. No "recuperar" cosas. <br/> - Ordenar la información para transmitir lo más importante. <br/> - No poner diagramas completos o similares porque no se ven bien. Se pueden resumir con las cosas más importantes. <br/> - No poner muchas siglas ni mencionar siglas sin explicación. |
+| **Grupo 9 - Caronte**         | - Costes PERT. <br/> - Bien usado el burn-up chart de issues abiertas y cerradas. <br/> - Costes demasiado bajos, hay que añadir el mantenimiento, servicio al cliente, etc. | - Tener en cuenta el soporte post-lanzamiento y los servidores. <br/> - No dar por sentado que la gente va a empezar a usar la app desde el principio. <br/> - No trabajar con IVA. <br/> - Encontrar más usuarios pilotos. Que cada uno se traiga dos o tres. <br/> - Caso interesante: baja por enfermedad. No se puede dar el caso de "como te has puesto malo, ahora te pongo a trabajar más". <br/> - Hay que contar qué hacemos antes de hablar de la competencia. |
+| **Grupo 10 - Go4Surprise**    | - La estructura de la presentación no la han cumplido. <br/> - No han hecho inicio efectivo. Es algo fundamental y que tiene que estar en todas las presentaciones. <br/> - Intentar hacer la parte de costes liviana, debe ocupar más o menos un 20% de la presentación, 3 min, y en ese tiempo no da para contarlo todo. <br/> - Tenían que haber abandonado algunas cosas de las semanas anteriores que ya no son tan relevantes. Quedarnos ya con el core de cada parte. <br/> - Quitarle el miedo a los inversores; que quede claro que hay idea Y negocio. <br/> - No hablar ya de que tenemos planeado usar usuarios pilotos, sino hablar directamente de cómo lo estamos haciendo, ya es algo actual. <br/> - No hablar ya de la planificación de riesgos sino hablar directamente de qué riesgos hemos encontrado (y podemos mencionar si estaba previsto). <br/> - Cuando hablamos del desarrollo no hace falta hablar de cosas nimias como el inicio de sesión a no ser que sea algo particular e interesante. | - Costes fijos y costes variables. <br/> - Sprint retrospective: qué ha ido bien, qué ha ido mal, cómo mejorar. <br/> - Que el orden de las diapositivas tenga sentido. <br/> - Que la demo se vea bien de lejos; si tenemos una fuente pequeña en la página y enseñamos eso mismo, no se verá bien. |
+| **Grupo 11 - Pawtel**         | - Incluido todo lo que nos pidieron. <br/> - Número de páginas más visible, porque con ese color no se veía. <br/> - Aclarar un poco a qué nos referimos con "Servicios extra" en el análisis de competidores, queda un poco ambiguo. <br/> - No nos piden tanto que les contemos todo lo que hayamos hecho, sino los puntos clave, los problemas más importantes y cómo los hemos solucionado. <br/> - No solo decir qué tareas hemos completado, sino hablar del porcentaje y relativizarlo un poco. Soporte visual gráfico. <br/> - Reducir "estrés" visual con detalles innecesarios en la pantalla. <br/> - Mejorar medición de rendimiento para que de verdad refleje la calidad y también porque según el rol es diferente. Podemos hablar de desviaciones puntuales respecto a lo planificado que resten nota y otras métricas para compensar estas pérdidas. No usar solo números, sino también franjas. Poner performance individualmente, aunque también podemos hacer un resumen por grupos. Hasta podemos poner las ponderaciones de las métricas. Pero buen trabajo. <br/> - Poner caras en los Halls. <br/> - Buen inicio efectivo. Bien sacando cifras. <br/> - El del BMC está bien tirado, pero la ejecución no está muy clara, se ve un poco desorganizada y poco fina. <br/> - El login parece un pelín demasiado un mockup. <br/> - Contar de forma más amena las pantallas. Que no parezca una tras otra como un mockup, de "aquí tenemos, aquí tenemos...", sino que cuenten una historia. <br/> - Una agenda más concreta de los usuarios pilotos. <br/> - No usar anglicismos como "settear". Viva España. <br/> - La casa del logo de Pawtel no se sabe si es una A o una O. | - Creo que las cosas en la diapositiva del BMC están un poco pequeñas y poco claras. Las imágenes de la izquierda no se entienden fácilmente. <br/> - En seguimiento del Commitment Agreement hay una palabra con tilde incorrecta (detallito). <br/> - En gestión de riesgos y plan de contingencias 1, hay una palabra cortada, una parte en una línea y otra en otra. |
+| **General**                   | - El documento "Informe de tiempo y esfuerzo" debe tener gráficas preferiblemente o incluso tablas. Más digeribles. <br/> - El documento de report debe contener lo mismo que la base de conocimiento, no enlaces a ella. <br/> - Base de conocimiento muy pobre. <br/> - Equilibrar trabajo entre miembros del equipo. <br/> - Documentación en formato markdown, no en PDF (perrada). <br/> - La semana que viene entregar documento Revisión del software. Manual de usuarios explicando lo que está entregado y lo que no, pero enfocado a que los profesores puedan revisarlo. <br/> - Mirar la EV cada dos por tres por si han actualizado algo, porque dicen que no van a avisar... |  |
+
+                                                
+### Para hacer pero no necesariamente para la presentación
+- Métricas cuantitativas para seguir el rendimiento. Sacar números para saber cómo van las cosas. De GitHub por ejemplo. Cuidado con las normas basadas en estas métricas, por si la gente infla el número de commits con tonterías.
+
+### Para la presentación
+#### Estructura principal
+15 min (siempre ya)
+- Introducción: 15-20% (2-3 min)
+    - Killer opener y elevator pitch
+    - Análisis de competidores (rápido). Por qué nos distinguimos.
+    - TCO: capex, opex, etc. Mejorar cómo transmitimos los números
+    - Estimaciones de ingresos y gastos a corto y medio plazo. Importante factor tiempo. Por ejemplo: gráfica bonita de para cada semana, hacia arriba los beneficios y hacia abajo los costes. Y luego una línea de tendencia negativa, positiva y media.
+    - Equipo (rápido). Menos importancia a las tecnologías de cada uno (hemos hecho bien).
+- Demo resultado sprint 1: 15% (2 min) en directo, pero tener un vídeo grabado por si las moscas. Cuando hagamos la entrega pasamos el enlace, no el vídeo entero.
+- Retrospectiva: 40-50%
+    - Igual que hoy, pero aplicando el feedback, y hasta el último día.
+- Gestión de usuarios pilotos: 10%
+    - Conclusiones.
+    - Plan para el sprint 2.
+- Planificación sprint 2 concreta: 15%
+    - Asignación de responsabilidades
+    - Objetivos a mitad y final de sprint.
+    - Estimación global del resto
+- Informe uso de IA.
+- Landing page.
+
+#### Otros
+- Mantenemos el guión a rasgos generales y vamos reduciendo partes y dando más importancia a lo nuevo.
+- No poner demasiada información, eso hace que el presentador tenga que hablar muy rápido.
+- Landing page poner URL, no solo QR.
+- Que no falte el informe de uso de la IA.
+- Killer opener
+- garrreynolds.com -> Página web con tips para presentaciones.
+
+
+### Adicional
+- Examen en cualquier momento de la clase.
+- ¿Usar codeshare la próxima vez para el feedback?
+
+
+## Semana 6
+
+**Fecha:** 15/03/2025
+
+
+---
+
+### Índice  
+1. [Control de versiones](#control-de-versiones)  
+2. [Desarrollo](#desarrollo)   
+
+---
+
+
+
+
+
+### Desarrollo
+
+#### Feedback de las presentaciones
+
+| Grupo                         | Feedback recibido     | Observaciones adicionales |
+|-------------------------------|-----------------------|---------------------------|
+| **Grupo 7 - MapYouWorld**     | - Poner los enlaces al final. <br/> - Añadir problemas encontrados no pensados previamente en registro de riesgos. <br/> - Si alguien no puede trabajar no decir "por motivos varios", se puede decir "por motivos personales de distinta índole". Mejor dejarlo cerrado que abierto. <br/> - No dividir una tabla en dos diapositivas y explicar mucho de una parte y pasar de largo la otra. Intentar poner/mencionar las cosas más importantes. <br/> - Decir cómo influyen las métricas de productividad en la evaluación individual. <br/> - Explicar planificación con un Diagrama de Gantt. Si se usan distintos colores, explicar qué significa cada uno. | - En el uso de la IA, es positivo dar detalles sobre usos reales. <br/> - Buena gráfica de costes e ingresos. |
+| **Grupo 8 - Infantem**       | - El killer opener ha sido demasiado neutro, hay que atraer más la atención de la audiencia. <br/> - Buscar tener el mismo impacto en menos tiempo. <br/> - Buen formato de presentación, pero no sobrecargar de muñecos, que los que se usen tengan sentido. <br/> - En la parte de competidores, poner las X rojas aunque no siga la línea de colores de la presentación. <br/> - Seguir la base de conocimiento. Utilizar elementos realistas en la demo. Si usas datos reales como para el usuario por ejemplo, humanizas la experiencia. <br/> - Estructura de roles demasiado piramidal, aunque si es la que funciona usarla y analizar resultados. <br/> - Usar herramientas para medir la calidad del código. <br/> - Pocos usuarios piloto (solo tienen los de clase). <br/> - Analizar cuántas veces "alucina" la IA. | - Buena gestión del feedback de los usuarios piloto. <br/> - Buenas diapositivas de MVP y de estimaciones vs realidad. |
+| **Grupo 9 - Caronte**         | - Poner el porcentaje del punto de la presentación no es común ponerlo, y resulta confuso. <br/> - Hay que poner el beneficio acumulado, no poner solo los datos mensuales. <br/> - En la parte de equipo decir solo eso, equipos, integrantes y poco más, no comentar sobre eso otras cosas como problemas. <br/> - Poner las cosas chicas es un recurso visual, se puede poner si lo que quieres transmitir es el volumen, en el caso del equipo enseñar el tamaño del equipo entero. <br/> - En horas por persona, se puede mencionar también horas esperadas... dar más información. Si se esperan 30h, se puede poner una línea ahí para ver quién las ha cumplido y quién no. No poner horas totales, no aportan. Se puede añadir una línea con la media también. <br/> - Hacer plan de aprobación de la calidad. <br/> - Aquello sobre lo que hay mayor incertidumbre tecnológica hay que hacerlo lo primero. | - Buenos gráficos de tareas realizadas y de monetización. <br/> - Documento de la IA muy completo. |
+| **Grupo 10 - Go4Surprise**    | - No hacer preguntas retóricas en el killer opener asumiendo que la respuesta en todas es sí. <br/> - No hablar de estimación media, sino de estimación esperada. <br/> - No poner en la demo el registro + el login, enseñar lo importante, no hace falta enseñar todo. <br/> - Mal orden en la sección de retrospectiva, y demasiada letra. Que se pueda ver qué ha ido bien y mal echando solo un vistazo. <br/> - Pseudo-diagramas de Gantt: buenos para ver la distribución de tareas y su paralelización, pero para ver todo lo que se ha hecho, malo por su longitud. <br/> - Gestión de usuarios piloto: falta información sobre cómo se ha usado el feedback que han dado. | - Buenas gráficas en las diapositivas de ingresos/costes (barras verticales usando valores negativos también), aunque les falta explicación. |
+| **Grupo 11 - Pawtel**         | - Tener cuidado con la instancia con la que desplegamos en Render. <br/> - Killer opener -> Poco atrayente, intentar algo un poco más imaginativo, que llame más la atención. <br/> - No poner años incompletos en gráficas (se puede poner la media con un asterisco por ejemplo). <br/> - Costes: En 24 meses los costes no van a ser constantes, cuando se lanza la aplicación se añaden los de soporte, de service desk, de mantenimiento... <br/> - Coste Total Inicial => Coste del MVP, usar terminología clara. <br/> - No usar colores en gráficas porque "hay muchos daltónicos". Que lo que se quiere representar no dependa de los colores únicamente. <br/> - Poner justificaciones de las estimaciones (pesimista, realista, optimista). Poner en porcentajes cuántos entran en la web, cuántos buscan y cuántos reservan. <br/> - Tener cuidado con el modelo de negocio de anuncios. <br/> - DEMO -> No se veía bien, hacerlo con zoom. <br/> - No solo poner la solución aplicada a un problema, sino el porcentaje en el que esa solución sirve o no. | - Como grupo, hablar de la interfaz con la que se van a comunicar backend-frontend. <br/> - Sugerencia: Mejorar sistema CI/CD. |
+| **General**                   | - | - Salario = activo (inversión). <br/> - I+D y formación son inversiones. <br/> - Gastos de personal: Si es gente que participa en un producto = personal, activo, mientras que si es gente que participa en tareas pero no forman parte del producto = operativos. <br/> - Cuidado con el coste de los despliegues, que no se nos vaya la mano. Hay funcionalidades que si no están bien hechas se pueden comer el saldo. <br/> - Falta en general la automatización de la calidad del código (con aplicaciones como por ejemplo Sonar). Métricas, cómo funciona el sistema... <br/> - Informe de IA: Poner ejemplos reales. <br/> - Hacer un uso inteligente de la tecnología: Lo hacemos como sabemos, pero existen herramientas y métodos para hacerlo más rápido -> jkipster, postgre, auth0 (para el login). <br/> - Podríamos añadir login social (login con Google, Facebook...). <br/> - Le gusta cloud porque lo puede transformar en acciones. |
+
+                                                
+### Para hacer pero no necesariamente para la presentación
+
+#### Para la presentación
+##### Estructura principal
+15 min (siempre ya)
+- Introducción: 15-20% (2-3 min)
+    - Killer opener y elevator pitch
+    - Análisis de competidores (rápido). Por qué nos distinguimos.
+    - TCO: capex, opex, etc. Mejorar cómo transmitimos los números
+    - Estimaciones de ingresos y gastos a corto y medio plazo. Importante factor tiempo. Por ejemplo: gráfica bonita de para cada semana, hacia arriba los beneficios y hacia abajo los costes. Y luego una línea de tendencia negativa, positiva y media.
+    - Equipo (rápido). Menos importancia a las tecnologías de cada uno (hemos hecho bien).
+- Demo resultado sprint X: 15% (2 min) en directo, pero tener un vídeo grabado por si las moscas. Cuando hagamos la entrega pasamos el enlace, no el vídeo entero.
+- Retrospectiva: 40-50%
+    - Igual que hoy, pero aplicando el feedback, y hasta el último día.
+- Gestión de usuarios pilotos: 10%
+    - Conclusiones.
+    - Plan para el sprint Y.
+- Planificación sprint Y concreta: 15%
+    - Asignación de responsabilidades
+    - Objetivos a mitad y final de sprint.
+    - Estimación global del resto
+- Informe uso de IA.
+- Landing page.
+
+Esto fue para el Sprint 1. En comparación con esto, para la próxima semana:
+- Parte inicial, modelo de negocio: 
+	- De lo anterior sigue existiendo lo mismo.
+	- Presentación mas de impacto/marketing. Para cada tipo de usuario/cliente/inversor, debe haber un storyboard, algo que nos permita enseñar de que forma vamos a llegar a esta audiencia. Diseñar que queréis luego grabar. (STORYBOARD = guión de forma visual de cual es la historia que vamos a contar para ese tipo de usuario/cliente/inversor.)
+	- Impacto legal del proyecto. RGPD, customer agreement. Considerar si debemos tener un mánager legal de protección de datos para costes.
+- Gastos =
+- Actualizar OPEX/CAPEX con la parte legal y la parte de los storyboard.
+- Equipo =
+- DEMO prototipo: centrarnos en el incremento del desarrollo, que hay nuevo. SIEMPRE CON DATOS REALES.
+- Retrospectiva: Lo de siempre + Análisis de la calidad
+- Usuarios piloto =
+- Objetivos final de sprint: tiene que incluir pagos reales con cuentas sandbox. CLAVE
+- Se supone que cada vez debe haber menos problemas.
+### Otros
+- Actualizar base de conocimiento común.
+- Incluir enlaces que demuestren evidencias.
+- changelog se puede generar de manera automática a partir de los commits, igual que con los issues.
+
+
+## Semana 7
+
+**Fecha:** 22/03/2025
+
+
+### Índice  
+1. [Control de versiones](#control-de-versiones)   
+2. [Desarrollo](#desarrollo)   
+
+---
+
+
+
+
+### Desarrollo
+
+#### Feedback de las presentaciones
+
+| Grupo                         | Feedback recibido     | Observaciones adicionales |
+|-------------------------------|-----------------------|---------------------------|
+| **Grupo 7 - MapYouWorld**     | - Falta energía en la presentación, algo que termine de enganchar a la gente. <br/> - Mal descrito el perfil de usuario al que le interesa la aplicación. "Para gente a la que le guste completar mapa". <br/> - Mala tabla para los modelos de negocio. Hay que leer todo para entenderlo y es demasiado. Se puede hacer agrupando por grupos y poniendo logos -> Metáforas visuales. <br/> - Centrarse en ir a por un tipo de empresa concreto en el storyboard de empresas, y en el de usuario usar datos reales, sino no convence para invertir. <br/> - Seguir usando el mismo ejemplo que usas para el killer opener para el resto de presentación (storyboard, demo...). <br/> - Equipo: Poner fotos de los miembros del equipo. <br/> - Medir solución, poner objetivo. Además lo han puesto como riesgo, pero son problemas. <br/> - DEMO: Han hecho login dos veces. Transiciones demasiado lentas. Si enseñas funcionalidades premium, enseñar también como se compran, enseñar el botón de pagar. | - |
+| **Grupo 8 - Nutribaby**       | - Centrarse en cómo conseguir usuarios. <br/> - Storyboard: No hablar de forma indirecta. Que no aparezca la aplicación de manera mágica (posible estrategia para evitar esto es que la aplicación se dé por descargada, como que no se entiende que alguien no la tenga). <br/> - Inversores: Cuando hablas de cifras, debemos poner con esta inversión consigues este porcentaje de beneficio en tanto tiempo. Los números son lo que hace que alguien se decida por invertir o no. <br/> - Tener en cuenta el Life Time Value (LTV). <br/> - Ingresos: Es muy difícil comparar con 3 diapositivas distintas, poner uno encima de otro. Poner . de miles en los números. <br/> - Que las fotos del equipo sean homogéneas. <br/> - Rendimiento individual: No usar porcentajes para enseñar esto, porque no se ve quién es cada uno ni quién ha trabajado bien/mal. <br/> - Testing 0% cobertura ??? <br/> - Informe tan completo en el que han usado las métricas. Da seguridad y objetividad a la hora de poner las cosas encima de la mesa. <br/> - No hacer referencia a archivos concretos, para la gente no tiene sentido. <br/> - Tener cuidado con las faltas de ortografía: papa /= papá. <br/> - Ejemplo de la IA: Ser más concretos. Decir a qué IA se le ha pedido lo que sea. <br/> - Ausencia de inicio efectivo. | - |
+| **Grupo 9 - Caronte**         | - Presenta bien. <br/> - Bien aclarado por ejemplo las unidades de los números sin dar por hecho que la gente sabe lo que son. <br/> - Killer opener: Apoyar la técnica que se use con algo visual. <br/> - En el storyboard el mensaje se tiene que ver claramente, pensar que esto se puede convertir en anuncio. <br/> - Muy buena gráfica de monetización: mucha información en poco espacio, buen uso de los colores. No usar "pérdidas", usar "gastos". <br/> - Tener en cuenta la posible influencia en los costes de cosas como el GDPR. <br/> - Lecciones aprendidas: Medir el grado en el que ha servido la solución usada para un problema. <br/> - Muchas horas invertidas, si es necesario acortar el alcance. <br/> - Uso inteligente de la tecnología. <br/> - Buena gráfica de tareas realizadas: product backlog. <br/> - DEMO: Mejor en vídeo. Poner en texto en una esquina qué caso de uso se está probando en el video. Que se vea el icono del usuario que está logueado. No mezclar demo con, por ejemplo, feedback de usuarios piloto si esto todavía no se ha mencionado en la presentación. <br/> - Buen uso de Codacy. Sería bueno poner en el futuro una gráfica para ver la evolución del código. <br/> - Se debe explicar la manera de medir el rendimiento individual del equipo (con diapositiva). <br/> - Si se hace una pregunta importante por el grupo del equipo y no responde todo el mundo, es un problema grave de comunicación. | - |
+| **Grupo 10 - Go4Surprise**    | - Explica quiénes son sin decir lo que hacen. Se comparan con aplicaciones de venta de entradas cuando no es directamente lo que hacen ellos. Ellos ofrecen experiencias y no lo mencionan. <br/> - Desde el killer opener plantear ya el problema, la situación. No hacer preguntas al público porque el que no se sienta identificado no echa cuenta desde el principio. <br/> - Desde el punto de vista de una presentación de negocio, poner la fórmula usada para calcular la estimación de ingresos TAL CUAL, MAL. Explicar de forma más intuitiva, los factores que influyen. <br/> - Impacto legal -> Licencia del software -> Visualizar el código fuente ???? Esto surge por el problema de tener el código en un repositorio abierto. <br/> - Buenas viñetas en la storyboard, pero tener cuidado porque estas después se tienen que convertir en anuncio. Evitar la "magia" de que de repente aparezca tu aplicación, darle un poco de contexto, de introducción. Que no sea "tengo este problema" y de repente "pues esta aplicación es tu solución". <br/> - DEMO: El registro en la aplicación demasiado rápido. Lo ideal es que el vídeo se centre en los casos de uso. <br/> - Casos de uso CORE: tenerlos claros y se pueden recortar los que no sean tan necesarios. <br/> - Compromiso bueno pero problemas de comunicación ?? <br/> - Medir las soluciones, plantear el objetivo al que quieres llegar con ella, seguir la evolución. <br/> - Fallos en la plataforma -> Entrar más en detalle, el porqué de estos fallos. <br/> - Fondo oscuro -> Letras más claras. | - |
+| **Grupo 11 - Pawtel**         | - Problema: Ha faltado "terminar" el killer opener presentando lo que hacemos. En vez de decir "ojalá hubiese una aplicación..." decir "pues mira, he encontrado esta aplicación..." (lo puede decir por ejemplo el que esté en el PC). <br/> - En el elevator pitch, demasiados pasos que hacen fricción. No decir me registro, me logueo,... Ir directo al grano. <br/> - Si hablas rápido usarlo como recurso, no como constante. <br/> - Aunque el nombre de "María Jesús" está bien, debemos elegir una palabra para repetir muchas veces, que se quede en la cabeza de la gente, por ejemplo, mascota. (Esta quita la parte afectiva así que mejor buscar otra, pero es un ejemplo). <br/> - RGPD: Hablar más de los datos. Cuáles son los que se necesitan, se van a guardar? (Si los datos no eliminan ninguna fricción mejor no guardarlos). <br/> - DEMO: Optimizarla y mejorar visibilidad. <br/> - Costes: El desarrollo NO es un gasto operativo. Es CAPEX. <br/> - Calidad de código: Configurar el entorno con un estándar para compartir el estilo de código, que parezca que todo lo ha hecho el mismo. | - Feedback de los compañeros: Muy buena presentación de Javi y destacan las métricas para medir el rendimiento individual y los storyboard. |
+| **General**                   | - OBLIGATORIO -> Customer agreements: Garantizar que tenemos la evidencia de que un usuario se lo ha leído y está efectivamente de acuerdo. Fijarnos en PayPal. <br/> - Añadir changelog: Que hay nuevo, que es lo que ha cambiado del sprint 1 al 2. Se pueden utilizar conventional commits, hay extensiones de VSC que te permiten seguir los mensajes de los commits y crear el changelog automáticamente. Mejor no hacerlo manual. También se puede con GitHub. <br/> - Debemos llegar a un acuerdo con los usuarios piloto (además del plan de gestión) donde se acuerdan los términos. Me comprometo... | - |
+
+
+
+
+
+
+                                                
+### Para hacer pero no necesariamente para la presentación
+
+### Para la presentación
+#### Estructura principal
+15 min (siempre ya) 
+A lo que hicimos la semana pasada, añadimos:
+Storyboard: Obligatorio tener uno para cada usuario/cliente/inversor. 
+Términos de servicio: Evitar las cláusulas abusivas. Estos son: Que ofrecemos en nuestro proyecto? Que servicios? No podemos obligar por ejemplo a que el usuario de una información que no está obligado a dar. Definir pricing (lo más claro posible), SLA (Service-level agreement) (comprometido también con las APIs externas, que pasa si falla alguna?), licencias, GDPR. En la presentación poner un resumen solo, no un textazo explicando todo.
+Análisis de costes: Estandarizar el tiempo -> 2 AÑOS, empezando al principio del cuatrimestre, y distinguiendo CAPEX/OPEX.
+Retrospectiva sprint 2: *Es la parte más importante de la presentación*. Rendimiento: Mostrar gráfico de rendimiento y de esfuerzo. Se puede complementar con otras cosas, pero eso es obligatorio. Que muestre a todos los miembros del equipo. Hacerla como sistema de coordenadas, cuatro zonas, eje x= esfuerzo, eje y= rendimiento y un punto por miembro del equipo (linea 45º divide en 2). Poner también un punto con la media y marcar con una línea las 10 horas.
+A partir de ahora se van a tener en cuenta las píldoras teóricas en las presentaciones, echarles un vistazo.
+Planificación sprint 3: Se debe incluir pago real con cuenta sandbox, aspectos de seguridad (ej: validar que la cuenta de correo con la que alguien se registre exista de verdad, validar la tarjeta de crédito... (todo lo que sea validable). si usamos una API externa son ellos los que se encargan de esto)
+Uso IA: Analizar y contar como nos está ayudando el uso de la IA. Lecciones aprendidas del uso de la IA. Destacar también las "alucinaciones" que tenga.
+
+
+
+### Otros
+-
+
+
+### Adicional
+-
