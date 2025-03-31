@@ -2,7 +2,7 @@
 
 En esta página se encuentra el feedback recogido por el equipo del grupo 8 durante las sesiones de clase. Con secciones para cada semana, se detallan los comentarios y sugerencias del profesor y los compañeros, así como las tareas a realizar para la siguiente semana. Además, se incluye una sección para cada grupo con el feedback proporcionado por el grupo 8.
 
-## Semana 1
+## Semana 10/02
 #### Feedback relacionado con la presentación
 - Buscar logotipo (imagen + letra) y ponerlo en todas las diapositivas, que quede claro lo que estamos vendiendo.
 - Buscar formas de transmitir el objetivo lo más compacta posible, un eslogan muy resumido.
@@ -28,7 +28,7 @@ En esta página se encuentra el feedback recogido por el equipo del grupo 8 dura
 - Casos de uso: mirar bien la trazabilidad
   - Mirar que casos de usos que no son estrictamente necesarios (MVP) y centrarnos en esos.
 
-## Semana 2
+## Semana 17/02
 #### Feedback relacionado con la presentación
 - Mucho texto en diapositivas
 - En los mockups no se ponen lorem ipsum ni datos vacíos, siempre casos reales.
@@ -57,7 +57,7 @@ En esta página se encuentra el feedback recogido por el equipo del grupo 8 dura
 - ¿Dónde está la principal diferencia con los competidores?
 - Privacidad importante.
 
-## Semana 3
+## Semana 24/02
 #### Feedback relacionado con la presentación
 - No hay diferencia entre MVP y producto. No se ha especificado que es el producto.
 - No mencionamos de dónde hemos sacado los competidores ni qué hacen. 
@@ -81,7 +81,7 @@ En esta página se encuentra el feedback recogido por el equipo del grupo 8 dura
   - Cuidado al poner normas basadas en estas métricas (la gente suele obsesionarse con ellas y es lo que priorizan haciendo trampas muchas veces)
 
 
-## Semana 4
+## Semana 03/03
 #### Feedback relacionado con la presentación
 - Ha pasado el Business Model Canvas muy rápido, si no vamos a enseñar algo en condiciones mejor no ponerlo.
 - Demasiado detalle de los costes
@@ -100,7 +100,7 @@ En esta página se encuentra el feedback recogido por el equipo del grupo 8 dura
 - La parte de planificación no se ve bien, nada legible. Hacer énfasis en el diagrama de Gantt 
 - Ser más descriptivo en la planificación: no usar siglas cuyo significado no sea obvio.
 
-## Semana 5
+## Semana 10/03
 #### Feedback relacionado con la presentación
 - Si tenemos que hacer demo/enseñar video:
   - Asegurarnos de que se vea todo.
@@ -124,33 +124,47 @@ En esta página se encuentra el feedback recogido por el equipo del grupo 8 dura
 - No estamos usando sonar ni herramientas para comprobar el código que haya que refactorizar (podemos analizar la evolución de las métricas de sonar a lo largo de los siguiente sprints).
 - Analizar cuando “alucinan” las IAs que estamos usando y marcarlo en el documento de prompts para cuando se haga el análisis.
 
-## Semana 6
+## Semana 17/03
 #### Feedback relacionado con la presentación
-- No hablar de la persona en el StoryBoard de inversores. Dirigirse a los inversores y hablar de los beneficios que puedan sacar.
-- A la hora de sacar las cifras, dar un rendimiento y cifras atractivas para hacer que la peña pague
-- Involucrar a 3os para el storyboard, no hacer que el producto aparezca mágicamente
-- Gráficas
-- Juntar las gráficas de costes en una sola diapositiva
-- FOTOS HOMOGÉNEAS (IMPORTANTE)
+- Hacer que el inicio efectivo sea aún más impactante y conectarlo con la demo y otras partes de la presentación para "cerrar el círculo".
+- No referirse a los inversores en tercera persona, sino hablarles directamente.
+- Mejorar el killer opener y asegurarse de que esté bien integrado con el final.
+- La demo combina el estado actual con lo que se tendrá en el futuro, pero está bien presentada.
+- Indicar claramente qué herramientas de IA se utilizan y presentar casos de uso reales.
+- Reemplazar "papás primerizos" por "padres".
 - Copiarle la gráfica de rendimiento a caronte
 - Impacto legal, menos texto y quedarse con lo más importante
 - INICIO EFECTIVO Y mejorar presentación. Mejorar el killer opener, hilar con la demo y el final, importante "cerrar el círculo".
-
+- Asegurar que las fotos del equipo sean homogéneas.
 
 
 #### Feedback relacionado con el desarrollo del proyecto
-- Poner coste extra para posible revisión de los planes de nutrición
-- Justificar la parte premium para recetas personalizadas
-- Terminar de ajustar la parte del negocio (que pague la peña morosos)
-- Tac y Lgv métricas de clientes
-- No dar información donde no toca
-- Poner las herramientas de la ia y poner casos de uso reales
+- En el storyboard dirigido a inversores, no hablar de la persona usuaria, sino centrarse en los beneficios que pueden obtener los inversores.
+- Al presentar cifras, destacar el rendimiento y datos atractivos para incentivar el pago.
+- Justificar la parte premium con un enfoque claro: la personalización de recetas y dietas a medida.
+- Incluir un coste extra para posibles revisiones de los planes de nutrición.
+- Ajustar mejor la estrategia de negocio, asegurando que los pagos de los clientes sean viables y sostenibles.
+- Incorporar métricas clave como TAC (coste de adquisición de clientes) y LGV (lifetime value) para analizar hasta qué punto es rentable seguir adquiriendo clientes.
+- No hacer que el producto aparezca "mágicamente" en el storyboard. Se recomienda involucrar a terceros, como que alguien lo descubra en la farmacia o en otro contexto realista.
+- Agregar una tabla con escenarios pesimista, realista y optimista en una misma diapositiva, asegurando que las cifras estén correctamente formateadas con puntos en los miles.
+- No hacer que el producto aparezca "mágicamente" en el storyboard. Se recomienda involucrar a terceros, como que alguien lo descubra en la farmacia o en otro contexto realista.
+- Mantener coherencia en la historia, llevando al personaje principal (ej. Laura) desde el inicio hasta el final de la presentación.
+- Agrupar las gráficas de costes en una sola diapositiva para mejorar la claridad.
+- Utilizar fotos homogéneas en el equipo (IMPORTANTE).
+- El rendimiento individual del equipo debe mostrarse de forma más visual, con barras de horas por persona.
+- Incluir métricas de impacto legal con menos texto y solo la información clave.
+- No incluir información innecesaria o en lugares donde no corresponda.
+- Mejorar la cobertura de testing, actualmente en 0%. Es fundamental incluir pruebas.
+- Incluir planes de refactorización y detallar qué patrones de diseño se van a implementar.
+- La última diapositiva contiene una URL antigua del despliegue; actualizarla.
+- El informe de métricas es excelente y destaca sobre los otros grupos. Sin embargo, no es necesario incluir archivos específicos solo para el equipo interno.
+
 
 
 
 
 ## Grupo 7 - Map Your World
-# Semana 1
+# Semana 10/02
 #### Feedback relacionado con la presentación
 - Presentar de forma clara, evitar hablar muy rápido.
 - Plantillas para presentaciones útiles y con motivo: “es un espacio de publicidad gratuito”. Muy importante la estética.
@@ -171,7 +185,7 @@ En esta página se encuentra el feedback recogido por el equipo del grupo 8 dura
 - Público objetivo: tenerlos muy claros y diferenciados (si son conjuntos o disjuntos, que elementos tienen que tener…)
 - Casos de usos: especificarlos por tipo de usuario
 
-# Semana 2
+# Semana 17/02
 #### Feedback relacionado con la presentación
 - No hacer referencias a presentaciones anteriores, tratar las presentaciones de forma autocontenida.
 - Demasiados competidores, hay que indicar CÓMO se han buscado esos competidores
@@ -188,14 +202,14 @@ En esta página se encuentra el feedback recogido por el equipo del grupo 8 dura
 - En el caso de los usuarios objetivos, si uno de ellos no es relevante o no supone funcionalidades o perfiles específicos es mejor quitarlos.
 
 
-# Semana 3
+# Semana 24/02
 #### Feedback relacionado con la presentación
 - Intencionalmente en blanco
 
 #### Feedback relacionado con el desarrollo del proyecto
 - Intencionalmente en blanco
 
-# Semana 4
+# Semana 03/03
 #### Feedback relacionado con la presentación
 -  No hablar de puntos que no tocan en la presentación.
 - No hablar tan ligero
@@ -211,7 +225,7 @@ En esta página se encuentra el feedback recogido por el equipo del grupo 8 dura
 #### Feedback relacionado con el desarrollo del proyecto
 - Intencionalmente en blanco
 
-# Semana 5
+# Semana 10/03
 #### Feedback relacionado con la presentación
 - Hacer una demo en directo es arriesgado; mejor usar un video grabado.
 
@@ -231,37 +245,42 @@ En esta página se encuentra el feedback recogido por el equipo del grupo 8 dura
 
 - Buen uso de la IA exponiendo casos reales.
 
-# Semana 6
+# Semana 17/02
 #### Feedback relacionado con la presentación
-- Intencionalmente en blanco
+- La introducción carece de energía, lo que afecta la credibilidad del personaje y la historia presentada. Se recomienda mejorar la entrega para captar mejor la atención del público.
+- Durante la demo, se realizaron demasiados logins, lo que ralentizó la presentación. Se sugiere optimizar este proceso para que fluya mejor.
+- El tiempo fue demasiado ajustado. Es importante gestionar mejor los tiempos para evitar prisas al final y garantizar que toda la información clave se presente con claridad.
 
 #### Feedback relacionado con el desarrollo del proyecto
-- Intencionalmente en blanco
+- Las soluciones presentadas deben ser efectivas y aplicadas correctamente, no solo propuestas teóricas.
+- La tabla de competidores y su análisis no encajan bien con el resto de la presentación. Se recomienda replantear su inclusión o presentarla de una forma más integrada con el discurso general.
+- A la hora de hablar sobre el equipo, es importante no mencionar fotos ni nombres, manteniendo un enfoque más profesional y general.
+
 
 
 ## Grupo 9 - Caronte
-# Semana 1
+# Semana 10/02
 #### Feedback relacionado con la presentación
 - Intencionalmente en blanco
 
 #### Feedback relacionado con el desarrollo del proyecto
 - Intencionalmente en blanco
 
-# Semana 2
+# Semana 17/02
 #### Feedback relacionado con la presentación
 -  Hablar primero de nosotros (mayoritariamente de forma positiva) y luego las comparaciones con los demás.
 
 #### Feedback relacionado con el desarrollo del proyecto
 - No hay que criticar a la competencia, tan solo diferenciarse.
 
-# Semana 3
+# Semana 24/02
 #### Feedback relacionado con la presentación
 - Intencionalmente en blanco
 
 #### Feedback relacionado con el desarrollo del proyecto
 - Intencionalmente en blanco
 
-# Semana 4
+# Semana 03/03
 #### Feedback relacionado con la presentación
 - No han contado qué ofrecen antes de hablar de la competencia. 
 - Crear un clima donde se normalice el tema del que se habla. 
@@ -272,7 +291,7 @@ En esta página se encuentra el feedback recogido por el equipo del grupo 8 dura
 #### Feedback relacionado con el desarrollo del proyecto
 - Costes insuficientes. Poner costes, ingresos y gastos. Hay que ser más conservadores en los cálculos.
 
-# Semana 5
+# Semana 10/03
 #### Feedback relacionado con la presentación
 - La presentación tiene un diseño muy cuidado. Se recomienda que las barras de progreso indiquen claramente hasta dónde llega el porcentaje.
 
@@ -289,36 +308,45 @@ En esta página se encuentra el feedback recogido por el equipo del grupo 8 dura
 
 - Anticipar el problema de gestión de pagos desde el inicio, ya que incluso el equipo cree que puede ser un inconveniente. La PoC (prueba de concepto) debería haberse realizado en el Sprint 1.
 
-# Semana 6
+# Semana 17/03
 #### Feedback relacionado con la presentación
-- Importante hacer la presentación autocontenida (pequeñas explicaciones)
-- Story Board: Un poco de información spam
-- La grafica esta super bien, los colores bien (aunque la semana pasada dijo lo contrario)
-- Lecciones aprendidas: Medir como  de bien están funcionando las soluciones aplicadas
-- Importante hacer video en la demo explicando lo que estamos haciendo (pueden fallar mas cosas online)
-- Hay que reflejar el rendimiento del equipo en total (a lo largo del tiempo)
-
+- La presentación debe ser autocontenida, incluyendo pequeñas explicaciones que permitan entenderla sin necesidad de aclaraciones adicionales.
+- Es recomendable anunciar previamente el propósito del video, explicando que se debe a las pruebas realizadas con usuarios piloto, sin desvelar sus comentarios antes de tiempo.
+- El "killer opener" fue efectivo en concepto, pero su ejecución podría mejorarse. Sería útil incluir un elemento visual que lo haga más motivador.
+- La diapositiva 7 está muy bien lograda, con gran cantidad de información en poco espacio y un uso correcto de colores.
+- La diapositiva 30 también está bien, pero se sugiere incluir elementos en "In Progress" e "In Review", además de visualizar las "issues" y su estado, identificando cuánto tiempo permanecen en el backlog sin moverse.
+- Es recomendable incluir un video en la demo para explicar el proceso, ya que en presentaciones en línea pueden surgir más fallos.
+- Incluir una medición clara sobre el impacto y la efectividad de las soluciones aplicadas.
 
 #### Feedback relacionado con el desarrollo del proyecto
-- GDPR: Hace falta un mecanismo para borrar los datos de un usuario y tener un plan por si denuncian
-- Uso de codacy importante 
+- El storyboard está bien planteado y tiene un enfoque emotivo. Sin embargo, cuando se convierta en un anuncio, es recomendable reformularlo para incluir información sobre precios, que actualmente se echa en falta.
+- Aspectos legales (GDPR): Es necesario asegurarse de que se cumple con la normativa GDPR, incluir un mecanismo para borrar datos de usuarios, tener un plan de acción en caso de recibir una denuncia relacionada con el GDPR y no automatizar procesos sin evaluar las implicaciones legales y éticas, pero se recomienda añadir un botón o formulario para gestionar estos aspectos.
+- Se han destinado demasiadas horas para una sola semana dentro del sprint. Sería conveniente reducir el alcance o replantear la estrategia.
+- Es fundamental mejorar la planificación teniendo en cuenta los periodos de exámenes.
+- Es importante realizar mediciones periódicas para evaluar si las soluciones implementadas están funcionando correctamente.
+- Se recomienda incluir información sobre ingresos y gastos en lugar de ingresos y pérdidas.
+- Reflejar el rendimiento del equipo a lo largo del tiempo, ya que es un aspecto obligatorio en la evaluación.
+- Aprovechar mejor la tecnología disponible para optimizar procesos.
+- El uso de Codacy ha sido correcto, y sería útil incluir una gráfica de evolución.
+
+
 
 ## Grupo 10 - Go 4 Surprise
-# Semana 1
+# Semana 10/02
 #### Feedback relacionado con la presentación
 - Intencionalmente en blanco
 
 #### Feedback relacionado con el desarrollo del proyecto
 - Intencionalmente en blanco
 
-# Semana 2
+# Semana 17/02
 #### Feedback relacionado con la presentación
 - Hacer mockups que cuenten una historia, no hacer mockups de informáticos para informáticos.
 
 #### Feedback relacionado con el desarrollo del proyecto
 - Demasiadas cosas 
 
-# Semana 3
+# Semana 24/02
 #### Feedback relacionado con la presentación
 - Número de página muy pequeño. Barra de progreso que pasa desapercibido.
 - Cuidado con el cálculo de los costes de los empleados, principalmente con los costes sociales.
@@ -328,7 +356,7 @@ En esta página se encuentra el feedback recogido por el equipo del grupo 8 dura
 #### Feedback relacionado con el desarrollo del proyecto
 - Tener cuidado con los riesgos y definir bien los planes de contingencia.
 
-# Semana 4
+# Semana 03/03
 #### Feedback relacionado con la presentación
 - No han seguido la estructura de manera correcta. No han intentado un inicio efectivo (que tiene que aparecer en cada presentación). Saber captar la atención. No tiene por qué empezar con un índice.
 - Tras el inicio efectivo incluir el Elevator Pitch (explicar la idea del proyecto en una frase, y por qué nosotros).
@@ -344,7 +372,7 @@ En esta página se encuentra el feedback recogido por el equipo del grupo 8 dura
 #### Feedback relacionado con el desarrollo del proyecto
 - Intencionalmente en blanco
 
-# Semana 5
+# Semana 10/03
 #### Feedback relacionado con la presentación
 - Excelente presentación por parte del ponente, con un punto extra por entusiasmo en el killer opener. Sin embargo, cuidado al lanzar preguntas al público asumiendo que la respuesta será afirmativa.
 
@@ -373,28 +401,40 @@ En esta página se encuentra el feedback recogido por el equipo del grupo 8 dura
 
 - Se ha echado en falta información sobre cómo se ha tenido en cuenta el feedback de los usuarios piloto.
 
-# Semana 6
+# Semana 17/03
 #### Feedback relacionado con la presentación
-- Inicio efectivo: Cuando explica el proyecto Explica quien son sin explicar lo que hacen (organizar bien la presentación)
-- Orientar el discurso inicial en torno a una palabra
-- No hacer preguntas!!!! En vez de eso, comenzar planteando una situación que estemos seguros que todos van a entender y empatizar con ella
-- No esta bien poner la formula de los costes (explicar factores pero no darle demasiada importancia)
-- No enseñar el código fuente
-- Lo ideal es ir del tiron a los casos de uso core
-- Cuidado con los colores de fondo
+- La diapositiva sobre el rendimiento del equipo está muy bien trabajada.
+- La introducción debe organizarse mejor: actualmente se explica quiénes son sin aclarar qué hacen.
+- Se recomienda orientar el discurso inicial en torno a una palabra clave que refuerce el mensaje central.
+- No hacer preguntas abiertas al inicio; en su lugar, plantear una situación clara con la que todos puedan identificarse.
+- En la diapositiva 40 sobre la planificación de usuarios piloto, las letras con fondo rojo dificultan la lectura. Se recomienda cambiar los colores para mejorar la visibilidad.
+- En general, se debe prestar más atención a la combinación de colores de fondo para garantizar una buena legibilidad.
+- En la demo, hay un momento en el que el ritmo se vuelve demasiado rápido, lo que dificulta la comprensión. Es importante mantener un ritmo constante y claro.
+- El términos generales, el presentador lo hizo muy bien en todo momento.
+
 
 #### Feedback relacionado con el desarrollo del proyecto
-- Intencionalmente en blanco
+- La presentación explica quiénes son, pero no deja claro qué hacen exactamente. Es importante organizar mejor la estructura para que el mensaje sea más claro.
+- El concepto de "experiencia" es clave para el proyecto, pero se menciona muy poco. Se recomienda reforzar su presencia en el discurso.
+- Se sugiere mantener el factor sorpresa como un punto fuerte, pero de manera contenida y bien dosificada. En el inicio de la presentación, se puede potenciar este aspecto de forma efectiva.
+- Es importante transmitir que el equipo es una inversión, no un coste.
+- La fórmula de ingresos es complicada y puede generar confusión; en su lugar, es mejor explicar los factores clave sin centrarse demasiado en los cálculos.
+- La licencia del software permite ver el código fuente, pero en este caso, mostrarlo no tiene sentido. Se recomienda no incluirlo en la presentación.
+- Se ha implementado una estrategia para evitar la reventa de entradas asignando nombres y entregándolas 24 horas antes del evento.
+- El storyboard es sólido, pero se recomienda eliminar la "magia" del momento en que aparece la marca Go4Surprise, haciéndolo más natural y menos repentino.
+- Lo ideal es ir directamente a los casos de uso principales sin desviarse en explicaciones innecesarias.
+- En retrospectiva, la falta de comunicación dentro del equipo se ha reflejado en la dificultad para informar sobre el avance de tareas.
+
 
 ## Grupo 11 - Pawtel
-# Semana 1
+# Semana 10/02
 #### Feedback relacionado con la presentación
 - Intencionalmente en blanco
 
 #### Feedback relacionado con el desarrollo del proyecto
 - Intencionalmente en blanco
 
-# Semana 2
+# Semana 17/02
 #### Feedback relacionado con la presentación
 - Invierten más tiempo en decir lo que no son que lo que son.
 - Demasiado enfocada la presentación en las partes negativas, esto tiene un impacto negativo en la audiencia.
@@ -415,14 +455,14 @@ En esta página se encuentra el feedback recogido por el equipo del grupo 8 dura
 - Strikes (tarjetas amarilla y roja)
 
 
-# Semana 3
+# Semana 24/02
 #### Feedback relacionado con la presentación
 - En los costes poner un caso intermedio a parte del optimista y el pesimista.
 
 #### Feedback relacionado con el desarrollo del proyecto
 - Intencionalmente en blanco
 
-# Semana 4
+# Semana 03/03
 #### Feedback relacionado con la presentación
 - No se ve bien el número de página. 
 - En la retrospectiva explicar un poco más la parte de qué problemas hemos tenido y cómo los hemos solucionado. Cuantificar la evolución del sprint (Ej: hemos completado un 30% del sprint). 
@@ -438,7 +478,7 @@ En esta página se encuentra el feedback recogido por el equipo del grupo 8 dura
 - Intencionalmente en blanco
 
 
-# Semana 5
+# Semana 10/03
 #### Feedback relacionado con la presentación
 - El killer opening parece más un anuncio que una forma de atraer a la audiencia, ser más imaginativo y dejar claro que hay un problema a resolver.
 - Evitar hacer la demo en directo para prevenir errores técnicos (pantalla azul de Windows). Es preferible usar un video con zoom.
@@ -458,12 +498,20 @@ En esta página se encuentra el feedback recogido por el equipo del grupo 8 dura
 
 - Se recomienda mejorar el sistema CI/CD.
 
-# Semana 6
+# Semana 17/03
 #### Feedback relacionado con la presentación
-- Muy buena presentación
-- Hilar el inicio con la explicación de lo que somos
-- Hablar flojo
-- Story Board autocontenido (super importante)
+- El presentador ha sido excelente, y el killer opener ha estado muy bien ejecutado. Sin embargo, en algunos momentos habla demasiado rápido, lo que dificulta la comprensión. Se recomienda moderar el ritmo.
+- No es necesario explicar en el video pasos básicos como "se registra, se loggea", ya que son procesos intuitivos para la audiencia.
+- El término mascota debe repetirse con más frecuencia para reforzar su presencia en el discurso.
+- Se debe indicar claramente qué casos de uso se están presentando y cuáles se van a ver a continuación.
+- Es recomendable incluir un email de contacto al final de la presentación para facilitar el seguimiento.
+
 
 #### Feedback relacionado con el desarrollo del proyecto
-- Intencionalmente en blanco
+- Es fundamental hilar mejor la introducción con la explicación de lo que es el proyecto para que el mensaje sea más fluido y claro.
+- La presentación debe ser autocontenida, asegurando que toda la información necesaria esté incluida sin depender de explicaciones externas.
+- El primer storyboard es muy bueno. Aunque no haya un modelo de precios definido aún, es recomendable explicar este aspecto de todas maneras para dar contexto.
+- Es crucial que el storyboard sea completamente autocontenido.
+- Es importante unificar el análisis del rendimiento del equipo, en lugar de separarlo en backend y frontend.
+- La consistencia en el code style es clave: tener 600 code style issues es demasiado y debe corregirse.
+- En cuanto a la UI, debe estar o completamente perfecta o al menos al 90%, pero no ambas cosas a la vez. Se debe elegir una postura clara sobre su estado.
