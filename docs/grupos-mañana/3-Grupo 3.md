@@ -1,4 +1,4 @@
-# Grupo 3 - EventiBride
+# Grupo 3 - EventBride
 
 En esta página se encuentra el feedback recogido por el equipo del grupo 3 durante las sesiones de clase. Con secciones para cada semana, se detallan los comentarios y sugerencias del profesor y los compañeros, así como las tareas a realizar para la siguiente semana. Además, se incluye una sección para cada grupo con el feedback proporcionado por el grupo 3.
 
@@ -285,7 +285,7 @@ No procede ya que no hubo clase
     * Interesante saber si vamos a hacer alguna acción sobre la. FASE ON REVIEW MAS IMPORTANTE QUE DONE. Cómo vamos a revisar.
 * **Ajuste de Horas:**
     * Exponer que hemos ajustado las horas.
-
+    
 #### Tareas a realizar para la siguiente semana
 
 * **Killer Opener:**
@@ -338,6 +338,181 @@ No procede ya que no hubo clase
     * Mejoras requeridas.
 * **Commitment Agreement:**
     * Presentación del seguimiento del agreement.
+
+## Semana 6 (14/03/2025)
+#### Feedback relacionado con la presentación
+
+- La **captación de atención inicial (killer opener)** fue altamente valorada por todos los evaluadores, considerándola impactante y efectiva. El profesor incluso la calificó como “perfecta, inmejorable”.
+- La **presentación** en general fue clara, visualmente comprensible y bien estructurada, con una correcta jerarquía de contenidos y una buena distribución de las responsabilidades del equipo.
+- Se valoró positivamente el **tono de voz enérgico y adecuado** de los presentadores, así como la buena preparación ante posibles imprevistos, como tener una solución alternativa en caso de que el vídeo no funcionara.
+- El **diseño visual** de la presentación mejoró respecto a ocasiones anteriores. Se destacó que el uso de colores adecuados y el tamaño de la letra favorecieron la comprensión de la información. No obstante, se sugirió seguir trabajando en una estética más cuidada.
+- El uso de la herramienta de **zoom durante la demo** fue especialmente apreciado, tanto por el alumnado como por el profesorado, ya que permitió visualizar mejor el funcionamiento del sistema.
+- Se hizo una observación respecto a **elementos personales** durante la presentación, como la botella de agua, recomendando no mantenerla constantemente en la mano y optar por una de color más neutro.
+- La **reestimación del tiempo** fue clara y permitió ajustar adecuadamente el ritmo de la presentación. A pesar de que al principio se fue demasiado rápido, se corrigió correctamente al final.
+- Se recomienda **evitar gestos o mímica exagerada**, especialmente cuando se realiza la presentación desde ubicaciones remotas como Cádiz.
+
+#### Feedback relacionado con el desarrollo del proyecto
+
+- Se dedicó un esfuerzo notable al **análisis de competidores**, lo cual fue percibido como un punto fuerte por parte del profesorado y el alumnado.
+- El **análisis relacionado con la inteligencia artificial** fue valorado de forma muy positiva, destacando la claridad y profundidad del documento elaborado sobre este aspecto.
+- En las **demos en vídeo**, se recomendó:
+  - Utilizar **datos y nombres realistas**, evitando referencias ficticias o poco serias.
+  - Asegurar una **homogeneidad en las voces** utilizadas.
+  - **Introducir brevemente** el contenido del vídeo antes de reproducirlo, si este no lo hace por sí mismo.
+- Se destacó como positiva la inclusión de una **fórmula de rendimiento detallada**. No obstante, se sugirió mostrar **datos reales** aplicando dicha fórmula a los miembros del equipo.
+- En cuanto al enfoque del proyecto, se recomendó:
+  - Hacer más explícito de dónde se extraen las **estimaciones optimista, pesimista y esperada**.
+  - Enfatizar que el proyecto se centra principalmente en **bodas**, dejando en segundo plano otros tipos de eventos.
+- Respecto a la **gestión de problemas**, se indicó que el procedimiento descrito fue demasiado genérico. Se sugiere profundizar más en los problemas específicos enfrentados y cómo se abordaron en la práctica.
+
+
+## Semana 7 (21/03/2025)
+#### Feedback relacionado con la presentación
+* **Presentadores:**
+    * Se comenta que los presentadores se coordinan muy bien(Dani capta más la atención y Miguel es más relajado a la hora de exponer).
+* **Inicio (Killer Opener):**
+    * El inicio es efectivo, captando la atención y facilitando la conexión con la aplicación.
+    * Bien enlazado con el resto de la presentación.
+    * Se recomienda evitar referencias a semanas anteriores.
+* **Presentación General:**
+    * Se sugiere usar un mando para pasar las diapositivas.
+    * Juntar la parte de la retrospectiva con los problemas que han surgido.
+* **Costes:**
+    * La línea de corte de los costes en la diapositiva 8 debe destacarse más visualmente.
+    * En la diapositiva de costes, se dificulta la lectura y el orden. Se recomienda sustituir por un diagrama de barras comparando costes estimados vs. reales (por ejemplo, un bloque de 9k más grande para destacar).
+    * La comparativa de los costes debe estar más clara.
+* **Demo:**
+    * La demo ha sido muy bien planteada y clara, con una buena representación de roles.
+    * Se destaca el buen trabajo de Adrián, aunque se señala que no debería afirmarse que la app es fácil de usar si hubo dificultades con tareas simples como introducir el email. Se recomienda revisar ese punto para mejorar la usabilidad.
+* **Storyboard:**
+    * El storyboard fue muy bien valorado, especialmente por ser hecho a mano.
+    * Se recomienda mostrar en el mismo anuncio los tres tipos de eventos (boda, bautizo, comunión) para reforzar que es una app multievento.
+    * Se sugiere añadir una última viñeta con el pricing como cierre del anuncio.
+* **Usuarios Piloto:**
+    * Se expresa preocupación por la tipología de los usuarios piloto, recomendando especificar sus perfiles (potenciales usuarios de bodas, bautizos, comuniones, etc.).
+* **Rendimiento:**
+    * Les parece bien que tengamos fórmulas para medir el rendimiento del equipo.
+    * Hacer una pequeña gráfica para para ver la evolución del rendimiento y que salgan todos los miembros del equipo, aunque sea anonimizado.
+
+#### Feedback relacionado con el desarrollo del proyecto
+* **Workflows:**
+    * Se valora positivamente la inclusión de workflows de deploy y SonarCloud.
+    * Se recomienda mostrar una gráfica de evolución para que se vea el impacto de las mejoras en calidad del código a lo largo del sprint.
+* **Retrospectiva:**
+    * Se mencionan problemas tanto al inicio como al final, lo que resulta redundante. Se sugiere unificar todos los problemas en una única sección.
+    * Es importante añadir cómo se van a solucionar esos problemas y medir si las soluciones son efectivas.
+#### Tareas a realizar para la siguiente semana
+* **Killer Opener:**
+    * Duración máxima: 1 minuto.
+* **Elevator Pitch:**
+    * Duración: 30 segundos.
+    * Descripción concisa del negocio.
+* **Presentación General:**
+    * Duración total: 15 minutos.
+    * Asistencia obligatoria.
+    * Se realizará un test posterior a la presentación.
+    * Evitar afirmaciones genéricas, todo debe estar adaptado y justificado en el contexto de nuestro proyecto.
+* **Contenido de la Presentación:**
+    * Resumen del análisis de competidores (actualizarlo si es necesario).
+    * Story board, esta vez con un único target diferente al anterior.
+    * Resumen del análisis de costes, incluyendo:
+        * TCO: desglosar en CAPEX y OPEX.
+        * Añadir estimaciones optimistas y pesimistas.
+        * Incluir costes reales, como los de GitHub u otras herramientas.
+        * Revisar si la validación de datos (DNI, tarjeta, correo) tiene impacto en el OPEX.
+    * Replanificación de sprints.
+    * Planificación para el sprint 3.
+    * Incluir landing page y correo de contacto del proyecto.
+* **Presentación del Equipo:**
+    * Mostrar el equipo completo y los roles actualizados.
+    * Confirmar si se ha cumplido el Commitment Agreement.
+    * Ajustar y afinar la dinámica del equipo si es necesario.
+* **Demo:**
+    * Incluir un vídeo demo.
+    * Mejorar la demo con el feedback recibido anteriormente.
+* **Retrospectiva:**
+    * Incluir una matriz de rendimiento vs esfuerzo con 4 cuadrantes(Puede ser anónima):
+        * Mucho rendimiento, poco esfuerzo.
+        * Mucho esfuerzo, poco rendimiento.
+        * Poco esfuerzo, poco rendimiento.
+        * Mucho esfuerzo, mucho rendimiento.
+    * Añadir gráfica de rendimiento personal.
+    * Para cada problema:
+        * Indicar el estado actual y de dónde proviene.
+        * Explicar acciones concretas realizadas para solventarlo.
+        * Incluir una forma de evaluar la efectividad de esas acciones.
+        * Mencionar lecciones aprendidas.
+    * Reloj de avance del proyecto.
+* **Usuarios Piloto:**
+    * Confirmar existencia del Pilot User Commitment Agreement.
+    * Añadir la gestión del feedback recibido de estos usuarios.
+    * Incluir cómo se ha comunicado con ellos y si ha influido en el desarrollo.
+* **Reporte de Uso de IA:**
+    * Incluir lecciones aprendidas, casos de alucinaciones, interacción con usuarios, etc.
+    * Mostrar si se ha mejorado el uso de la IA desde el inicio del proyecto.
+* **Customer Agreement:**
+    * Incluir los términos y condiciones, pricing, acuerdo de nivel de servicio (SLA), y revisar que no haya cláusulas abusivas.
+    * Ver si el uso de APIs de terceros implica condiciones que debamos incluir o que afecten a nuestro acuerdo con los usuarios.
+    * Tratar el GDPR y cómo afecta a nuestra aplicación.
+    * Comprobar que esté hecho el Pilot User Commitment Agreement y mencionarlo explícitamente en la diapositiva del Customer Agreement.
+* **Seguridad:**
+    * Comprobar validez de datos en formularios: correo electrónico, tarjeta de crédito, DNI, etc.
+    * Ver si usamos APIs para esto y si hay costes asociados.
+    * Añadir propuestas concretas (por ejemplo, envío de email de validación).
+* **Extra:**
+    * Disponer de un calendario compartido con las fechas de reuniones (aunque en nuestro caso no tenga mucho uso si ya están fijadas).
+    * Llevar un changelog para registrar cambios entre versiones (aunque no usemos conventional commits, se puede hacer de otra forma).
+
+## Semana 8 (28/03/2025)
+#### Feedback relacionado con la presentación
+
+- Ha gustado el *tierlist* de mejores trabajadores y las HM.
+- La música de Angry Birds fue divertida y aportó un toque cómico.
+- La demo fue graciosilla y más coloquial, lo cual gustó, pero se recomienda:
+  - Reducir el humor en futuras demos.
+  - Evitar música a no ser que el ambiente sea muy informal.
+- Se percibe creatividad y un buen trabajo en equipo (*team building*).
+- La idea de la aplicación se presentó con claridad.
+- Buen tono de voz y estilo de presentación, acorde al proyecto.
+- El lenguaje fue ligeramente coloquial, pero sin perder profesionalidad.
+- Buen diseño del storyboard, aunque se recomienda:
+  - Aumentar la claridad visual.
+  - En el storyboard de inversores, incluir cifras y datos concretos.
+- El inicio fue efectivo, con una historia bien planteada que debe mantenerse hasta el final del curso.
+- Se valoró positivamente el cambio de narrador según el rol de cada integrante.
+- Se recomienda mostrar casos positivos en la demo (por ejemplo, evitar cancelaciones).
+- Mejoras sugeridas para la demo:
+  - Aumentar el zoom.
+  - Realizar cortes en lugar de ejecutarla en tiempo real.
+  - Hacerla más formal sin perder del todo el humor.
+- El *top 3* y las menciones especiales fueron bien recibidas por el público.
+
+#### Feedback relacionado con el desarrollo del proyecto
+
+- Se aprecia una evolución clara, pero aún hay aspectos que se pueden mejorar.
+- Justificar las previsiones económicas con un análisis de mercado:
+  - Mostrar claramente el impacto en el mercado.
+  - Incluir datos de clientes activos.
+  - Indicar puntos clave en la línea temporal de introducción al mercado.
+- Incluir una política de cancelación clara en el Customer Agreement.
+  - Este punto debe completarse la próxima semana.
+- Incluir medidas de seguridad:
+  - Protección de tarjetas, DNI y otros datos personales.
+  - Incorporar estos aspectos en la replanificación del Sprint 3.
+- Es prioritario **pivotar con los clientes reales**:
+  - Obtener la mayor cantidad de información posible.
+  - Analizar y aplicar ese feedback al desarrollo.
+  - Aunque no haya clientes aún, se debe simular o preparar este enfoque.
+- Reconocer que una bajada en el rendimiento es normal:
+  - Vigilar que no impacte negativamente en el proyecto.
+- Mejorar el seguimiento y la gestión de los problemas detectados.
+- No superar las 10 horas semanales de trabajo:
+  - Estas horas deben ser un objetivo, no un mínimo.
+- Tener en cuenta todos estos elementos en la replanificación general del proyecto.
+
+#### Tareas a realizar para la siguiente semana
+
+No procede ya que no hubo clase
 
 ---
 
@@ -441,6 +616,171 @@ No procede ya que no hubo clase.
 
 Intencionalmente en blanco.
 
+# Semana 6 (14/03/2025)
+#### Feedback relacionado con la presentación
+
+- El **inicio de la presentación (killer opener)** fue muy bien valorado, destacando la estrategia de formular una pregunta al público relacionada con su contexto, lo cual facilitó la transición hacia el tema del proyecto de forma natural y efectiva.
+- Se valoró positivamente la **interacción con el público**, ya que fomenta la atención y participación activa durante la presentación.
+- El **diseño de la presentación** fue percibido como claro, llamativo y fácil de entender. Se destacó el uso de **transiciones visuales fluidas**, **fotos corporativas** y **metáforas visuales** que enriquecieron la comunicación del contenido.
+- Las **animaciones** utilizadas durante la presentación fueron bien recibidas por su calidad y adecuación al contenido.
+- El **equipo fue presentado de forma clara**, facilitando la identificación de roles y responsabilidades.
+- Se destacó como positivo el uso del **gráfico Niko-Niko**, que aportó una visión visual del estado anímico del equipo a lo largo del proyecto.
+
+#### Feedback relacionado con el desarrollo del proyecto
+
+- El **análisis de costes** fue considerado muy sólido y bien respaldado. No obstante, se recomendó incluir un mayor **nivel de detalle por casos**, especialmente en función del número de artistas con los que se espera comenzar. Sería útil mostrar tanto casos positivos como negativos para ilustrar diferentes escenarios.
+- Se valoró positivamente la inclusión de un **plan freemium**, aunque se indicó que podría considerarse limitado. Sin embargo, la **suscripción de pago se percibe como asequible**, lo cual puede compensar esta limitación.
+- La **gestión de tareas** fue considerada adecuada, especialmente el criterio de marcar tareas como "en progreso" o "terminadas" una vez compartidas con el cliente. Se sugirió **detallar más el progreso**, por ejemplo, aportando **porcentajes de completitud** de las obras.
+- Se recomendó **mostrar el porcentaje de tareas realizadas respecto a las planificadas**, así como **las funcionalidades previstas para el sprint que no se han podido finalizar**, lo que ayudaría a transmitir de forma más transparente el grado de cumplimiento de los objetivos.
+- Se solicitó un **desglose de los tiempos dedicados por grupo**, lo cual permitiría comprender mejor la distribución del esfuerzo entre las distintas áreas del proyecto.
+- En relación al **Commitment Agreement**, se valoró muy positivamente la **sinceridad al exponer los problemas surgidos** y el hecho de haber planteado **soluciones concretas**. Esta transparencia genera confianza y demuestra capacidad de autocrítica.
+- También fue bien recibido que se mencionaran aspectos técnicos como el uso de **commits** y el **nivel de satisfacción del equipo**, lo cual aporta una visión más completa del desarrollo interno del proyecto.
+- Por último, se valoró positivamente la utilización de herramientas como **Codacy**, lo que refleja una preocupación por la calidad del código y las buenas prácticas en el desarrollo.
+
+#### Tareas a realizar para la siguiente semana
+
+Intencionalmente en blanco.
+
+# Semana 7 (21/03/2025)
+#### Feedback relacionado con la presentación
+
+- Se observó que al **inicio de la presentación no quedaba claro quién era el cliente**, lo cual dificultó la contextualización del proyecto desde el primer momento. Se recomienda aclarar este aspecto desde el comienzo.
+- El **killer opener** fue percibido como excesivamente largo, lo que puede afectar al ritmo general de la exposición. Se sugiere hacerlo más breve y directo.
+- Las **transparencias fueron valoradas positivamente** por su claridad y capacidad de transmitir la información de forma comprensible.
+- La **demostración del sistema** fue especialmente destacada como un punto fuerte de la presentación.
+
+#### Feedback relacionado con el desarrollo del proyecto
+
+- Se señaló una **falta de claridad en la presentación de los costes incurridos**, lo que generó confusión. Se recomienda replantear su presentación para que resulte más intuitiva y fácil de seguir.
+- En relación con los **costes asociados a lo largo del proyecto**, como ordenadores o infraestructura, se indicó que deberían presentarse como **costes amortizados**, distribuidos a lo largo del tiempo, en lugar de como gastos puntuales.
+- Se detectó un **retraso en la implementación de ciertas tareas**, lo que afecta a la planificación general. Esto podría estar relacionado con una baja adherencia a los compromisos asumidos en el *Commitment Agreement*.
+- Se mencionó que **no se cumple adecuadamente el compromiso con el proyecto**, tal y como se establece en el *Commitment Agreement*. Se sugiere adoptar **medidas más cuantitativas** para realizar un seguimiento más objetivo de la evolución de los problemas y del nivel de implicación del equipo.
+- El **gráfico Burn Up** podría mejorarse, ya que actualmente refleja una baja progresión y compromiso. Es importante utilizar esta herramienta como medio para evidenciar el avance y la entrega de valor en el tiempo.
+- En cuanto a la **funcionalidad de detección de contenido generado por IA**, se cuestionó su viabilidad. Se indicó que es **muy difícil detectar con certeza si un contenido ha sido generado por inteligencia artificial**, por lo que basar una funcionalidad en este objetivo puede no ser adecuado. Se recomienda revisar el planteamiento de esta funcionalidad y considerar enfoques alternativos o más realistas.
+
+#### Tareas a realizar para la siguiente semana
+
+Intencionalmente en blanco.
+
+# Semana 8 (28/03/2025)
+#### Feedback relacionado con la presentación
+
+- Buena **velocidad general**, pero al final se notó prisa.
+  - Se recomienda **ensayar más** para controlar los tiempos.
+  - Mantener el mismo número de diapositivas, pero **hablar menos en cada una**.
+- El **killer opener** fue bueno, aunque algo serio y dramático:
+  - Sería ideal **darle un giro más animado al final del opener** para conectar mejor.
+- Visualmente el material está **espectacular** y **muy bien dibujado**, aunque **falta algo de contexto** en algunas partes.
+- El concepto del **"trabajador de la semana" encanta**:
+  - Se sugiere añadir también una mención humorística al "peor" trabajador (ejemplo: *JAJAJAJAJA*).
+- La **demo fue ESPECTACULAR**:
+  - Se recomienda explicar **al principio qué se va a mostrar**, para contextualizarla mejor.
+- Las diapositivas de **costes, beneficios y rentabilidad** deberían estar **unificadas**:
+  - Incluir **los tipos de clientes (optimista, esperada, pesimista)** en cada escenario.
+- Las **gráficas de rendimiento/esfuerzo e individuales** fueron **muy impactantes visualmente** y gustaron mucho.
+
+#### Feedback relacionado con el desarrollo del proyecto
+
+- Problema identificado: **Carga de trabajo excesiva**.
+  - Posible solución: **recortar el alcance del proyecto**.
+  - Repetición del mensaje: **NO ECHAR MÁS DE 10 HORAS SEMANALES**.
+- Preocupación importante: **Testing actualmente con 0% de cobertura**.
+  - Es necesario implementar **tests lo antes posible** para evitar riesgos en la calidad.
+
+#### Tareas a realizar para la siguiente semana
+
+- Killer opener:
+  - Inicio impactante y bien ejecutado.
+  - Se mantendrá el enfoque narrativo, pero se enlazará mejor con el problema que resuelve la app.
+
+- Elevator pitch:
+  - Resumen claro y breve del valor de la app.
+  - Enfatiza utilidad, diferenciación y potencial.
+
+- Análisis de competidores:
+  - Incluye competidores directos e indirectos.
+  - Se muestra cómo nos diferenciamos y en qué nicho nos posicionamos.
+
+- Anuncio:
+  - Anuncio ya realizado, pensado para el público interno.
+  - Se adaptará para inversores/clientes en tono y forma.
+
+- Customer Agreement (CA):
+  - Incluye términos de uso, cancelaciones y responsabilidades.
+  - Se harán ajustes tras el feedback recibido.
+
+- Costes:
+  - Gráficas de costes, beneficios y rentabilidad unificadas.
+  - Se muestran escenarios (optimista, esperado, pesimista) con usuarios.
+
+- Equipo:
+  - Buen funcionamiento, responsabilidades claras.
+  - Uso del calendario Niko Niko para seguimiento emocional.
+
+- Commitment agreement:
+  - Muestra el compromiso y distribución del trabajo del equipo.
+
+- Prototipo:
+  - Mejora visible en interfaz y usabilidad.
+  - Navegación más intuitiva y diseño pulido.
+
+- Seguridad y GDPR:
+  - Datos personales protegidos.
+  - HTTPS, términos legales accesibles, seguridad en accesos.
+  - Se destaca en la demo cómo se cumple la regulación.
+
+- Retrospectiva Sprint 3 (estado actual):
+  - Revisión de avances, problemas y puntos fuertes.
+  - Reflejo de madurez y evolución del proyecto.
+
+- Plan de pruebas:
+  - Pruebas unitarias, funcionales y con usuarios piloto.
+  - Pruebas de carga y validación de experiencia de usuario.
+
+- Problemas detectados:
+  - Se identifican, se proponen soluciones concretas y se establecen tiempos de resolución.
+
+- Métricas cuantitativas:
+  - Aplicación del modelo GQM (Goal-Question-Metric).
+  - Ejemplo: reducir errores críticos en un 50%.
+
+- Acciones priorizadas:
+  - Se crea un ranking por urgencia e impacto.
+  - Se categorizan para facilitar su abordaje.
+
+- Planificación siguiente semana:
+  - Refinar funcionalidades críticas.
+  - Recoger más feedback de usuarios piloto.
+  - Mejorar UI y demo.
+  - Adaptar presentación a inversores/clientes.
+
+- Planning preliminar (PPL):
+  - Refinamiento MVP.
+  - Simulación de campaña publicitaria.
+  - Preparación de nuevo killer opener.
+
+- Uso de IA:
+  - Autorevisión de código (Copilot).
+  - Generación automática de código repetitivo.
+  - Análisis del feedback textual.
+  - Posible predicción de comportamiento de usuarios.
+
+- Diapositiva final:
+  - Cierre con impacto.
+  - Resumen visual + agradecimientos.
+  - Llamada a la acción para feedback o contacto.
+
+- Refinar y acortar la demo.
+- Añadir zoom y mejorar visibilidad.
+- Completar política de cancelación en el CA.
+- Implementar métricas GQM.
+- Obtener más feedback de usuarios piloto.
+- Completar el plan de pruebas.
+- Aplicar mejoras de UI/UX según feedback.
+- Ensayar presentación para público externo.
+- Añadir medidas de seguridad (tarjetas, DNI).
+- Preparar campaña de difusión preliminar del MVP.
+
 ---
 
 ## Grupo 2 -  GastroStock
@@ -504,6 +844,87 @@ No tuvo feedback debido a la falta de tiempo.
 #### Feedback relacionado con el desarrollo del proyecto
 
 No tuvo feedback debido a la falta de tiempo.
+
+#### Tareas a realizar para la siguiente semana
+
+Intencionalmente en blanco.
+
+# Semana 6 (14/03/2025)
+#### Feedback relacionado con la presentación
+
+- El **inicio de la presentación (killer opener)** fue interesante y bien ejecutado, logrando captar la atención del público al vincular el propósito del negocio con un caso real, como la búsqueda de empleo por parte de estudiantes en el sector de la hostelería.
+- Se valoró positivamente el equilibrio entre un **lenguaje profesional y coloquial**, facilitando la conexión con el público sin perder seriedad.
+- Las **diapositivas fueron muy bien recibidas**, destacando por su buena gama de colores, uso de letras grandes y legibles, iconografía intuitiva y una explicación clara de los contenidos.
+- Se hizo una mención especial al presentador, valorando su **buena oratoria, tono de voz adecuado y capacidad para sobreponerse a problemas técnicos** sin mostrarse nervioso.
+- La **demo en vídeo** fue valorada como muy positiva, manteniendo la coherencia visual con la presentación y destacando por su **interfaz clara y sencilla**.
+- Se apreciaron las **transiciones suaves entre diapositivas** y la incorporación de **animaciones**, las cuales ayudaron a mantener la atención del público.
+- Se recomendó **ensayar previamente las animaciones** y contar con un **plan alternativo (por ejemplo, una versión en PDF sin animaciones)**, en caso de fallos técnicos.
+- Se valoró la **presentación clara del equipo**, con buena división por subgrupos, acompañada tanto de las **fotos como de los nombres** de los integrantes.
+- Las **diapositivas sobre el equipo** fueron directas y efectivas, facilitando la comprensión del rol de cada miembro.
+- Se destacó la capacidad del equipo para **responder rápidamente a los problemas técnicos**, lo cual demuestra preparación y control de la situación.
+- Se sugiere dedicar **más tiempo a la retrospectiva**, y abordar directamente los problemas para facilitar una reflexión útil y orientada a soluciones.
+- Se valoró positivamente la **implementación del feedback de semanas anteriores**, por ejemplo, al **explicar mejor el factor TPV**, previamente poco claro.
+- Se destacó el uso de **metáforas visuales** y la conexión efectiva entre imágenes, lo que aportó coherencia visual a la narrativa.
+- Se sugirió **evitar el uso de lenguaje sexista**, aunque sea inconsciente, ya que podría generar una mala impresión ante ciertos perfiles, como posibles inversores.
+- Finalmente, se comentó que el uso de **memes**, en pequeñas dosis, resulta adecuado y no desentona con el tono profesional, por lo que se podría considerar incluir más.
+
+#### Feedback relacionado con el desarrollo del proyecto
+
+- El equipo mostró un alto grado de **honestidad al hablar de los problemas** surgidos durante el desarrollo, abordándolos con transparencia, explicando cómo comenzaron, sus implicaciones, y las soluciones actuales o futuras.
+- Se valoró muy positivamente la **autocrítica del equipo**, lo que refleja una actitud constructiva orientada a la mejora continua.
+- La **resolución rápida de problemas técnicos** también fue destacada como una fortaleza en el desarrollo y la gestión del proyecto.
+- Se presentó adecuadamente el **estado de los problemas identificados**, lo cual incluyó preocupaciones generales y medidas correctivas.
+- El **porcentaje de tareas completadas respecto a lo previsto en el sprint planning** fue mostrado con claridad, lo que permite evaluar el rendimiento del equipo.
+- La explicación de la **metodología de trabajo y la división en subgrupos** fue clara y efectiva. No obstante, surgieron dudas respecto a la decisión de pasar de subgrupos pequeños a un grupo grande, ya que va en contra de las prácticas adoptadas por la mayoría de los equipos.
+- Se hizo una **buena presentación de los competidores**, incluso visible y comprensible desde los asientos del fondo de la clase.
+- La **división de los sprints** fue adecuada, y se explicaron correctamente las **tecnologías utilizadas**.
+- La **gráfica de rentabilidad** fue especialmente destacada por su simplicidad y claridad.
+- El **plan freemium fue bien explicado**, al igual que las **estadísticas sobre usuarios necesarios para la sostenibilidad del plan premium**.
+- El **MVP (Producto Mínimo Viable)** se presentó de forma clara y concreta.
+- Se valoró positivamente la **presentación de los métodos empleados para centralizar la comunicación del equipo**.
+- La utilización de **ramas en la metodología de desarrollo** fue presentada con claridad, lo que refuerza la calidad técnica del proceso.
+- Se señaló que, si la base del proyecto (por ejemplo, **Sprint 1**) no está bien ejecutada, podría comprometer el desarrollo posterior. Es importante garantizar una base sólida desde el principio.
+- Se sugiere **mejorar los mecanismos para motivar a los miembros del equipo menos implicados**, mencionando como ejemplo positivo la implementación de sistemas de seguimiento similares al sistema de "strikes" usado en otros proyectos como FisioFind, incluyendo márgenes de mejora antes de aplicar medidas correctivas.
+
+#### Tareas a realizar para la siguiente semana
+
+Intencionalmente en blanco.
+
+# Semana 7 (21/03/2025)
+#### Feedback relacionado con la presentación
+
+- Se recomienda mejorar el **tono y ritmo de la exposición**, ya que en ciertos momentos se percibió **monotonía** y falta de energía. Una presentación más dinámica y expresiva podría captar mejor la atención del público.
+- Es importante **seleccionar adecuadamente los colores de las gráficas**, asegurándose de que sean legibles, contrasten bien y transmitan la información de forma clara y visualmente atractiva.
+- Se observó una **ausencia de información cuantitativa** a lo largo de la presentación. La falta de datos numéricos dificulta la evaluación del avance del proyecto y su viabilidad, especialmente de cara a posibles inversores.
+- Se planteó la **duda sobre el potencial del proyecto para inversión**, lo que refleja la necesidad de mejorar la comunicación del valor del producto y el respaldo numérico de su propuesta.
+
+#### Feedback relacionado con el desarrollo del proyecto
+
+- El equipo fue **superado en la comparación con otros grupos debido a la falta de cifras concretas**, lo que resalta la importancia de incluir **indicadores cuantificables** para justificar decisiones, avances y proyecciones.
+- Se identificaron **carencias importantes en la documentación y planificación**, como la **ausencia de storyboards y planificación detallada**, lo cual repercute negativamente en la percepción de la preparación y madurez del proyecto.
+
+#### Tareas a realizar para la siguiente semana
+
+Intencionalmente en blanco.
+
+# Semana 8 (28/03/2025)
+#### Feedback relacionado con la presentación
+
+- El **inicio fue efectivo**, aunque **no encaja del todo con el enfoque general**.
+  - Se recomienda que el **killer opener esté más enlazado con el problema real** que resuelve la app.
+- Algunas partes de la presentación fueron **muy ocurrentes**, como **la caja de los problemas**.
+- El tono fue **optimista**, lo cual se valora positivamente.
+- La **demo fue difícil de ver**:
+  - Las **ventas mostradas eran muy pequeñas**.
+  - En general, la demo **se ve muy chica** y necesita **más visibilidad y claridad**.
+- El **storyboard para inversores** fue **poco convincente o flojo**, se recomienda mejorarlo con más narrativa y datos visuales contundentes.
+
+#### Feedback relacionado con el desarrollo del proyecto
+
+- No se ve claro **cuándo se recupera la inversión**:
+  - Se recomienda **aglutinarlos en una o dos gráficas** para que la rentabilidad se entienda a primera vista.
+- La **forma de medir el rendimiento** se percibió **un poco floja**:
+  - Se sugiere mejorar las métricas o incluir nuevas formas de seguimiento del progreso.
 
 #### Tareas a realizar para la siguiente semana
 
@@ -619,6 +1040,81 @@ No procede ya que no hubo clase.
 
 Intencionalmente en blanco.
 
+# Semana 6 (14/03/2025)
+#### Feedback relacionado con la presentación
+
+- El **killer opener fue altamente valorado**, tanto por su originalidad como por su conexión con la cultura popular. La inclusión de "Don Ramón" fue vista como una estrategia efectiva para **captar la atención del público** y enlazar perfectamente con la temática de la aplicación. Se destacó positivamente el cuidado por **evitar problemas de copyright**.
+- La presentación se caracterizó por un **alto dinamismo visual**, con numerosas **transiciones bien ejecutadas** que mantuvieron el interés del público de forma constante.
+- La **transición al vídeo demo** fue fluida y natural, acompañada de una explicación clara que facilitó la comprensión de su contenido.
+- El **vídeo demo fue considerado excelente**, tanto por su calidad visual como por la segmentación del contenido. La **voz en off fue clara y bien sincronizada**, y la **interfaz de la aplicación coincidía estéticamente con la presentación**, lo cual aportó coherencia visual.
+- Se destacó la **buena capacidad oratoria del presentador**, así como la **honestidad en la exposición de los problemas**, mostrando de forma visual los imprevistos y cómo se abordaron.
+- La **presentación de los usuarios piloto y la planificación de sprints** fue clara y dinámica, ayudada por buenas transiciones gráficas.
+- Se valoró especialmente que se **hayan mostrado gráficas actualizadas** sobre el avance de las tareas (por ejemplo, de los Sprints 2 y 3), así como la cantidad de problemas detectados y cuántos de ellos se han solucionado.
+- La presentación logró **establecer una conexión emocional con el público**, utilizando elementos reconocibles y un enfoque narrativo con el que gran parte del público pudo sentirse identificado.
+
+#### Feedback relacionado con el desarrollo del proyecto
+
+- La **gestión de costes** fue calificada como muy detallada y clara. Se explicó de forma precisa el origen de los gastos, acompañados de **gráficas intuitivas**. Se destacó el análisis de **rentabilidad en un plazo de 19 meses**, así como la **división clara entre CAPEX y OPEX**, explicada en diferentes niveles para facilitar la comprensión.
+- Se presentó un **análisis cuantitativo bien estructurado**, incluyendo estadísticas como que un **80% de los usuarios afirman que usarían la aplicación**, lo cual refuerza la validez del producto.
+- El equipo demostró una **buena división de tareas** y una presentación clara del **uso del tiempo desglosado**, lo cual facilita el seguimiento del progreso del proyecto.
+- El análisis de **amortización de la aplicación fue profundo y fundamentado**, yendo más allá de una simple gráfica y aportando una visión realista del retorno de la inversión.
+- Se reconoció la implementación de herramientas para el **control de calidad del código**, como **Codacy, linters para frontend y backend, testing y validadores de commits**, lo cual refleja un compromiso con las buenas prácticas de desarrollo.
+- En cuanto a la gestión de incidencias, se presentaron **los problemas encontrados uno a uno**, junto con las soluciones aplicadas. Esta estrategia fue bien recibida por su claridad y profundidad.
+- Se valoró positivamente la presentación de una **gráfica realista de ganancias**, así como una **interfaz de usuario sencilla e intuitiva**, que facilita acciones como registrar productos o alquilarlos.
+
+#### Tareas a realizar para la siguiente semana
+
+Intencionalmente en blanco.
+
+# Semana 7 (21/03/2025)
+#### Feedback relacionado con la presentación
+
+- Se recomendó **unificar el formato numérico**, especialmente en relación con las cantidades económicas. En concreto, se sugirió utilizar notaciones claras como **"k€"** en las diapositivas, y tener en cuenta que **algunos profesores prefieren ver los valores expresados en miles de euros**. Una posible solución sería **preparar dos versiones de la presentación**, adaptadas a distintas audiencias.
+- El **anuncio dirigido a los usuarios** no tuvo el impacto esperado entre el profesorado. Se aconseja revisar su enfoque o su mensaje para lograr una mayor conexión con el público objetivo.
+- En cambio, se indicó que el **anuncio para inversores** necesita mayor profundidad. Se deben incluir **elementos esenciales como el capital necesario para invertir, los posibles beneficios y los rangos estimados de retorno**, con el fin de hacer más atractiva y completa la propuesta.
+
+#### Feedback relacionado con el desarrollo del proyecto
+
+- Se subrayó la necesidad de **realizar una estimación detallada del número de usuarios y transacciones previstas en distintos momentos del desarrollo** del proyecto. Esta información resulta clave para justificar decisiones estratégicas y evaluar la viabilidad del modelo de negocio.
+- Se recomendó **analizar de forma más rigurosa los datos cuantitativos** recopilados hasta la fecha. El uso de métricas específicas y su interpretación facilitará la toma de decisiones y aumentará la credibilidad del proyecto.
+- Se propuso incluir una **gráfica que refleje el sistema de evaluación del equipo**, en especial cómo se calculan las notas individuales o el rendimiento de los miembros. Esta transparencia puede contribuir a una mejor percepción del sistema de trabajo interno.
+- Se indicó que parte del contenido del proyecto se centra en **aspectos demasiado generales que podrían aplicar a cualquier equipo**. Se anima al grupo a **destacar las características específicas de su propuesta**, especialmente aquellas que los diferencian del resto de competidores.
+- Por último, se planteó la necesidad de **verificar con los usuarios piloto si perciben esas diferencias como suficientes** para justificar el pago por los servicios ofrecidos. Esto ayudaría a validar el valor añadido real del producto desde el punto de vista del usuario final.
+
+#### Tareas a realizar para la siguiente semana
+
+Intencionalmente en blanco.
+
+# Semana 8 (28/03/2025)
+#### Feedback relacionado con la presentación
+
+- Se insiste en que el **público objetivo de la presentación** debe ser **el mismo que el público final de la app**:
+  - No se comprende que la presentación actual esté pensada **para compañeros y profesorado**.
+  - Es necesario **adaptar el enfoque del discurso dependiendo del público** (clientes reales, alumnos, jurado, etc.).
+- Tener en cuenta el **rango de edad y perfil de los usuarios potenciales (UP)** en las demostraciones y decisiones del proyecto.
+- Se valoró el uso del **calendario Niko Niko**, reconociendo el esfuerzo por medir la **felicidad del equipo** (aunque en tono irónico: "estamos en el país de Yupi").
+- Aumentar la **cantidad y profundidad de información sobre los UP**:
+  - Dar más **relevancia a su feedback** y usarlo para fundamentar decisiones.
+  - Es importante **medir la motivación y estado emocional del equipo**, se percibe una desconexión en este aspecto.
+
+#### Feedback relacionado con el desarrollo del proyecto
+
+- La **plataforma debe tener funcionalidad real**:
+  - En el **Sprint 3 todo debe estar hecho y funcionando correctamente**.
+- En la demo:
+  - **Resumirla** para que tenga sentido lógico.
+  - **Quitar formularios**, que no aportan valor en una demo pública.
+- Se recomienda tener **objetos o elementos visuales reales** que refuercen la propuesta.
+- Añadir **detalles lógicos en la app**:
+  - Ejemplo: añadir **fianzas** o **evitar que otros paguen por tus eventos** si no corresponde.
+- Críticas a la parte de **competencia**:
+  - Se ve **raro** que un producto que resuelve un problema no tenga competencia clara.
+  - Pablo insiste en que **hay que mostrar competidores sí o sí**, aunque sea un hater profesional tipo *Kendrick Lamar* 😅.
+
+#### Tareas a realizar para la siguiente semana
+
+Intencionalmente en blanco.
+
 ---
 
 ## Grupo 5 -  CAMYO
@@ -723,6 +1219,88 @@ No procede ya que no hubo clase.
 * **Seguimiento de Problemas y Riesgos:**
     * Detallar la evolución de los problemas con medidas cualitativas y cuantitativas.
     * Medición de como evolucionan, están abiertos? Cómo se está midiendo esa evolución del problema.
+
+#### Tareas a realizar para la siguiente semana
+
+Intencionalmente en blanco.
+
+# Semana 6 (14/03/2025)
+#### Feedback relacionado con la presentación
+
+- La presentación destacó por su **diseño atractivo**, con **buen uso de transiciones**, **imágenes descriptivas** y una **fluidez de contenido bien estructurada**. El conjunto resultó visualmente impactante y fácil de seguir, incluso desde el fondo del aula.
+- El **inicio fue original**, con una situación actuada (llamada telefónica) que sirvió como **killer opener** y ayudó a contextualizar el problema. Se valoró positivamente que se expusiera claramente el problema del boca a boca y se ofreciera Camyo como solución.
+- Se recomienda, no obstante, que **los iconos de los roles del vídeo (empresa y cliente)** queden claros desde el inicio. Se sugiere incluso mostrar el rostro de la persona que interpreta cada papel para facilitar la identificación.
+- La **oratoria fue profesional**, con buen tono de voz y ritmo adecuado. Aunque se notó un volumen bajo al principio, este mejoró conforme avanzó la presentación.
+- El equipo supo mantener el **interés del público**, utilizando **contenido multimedia**, **animaciones** y centrando más tiempo en los aspectos clave. Lo menos relevante se trató de forma más breve, lo que ayudó al ritmo general.
+- El **vídeo demo fue muy valorado**, tanto por su calidad técnica como por su edición. Se respetó la estética general del proyecto, con buena interpretación de roles, uso de zoom en las zonas relevantes, voz clara y segmentación adecuada entre cliente y proveedor.
+- Las **gráficas y tablas** fueron bien ejecutadas, especialmente las de **estimaciones de costes**, **rentabilidad** y **avance de tareas**, todas claras, originales y fáciles de interpretar.
+- Se mencionó positivamente el **uso de métricas para evaluar el rendimiento**, como la puntuación de 1 a 4 y gráficas automatizadas generadas con herramientas gratuitas. Se valoró también el uso de bots para generar estas métricas de forma eficiente.
+- La **finalización de la presentación** fue correcta, cerrando de forma clara y profesional.
+- Se destacó que se ha **aprendido de entregas anteriores**, mencionando mejoras implementadas en base a feedback previo, como la gestión del TPV o la representación más clara del estado del producto.
+
+#### Feedback relacionado con el desarrollo del proyecto
+
+- Se valoró positivamente la **claridad en la identificación y comunicación de problemas**, incluyendo sus causas, consecuencias y las soluciones propuestas. Se apoyaron estas explicaciones con **estadísticas específicas y visuales**.
+- El equipo demostró un enfoque sólido en la **resolución de problemas**, utilizando **métricas automatizadas y sencillas**, además de herramientas como **SonarQube** para la gestión de la calidad del código.
+- El **objetivo de mercado fue bien definido**, y se presentó con datos el número de usuarios necesarios para que el modelo freemium resulte sostenible.
+- La **gestión del feedback** fue explicada de manera detallada, aunque se recomienda evitar generalizar el feedback como si únicamente consistiera en la recepción de errores. Se debería destacar también su **categorización y análisis**, como se ha hecho pero que no quedó suficientemente claro.
+- El **seguimiento del avance del proyecto** fue presentado con gráficas que muestran de forma original el cierre de tareas y el porcentaje de resolución de problemas. Se incluyó también una representación del porcentaje de alucinaciones en la IA, con una política adecuada para su control.
+- Se explicó correctamente la **valoración de los miembros del equipo**, el **reparto de roles** (incluso indicando miembros con funciones adicionales), y la **planificación mediante sprints**, con fechas claras y definición del MVP.
+- Se hizo una **buena gestión de los usuarios piloto**, con contenidos formativos y encuestas bien fechadas. La demo se contextualizó con un caso práctico de cliente y proveedor.
+- Se valoró positivamente el **uso de herramientas de bajo coste para análisis y visualización**, lo que demuestra una gestión eficiente de los recursos del proyecto.
+- Se sugiere revisar algunos aspectos técnicos, como la **traducción del término "code smell"** para evitar expresiones poco profesionales como "código que apesta".
+- Se recomienda aclarar mejor la **estructura de ingresos**, especialmente en el caso de empresas como clientes principales, aunque también se recibe financiación por publicidad y otros medios.
+- Finalmente, se mencionó que es importante **revisar conceptos como CAPEX y OPEX**, ya que hubo confusión al respecto en su representación dentro del análisis financiero.
+
+#### Tareas a realizar para la siguiente semana
+
+Intencionalmente en blanco.
+
+# Semana 7 (21/03/2025)
+#### Feedback relacionado con la presentación
+
+- Se percibió que el ritmo de la presentación fue **demasiado rápido desde el inicio**, lo que dificultó en algunos momentos la comprensión completa del contenido. Se recomienda moderar el ritmo, especialmente al comenzar.
+- No quedó claramente delimitado el **elevator pitch**, lo cual generó cierta confusión sobre cuándo se estaba presentando la propuesta de valor de forma resumida.
+- El **killer opener** fue valorado como una buena idea, especialmente con la inclusión de la alarma como elemento de atención inicial. Sin embargo, se sugiere mejorar su **conexión con la demo** para generar una transición más coherente y fluida.
+- Durante la demo, se observó que **el audio y la imagen eran poco claros**, lo que dificultó la comprensión. Se recomienda **dividir la grabación en dos partes**, representando claramente el rol de la empresa y el del cliente, lo que ayudaría a mejorar la narrativa y el entendimiento.
+- Se mencionó que **factores externos generaron nerviosismo** en la presentación. Se recomienda trabajar en técnicas para mantener la concentración y el control emocional durante posibles interrupciones.
+- El **impacto legal** del proyecto fue correctamente abordado, lo cual añade valor y credibilidad a la propuesta.
+- En la presentación de los **costes**, se sugiere evitar expresiones como “cuánto costamos”, ya que puede resultar ambigua o poco profesional. Es más adecuado hablar de “cuánto nos cuesta”.
+- Se indicó que, al **separar los costes de las ganancias en distintas secciones**, se pierde claridad en la relación entre ambas. Se recomienda buscar una forma más integrada de presentar esta información.
+- En relación al **storyboard**, se cuestionó el público objetivo del mismo. Se recomendó realizar al menos **tres versiones diferentes** orientadas a distintos públicos (usuarios finales, inversores, etc.), para lograr una mayor profundidad y adecuación al target.
+- Se sugirió **incluir una transparencia específica** en la presentación que detalle el feedback recogido de los usuarios piloto, clasificado y priorizado.
+
+#### Feedback relacionado con el desarrollo del proyecto
+
+- En la **retrospectiva**, se indicó que no se mencionaron problemas actuales ni abiertos desde fases anteriores. Se considera poco probable que no haya surgido ningún contratiempo, por lo que se recomienda ser más autocríticos y transparentes. Identificar y comunicar los problemas, aunque estén resueltos, enriquece la visión global del desarrollo.
+- En relación con las **estimaciones de puntos de historia**, se observó una distribución desigual del esfuerzo a lo largo del sprint, con acumulación de trabajo hacia los últimos días. Se recomienda mantener una estimación y distribución más constante para evitar cuellos de botella y mejorar la eficiencia del desarrollo.
+- Se planteó la duda de si, en la **gestión de usuarios piloto**, el equipo ha **clasificado y priorizado el feedback recibido**. Esto es fundamental para enfocar correctamente las mejoras y acciones futuras.
+
+#### Tareas a realizar para la siguiente semana
+
+Intencionalmente en blanco.
+
+# Semana 8 (28/03/2025)
+#### Feedback relacionado con la presentación
+
+- Presentación **muy buena en todos los aspectos**.
+- Muy bien **hilado todo el conjunto**: *killer opener*, presentadores y demo.
+- Se destaca que hubo **dos muy buenos presentadores**.
+- El **storyboard fue excelente**:
+  - Bien que se comentaran los elementos, no solo mostrar las imágenes y diálogos.
+- **Falta de zoom en la demo**:
+  - Es un punto que se repite y debe corregirse para la próxima entrega.
+
+#### Feedback relacionado con el desarrollo del proyecto
+
+- Revisar el uso de **autorevisor de pull requests de Copilot**, parece una herramienta muy útil y potente.
+- En cuanto a los **premios del trabajador de la semana**, actualmente solo tienen la mención:
+  - Se sugiere que ese trabajador tenga un incentivo real, por ejemplo, que se le asignen las *issues* de la siguiente semana.
+- En la **matriz de rendimiento**:
+  - Se han autoevaluado en función del esfuerzo subjetivo.
+  - Se recomienda usar **métricas objetivas** como horas registradas, tareas completadas, productividad medida con herramientas, etc.
+- La **nota de los usuarios pilotos** fue de **6,9**, considerada baja:
+  - Se sugiere trabajar para **mejorarla** en futuras iteraciones del producto.
 
 #### Tareas a realizar para la siguiente semana
 
@@ -840,6 +1418,104 @@ No procede ya que no hubo clase.
     * El tema de usuarios pilotos, echa en falta la explicación de la funcionalidad core. Estaba demasiado pequeño.
     * Dan la enhorabuena por la integración de la videollamada.
     * Le ha gustado mucho lo del foro en Whatsapp.
+
+#### Tareas a realizar para la siguiente semana
+
+Intencionalmente en blanco.
+
+# Semana 6 (14/03/2025)
+#### Feedback relacionado con la presentación
+
+- El **vídeo de introducción** fue muy bien valorado. Se consideró original, con buena calidad de audio y conexión directa con la historia de Guadalupe, lo cual aportó coherencia narrativa y emocional a la presentación.
+- El **killer opener** fue efectivo, aunque se sugirió que la escena inicial podría haber incluido a Guadalupe esperando en la consulta del fisioterapeuta, para reforzar el contexto del problema inicial.
+- Se recomendó hacer una **transición más fluida hacia el elevator pitch**, manteniendo el tono emocional sin perder la claridad del mensaje.
+- Las **diapositivas** destacaron por su diseño visual atractivo: uso de una **paleta de colores uniforme**, **tipografía grande**, **contenido conciso**, e inclusión constante de la **marca de la empresa**.
+- Se valoró muy positivamente la **claridad visual de los gráficos**, especialmente los de costes, inscripciones y rendimiento. En particular, la gráfica de **costes optimistas, pesimistas y esperados** fue percibida como una herramienta útil para el seguimiento del estado financiero del proyecto.
+- La **división de subgrupos** por responsabilidades, así como el uso de colores para identificar funciones en las diapositivas, facilitó la comprensión y la memorización del organigrama del equipo.
+- La **demo fue muy bien recibida**: estética coherente con la presentación, interfaz clara, intuitiva y bien guiada. Se destacó también la **calidad de la grabación** y la segmentación narrativa. Se recomendó, no obstante, dar más visibilidad a ciertos pasos como el rellenado de formularios, que se pasó de forma demasiado rápida.
+- El **ritmo de exposición fue adecuado en general**, aunque se observó que algunos miembros del equipo, como Guadalupe y Antonio, hablaron demasiado rápido en ciertos momentos. Se recomienda trabajar este aspecto para favorecer la comprensión.
+- El enfoque narrativo mantuvo una **reconexión constante con la historia inicial**, lo cual generó cohesión y atención durante toda la exposición.
+- Se valoró la mención y tratamiento breve del **Commitment Agreement**, destacando que se ha cumplido y que se informó de ello correctamente.
+
+
+#### Feedback relacionado con el desarrollo del proyecto
+
+- El **análisis de costes** fue considerado muy detallado, incluyendo una evaluación clara de los **costes incurridos hasta el momento**, los cuales incluso superaban las estimaciones iniciales. La separación entre **CAPEX y OPEX** fue clara y bien representada gráficamente.
+- La **gestión de usuarios piloto** fue adecuada, aunque se indicó que faltó especificar cómo se **implementó el feedback** recibido. Se sugiere incluir una diapositiva que muestre este aspecto de forma concreta.
+- La **verificación de identidad mediante DNI** fue valorada como una medida de **alta seguridad**, aportando confianza al sistema.
+- La **funcionalidad de videollamada** fue destacada como un elemento diferenciador y muy bien integrado en la experiencia de usuario.
+- Se presentó de forma clara la **estructura del segundo sprint**, así como la **disposición del equipo** y los avances alcanzados.
+- Se valoró muy positivamente el uso de herramientas de desarrollo como **plantillas para issues y pull requests**, así como la creación de **workflows para la integración continua (CI)**.
+- Se presentó un método bien definido para asegurar que **todos los miembros del equipo comprenden los procesos técnicos**, como la configuración del entorno, los commits, y la gestión de pull requests.
+- El equipo mostró una **buena forma de evaluar el rendimiento individual**, incorporando elementos de **disponibilidad, compromiso, dedicación y prácticas**. No obstante, se sugirió que los mecanismos de penalización deberían formularse como **sistemas de recompensa**, para mantener una orientación positiva.
+- El **análisis del rendimiento** fue bien definido, aunque se recomendó profundizar en los **problemas asociados a riesgos** y utilizar más **métricas para evaluar funcionalidades específicas**, como el foro.
+- Se destacó la **capacidad de reconectar elementos narrativos con aspectos técnicos del desarrollo**, manteniendo una presentación coherente y bien estructurada.
+- La **mención al Commitment Agreement** y su cumplimiento fue un acierto, y demuestra responsabilidad y seguimiento de los acuerdos del equipo.
+
+
+#### Tareas a realizar para la siguiente semana
+
+Intencionalmente en blanco.
+
+# Semana 7 (21/03/2025)
+#### Feedback relacionado con la presentación
+
+- Se valoró positivamente la **forma de presentar**, destacando el **buen ritmo**, el uso de **comentarios ligeros y apropiados** que aportaron cercanía, y una presentación general mejorada respecto a semanas anteriores.
+- El **killer opener** fue efectivo, destacando la **atención a los detalles** y el hecho de que estuviera bien ensayado. Se señaló que solucionó errores cometidos en presentaciones anteriores. Se sugiere considerar una **combinación del enfoque actual con el de semanas anteriores**, lo que podría resultar en una introducción aún más impactante.
+- Las **diapositivas presentaron una notable mejora estética** en comparación con las primeras semanas. El **reloj de proyecto** fue especialmente destacado por su claridad y valor visual.
+- La **demo fue bien explicada**, con buena conexión entre la narración del presentador y el contenido mostrado en el vídeo. Sin embargo, se indicó que en algunos momentos **la demo no se visualizaba correctamente** o se veía **demasiado pequeña**, lo que afectó la experiencia del público.
+- Se observó un uso **excesivo del tiempo destinado al análisis de competidores**, lo cual desbalanceó la presentación. Aunque el contenido era relevante, se recomienda resumirlo más para no restar tiempo a otros aspectos clave del proyecto.
+- Se hizo una mención positiva al **guiño a la píldora teórica**, lo que demuestra una correcta integración del marco formativo en la exposición.
+- Se recomendó evitar frases como “esto ya lo dijimos la semana pasada”, ya que cada presentación debe ser comprensible por sí sola. Es preferible repetir la información brevemente si es necesaria para la comprensión.
+- Se señaló que algunos miembros del equipo, como Dani, podrían proyectar más energía durante la exposición.
+- La **iconografía en ciertas diapositivas**, como el uso del símbolo del dólar en relación con el SEO, generó confusión inicial, aunque luego se aclaró. Se sugiere anticipar este tipo de elementos gráficos con explicaciones más rápidas o claras.
+
+
+#### Feedback relacionado con el desarrollo del proyecto
+
+- Se valoró muy positivamente el sistema de **análisis de problemas encontrados**, que fue claro y bien argumentado.
+- El sistema de **denuncias relacionado con el cumplimiento del RGPD** fue considerado un punto fuerte del proyecto, especialmente por su enfoque en la protección de los datos personales.
+- El modelo anatómico presentado fue calificado como una **propuesta muy potente**, generando entusiasmo entre el alumnado.
+- Se destacó la **implementación avanzada** del proyecto, observándose un progreso técnico significativo.
+- Se sugiere utilizar **gráficas de tipo cumulative flow** para representar mejor el estado del desarrollo (por ejemplo, tareas en "In Progress", "Review", y "Done"). Aunque herramientas como ZenHub no estén disponibles, es factible realizar este tipo de seguimiento de manera manual.
+- Se planteó la duda de **cómo se está midiendo el rendimiento del equipo**. Sería conveniente especificar las métricas utilizadas y su relación con los objetivos del proyecto.
+- En relación a las métricas, se recomendó seguir una estructura clara: **Métrica - Objetivo - Estado actual**, lo cual facilitaría la evaluación del progreso.
+- Respecto al sistema de recompensas internas, se indicó que deben evitarse premios de carácter económico directo, como invitaciones a comer. En su lugar, se recomienda utilizar **recompensas simbólicas o gratuitas** que mantengan la motivación sin desvirtuar el sentido del trabajo en equipo.
+- Finalmente, se recordó la importancia de diferenciar entre el **objetivo final del proyecto** y la **evolución hacia ese objetivo**, haciendo énfasis en las acciones intermedias y las métricas que las respaldan.
+
+#### Tareas a realizar para la siguiente semana
+
+Intencionalmente en blanco.
+
+# Semana 8 (28/03/2025)
+#### Feedback relacionado con la presentación
+
+- **Buen inicio efectivo y elevator pitch**, no hace falta cambiar mucho, ha funcionado bien.
+- La **demo fue muy buena**, proporcionaba contexto y mostraba mucho avance:
+  - Cristina la valora positivamente, al contrario que Pablo.
+  - Posible punto intermedio: mostrar solo lo esencial para no saturar.
+  - Se sugiere **recortar la demo**, ya que hay mucho contenido (muy bueno), pero conviene **enseñar menos y mejor**.
+  - Corregir detalles como la visualización de **“día y fecha”** en la demo.
+  - **Evitar usar el vídeo del killer opener directamente para clientes reales**. Está bien para el público actual, pero se debe adaptar según el contexto.
+- En cuanto al **anuncio**, separar o diferenciar claramente qué es parte de la demo y qué es anuncio.
+- Comentario general: querían ver el meme, aunque se cuestiona si eso es profesional o no 😅.
+- Se percibe **muy buen enfoque del equipo** y madurez en la presentación.
+- Se valora positivamente el conocimiento y mención de **términos legales y licencias**.
+- Se destaca que el grupo **está manejando una funcionalidad compleja** con muy buenos resultados, algo digno de alabar.
+
+
+#### Feedback relacionado con el desarrollo del proyecto
+
+- En el análisis de costes:
+  - La gráfica **confunde** un poco porque no refleja bien que las historias de usuario deberían ser **variables**, en función del feedback de los usuarios piloto.
+  - Analizar mejor la relación entre **puntos de historia**, el **impacto en el desarrollo** y el feedback recibido.
+- Se propone **meter dos tipos de final**:
+  - Uno con **nuevas funcionalidades gracias al feedback**.
+  - Otro con enfoque en **conseguir más usuarios piloto** para ganar tracción.
+- El **profesor está abierto** a cualquiera de estos dos caminos como cierre del proyecto.
+- Hay **poca respuesta por parte de los usuarios piloto**:
+  - Reforzar la obtención de feedback y considerar cómo presentarlo/mejorarlo.
+- En general, se considera que el grupo tiene **más aspectos positivos** que negativos.
 
 #### Tareas a realizar para la siguiente semana
 
