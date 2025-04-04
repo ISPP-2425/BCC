@@ -675,7 +675,7 @@ Las stats “modo FIFA” no tienen ningún sentido en cuanto a reparto de habil
 #### Feedback relacionado con el desarrollo del proyecto
 - En la sección de análisis de costes y TCO, diferenciar claramente entre los términos CAPEX y OPEX (los gastos operativos no pueden ser tratados como CAPEX).
 
-## Feedback del día 28/03
+# Feedback del día 28/03
 #### Feedback relacionado con la presentación
 - Killer opener bastante completo pero algo extenso (apróximadamente 2 min.)
 - La presentación va demasiado rápida, no da tiempo a procesar la información. Debería haber de 20 a 60 seg. por transparencia.
