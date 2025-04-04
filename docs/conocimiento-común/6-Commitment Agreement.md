@@ -43,3 +43,9 @@ En esta página se recoge el feedback proporcionado por el profesor y los compa�
 ## Feedback del día 21/03
 - Comentar explícitamente si ha habido algún miembro que **no ha cumplido con las expectativas**, compromisos no cumplidos del CA, **qué medidas se han tomado** y si estas han servido para solventar el problema.
 
+## Feedback del día 28/03
+- Posibilidad de poner algo relacionado a la propiedad intelectual.
+- Diferenciación de terminos de uso y sistema de pagos.
+- Tratar el GDPR.
+- Incidir en la política de cancelación.
+- Hablar de cookies, SLA y licencias.
