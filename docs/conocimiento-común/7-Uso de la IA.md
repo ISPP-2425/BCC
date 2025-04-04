@@ -2,7 +2,7 @@
 
 En esta página se recoge el feedback proporcionado por el profesor y los compañeros relativo al **uso de la IA** en las presentaciones realizadas por los grupos durante las sesiones de clase. El objetivo principal es identificar los puntos fuertes y aspectos a mejorar con el fin de aprender de los errores y mejorar para el futuro.
 
-## Semana 10/02
+## Feedback del día 14/02
 - Durante la primera semana, el uso de la inteligencia artificial (IA) fue identificado como un elemento clave en la estrategia del proyecto. Se comenzó a evaluar cómo la IA podría **automatizar tareas y optimizar procesos** dentro del desarrollo del producto.  
 
 - Algunas ideas preliminares incluyeron:  
@@ -12,7 +12,7 @@ En esta página se recoge el feedback proporcionado por el profesor y los compa�
 
 - El objetivo era entender **cómo la IA podía integrarse estratégicamente** y no solo como un añadido técnico.  
 
-## Semana 17/02
+## Feedback del día 21/02
 - En la segunda semana, el enfoque en la IA se volvió más específico y práctico. Se sugirió su **uso para la búsqueda y análisis de competidores**, incluyendo la posibilidad de preguntar a ChatGPT para obtener una lista más exhaustiva y evitar omisiones que puedan perjudicar la viabilidad del proyecto.  
 
 - Puntos clave discutidos:  
@@ -20,10 +20,10 @@ En esta página se recoge el feedback proporcionado por el profesor y los compa�
     - **Uso de IA para la estructuración de datos y modelos de negocio**, facilitando la toma de decisiones.  
     - **Justificación del stack tecnológico** considerando herramientas de IA en el desarrollo del producto.
 
-## Semana 24/02
+## Feedback del día 28/02
 - Incluir en la documentación de uso de IA los prompts utilizados para mayor claridad en cómo se está empleando la IA dentro del proyecto
 
-## Semana 03/03
+## Feedback del día 07/03
 - Durante la quinta semana, el enfoque en inteligencia artificial (IA) se centró en la **optimización de la presentación y justificación de decisiones estratégicas** dentro del proyecto.  
 
 - Puntos clave de la integración de IA en esta etapa:  
@@ -34,8 +34,7 @@ En esta página se recoge el feedback proporcionado por el profesor y los compa�
 
 - Además, se destacó la importancia de presentar el **Informe de Uso de IA**, asegurando que su aplicación tenga un impacto real y medible dentro del proyecto.  
 
-
-## Semana 10/03
+## Feedback del día 14/03
 - Se destacó la importancia de **detallar los usos reales** de la IA en lugar de simplemente mencionarla de forma general. Presentar ejemplos concretos permite que su implementación sea evaluada de manera efectiva y que se pueda analizar su impacto real en el desarrollo del producto.
 
 - También se señaló la necesidad de **analizar la frecuencia con la que la IA genera errores o "alucinaciones"**. Esta información es crucial para mejorar la precisión del modelo utilizado y garantizar que las respuestas generadas sean fiables. De lo contrario, el uso de IA podría convertirse en un problema en lugar de una ventaja.
@@ -44,5 +43,6 @@ En esta página se recoge el feedback proporcionado por el profesor y los compa�
 
 - En conclusión, el feedback recibido resalta la necesidad de **transparencia y precisión** tanto en el compromiso de los miembros del equipo como en el uso de la IA. Explicar con claridad la participación de cada integrante y proporcionar evidencia concreta del uso de IA permite mejorar la calidad del proyecto y facilita la toma de decisiones informadas.
 
-## Semana 17/03
+## Feedback del día 21/03
 - **No realizar comentarios genéricos** sobre el uso de la IA, como lo pueden ser: "La IA nos ha ayudado mucho" o "Hemos ahorrado tiempo", es preferible dar datos cuantitativos, comentar **qué problema en específico ha resuelto** y **cuánto tiempo se cree ha ahorrado con ello**.
+
