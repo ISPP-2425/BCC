@@ -273,6 +273,61 @@ Uso inconsistente del idioma (se recomienda unificar en inglés o español).
    11. **Recortes en el alcance:**
    Si no se pueden aplicar todos los cambios debido a limitaciones de tiempo, documentar lo pendiente para realizarlo en el Sprint 4.
 
+## Semana 7
+### Feedback relacionado con la presentación
+- Inicio mejorable: más claridad y originalidad, sin depender de “magia”.
+- Los storyboards deben ser independientes; el inversor solo necesita ver inversión y retorno.
+- Falta un análisis retrospectivo claro para mostrar la evolución del proyecto.
+- Pricing está en la demo pero no en las diapositivas y la comparativa de funcionalidades no está incluida en la presentación.
+- Algunos valores no se entienden bien (cómo fueron calculados).
+- Número de página se pierde en varias diapositivas.
+- Evitar confusión con elementos visuales en diferentes sentidos (horario/antihorario).
+- Incluir zoom en la demo para mayor claridad.
+- “Killer opener” ligado al storyboard para captar la atención y seguir un hilo argumental
+- Cada storyboard tiene que ser separado
+
+### Feedback relacionado con el desarrollo del proyecto
+
+- 100 €/mes por empresa es un precio elevado para lo que se ofrece.
+- No puede haber un coste fijo desde el inicio; debe haber crecimiento gradual.
+- Los mapas colaborativos tienen mayor potencial, enfocarse en eso.
+- Código: más allá de explicar métricas, enfocarse en su calidad.
+- Lo importante no es solo el tiempo utilizado sino el retraso acumulado.
+- Incluir gráficos burndown y burnup de GitHub.
+- Mejorar el diseño del frontend de pagos.
+- Especificar claramente la licencia del software.
+- Incluir métricas de TTO y TTR (tiempo de respuesta y resolución).
+
+### Tareas a realizar para la siguiente semana
+
+1. **Conversión de Storyboard en Anuncio**
+   - Transformar un storyboard en un anuncio realista.
+
+2. **Plan de Pruebas para el World Project Launch (WPL)**
+   - Definir y documentar el plan de prueba.
+   - Incluir métricas y umbrales para evaluar la efectividad de la solución.
+
+3. **Demo: Aspectos Claves a Destacar**
+   - Mejoras en la experiencia del usuario basadas en feedback de usuarios piloto.
+   - Cuestiones regulatorias relevantes.
+
+4. **Cobertura de Tests**
+   - Aumentar la cobertura de pruebas al 50% de cara a que sea 70%.
+
+5. **Feedback de Usuarios Piloto**
+   - Priorizar los comentarios según su impacto y relevancia.
+   - Definir métricas para evaluar qué feedback representa necesidades reales.
+
+6. **Resolución de Problemas y Evaluación de Soluciones**
+   - Mantener separados los problemas de sus soluciones.
+   - Estudiar la efectividad de las soluciones implementadas.
+   - Apoyarse en datos para medir la resolución de problemas.
+
+7. **Gestón de Dependencias de APIs Externas**
+   - Definir sistemas de respaldo para evitar bloqueos si una API externa falla.
+
+8. **Planificación Preliminar de la Siguiente Fase**
+   - Enfocarse en la estrategia de marketing.
 
 ---
 
@@ -371,6 +426,21 @@ Uso inconsistente del idioma (se recomienda unificar en inglés o español).
 - Resolver los problemas con el despliegue continuo.
 - Analizar el atractivo del contenido premium, especialmente las recetas para bebés, ya que parecen ser el principal incentivo para pagar.
 
+### Semana 7
+### Feedback sobre la Presentación
+- Usar más **metáforas visuales** y menos texto (icono + palabra).  
+- Evitar redundancias: si algo es claro, no repetirlo.  
+- No mantener un tono monótono en la presentación.  
+- En el **storyboard para inversores**, reducir la cantidad de información.    
+- Resumir números, evitar demasiados ceros, usar "k" cuando sea posible.   
+- Considerar que **la audiencia deja de escuchar** si hay demasiada información.  
+
+### Feedback sobre el Desarrollo del Proyecto 
+- **Priorizar el feedback** de usuarios piloto.  
+- Asegurar que el **MVP no duplique contenido**.  
+- Desglosar el **análisis de calidad del código**, en lugar de un resumen sintético:  
+  - Explicar **qué, por qué y cómo** se ha mejorado.  
+  - Mostrar **puntos de mejora y progresión** con comparaciones previas.
 ---
 
 ## Grupo 9 - Caronte
@@ -463,6 +533,21 @@ Uso inconsistente del idioma (se recomienda unificar en inglés o español).
 - Aprovechar la tecnología para optimizar recursos y reducir costes.
 - Utilizar Codacy para evaluar la calidad del código a lo largo del tiempo y medir el rendimiento individual de forma anónima.
 
+### Semana 7 
+#### Feedback sobre la Presentación  
+- **Inicio efectivo:** Mejorar el "killer opening" aprovechando ideas del storyboard.  
+- **Orden de la presentación:** Actualmente confuso; sugerencia de estructura:  
+  1. Elevator pitch (ya está bien logrado).  
+  2. Storyboards.  
+  3. Comparativa con competidores (remarcando mejor las diferencias).  
+  4. Demo (que actualmente no se ve bien).  
+- **Customer Agreement:** Aclarar cómo se han evitado cláusulas abusivas.    
+
+#### **Feedback sobre el Desarrollo del Proyecto**   
+- **Evaluación del código:** Incluir el diferencial de rendimiento.  
+- **Copilot:** Nueva funcionalidad para pull requests, considerar su uso.  
+- **Priorización del feedback:** Mostrar cómo se priorizan tareas derivadas de los comentarios de los usuarios piloto.  
+- **Seguimiento del feedback:** ¿Caronte se pone en contacto con quienes sugieren mejoras?
 ---
 
 ## Grupo 10 - Go4Surprise
@@ -556,6 +641,23 @@ Uso inconsistente del idioma (se recomienda unificar en inglés o español).
 - Cuidar la coherencia al comunicar los resultados: no decir que algo ha ido bien si hay un aspecto relacionado que ha fallado.
 - Si se muestra código fuente, evitar hacerlo público y restringir el acceso solo a personas autorizadas, como profesores.
 
+### Semana 7
+### Feedback sobre la Presentación  
+- **Ritmo y contenido:** Buen ritmo y gran cantidad de contenido sin apresurarse.  
+- **Contacto visual:** El presentador debe intentar mirar a todo el público.  
+- **Lenguaje:** Está bien hablar de forma coloquial, pero hay que evitar el lenguaje soez (quizás usarlo solo una vez).  
+- **Estructura narrativa:** El orden es mejorable, pero se cuenta bien una historia. Se recomienda unir la demo al storyboard y al inicio para que la presentación tenga un solo hilo narrativo.  
+- **Uso de preguntas retóricas:** Se depende demasiado de ellas.  
+- **Uso de la mascota:** Es un buen recurso.  
+- **Imagen de marca:** Se recomienda buscar un eslogan o una imagen de marca.  
+- **Forma de presentar las finanzas:** No hablar tanto de "gastos", sino de "inversiones".  
+- **Claridad en soluciones:** Reducir la cantidad de veces que se mencionan las mismas soluciones para optimizar el tiempo disponible.  
+
+### Feedback sobre el Desarrollo del Proyecto 
+- **Diferenciación entre ideas y MVP:** Separar claramente lo que pertenece a la idea de negocio y lo que se implementa en el MVP, ya que no hay tiempo para todo.  
+- **Evolución y métricas:** Incluir una gráfica de rendimiento que muestre los movimientos entre semanas del personal y otros indicadores clave.  
+- **Contexto en el rendimiento del equipo:** Presentar datos históricos para mostrar evolución y tendencias (ej. gráficos con flechas de tendencia o indicadores como "aura verde/roja").  
+- **SLA:** Falta incluir acuerdos de nivel de servicio (SLA).
 ---
 
 ## Grupo 11 - Pawtel
@@ -653,3 +755,20 @@ Uso inconsistente del idioma (se recomienda unificar en inglés o español).
 - 600+ problemas detectados es una cantidad elevada; evaluar la gravedad y priorizar la solución.
 - Asegurarse de que, si se afirma un avance del 90%, haya pruebas y tests concluyentes.
 - En la demo, destacar los casos de uso implementados y resaltar los que se van a mostrar.
+
+### Semana 7
+#### Feedback relacionado con la presentación
+- **Ritmo:** Demasiado rápido, dificultando la comprensión. Se recomienda hablar con más calma y estructurar mejor las ideas.  
+- **Diapositivas:** 50 diapositivas son demasiadas para 15 minutos, especialmente considerando la demo. Reducir cantidad y optimizar contenido.  
+- **Estructura:** La presentación tiende a enlazar ideas sin cerrar, dificultando la comprensión. Se recomienda cerrar bien cada punto antes de pasar al siguiente.  
+- **Storyboard:** Debe introducirse de manera más natural, evitando que parezca una ocurrencia de último momento.  
+- **Comparativa con la competencia:** Necesita más matices y claridad en el mensaje.  
+- **Claridad en la reserva y pago:** Mostrar claramente los precios y aclarar el proceso de pago.  
+
+#### Feedback relacionado con el desarrollo del proyecto
+- **Enfoque del análisis de costes:** Está mal planteado, especialmente en relación con el TCO (Total Cost of Ownership).  
+- **Rendimiento:** Explicar por qué se ha enfocado de cierta manera y aclarar que todos cumplen los mínimos. La evolución del rendimiento está bien presentada, pero el estado general del proyecto no queda claro.  
+- **Análisis de código:** Lo más relevante es la evolución del código, pero también se recomienda definir y aplicar un estilo de codificación, mejorando la configuración en herramientas como Codacy.  
+- **Aplicación del patrón Mediador:** Explicar cómo se ha implementado en lugar de solo listar problemas y soluciones.  
+- **Evolución del rendimiento del equipo:** No queda claro en la presentación, requiere mejor comunicación y visualización.
+  
