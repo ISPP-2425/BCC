@@ -46,3 +46,5 @@ En esta página se recoge el feedback proporcionado por el profesor y los compa�
 ## Feedback del día 21/03
 - **No realizar comentarios genéricos** sobre el uso de la IA, como lo pueden ser: "La IA nos ha ayudado mucho" o "Hemos ahorrado tiempo", es preferible dar datos cuantitativos, comentar **qué problema en específico ha resuelto** y **cuánto tiempo se cree ha ahorrado con ello**.
 
+## Feedback del día 28/03
+- Introducir las alucinaciones de la IA como métrica para analizar su uso.
