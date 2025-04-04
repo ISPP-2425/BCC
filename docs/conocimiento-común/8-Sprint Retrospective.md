@@ -28,3 +28,10 @@ En esta página se recoge el feedback proporcionado por el profesor y los compa�
 - Destacar los problemas encontrados, **no es aceptable comunicar que "no ha habido problemas"**, pues estos siempre están al acecho, y **es necesario evaluarlos** minuciosamente con la mayor prontitud y **proponer soluciones factibles**, además debemos comentar si estas soluciones han surtido efecto, y en este caso, si **son definitivas, o simples parches temporales**.
 - Es una buena práctica **generar gráficas para las métricas de rendimiento**, para ser capaces de evaluar la eficiencia de los miembros (tiempo/tarea realizada) y su evolución durante los sprints.
 - Se reitera en definir y comunicar de forma precisa las soluciones a los problemas, detallando métricas, riesgos, procesos y causas específicas para evaluar su efectividad y garantizar un impacto medible de las acciones implementadas.
+
+## Feedback del día 28/02
+- Realizar rankings de trabajadores.
+- Hacer una tabla con el niko-niko, relacionado con la satisfacción de los miembros del equipo.
+- Detallar si los problemas están solucionados, y el proceso para llevar eso a cabo. También decir si la solución ha perdurado en el tiempo, y sigue siendo efectiva.
+- Para analizar el trabjado del equipo, buscar una forma objetiva más que subjetiva, demostrar datos.
+- Poner un sistema de priorización de problemas.
