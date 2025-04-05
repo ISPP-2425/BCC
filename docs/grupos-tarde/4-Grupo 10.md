@@ -832,10 +832,6 @@ El uso de Códacy es positivo, pero se sugiere no limitarse a lo que muestra la 
 
 ### Grupo 10
 
-La fórmula de ingresos no fue bien recibida y generó dudas en la audiencia. La propuesta de licencias para usuarios también suscitó discusión, especialmente en la parte del software. El storyboard recibió opiniones divididas, pero las bromas de Pablo fueron valoradas positivamente. La encuesta y algunas secciones de la presentación fueron demasiado rápidas, lo que pudo generar confusión y sensación de agobio.
-
-Se destacó la atención de Trinidad y sus preguntas sobre ciertos aspectos del proyecto. Fue positivo que se estén tomando medidas con un miembro de bajo rendimiento, pero persisten dudas sobre los avances reales en este sprint con los usuarios piloto. Además, no hubo consenso sobre la fórmula de ingresos.
-
 Las presentaciones están mejorando en calidad y estructura, pero aún hay aspectos por pulir. La introducción explicó bien el proyecto, aunque no enfatizó suficientemente en su propósito exacto. La mención de la venta de entradas puede llevar a confusión, por lo que se recomienda destacar la experiencia diferenciadora desde el killer opener. No se aconsejan preguntas abiertas en esta sección, sino construir una narrativa efectiva.
 
 En términos técnicos, los costos de personal deben presentarse como una inversión, no como un gasto. En la presentación, no es necesario mostrar la fórmula completa, sino solo los factores clave y un resumen. La explicación debe ser intuitiva y centrarse en las variables relevantes en lugar de la ecuación en sí. En cuanto a temas legales, se debe resaltar que el código no debe ser público y que los profesores pueden tener acceso sin necesidad de abrirlo completamente.
