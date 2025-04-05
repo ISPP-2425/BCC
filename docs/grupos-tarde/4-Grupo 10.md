@@ -912,3 +912,270 @@ Por último, en cuanto a los usuarios pilotos, es esencial llegar a un acuerdo f
 - Si se reduce el alcance del proyecto, hay que replanificar. Si hay tiempo, se puede realizar un Sprint 4 hipotético y plantear qué hacer si algo no cabe en el Sprint 3.
 
 - Analizar el uso de la IA, cómo está ayudando y si está mejorando. Incluir las lecciones aprendidas, especialmente de los storyboards, y documentar las alucinaciones encontradas de la IA.
+
+---
+
+## Semana 7
+
+### Grupo 9
+
+#### Positivo
+- La esquela está muy bien, se puede ver mientras se edita y permite cambiar el color a gusto.
+- Los *storyboards* han sido muy visuales.
+- Explicación clara del *customer agreement*, incluyendo detalles como el TTO.
+- Buena idea implementar castigos para incentivar el feedback, ha resultado en un aumento de respuestas.
+- Llama la atención la gran bajada de *code smells*. El grupo ha pasado de 4 a 0.5, lo cual suele llevar mucho tiempo.
+
+#### Feedback
+- Muy buen trabajo y presentación.
+- El inicio efectivo ha mejorado, apoyado por elementos visuales.
+- El *elevator pitch* da una idea clara del proyecto, aunque podría haberse enriquecido usando los *storyboards*.
+- El flujo ideal sería: `Elevator Pitch → Storyboard → Competidores (con introducción) → Demo`, para mejorar la conexión.
+- El *commitment agreement* no queda claro si se ha pasado a Claudette, se debería remarcar si se ha utilizado.
+- En la demo no se ve bien, deberían hacer zoom.
+- El análisis de los 4 cuadrantes se ha explicado bien, con buen uso del zoom.
+- Muy bien explicado el *burn up* y *burn down*.
+- Horas extra: no se han gestionado bien. Se podría replanificar o reducir la carga en próximos sprints.
+- Calidad del código y Códacy: muy bien.
+- Si priorizan a los usuarios piloto, se debería mostrar el feedback específico y cómo eso impacta en la priorización.
+- Mejorar la comunicación con los usuarios piloto, hacerlos sentir escuchados.
+
+---
+
+### Grupo 7
+
+#### Positivo
+- Fuente de ingresos y proyección de gastos/ingresos bien explicadas.
+- Mejora estética de la presentación.
+- Buena conexión entre el inicio efectivo y los *storyboards*.
+- Retrospectiva mejorada, con propuestas concretas para el Sprint 3.
+- Se ha explicado de forma muy intuitiva qué ha ido bien.
+- Encuestas a usuarios piloto bien estructuradas, completas y útiles.
+- Se han definido ventajas para los usuarios piloto en la app.
+- Uso de IA para analizar el feedback de los usuarios piloto.
+
+#### Feedback
+- El *killer opening* puede mejorar mucho. Podría haber una simulación de uso de la app.
+- Los 100€ por empresa en el modelo de negocio no cuadran, explorar diferentes opciones y analizar el mercado (comparar con videojuegos, ajustar precios).
+- Los *storyboards* deben ser **independientes**, sin mezclar cliente e inversores. 
+- Para inversores: resumir mucho la idea, ir directo a los números, beneficios e inversión.
+- Uno de los *storyboards* debe convertirse en un anuncio real la próxima semana.
+- El análisis de precios no se ve claro, mejor usar solo una tabla para claridad.
+- Evitar nombrar al equipo individualmente, ser más cuantitativos.
+- El *pricing* aparece en la demo, ahí se debería diferenciar bien entre usuarios premium y no.
+- Calidad del código: analizar buenas y malas prácticas, comparar con el avance del resto.
+- Más relevante identificar retrasos que avances.
+
+---
+
+### Grupo 11
+
+#### Positivo
+- Inicio efectivo muy potente, buena energía y habilidades de presentación.
+- La demo se ve bien desde atrás y tiene buen ritmo.
+- Gráficas de costes claras e intuitivas.
+- Se han mencionado los aspectos negativos del uso de la IA, lo cual es positivo.
+
+#### Feedback
+- El presentador va muy rápido, cuesta seguirle.
+- Debería practicar con un familiar antes de la presentación para mejorar ritmo y claridad.
+- 50 transparencias son demasiadas; sobra al menos 5, sobre todo con una demo en medio.
+- Muy buen *killer*, pero falta conexión con la demo. Deben tener un hilo conductor común.
+- María Jesús debería aparecer si es la imagen del trabajo.
+- En análisis de competidores: resaltar puntos de comparación clave y estimaciones (ganancias, costes).
+- Costes, ingresos y TCO deben estar mejor especificados.
+- Justificar la inversión como algo que se amortiza, no solo como gasto.
+- Explicar el bajo rendimiento del grupo en el sprint 2 de forma clara.
+- Evitar rodeos al mostrar evolución del rendimiento; usar métricas claras.
+- Si hay figura de mediador, especificar su rol y evolución (positiva/negativa).
+- En la demo, si se muestran precios, usar rangos más realistas (950€ es poco creíble).
+
+---
+
+### Grupo 10
+
+#### Positivo
+- No venden datos a terceros, buen enfoque ético.
+- Ritmo adecuado en la presentación, sin necesidad de correr.
+- *Storyboards* bien planteados y gráficamente atractivos.
+- Idea de buscar una mascota y un *slogan* es excelente.
+- Uso de preguntas y respuestas durante la presentación como técnica narrativa.
+- El análisis de costes se ha planteado correctamente: CAPEX al inicio, no pérdidas reales.
+- Reflexión legal sobre la edad mínima acertada: mejor usar filtros que excluir población.
+- SLA pendiente, se debe implementar.
+- Retrospectiva bien estructurada: detectar y resolver problemas rápidamente.
+
+#### Feedback
+- El inicio efectivo fue muy coloquial (“cojones”), lo cual desconecta a parte del público. Usar lenguaje más neutro.
+- Mirar a todo el público, no solo al profesorado.
+- Cambiar el tono emocional de los presentadores si es muy deprimente.
+- En gráficos y números, separar bien conceptos de costes, inversión y rentabilidad.
+- Al hablar de legalidad, plantear opciones para menores de edad con filtros adecuados.
+- Evitar tomar decisiones por presión; mantener visión de largo plazo.
+- Retrospectiva algo repetitiva, mejor resumir.
+- En la demo: mostrar con ejemplos concretos (e.g., caso de Pablo).
+- En diapos como la 36, usar puntos conectados para visualizar mejor la evolución grupal.
+
+---
+
+### Grupo 8
+
+#### Positivo
+- Excelente *killer opening*.
+- Mejora notable en los *storyboards*, se presentan como una historia real.
+- Interfaz atractiva, con buena visualización tipo calendario.
+- Análisis detallado del código con plan de acción.
+- Priorización efectiva del feedback de usuarios piloto.
+- Buenas lecciones aprendidas del uso de IA.
+- Integración de Stripe en la app.
+
+#### Feedback
+- Buena presentación, *killer* bien conectado con la demo.
+- Si se presenta una foto de mejora, usar icono visual para destacar que el usuario lo usa.
+- Para inversores: usar metáforas visuales, ir directo a los datos, sin texto plano.
+- En el *customer agreement*, usar metáforas o destacar elementos clave, no leer todo.
+- En retrospectiva: usar iconografía visual y palabras claves.
+- En métricas de código, calificación E debería cambiarse. Mostrar márgenes de mejora.
+- Si no han usado bibliotecas, deben tratar la seguridad.
+- Mejor hablar de puntos de mejora en términos de progresión (cómo se avanza).
+- Recordar: los costes también implican ingresos, no solo gastos.
+
+---
+
+### Indicaciones Generales para la Próxima Semana
+
+#### Temas Clave:
+- **Storyboards**: al menos uno debe ser un anuncio real. Puede ser grabado o generado con herramientas.
+- **Introducción**: mantenerla, pero usar el *storyboard* como transición.
+- **Sprint 3**: explicar qué ocurrió en la primera mitad.
+- **UI/UX**: mostrar mejoras según feedback de usuarios piloto.
+- **Regulación**: incluir aspectos de privacidad y datos.
+- **Retrospectiva**:
+  - Evaluar si los problemas se están solucionando.
+  - Mostrar evolución de soluciones.
+  - Usar métricas para valorar efectividad.
+  - Hacer predicciones de mejora (apuestas numéricas).
+- **Usuarios Piloto**:
+  - Hacer ranking de acciones según feedback.
+  - Analizar caídas o mejoras por categoría.
+- **API**: tener plan B si alguna falla.
+- **Marketing**: comenzar a pensar estrategias (redes sociales, comunicación).
+
+---
+
+## Semana 8
+
+Claro, aquí tienes tus anotaciones reestructuradas y pasadas a formato Markdown. He organizado la información por grupos, separado en párrafos, y mejorado la legibilidad sin omitir ningún contenido:
+
+---
+
+#### Grupo 8
+
+- El anuncio debe contar una historia por sí mismo, no delegar esta función únicamente al storyboard.
+- Faltan fotos reales de las recetas; actualmente solo hay contenido tipo *lorem ipsum*, lo cual es inaceptable a estas alturas. Se necesitan imágenes auténticas.
+- En la DEMO se habla de productos que no están presentes en la propuesta actual. Se ha planteado todo a nivel de producto, lo cual no se refleja claramente.
+- En la evaluación del tiempo no se especifica si se habla de horas o minutos. Es fundamental controlar que se cumplan las 10 horas semanales.
+- Fallos como los del tipo “Fallo x en frontend” pueden evitarse. Si es un error de despliegue, existen formas de detectarlos antes que los usuarios pilotos. Se recomienda implementar sistemas de alerta.
+- Es muy positivo que hayan priorizado las tareas de los usuarios pilotos, así como la puntuación de los mismos.
+
+#### Grupo 9
+
+- El video es visualmente excelente, casi cinematográfico, aunque un poco largo.
+- El *elevator pitch* ha sido muy claro y conciso, con pocos elementos que cambiar.
+- El video para inversores está muy bien, aunque le faltan opciones de inversión, su rentabilidad y otras alternativas.
+- Los colores usados para *capex* y *opex* no coinciden, lo cual genera ruido visual.
+- Para el PPL, hay que pensar en estrategias para ganar tracción e involucrar al personal en el uso de la aplicación.
+- Se sugiere mostrar las horas medias trabajadas superpuestas en gráficos, comparándolas con una semana normal. Las barras deberían dividirse en dos partes para mostrar la media.
+- Algunas partes del feedback recibido pueden ser ignoradas.
+
+#### Grupo 10
+
+- El tiempo de disponibilidad está basado en el tiempo de **no** disponibilidad. También hay que considerar las tasas de error.
+- No comprenden por qué algunos correos llegan a *spam*; puede deberse a ciertas palabras clave.
+- El *slogan* está muy bien, aunque se han autocensurado bastante.
+- El anuncio es un muy buen intento y resultó entretenido, aunque un poco largo. Podría acortarse.
+- En el video, lo relacionado al móvil no se ve claro. Puede colocarse a un lado o enlazarse con la presentación de ISPP.
+- Se recomienda simplificar y eliminar elementos como la opción de “contraseña olvidada”, ya que no aporta valor a esta etapa.
+- El anuncio presenta acciones de *team building*, como hacer algo juntos (por ejemplo, tomar una Coca-Cola).
+- La idea para el *world planned launch* está bien planteada, sobre todo para introducir la app al resto de los compañeros.
+- En el análisis de optimistas/pesimistas, faltan las personas. No usar "L", sino explicar qué significa.
+- Hay trazabilidad entre los problemas de la demo anterior y la siguiente, pero hay cuestiones que no encajan bien.
+- En las diapositivas, se sugiere presentar problema y solución en la misma, para mayor claridad.
+- En el rendimiento, el sistema verde/rojo funciona bien para identificar cumplimiento. Falta indicar quién se excede del tiempo.
+- Se pueden añadir promedios a las barras, y usar líneas discontinuas con dos puntos para mostrar evolución y tendencia.
+  
+#### Grupo 11
+
+- Evitar usar palabras en inglés innecesariamente si hay equivalentes en español.
+- Se deben definir y repetir claramente las palabras clave en la presentación.
+- Muy buena diferenciación respecto a los competidores, está bien resaltado.
+- El discurso está muy bien ensayado. El anuncio es muy profesional y quieren reutilizarlo en otros años.
+- El storyboard de usuarios está muy bien logrado. La parte de usuarios es destacable.
+- Cuidado con los ejes en los gráficos, ya que algunos no se ven bien. Asegurarse de que las unidades (como "k") estén claras.
+- La sección de protección de datos resulta anticlimática y rompe el ritmo. El impacto legal debe tratarse de forma más fluida.
+- Aunque el *customer agreement* ya no es obligatorio, puede seguir mejorándose.
+- Hay una incongruencia en las gráficas: no tiene sentido que una persona con 6 horas logre lo mismo que otra con 12.
+- La parte de usuarios pilotos es increíblemente bien trabajada.
+- Los problemas técnicos deben resolverse primero, ya que muchos impiden casos de uso, aunque el objetivo sea comprender mejor al usuario.
+- Si alguien del grupo no trabaja adecuadamente, primero se debe mostrar evidencia al profesorado antes de tomar medidas como su expulsión.
+- Primero debe primar la empatía y luego el *commitment agreement*.
+
+#### Grupo 7
+
+- El *partnership* con usuarios es parte del coste de marketing para captar nuevos clientes.
+- Se pueden crear campañas de TikTok, como retos, para aumentar usuarios (idea propuesta por Ale).
+- Muy buen inicio efectivo.
+- El anuncio menciona funcionalidades extras que no se detallan. 
+- El storyboard para inversores es el primero en presentar opciones de inversión. 
+- El plan de precios para empresas ha sido bien recibido, incluyendo opciones compensadas, no solo tarifas fijas mensuales.
+- La proyección financiera tiene dos ejes que no se entienden. Pablo Trinidad no lo comprendió.
+- En la DEMO, no queda claro a quién va dirigida (empresa o usuario). Si el inicio efectivo es X, unirlo con esa sección y mostrar los iconos de los usuarios activos en ese momento.
+- Para tareas incompletas, mostrar aproximaciones. El número 32 ha sido valorado como perfecto.
+- El color puede utilizarse para marcar direccionalidad e importancia temporal.
+- Las líneas horizontales/punteadas no deben ser tan anchas. Las principales deben destacarse más.
+- Incluir flechas puede ayudar a mostrar hacia dónde se dirige la visualización.
+- La calidad del código es excelente, como se solicitó. Se puede ampliar la información si es necesario.
+
+---
+
+#### Indicaciones Generales
+
+##### Tareas Extra y Recuperación de Nota
+
+- Habrá una tarea extra individual que permitirá subir medio punto si se aprueba.
+- Se dará más información próximamente.
+- También se puede entregar un documento grupal de *lecciones aprendidas* del sprint 1 y 2 para recuperar parte del porcentaje no apto.
+- Este documento permitiría mejorar la nota de entregas anteriores, recuperando hasta la mitad del porcentaje perdido.
+
+- Los **usuarios pilotos** continuarán la semana que viene.
+- Se mantienen los **failure conditions** del sprint anterior.
+- Algunos grupos no hicieron testing. El plan de testing debe formalizarse, indicando:
+  - Módulos evaluados
+  - Tipo de pruebas realizadas
+- Usar una **matriz de trazabilidad** como propone Ayure, relacionando casos de uso con módulos cubiertos.
+- La planificación del sprint 4 puede formar parte del PPL como trabajo futuro.
+- Mejor presentar acciones planeadas y concretas.
+
+---
+
+##### Para la Siguiente Semana
+
+- Algunos grupos han tenido conflictos internos que pueden llevar a expulsión de miembros. La decisión final es del propio grupo.
+- Se espera: un **anuncio en video basado en el segundo storyboard**. Puede ser el mismo, pero refactorizado. Idealmente, hacer uno nuevo.
+- Si hay tiempo, se pueden entregar dos videos (el refactorizado y el nuevo). Si no, solo uno.
+- Duración: videos cortos, no más de 2 minutos. Si se hacen dos: uno para inversores y otro para usuarios.
+- La presentación de 15 minutos debe incluir:
+  - Killer opener (3 min)
+  - Anuncios
+  - Elevator pitch
+  - Análisis de competidores
+- No olvidar incluir: 
+  - Tareas preliminares de marketing
+  - Tracción inicial
+  - Estrategias para ganar nuevos clientes
+  - Planificación futura de atracción inicial
+  - Distribución de tareas en el equipo
+  - TCO (Total Cost of Ownership) de forma compacta
+  - Costes actualizados del estudio preliminar de marketing
+  - Nuevos roles del equipo en marketing
+  - Retrospectiva habitual
