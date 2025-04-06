@@ -329,6 +329,55 @@ Uso inconsistente del idioma (se recomienda unificar en inglés o español).
 8. **Planificación Preliminar de la Siguiente Fase**
    - Enfocarse en la estrategia de marketing.
 
+## Semana 8
+### Feedback relacionado con la presentación
+- Debe especificar mejor el mensaje y aprovechar el concepto central de la app cambiando de lugar constantemente, por ejemplo.
+- Faltan límites claros de inversión (máximo 49% para no perder control).
+- Proponer paquetes de inversión definidos en storyboard de inversores
+- Demo es demasiado rápida, necesita más zoom y mejor ritmo.
+- Indicar en todo momento quién está usando la app durante la demo.
+- Demo cambiar las imágenes de los logros (no se entendieron o no cargaron bien).
+- En la proyección financiera evitar dos ejes
+- En productividad: en los segmentos poner gradientes.
+- Faltó indicar el número de usuarios actuales o potenciales.
+### Feedback relacionado con el desarrollo del proyecto
+- Usar partnerships como táctica para atraer usuarios.
+- Incentivar la retroalimentación mediante recompensas (gamificación + viralidad).
+- Priorizar el feedback de fallos: detectar y resolver errores rápidamente.
+- En el cronograma, mostrar en la segunda semana el porcentaje de avance de tareas.
+- Explicar cómo cambiar los costes para anuncios puede impactar los beneficios.
+
+### Tareas a realizar para la siguiente semana
+
+### Anuncios y introducion 
+- Crear un nuevo **anuncio en vídeo** basado en el segundo storyboard.
+  - Si da tiempo, mostrar ambos anuncios (el nuevo y el anterior), pero **no es obligatorio** enseñar los dos.
+  - Intentar que **duren poco** para mantener la atención.
+- Preparar una **introducción de 2-3 minutos**:
+  - Killer opener y/o elevator pitch.
+  - Análisis breve de competidores.
+
+### Marketing y tracción en el mercado
+- Eliminar sección de **customer agreement** de la presentación.
+- Preparar un **análisis preliminar de marketing**:
+  - Estrategia para **ganar clientes**.
+  - **Gestión de la tracción inicial** en el mercado.
+- Definir la **distribución de responsabilidades** dentro del equipo de marketing:
+  - Roles en redes sociales, campañas automáticas, y community manager.
+- Actualizar el **TCO (Total Cost of Ownership)**:
+  - Incluir **costes actualizados** de marketing.
+  - Añadir el **número de usuarios actuales o proyectados**.
+
+### Producto y pruebas
+- Preparar una **demo funcional** del producto.
+- Definir un **plan de pruebas post-lanzamiento**:
+  - Qué módulos serán probados.
+  - Tipo de pruebas (unitarias, funcionales, etc).
+
+### Equipo y retrospectiva
+- Actualizar los **roles del equipo**, especialmente en marketing.
+- Preparar una **retrospectiva** del trabajo hasta ahora.
+
 ---
 
 ## Grupo 8 - Infanten
@@ -441,6 +490,25 @@ Uso inconsistente del idioma (se recomienda unificar en inglés o español).
 - Desglosar el **análisis de calidad del código**, en lugar de un resumen sintético:  
   - Explicar **qué, por qué y cómo** se ha mejorado.  
   - Mostrar **puntos de mejora y progresión** con comparaciones previas.
+
+### Semana 8
+#### Feedback relacionado con la presentación
+- Hacer más pausas al presentar.
+- Acortar el tiempo que se dedica al MVP durante la presentación.
+- Evitar incluir el anuncio dentro del storyboard; el anuncio debe sustituirlo.
+- El “killer opener” debe enfocarse más directamente en lo que hace la app.
+- Comenzar con algo que tenga 100% que ver con el producto.
+- No usar imágenes que son como "lorem ipsum"; deben ser fotos reales de las recetas.
+- En la demo, destacar mejoras reales de UI/UX basadas en feedback de usuarios piloto.
+- Asegurarse de que las gráficas tengan leyendas claras, especialmente para las horas.
+- Los anuncios deben ser autocontenidos, contar su historia por sí mismos.
+
+#### Feedback relacionado con el desarrollo del proyecto
+- Explicar mejor cómo se realiza el “matching” entre recetas y bebés.
+- Incluir lo de Amazon en el modelo de negocio.
+- Dividir la inversión necesaria en paquetes que prometan retorno.
+- Enfocar más en problemas de comunicación que se puedan medir y seguir en el tiempo.
+- Los problemas técnicos no interesa tanto medir en su evolución; priorizar los no técnicos.
 ---
 
 ## Grupo 9 - Caronte
@@ -548,6 +616,18 @@ Uso inconsistente del idioma (se recomienda unificar en inglés o español).
 - **Copilot:** Nueva funcionalidad para pull requests, considerar su uso.  
 - **Priorización del feedback:** Mostrar cómo se priorizan tareas derivadas de los comentarios de los usuarios piloto.  
 - **Seguimiento del feedback:** ¿Caronte se pone en contacto con quienes sugieren mejoras?
+
+### Semana 8
+#### Feedback relacionado con la presentación
+- Faltan opciones de inversión detalladas con sus respectivos retornos y probabilidades.
+- Se debe usar la **marca y colores corporativos** en toda la aplicación y presentación.
+- Evitar el uso de **términos contradictorios** al explicar conceptos técnicos como la "deuda técnica".
+- Se sugiere considerar cómo se va a **captar usuarios tras el despliegue** de la aplicación.
+
+#### Feedback relacionado con el desarrollo del proyecto
+- Añadir un **nivel más de categorización al feedback**, incluyendo qué comentarios se van a ignorar y por qué (por ejemplo: contradictorios, fuera del dominio del proyecto, etc.).
+- Incorporar una métrica que permita ver el **acumulado de horas trabajadas**, comparándolo con la media del resto del proyecto para identificar si hay desviaciones o retrasos sistemáticos.
+
 ---
 
 ## Grupo 10 - Go4Surprise
@@ -658,6 +738,20 @@ Uso inconsistente del idioma (se recomienda unificar en inglés o español).
 - **Evolución y métricas:** Incluir una gráfica de rendimiento que muestre los movimientos entre semanas del personal y otros indicadores clave.  
 - **Contexto en el rendimiento del equipo:** Presentar datos históricos para mostrar evolución y tendencias (ej. gráficos con flechas de tendencia o indicadores como "aura verde/roja").  
 - **SLA:** Falta incluir acuerdos de nivel de servicio (SLA).
+
+### Semana 8
+#### Feedback relacionado con la presentación
+- Se valora que haya demo, pero se sugiere mejorar su integración.
+- El anuncio es **algo largo** y el formato (por ejemplo, mostrarlo en un móvil grande) puede dificultar su comprensión.
+- Se recomienda **simplificar el anuncio**, ya que actualmente **mezcla la demo** y puede resultar confuso.
+- El tema de la **“contraseña olvidada” no es relevante** en el contexto actual.
+- **La IA no se percibe claramente** en la presentación; se debe hacer más visible o explicarla mejor.
+  
+#### Feedback relacionado con el desarrollo del proyecto
+- Incluir **número estimado de usuarios** en lugar de variables genéricas para concretar mejor el planteamiento técnico.
+- Hacer más clara la **trazabilidad entre los problemas** que se abordan y las soluciones propuestas.
+- Las **gráficas de horas/rendimiento** deben mostrar **segmentos de rendimiento claros**, como la **media y la semana actual**, y utilizar una representación más técnica (por ejemplo, un vector entre dos puntos).
+- Planificar una **actividad de team building**, preferiblemente **después de clases**, para mejorar la dinámica del equipo sin interferir con el horario académico.
 ---
 
 ## Grupo 11 - Pawtel
@@ -772,3 +866,23 @@ Uso inconsistente del idioma (se recomienda unificar en inglés o español).
 - **Aplicación del patrón Mediador:** Explicar cómo se ha implementado en lugar de solo listar problemas y soluciones.  
 - **Evolución del rendimiento del equipo:** No queda claro en la presentación, requiere mejor comunicación y visualización.
   
+### Semana 8
+#### Feedback relacionado con la presentación
+- Usar vocabulario menos específico en el "killer opener" para no alejar a la audiencia.
+- No decir "esto es muy fácil", puede parecer condescendiente.
+- Evitar mezclar idiomas en la presentación.
+- Repetir la palabra clave que resume la idea principal para reforzar el mensaje.
+- En las tablas y gráficos, cuidar el tamaño de letra en los ejes.
+- Cambiar números grandes por abreviaciones como “K” en lugar de muchos ceros.
+- Mejorar la leyenda y numeración de ejes para mayor legibilidad.
+- Evitar poner enlaces “feos” o poco legibles.
+- Justificar mejor el impacto legal para que se vea integrado en el proyecto, no un añadido forzado.
+- No cerrar con un mensaje legal anticlimático; cuidar el ritmo narrativo.
+- El hilo documental de la presentación debe estar más claro y estructurado.
+- Retener visualmente el logotipo durante la presentación (branding constante).
+
+#### Feedback relacionado con el desarrollo del proyecto
+- Si todos los usuarios obtienen un 10, la métrica puede no ser útil; revisar el sistema de evaluación.
+- Si todo el mundo está "capado" al 10, puede que haya un problema con el diseño de la escala.
+- Priorizar el feedback de usuarios piloto en el proceso iterativo.
+- Los usuarios piloto no deben actuar como beta testers: los fallos técnicos deberían detectarse antes.
