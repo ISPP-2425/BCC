@@ -14,3 +14,7 @@ En esta página se recoge el feedback proporcionado por el profesor y los compa�
 - Optimizar el despliegue continuo y el mantenimiento del proyecto, reduciendo el alcance de tareas no esenciales, priorizando la solución de los numerosos problemas identificados y aprovechando la tecnología para disminuir costes y optimizar recursos.
 - No reinventar la rueda no ser necesario, por ejemplo, en vez de desarrollar una pagina de registro e inicio de sesión, utilizar un inicio de sesión social, para que puedan usar su cunata de google y asi no tener qeu crear un usurio y contraseña desde cero.
 - Garantizar que el usuario pone un correo que le pertenece y que no hace uso de APIs para so¡implemnete crearse el usuario en la palicación, para ello se puede enviar correos después de un tiempo y comprobar la existencia del mismo, de no existir se bloquearía la cuenta.
+
+## Feedback del día 04/04
+
+Se señaló la necesidad de cuidar el lenguaje utilizado, evitando frases como “esto es muy fácil”, que pueden sonar condescendientes. Asimismo, se valoró muy positivamente el storyboard del anuncio y la ejecución del vídeo, especialmente detalles creativos. Estas decisiones contribuyen a una identidad visual sólida y profesional. No obstante, se hizo énfasis en cuidar la coherencia visual, como el uso correcto de unidades (“10k” en lugar de “10000”) o evitar nombres de archivos sin contexto como Demo_04_04.mp4.
