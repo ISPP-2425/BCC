@@ -49,3 +49,7 @@ En esta página se recoge el feedback proporcionado por el profesor y los compa�
 - Tratar el GDPR.
 - Incidir en la política de cancelación.
 - Hablar de cookies, SLA y licencias.
+
+## Feedback del día 04/04
+
+El feedback hizo una llamada implícita a la responsabilidad individual dentro del equipo. Se subrayó que no todos los errores técnicos deben recaer en el usuario piloto y que algunos de los problemas detectados reflejan una falta de control interno más que una validación externa. Esta observación apunta a la necesidad de reforzar el compromiso interno: mantener una cultura de calidad, definir bien los roles y, si es necesario, ajustar el tipo de tareas de algunos miembros para facilitar su implicación. Además, se valoró positivamente la propuesta de designar supervisores dentro del equipo que puedan acompañar a quienes están menos activos, una práctica que fortalece la cohesión grupal.
