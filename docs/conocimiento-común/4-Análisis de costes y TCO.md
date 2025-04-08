@@ -39,3 +39,6 @@ En esta página se recoge el feedback proporcionado por el profesor y los compa�
 - Establecer un rango de tiempo común para todos los grupos, por concenso, se ha establecido utilizar un periodo de dos años desde el inicio de la asignatura.
 - Utilizar un formato de tabla para presentar los costes, ya que es más fácil de leer y entender.
 - Incluir una curva de beneficios acumulados para mostrar la evolución de los ingresos a lo largo del tiempo y facilitar la comprensión de la rentabilidad del proyecto.
+
+## Feedback del día 04/04
+- El análisis de esta semana muestra que los comentarios recibidos por los grupos siguen líneas similares a feedbacks anteriores, sin aportar observaciones fundamentalmente nuevas. Se mantienen las áreas de mejora ya identificadas en sesiones previas, centradas principalmente en aspectos de ejecución y presentación.
