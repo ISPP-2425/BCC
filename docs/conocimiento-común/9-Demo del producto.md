@@ -21,8 +21,7 @@ En esta página se recoge el feedback proporcionado por el profesor y los compa�
 - Es importante que la demo esté alineada con el resto de la presentación, evitando que se convierta en un tema separado. Para ello, se recomienda que compartan el mismo hilo conductor junto con el killer opener y los storyboards.
 - La demo puede incluir elementos visuales atractivos y promover la interacción con la audiencia o el presentador, para ellos se pueden utilizar elementos como el uso de un **personaje** que represente al usuario o la **inclusión de un vídeo** que muestre el uso del producto en situaciones cotidianas, el uso de una voz en off o un **narrador** que explique lo que está sucediendo en la demo, entre otros.
 - Tratar de diferenciar la demo del anuncio, una demo no es necesario que tenga planos fuera de la aplicación.
-- Evitar poner demos rellenado registros o formularios.
-
+- Evitar poner demos con registros o formularios rellenados.
 ## Feedback del día 04/04
 - La demo debe comenzar con una breve introducción que explique su objetivo y qué funcionalidades se van a mostrar, evitando confusiones con anuncios u otros contenidos.
 - Evitar música que opaque voces o sonidos cortados.
