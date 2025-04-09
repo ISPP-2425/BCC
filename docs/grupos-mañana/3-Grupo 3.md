@@ -514,6 +514,65 @@ No procede ya que no hubo clase
 
 No procede ya que no hubo clase
 
+## Semana 9 (04/04/2025)
+#### Feedback relacionado con la presentación
+
+* **Inicio efectivo (Killer Opener):**
+    * Valorado positivamente, mantiene la continuidad con presentaciones anteriores.
+* **Anuncio:**
+    * Problemas de audio: música demasiado alta y voz baja.
+    * Excesivamente largo.
+    * Enfoque inadecuado en costes internos en lugar de beneficios para inversores.
+    * Aspectos visuales bien valorados.
+* **Presentación para inversores:**
+    * Necesita centrarse más en el análisis de mercado:
+        * Destacar el nicho de mercado.
+        * Explicar proyecciones de crecimiento.
+        * Mostrar retorno de inversión con plazos concretos.
+    * Incluir ejemplos de beneficio con datos económicos concretos.
+    * Considerar presentar varios planes de inversión.
+    * Reducir el margen de beneficio presentado (15%).
+    * Enfatizar por qué el proyecto será rentable.
+* **Demo:**
+    * Acelerar las partes de rellenado de formularios.
+    * El narrador debe explicar mejor lo que se muestra en pantalla.
+    * Revisar el icono del pintor, se sugiere cambiarlo.
+    * Mejorar el zoom y la narrativa general.
+    * Incluir una voz en off al inicio que explique qué se va a mostrar en el vídeo.
+
+#### Feedback relacionado con el desarrollo del proyecto
+
+* **Customer Agreement:**
+    * Muy bien valorado.
+    * Buena inclusión de SLA y compensaciones.
+* **Costes y estimaciones:**
+    * Bien presentado el número de usuarios.
+    * Se sugiere incluir porcentajes respecto al total del mercado (por ejemplo, "con un 0'5% de bodas totales en España ya tendríamos beneficios").
+* **Gestión de problemas:**
+    * Presentación demasiado rápida.
+    * Falta explicar cómo se medirá la efectividad de las soluciones.
+    * Se recomienda usar gráficas (como las de ZenHub en PSG2) para medir y visualizar las soluciones.
+* **Aspectos positivos:**
+    * Se valora el orgullo del equipo por el trabajo realizado.
+
+#### Tareas a realizar para la siguiente semana
+
+* **Mejorar la presentación para inversores:**
+    * Reenfocar hacia análisis de mercado en lugar de costes internos.
+    * Desarrollar paquetes de inversión con diferentes beneficios.
+    * Incluir porcentajes respecto al mercado total en las estimaciones.
+    * Simplificar la información sobre cómo gana dinero el equipo.
+    * Enfatizar: cuánto invierte el inversor, cuánto ganará y por qué el proyecto será exitoso.
+* **Optimizar la demo:**
+    * Reducir tiempo dedicado a formularios, centrándose solo en términos y condiciones.
+    * Mejorar la narración para explicar claramente lo que se ve en pantalla.
+    * Añadir introducción con voz en off explicando el contenido del vídeo.
+    * Ajustar el ritmo para evitar secciones demasiado rápidas.
+* **Implementar métricas de seguimiento:**
+    * Aplicar conceptos de PSG2 como ZenHub, lead time y cycle time.
+    * Desarrollar sistema para verificar que las soluciones se implementan correctamente.
+* **Omitir SLA para la próxima semana.**
+
 ---
 
 ## Grupo 1 - Holos
@@ -781,6 +840,19 @@ Intencionalmente en blanco.
 - Añadir medidas de seguridad (tarjetas, DNI).
 - Preparar campaña de difusión preliminar del MVP.
 
+# Semana 9 (04/04/2025)
+#### Feedback relacionado con la presentación
+
+Intencionalmente en blanco, ya que no se nos asignó recoger el feedback de dichos grupos.
+
+#### Feedback relacionado con el desarrollo del proyecto
+
+Intencionalmente en blanco, ya que no se nos asignó recoger el feedback de dichos grupos.
+
+#### Tareas a realizar para la siguiente semana
+
+Intencionalmente en blanco, ya que no se nos asignó recoger el feedback de dichos grupos.
+
 ---
 
 ## Grupo 2 -  GastroStock
@@ -929,6 +1001,19 @@ Intencionalmente en blanco.
 #### Tareas a realizar para la siguiente semana
 
 Intencionalmente en blanco.
+
+# Semana 9 (04/04/2025)
+#### Feedback relacionado con la presentación
+
+Intencionalmente en blanco, ya que no se nos asignó recoger el feedback de dichos grupos.
+
+#### Feedback relacionado con el desarrollo del proyecto
+
+Intencionalmente en blanco, ya que no se nos asignó recoger el feedback de dichos grupos.
+
+#### Tareas a realizar para la siguiente semana
+
+Intencionalmente en blanco, ya que no se nos asignó recoger el feedback de dichos grupos.
 
 ---
 
@@ -1114,6 +1199,19 @@ Intencionalmente en blanco.
 #### Tareas a realizar para la siguiente semana
 
 Intencionalmente en blanco.
+
+# Semana 9 (04/04/2025)
+#### Feedback relacionado con la presentación
+
+Intencionalmente en blanco, ya que no se nos asignó recoger el feedback de dichos grupos.
+
+#### Feedback relacionado con el desarrollo del proyecto
+
+Intencionalmente en blanco, ya que no se nos asignó recoger el feedback de dichos grupos.
+
+#### Tareas a realizar para la siguiente semana
+
+Intencionalmente en blanco, ya que no se nos asignó recoger el feedback de dichos grupos.
 
 ---
 
@@ -1305,6 +1403,19 @@ Intencionalmente en blanco.
 #### Tareas a realizar para la siguiente semana
 
 Intencionalmente en blanco.
+
+# Semana 9 (04/04/2025)
+#### Feedback relacionado con la presentación
+
+Intencionalmente en blanco, ya que no se nos asignó recoger el feedback de dichos grupos.
+
+#### Feedback relacionado con el desarrollo del proyecto
+
+Intencionalmente en blanco, ya que no se nos asignó recoger el feedback de dichos grupos.
+
+#### Tareas a realizar para la siguiente semana
+
+Intencionalmente en blanco, ya que no se nos asignó recoger el feedback de dichos grupos.
 
 ---
 
@@ -1520,3 +1631,16 @@ Intencionalmente en blanco.
 #### Tareas a realizar para la siguiente semana
 
 Intencionalmente en blanco.
+
+# Semana 9 (04/04/2025)
+#### Feedback relacionado con la presentación
+
+Intencionalmente en blanco, ya que no se nos asignó recoger el feedback de dichos grupos.
+
+#### Feedback relacionado con el desarrollo del proyecto
+
+Intencionalmente en blanco, ya que no se nos asignó recoger el feedback de dichos grupos.
+
+#### Tareas a realizar para la siguiente semana
+
+Intencionalmente en blanco, ya que no se nos asignó recoger el feedback de dichos grupos.
