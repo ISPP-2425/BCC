@@ -35,3 +35,9 @@ En esta página se recoge el feedback proporcionado por el profesor y los compa�
 - Detallar si los problemas están solucionados, y el proceso para llevar eso a cabo. También decir si la solución ha perdurado en el tiempo, y sigue siendo efectiva.
 - Para analizar el trabjado del equipo, buscar una forma objetiva más que subjetiva, demostrar datos.
 - Poner un sistema de priorización de problemas.
+
+## Feedback del día 04/04
+- Se sugiere estructurar la información sobre problemas encontrados y resueltos en un formato claro: **Problema → Solución → Objetivos → Periodo → Trazabilidad**.
+- Incluir objetivos claros y periodos específicos para contextualizar mejor el estado del proyecto. Esto permitirá evaluar si las soluciones implementadas están funcionando según lo planeado. Además de listar problemas, plantear posibles mejoras futuras que puedan optimizar el proyecto.
+- Incluir el número de métricas analizadas, pero siempre en contexto. Mostrar tendencias claras: de dónde venimos, dónde estamos y hacia dónde vamos. Esto ayudará a visualizar el progreso de manera más efectiva.
+- No es aceptable que haya personas que no hayan contribuido esfuerzo al proyecto. Se sugiere realizar una reflexión interna y proponer soluciones para mejorar la colaboración y responsabilidad del equipo.

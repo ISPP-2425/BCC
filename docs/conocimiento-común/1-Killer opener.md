@@ -30,3 +30,8 @@ En esta página se recoge el feedback proporcionado por el profesor y los compa�
 ## Feedback del día 28/03
 - El killer opener debe ser breve y directo, evitando extenderse demasiado en la introducción.
 - Es importante que el killer opener esté alineado con el resto de la presentación, evitando que se convierta en un tema aislado.
+- Evitar que el killer opener sea demasiado dramático.
+
+## Feedback del día 04/04
+- Realizar un inicio efectivo que siga la estructura de un anuncio puede captar la atención fácilmente.
+- Por otro lado, el análisis de esta semana muestra que los comentarios recibidos por los grupos siguen líneas similares a feedbacks anteriores, sin aportar observaciones fundamentalmente nuevas. Entre las áreas de mejora mencionadas y ya identificadas en sesiones previas encontramos: mejorar la conexión con el elevator pitch.

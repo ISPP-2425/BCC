@@ -18,4 +18,4 @@ En esta página se recoge el feedback proporcionado por el profesor y los compa�
 ## Feedback del día 07/03
 - El MVP debe ser presentado en los primeros minutos de la presentación, de forma clara y concisa. Es imprescindible que se transmita de manera efectiva cuáles son las funcionalidades clave que lo componen y, posteriormente, se hable acerca de los competidores y la propuesta de valor.
 
-En próximos feedback, no se ha mencionado nada relacionado con el **MVP (Minimum Viable Product)**, ya que este no forma parte de los objetivos establecidos para la presentación.
+En próximos feedback (_última actualización: día 04/04_), no se ha mencionado nada relacionado con el **MVP (Minimum Viable Product)**, ya que este no forma parte de los objetivos establecidos para la presentación.

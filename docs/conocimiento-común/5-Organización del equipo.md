@@ -28,3 +28,6 @@ En esta página se recoge el feedback proporcionado por el profesor y los compa�
 - No incluir un sistema de recompensas basado en dinero, es preferible otro tipo de incentivo (ej: Dejar a elección la primera tarea que se quiera realizar)
 - **Copia de buenas prácticas de otros equipos** (team bonding, empleados del sprint, meme de la semana...) en pos de reforzar la conexión entre los miembros y generar sensación de unidad y **sentimiento de pertenencia**.
 
+## Feedback del día 04/04
+- El análisis de esta semana muestra que los comentarios recibidos por los grupos siguen líneas similares a feedbacks anteriores, sin aportar observaciones fundamentalmente nuevas. Se mantienen las áreas de mejora ya identificadas en sesiones previas, centradas principalmente en aspectos de ejecución y presentación.
+
