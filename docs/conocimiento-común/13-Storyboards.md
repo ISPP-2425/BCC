@@ -7,3 +7,8 @@ En esta sección se presenta el feedback recibido sobre la **Storyboards**, basa
 - Hacer una introducción natural del producto, evitando que aparezca “mágicamente”.
 - No explicar en tercera persona las storyboard, por ejemplo si te diriges a los inversores, haz de protagonista y enseña tu producto y explicalo hacia estos.
 
+## Feedback del día 04/04
+- Cuidar el tono y la coherencia del anuncio. Puede haber humor, pero debe estar bien medido y no distraer del propósito.
+- Por mucho que la ejecución técnica de un anuncio se vea agradable, si este no representa una situación creíble o relevante, no vale la pena. Alinear mejor el caso mostrado con un escenario realista y relevante para el usuario objetivo.
+- Tener cuidado con los sonidos: música muy alta, voces muy bajas, etc.
+- Hacer un anuncio muy largo con una mezcla de temas diferentes puede hacer que este sea pesado, poco llamativo y difícil de entender. Hay que mantener un hilo conductor claro y objetivo.

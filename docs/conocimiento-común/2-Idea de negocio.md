@@ -38,4 +38,8 @@ Priorizar volumen de clientes/usuarios para la viabilidad del proyecto.
 - Realizamos estimaciones de la rentabilidad en términos monetarios, pero estas se basan en la penetración de mercado (cantidad de usuarios absorbidos). Por lo tanto, es fundamental considerar ambas métricas de manera coherente.
 - Uso de datos cuantitativos, a los inversores no les basta con decir "Seremos muy rentables", es necesario indicarles cuánto será necesario que aporten, en cuánto tiempo recuperarán la inversión y qué ganancias procederán desde entonces. Todo con datos específicos.
 
+## Feedback del día 04/04
+- El volumen de mercado debe aparecer en los hitos.
+- Es esencial transmitir claramente la funcionalidad principal.
+
 

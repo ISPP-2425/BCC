@@ -51,3 +51,13 @@ En esta página se recoge el feedback proporcionado por el profesor y los compa�
 - Mantener un estilo de presentación claro y conciso, evitando el uso excesivo de texto y priorizando la información visual, como gráficos y diagramas, para facilitar la comprensión del contenido, así como el uso de metáforas visuales para apoyar el mensaje del presentador.
 - Mantener un lenguaje adecuado y profesional, evitando el uso de bulgarismos, expresiones coloquiales o palabras malsonantes que puedan restar seriedad a la presentación.
 - Evitar el uso de palabras en inglés innecesarias, a menos que sean términos técnicos específicos que no tengan una traducción adecuada al español.
+
+## Feedback del día 04/04
+- La presentación debe ser diseñada de forma que sea entendida por alguien de fuera de la asignatura.
+- Aglutinar la información de manera clara y concisa. Un ejemplo claro fue que había varias diapositivas con varías gráficas de costes distintas, que podían incluirse en una sola.
+- Tener cuidado con el momento del desarrollo el que nos encontramos. Ejemplo: hubo un grupo que puso Sprint 2 en algunas diapositivas, cuando estamos ya en el 3.
+- Cuidado con las imágenes con Copyright.
+- No usar muletillas.
+- No incluir suposiciones al presentar datos, en todo caso aproximaciones.
+- Tener cuidado con el uso de ciertos gráficos que no son claros indicadores de lo que se quiere expresar.
+- Reducir al máximo el texto en las diapositivas y hacer uso de metáforas gráficas.

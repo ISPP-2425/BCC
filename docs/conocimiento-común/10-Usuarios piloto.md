@@ -23,4 +23,12 @@ En esta página se recoge el feedback proporcionado por el profesor y los compa�
 ## Feedback del día 28/03
 - Detallar el plan de respuesta a los comentarios de los usuarios piloto, incluyendo un análisis de los comentarios recibidos y las acciones que se tomarán para abordar las preocupaciones planteadas.
 - Priorizar el feedback de los usuarios piloto e intentar sacar la maxima información posible.
-- Preveer que el feedback de los usuarios piloto ocasionará nuevas tareas a lo largo del desarrollo
+- Preveer que el feedback de los usuarios piloto ocasionará nuevas tareas a lo largo del desarrollo.
+
+## Feedback del día 04/04
+- Es importante mostrar el feedback específico que hancasuado acciones concretas de los usuarios piloto para mejorar el producto.
+- Algunos clientes pilotos han dejado de contestar, lo que puede afectar la validación continua del producto. Es esencial tener contar con una planificación óptima de manera que los usuarios piloto puedan seguir participando en el proyecto con un producto funcional. 
+- Si en la demo se ven mejoras en la experiencia de usuario gracias a los comentarios de usuarios piloto, es importante recalcarlo.
+- Hay que tener cuidado al mezclar clasificaciones del feedback de usuarios piloto. Por ejemplo: no mezclar el tipo con la prioridad.
+- Hay que poner en la presentación cuánto feedback reciben de cada tipo.
+- Si hay feedback que se ha priorizado es importante destacarlo, aunque sea muy general.
