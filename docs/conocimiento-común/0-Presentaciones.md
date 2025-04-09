@@ -55,7 +55,7 @@ En esta página se recoge el feedback proporcionado por el profesor y los compa�
 ## Feedback del día 04/04
 - La presentación debe ser diseñada de forma que sea entendida por alguien de fuera de la asignatura.
 - Aglutinar la información de manera clara y concisa. Un ejemplo claro fue que había varias diapositivas con varías gráficas de costes distintas, que podían incluirse en una sola.
-- Tener cuidado con el momento del desarrollo el que nos encontramos. Ejemplo: hubo un grupo que puso Sprint 2 en algunas diapositivas, cuando estamos ya en el 3.
+- Tener cuidado con el momento del desarrollo en el que nos encontramos. Ejemplo: hubo un grupo que puso Sprint 2 en algunas diapositivas, cuando estamos ya en el 3.
 - Cuidado con las imágenes con Copyright.
 - No usar muletillas.
 - No incluir suposiciones al presentar datos, en todo caso aproximaciones.
