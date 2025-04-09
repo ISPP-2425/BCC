@@ -107,7 +107,7 @@ En esta página se encuentra el feedback recogido por el equipo del grupo 9 dura
 - Definir correctamente los riesgos, realizar una diferenciación clara respecto a los problemas e introducir una sección de análisis de las medidas llevadas a cabo y su seguimiento.
 - Incluir en la aplicación un mecanismo de denuncia que permita a los usuarios contactar con nosotros cuando tengan algún problema.
 
-# Feedback del día 28/03
+## Feedback del día 28/03
 #### Feedback relacionado con la presentación
 - En la sección del Killer opener, se podría mejorar el inicio efectivo incorporando las ideas de los storyboards. De esta forma, se haría un muy buen nexo.
 - El orden de presentación le ha chirriado, después del elevator pitch deberían ir los storyboards, posteriormente los competidores y finalmente la demo.
@@ -121,6 +121,18 @@ En esta página se encuentra el feedback recogido por el equipo del grupo 9 dura
 - Utilizar GitHub Copilot para la revisión de pull requests.
 - En la sección de los usuarios piloto, hacer que estos se sientan escuchados enviándoles información a raíz del feedback proporcionado. 
 - En la sección de la demostración funcional, hacer zoom sobre las partes más importantes y que no puedan verse por la audiencia.
+
+## Feedback del día 04/04
+#### Feedback relacionado con la presentación
+- El anuncio de los clientes es un poco extenso, se puede quitar algunos fondos negros de transición.
+- En la sección de los Storyboards de los inversores, modificar la sección incluyendo opciones de inversión con su rentabilidad, el beneficio y recuperación de la inversión en el tiempo.
+- En la sección de análisis de costes y TCO, utilizar los colores corporativos para la representación de las diferentes gráficas.
+- En la sección de análisis de rendimiento del equipo de trabajo, añadir la media del resto de semanas a la gráfica del Sprint.
+- En la sección de usuarios piloto, añadir a la pirámide de feedback categorizado de los usuarios piloto un cuarto nivel en el que se encuentran todos los aspectos a ignorar por diversos motivos.
+
+#### Feedback relacionado con el desarrollo del proyecto
+- Característica nueva: poder relacionar los “receivers” de las esquelas y mensajes con los contactos del móvil o amigos de redes sociales.
+- En la sección de marketing, elaborar un plan de marketing (establecer un plan de tracción del mercado, reparto de responsabilidades del equipo, etc.).
 
 ## Grupo 7 - Map Your World
 # Feedback del día 14/02
@@ -265,6 +277,19 @@ En esta página se encuentra el feedback recogido por el equipo del grupo 9 dura
 #### Feedback relacionado con el desarrollo del proyecto
 - Buen producto, mal negocio, el pago de los negocios es excesivamente caro para el servicio que se ofrece. Las cifras de precios para las empresas no están bien planteadas con respecto a los inversores esperados.
 - En la demostración funcional, el precio de los diferentes planes no está definido.
+
+# Feedback del día 04/04
+#### Feedback relacionado con la presentación
+- La gráfica de proyección financiera no se entiende bien a simple vista, los ejes están desplazados.
+- Para mejorar el anuncio quizás ir cambiando el fondo, además se debe indicar las funcionalidades extras que posee.
+- Cambiar la gráfica de las métricas del equipo porque son difíciles de comprender.
+- Falta de consistencia en los estilos y títulos de la presentación, faltas de ortografía a lo largo de las diapositivas.
+
+#### Feedback relacionado con el desarrollo del proyecto
+- En la sección del anuncio, mencionar las ventajas del plan premium.
+- En la sección de los Storyboards, incluir los paquetes de inversión correctamente y limitar el porcentaje dedicado a los inversores.
+- En la demo poner que usuario la está usando en ese momento.
+- Nunca un paquete de inversiones puede superar el 49% de la empresa. 
 
 ## Grupo 8 -  Infantem
 # Feedback del día 14/02
@@ -422,6 +447,26 @@ No se dice Usuarios Pilotos sino Usuarios Piloto, error que también se cometió
 #### Feedback relacionado con el desarrollo del proyecto
 - En el análisis del código, insertar más información acerca del estado del código, para justificar los márgenes de mejora y futuras progresiones. Puede ser buena idea usar las gráficas de Sonar para hablar de esto.
 
+# Feedback del día 04/04
+#### Feedback relacionado con la presentación
+- Mejora de presentación respecto a la semana anterior, pero el presentador debe jugar un poco más con las pausas.
+- Killer opener efectivo, pero hay que hilar más con tema principal de la aplicación. Ya que se centra en la comida, pero ha parecido que la aplicación se relaciona con enfermedades.
+- Falta de consistencia en los estilos y títulos de la presentación, faltas de ortografía a lo largo de las diapositivas.
+- En la sección de análisis de costes y TCO, utilizar unos colores más diferenciales para poder distinguir correctamente cada información en la gráfica de costes compleja.
+- En la gráfica de rendimiento del equipo se debe poner en los ejes lo que representa.
+- La mayoría de problemas que se han presentado son de implementación, habría que añadir más problemas de comunicación y otros campos.
+- Hay que explicar la nota de E del análisis de código, ya que ha dicho que todo está perfecto pero no ha justificado la nota.
+- No ha dado tiempo a presentar bien el informe de IA, hay que recortar de otro punto de la presentación. En el MVP se ha dedicado demasiado tiempo.
+
+#### Feedback relacionado con el desarrollo del proyecto
+- Se debe desarrollar el matching de la aplicación.
+- En la demo, introducir imágenes reales de la aplicación en lugar de imágenes generadas por IA.
+- En la demos se debe destacar los aspectos se han mejorado gracias al feedback de los usuarios pilotos.
+- En la sección de seguimiento y planificación del trabajo, es necesario incluir gráficas sobre el seguimiento de los diferentes estados de las tareas a lo largo del Sprint. 
+- Ha faltado la presencia de un anuncio en la aplicación, no utilizar el Storyboard para apoyarse en esa idea.
+- En la sección de análisis de costes y TCO, ser más realistas en cuanto a los planes de inversión e introducir el factor tiempo en todo el cálculo de beneficios.
+- Aclarar el tema de los referidos de los productos.
+
 ## Grupo 10 -  Go4Surprise
 # Feedback del día 14/02
 #### Feedback relacionado con la presentación
@@ -552,6 +597,16 @@ No se dice Usuarios Pilotos sino Usuarios Piloto, error que también se cometió
 - Buscar un slogan para la aplicación.
 - En la sección del Customer Agreement, incluir el SLA de la aplicación.
 - Replantear la idea de que la aplicación solo se pueda usar si eres mayor de 18 años.
+
+# Feedback del día 04/04
+#### Feedback relacionado con la presentación
+- El anuncio es demasiado extenso. Además hay que implantar un team building.
+- En la sección de análisis de costes y TCO, se tiene que añadir el número de usuarios esperado que usará la aplicación.
+- Incluir la pantalla del móvil en el anuncio para que se vea mejor.
+- Hacer una trazabilidad entre los problemas y las soluciones, indicándose de forma sistemática no de golpe.
+
+#### Feedback relacionado con el desarrollo del proyecto
+- Enfocarse en la demo en las nuevas funcionalidades, no en aquella que no aporten valor.
 
 ## Grupo 11 -  Pawtel
 # Feedback del día 14/02
@@ -691,3 +746,17 @@ Mejorar el tema de cuadrantes en el rendimiento del Sprint, es confuso poner dir
 - Intercalar problema-solución, y no hacer primero todos los problemas y todas las soluciones.
 - Buena idea la del mediador, falta explicar cómo se ha efectuado y cómo de efectivo ha sido.
 - Dar más información del bajo rendimiento de la mitad del grupo.
+
+# Feedback del día 04/04
+#### Feedback relacionado con la presentación
+- Buen Killer opener que va directo al grano, pero conviene elegir el vocabulario adecuado a la audiencia y no utilizar palabras técnicas en otro idioma.
+- No se debe explicar una idea después de dar por sentado que la idea está comprendida por el público.
+- Representar los números de manera 1K en vez del número en crudo.
+- En la parte de protección de datos, no debe decirse qué no debe hacerse ya que es anticlimático.
+- En la diapositiva del vídeo de la demostración funcional, eliminar el enlace local y utilizar un hipervínculo oculto o un icono llamativo.
+- Mejorar la representación y visualización de los ejes en todas las tablas de información.
+- Se debe explotar más las palabras claves: comparador y mascota.
+
+#### Feedback relacionado con el desarrollo del proyecto
+- Cómo calculan el rendimiento no está muy bien, ya que alguien con 20 horas tenga el mismo rendimiento que alguien con 6 horas parece de broma.
+- El cálculo del rendimiento no está muy bien definido, ya que a pesar de la gran diferencia de horas entre algunos miembros tienen un rendimiento similar.
