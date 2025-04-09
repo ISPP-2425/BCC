@@ -30,3 +30,4 @@ En esta página se recoge el feedback proporcionado por el profesor y los compa�
 ## Feedback del día 28/03
 - El killer opener debe ser breve y directo, evitando extenderse demasiado en la introducción.
 - Es importante que el killer opener esté alineado con el resto de la presentación, evitando que se convierta en un tema aislado.
+- Evitar que el killer opener sea demasiado dramático

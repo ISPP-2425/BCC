@@ -22,3 +22,5 @@ En esta página se recoge el feedback proporcionado por el profesor y los compa�
 
 ## Feedback del día 28/03
 - Detallar el plan de respuesta a los comentarios de los usuarios piloto, incluyendo un análisis de los comentarios recibidos y las acciones que se tomarán para abordar las preocupaciones planteadas.
+- Priorizar el feedback de los usuarios piloto e intentar sacar la maxima información posible.
+- Preveer que el feedback de los usuarios piloto ocasionará nuevas tareas a lo largo del desarrollo
