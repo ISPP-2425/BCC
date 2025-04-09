@@ -27,7 +27,7 @@ En esta página se recoge el feedback proporcionado por el profesor y los compa�
 
 ## Feedback del día 04/04
 - Es importante mostrar el feedback específico que hancasuado acciones concretas de los usuarios piloto para mejorar el producto.
-- Algunos clientes pilotos han dejado de contestar, lo que puede afectar la validación continua del producto. Es esencial tener contar con una planificación óptima de manera que los usuarios piloto puedan seguir participando en el proyecto con un producto funcional. 
+- Algunos clientes pilotos han dejado de contestar, lo que puede afectar la validación continua del producto. Es esencial contar con una planificación óptima de manera que los usuarios piloto puedan seguir participando en el proyecto con un producto funcional. 
 - Si en la demo se ven mejoras en la experiencia de usuario gracias a los comentarios de usuarios piloto, es importante recalcarlo.
 - Hay que tener cuidado al mezclar clasificaciones del feedback de usuarios piloto. Por ejemplo: no mezclar el tipo con la prioridad.
 - Hay que poner en la presentación cuánto feedback reciben de cada tipo.
