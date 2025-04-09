@@ -751,7 +751,7 @@ Mejorar el tema de cuadrantes en el rendimiento del Sprint, es confuso poner dir
 #### Feedback relacionado con la presentación
 - Buen Killer opener que va directo al grano, pero conviene elegir el vocabulario adecuado a la audiencia y no utilizar palabras técnicas en otro idioma.
 - No se debe explicar una idea después de dar por sentado que la idea está comprendida por el público.
- -Representar los números de manera 1K en vez del número en crudo.
+- Representar los números de manera 1K en vez del número en crudo.
 - En la parte de protección de datos, no debe decirse qué no debe hacerse ya que es anticlimático.
 - En la diapositiva del vídeo de la demostración funcional, eliminar el enlace local y utilizar un hipervínculo oculto o un icono llamativo.
 - Mejorar la representación y visualización de los ejes en todas las tablas de información.
