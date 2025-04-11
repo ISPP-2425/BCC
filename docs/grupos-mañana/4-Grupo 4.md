@@ -532,7 +532,7 @@ En esta página se encuentra el feedback recogido por el equipo del grupo 4 dura
 
 ### Tareas que realizar durante esta semana:
 
--	Ver las pildoras teoricacas
+-	Ver las píldoras teóricas
 -	Killer opener y elevator pitch 
 -	Competidores
 -	Anuncio diferente(inversores o clientes)
