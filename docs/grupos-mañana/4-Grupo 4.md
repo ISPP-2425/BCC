@@ -521,7 +521,7 @@ En esta página se encuentra el feedback recogido por el equipo del grupo 4 dura
 ### Feedback relacionado con la presentación
 
 - Evitar muletillas.
-- Fata un eslogan al final del killer opener.
+- Falta un eslogan al final del killer opener.
 - Ha faltado la mejora de UX en la demo.
 - La falta de confianza se arregla con un seguro o una fianza.
 - Categorizar el feedback de los usuarios pilotos.
