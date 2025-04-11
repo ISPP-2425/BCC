@@ -517,8 +517,7 @@ En esta página se encuentra el feedback recogido por el equipo del grupo 4 dura
 - Evitar usar tecnicismos.
 - Especificad que feedback han dado los usuarios piloto y en que ha repercutido.
 - Cuidado con el copyright.
-- Laa trazabilidad en menos importante que el objetivo y el periodo.
-
+- La trazabilidad en menos importante que el objetivo y el periodo.
 ### Feedback relacionado con la presentación
 
 - Evitar muletillas.
