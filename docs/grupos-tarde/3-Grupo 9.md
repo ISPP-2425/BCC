@@ -134,6 +134,16 @@ En esta página se encuentra el feedback recogido por el equipo del grupo 9 dura
 - Característica nueva: poder relacionar los “receivers” de las esquelas y mensajes con los contactos del móvil o amigos de redes sociales.
 - En la sección de marketing, elaborar un plan de marketing (establecer un plan de tracción del mercado, reparto de responsabilidades del equipo, etc.).
 
+## Feedback del día 11/04
+#### Feedback relacionado con la presentación
+- La presentación es clara y contiene todos los elementos necesarios y guarda un estilo acorde a lo largo de todas las diapositivas. Por otro lado, el orador ha mantenido un ritmo correcto y ha realizado una buena presentación en todos los aspectos.
+
+#### Feedback relacionado con el desarrollo del proyecto
+- En la sección de la demostración funcional, mejorar el contenido que se presenta incluyendo únicamente aquellas nuevas funcionalidades que pertenezcan a los casos de uso core de la aplicación, así como cuidar la velocidad de las diferentes transiciones y zooms utilizadas a lo largo del vídeo. Es esencial evitar los casos de registro y todos los formularios donde se necesite rellenar información.
+- En la sección de análisis del rendimiento del equipo, mejorar la visualización de las horas de trabajo individual de cada miembro del equipo para una mejor comprensión por parte de la audiencia.
+- En la sección de los anuncios, mejorar la calidad de los vídeos para empresas e inversores. 
+- En la sección de análisis de código, no incluir los test para el análisis de código en Codacy para evitar la redundancia y duplicidad de código.
+
 ## Grupo 7 - Map Your World
 # Feedback del día 14/02
 #### Feedback relacionado con la presentación
@@ -254,7 +264,6 @@ En esta página se encuentra el feedback recogido por el equipo del grupo 9 dura
 - Presentar con antelación la presentación para llevar una estimación de la duración de cada una de las diferentes secciones expuestas, de esta forma se evitaría tener que hablar rápido y agilizar el contenido para acabar en el tiempo establecido.
 - Las diapositivas contienen demasiado texto y carecen de metáforas visuales. Reducir el contenido de información por diapositiva para mejorar su comprensión.
 
-
 #### Feedback relacionado con el desarrollo del proyecto
 - Definir correctamente los riesgos, realizar una diferenciación clara respecto a los problemas e introducir una sección de análisis de las medidas llevadas a cabo y su seguimiento.
 - Incluir factores cuantitativos y cualitativos en la sección de análisis de rendimiento del equipo, del mismo modo, es necesario la presencia de una gráfica que indique el rendimiento individual de cada miembro del equipo de manera conjunta.
@@ -290,6 +299,19 @@ En esta página se encuentra el feedback recogido por el equipo del grupo 9 dura
 - En la sección de los Storyboards, incluir los paquetes de inversión correctamente y limitar el porcentaje dedicado a los inversores.
 - En la demo poner que usuario la está usando en ese momento.
 - Nunca un paquete de inversiones puede superar el 49% de la empresa. 
+
+# Feedback del día 11/04
+#### Feedback relacionado con la presentación
+- Pronunciar correctamente el nombre del grupo, el presentador ha hablado demasiado rápido porque tiene mucho contenido que contar, aún así se ha llevado una buena entonación a lo largo de la presentación.
+- Establecer qué información se va a contar en cada momento, si se incluye la sección de análisis de costes y TCO en el anuncio de inversores, no dedicar otra sección en la presentación sobre el mismo tema.
+- Buen inicio efectivo, el Killer opener refleja claramente el propósito de la aplicación y se ha empleado un toque humorístico bastante bueno.
+- El vídeo de la demostración funcional está bastante completo y recoge todos los puntos necesarios.
+- Falta de consistencia en los estilos y títulos de la presentación, así como faltas de ortografía a lo largo de las diapositivas.
+- Unificar los precios de los planes a lo largo de toda la presentación para mostrar consistencia.
+
+#### Feedback relacionado con el desarrollo del proyecto
+- En la sección de los anuncios, evitar grabar escenas a contraluz y apoyarse en mayor medida en datos y cifras reales, por ejemplo, incluyendo estadísticas del nivel de sedentarismo en España. Por otro lado, se ha aplicado correctamente el feedback de la semana pasada incluyendo más dinamismo a las escenas.
+- En la sección de Lecciones aprendidas, incluir ejemplos concretos de los errores que han sido encontrados gracias al testing de la aplicación.
 
 ## Grupo 8 -  Infantem
 # Feedback del día 14/02
@@ -384,12 +406,12 @@ En esta página se encuentra el feedback recogido por el equipo del grupo 9 dura
 - Falta de apoyo visual en el Killer Opener (demasiado extenso).
 - Las diapositivas contienen demasiada información y contienen errores ortográficos. Explicar cada una de las siglas que se introducen y mejorar los elementos de apoyo (uso de porcentajes ‘%’).
 - Mejorar la sección de análisis de costes para hacerla más dinámica e interesante.
- -Establecer un estilo homogéneo a lo largo de todas las diapositivas de la presentación que sea visualmente atractivo y legible.
+- Establecer un estilo homogéneo a lo largo de todas las diapositivas de la presentación que sea visualmente atractivo y legible.
 - Sintetizar el contenido de la presentación y mostrar los resultados en lugar del proceso previo de análisis (seguimiento de riesgos, lecciones aprendidas, etc.).
 - Mejorar la visualización del diagrama de Gantt.
 
 #### Feedback relacionado con el desarrollo del proyecto
- -Mejorar la sección de costes, facilitando su comprensión y visualización. Todo el contenido debe ser consistente y realista.
+- Mejorar la sección de costes, facilitando su comprensión y visualización. Todo el contenido debe ser consistente y realista.
 - Tratar el MVP con ese nombre, no como PMV.
 - Incluir la gestión del programa de usuarios piloto, un usuario no puede ser un integrante del propio equipo desarrollador.
 - En la sección de seguimiento de tareas, indicar de una manera cuantitativa el estado de las tareas que están en progreso.
@@ -403,9 +425,9 @@ En esta página se encuentra el feedback recogido por el equipo del grupo 9 dura
 - Falta de consistencia en los estilos y títulos de la presentación, faltas de ortografía a lo largo de las diapositivas.
 - Utilizar datos realistas durante la demostración del producto. 
 - Centrar la demostración al core de la aplicación (evitar la muestra de gestión de usuarios) y hacerla más atractiva para la audiencia.
- -La sección de feedback de usuarios piloto ha sido muy clara y visualmente atractiva gracias al buen uso de las metáforas visuales.
- -No se dice Usuarios Pilotos sino Usuarios Piloto.
- -Evitar el uso de diagramas de colores.
+- La sección de feedback de usuarios piloto ha sido muy clara y visualmente atractiva gracias al buen uso de las metáforas visuales.
+- No se dice Usuarios Pilotos sino Usuarios Piloto.
+- Evitar el uso de diagramas de colores.
 
 #### Feedback relacionado con el desarrollo del proyecto
 - En la sección de organización del equipo de trabajo, reducir el número de personas que se encuentran en puestos de dirección/organización al tratarse de un grupo reducido de 15 personas (5 personas en puestos de dirección equivalen a +30% del equipo).
@@ -466,6 +488,23 @@ No se dice Usuarios Pilotos sino Usuarios Piloto, error que también se cometió
 - Ha faltado la presencia de un anuncio en la aplicación, no utilizar el Storyboard para apoyarse en esa idea.
 - En la sección de análisis de costes y TCO, ser más realistas en cuanto a los planes de inversión e introducir el factor tiempo en todo el cálculo de beneficios.
 - Aclarar el tema de los referidos de los productos.
+
+# Feedback del día 11/04
+#### Feedback relacionado con la presentación
+- El Killer opener está muy conseguido, se ha usado el feedback de la semana pasada para incluir en él un problema específico en el bebé (problema con los alérgenos), que se ha usado posteriormente en la sección de los anuncios manteniendo un buen hilo argumental.
+- Falta de consistencia en los estilos y títulos de la presentación, así como faltas de ortografía a lo largo de las diapositivas.
+- Mejorar la forma de presentar, el orador habla demasiado rápido y no hace las pausas necesarias entre las diferentes secciones o puntos de la presentación. 
+- Las diapositivas contienen demasiado texto y carecen de metáforas visuales. Reducir el contenido de información por diapositiva para mejorar su comprensión.
+- Mencionar en todo momento la fuente de todos los datos y cifras estadísticas que se utilizan en la presentación.
+- Utilizar una notación de K, M, etc. para la representación de las cifras numéricas de una manera más simple y clara.
+- Mantener una linealidad a lo largo de toda la presentación, cuidar la presentación inicial de la mascota para que esta no aparezca sin ser presentada.
+
+#### Feedback relacionado con el desarrollo del proyecto
+- En la sección de los anuncios, unificar el anuncio de usuarios. No grabar un vídeo para usuarios freemium y otro para usuarios con un plan premium. 
+- En la sección de la Idea de negocio, aumentar el rango del público objetivo debido a la concepción de niños cada vez más tardía.
+- En la sección de análisis del rendimiento del equipo, utilizar una nueva métrica que se adapte mejor y permita una correcta evaluación de cada uno de los miembros del equipo.
+- En la sección de Sprint Retrospective, evitar realizar un análisis de rendimiento, realizando una retrospectiva de todos aquellos aspectos que han ido bien o se pueden mejorar, así como de las debilidades afrontadas por el equipo a lo largo del Sprint.
+- En la sección de Usuarios piloto, buena priorización y categorización del feedback, incluyendo ejemplos reales.
 
 ## Grupo 10 -  Go4Surprise
 # Feedback del día 14/02
@@ -607,6 +646,27 @@ No se dice Usuarios Pilotos sino Usuarios Piloto, error que también se cometió
 
 #### Feedback relacionado con el desarrollo del proyecto
 - Enfocarse en la demo en las nuevas funcionalidades, no en aquella que no aporten valor.
+
+# Feedback del día 11/04
+#### Feedback relacionado con la presentación
+- Controlar el tiempo de la presentación, se añadieron 30 segundos a la presentación de manera injustificada. La presentación tiene que durar al menos 14 minutos y nunca llegar a extenderse más del minuto 15.
+- Mejorar el Killer opener para incluir de una mejor manera el factor sorpresa que ofrece la aplicación.
+- Mejorar el orden y la linealidad de las secciones de la presentación para favorecer una presentación más dinámica y fluida.
+- Ser consistentes con el idioma a lo largo de la presentación.
+- No usar siglas sin ofrecer su correspondiente explicación acerca de su significado.
+- El orador de la presentación no debería de estar mascando chicle durante esta.
+- Mantener una estética homogénea en todas las diapositivas (fuentes, colores, estructura, márgenes).
+- No se dice Usuarios Pilotos sino Usuarios Piloto.
+- En la sección de análisis de competidores y Benchmarking, mejorar la presentación para detallar en mejor medida qué aporta la aplicación frente a los competidores existentes.
+- Mejorar la diapositiva de roles de equipo, se podría mostrar al equipo de una manera más generalizada y es necesario incluir la presencia del nuevo departamento de marketing, requisito que se pedía para esta semana y no se ha presentado.
+- Utilizar metáforas visuales para apoyar el contenido expuesto a lo largo de la presentación.
+
+#### Feedback relacionado con el desarrollo del proyecto
+- En la sección de análisis de rendimiento del equipo, mejorar la representación del trabajo individual para que sea entendible de una manera más visual. La información aparece muy condensada y el uso de tantos círculos y líneas puede resultar muy confuso.
+- En la sección de anuncios, corregir y diferenciar de manera clara qué es un anuncio para inversores o para empresas. En el caso de que fuera un anuncio para empresas, era necesario incluir una explicación más detallada de qué es la aplicación y qué es lo que ofrece.
+- Reducir la duración de los anuncios para que se adapten en mayor medida a las actuales y futuras presentaciones.
+- En la sección de la demostración funcional, mejorar la visualización a lo largo de todo el vídeo, incluyendo zooms e interactuando con la mascota Sorpresín. 
+- En la sección de Lecciones aprendidas, detallar en mayor medida los problemas surgidos y no quedarse en la superficie. Para ello, es necesario abordar el problema, comentar las soluciones propuestas y la realizada, así como la evolución del problema tras la aplicación de una solución.
 
 ## Grupo 11 -  Pawtel
 # Feedback del día 14/02
@@ -760,3 +820,14 @@ Mejorar el tema de cuadrantes en el rendimiento del Sprint, es confuso poner dir
 #### Feedback relacionado con el desarrollo del proyecto
 - Cómo calculan el rendimiento no está muy bien, ya que alguien con 20 horas tenga el mismo rendimiento que alguien con 6 horas parece de broma.
 - El cálculo del rendimiento no está muy bien definido, ya que a pesar de la gran diferencia de horas entre algunos miembros tienen un rendimiento similar.
+
+# Feedback del día 11/04
+#### Feedback relacionado con la presentación
+- Se ha llevado un buen hilo argumental al comienzo de la presentación, conectando correctamente el Killer opener, los anuncios y los Storyboards.
+- Mejorar el orden y la linealidad de las secciones de la presentación para favorecer una presentación más dinámica y fluida.
+- La sección de Team building y el Hall Of Fame está muy conseguida, aunque es necesario evitar usar esta última como medida para alargar la presentación por falta de contenido y mala organización.
+- La presentación tiene que durar al menos 14 minutos y nunca llegar a extenderse más del minuto 15.
+- En la sección de análisis de costes y TCO, mejorar la representación de los valores de los ejes para que sea más visual y entendible para la audiencia. Al mismo tiempo, hablar de Gastos y no de Pérdidas.
+
+#### Feedback relacionado con el desarrollo del proyecto
+- En la sección de anuncios, mejorar el uso de la IA en estos para unificar el idioma empleado a lo largo de los vídeos. Aún así, está muy bien introducir subtítulos para que el mensaje del anuncio llegue a toda la audiencia. 
