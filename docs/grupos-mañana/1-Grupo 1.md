@@ -1481,7 +1481,7 @@ Aplicación para generalizar el alquiler de objetos, es de matchmaking-improved 
 - Usar el concepto de “Draw my life” para hacer el anuncio de inversores es una idea muy original. 
 - El anuncio de inversores está muy claro: la solución que da la app y muestra claramente los paquetes de inversión y cuándo empezaría a ser rentable.
 - Han pulido mucho la sección del equipo, el nivel de detalle es adecuado.
-- Han hilado la demo con el killer opener con el concepto del “Gorrocóptero”” 
+- Han hilado la demo con el killer opener con el concepto del “Gorrocóptero” 
 - Han implementado un calendario niko niko para tener un registro del estado de ánimo del equipo.(lo bueno se copia)
 - Han dedicado tiempo a solucionar bugs dados por los usuarios piloto.
 - Muy sinceros con los problemas, y le ponen solución.
