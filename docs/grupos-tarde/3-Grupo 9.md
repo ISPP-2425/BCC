@@ -1,5 +1,7 @@
 # Grupo 9 - Caronte
 
+![banner_caronte_azul](https://github.com/user-attachments/assets/08585aac-d097-4f8b-9cd9-acf676abde20)
+
 En esta página se encuentra el feedback recogido por el equipo del grupo 9 durante las sesiones de clase. Con secciones para cada semana, se detallan los comentarios y sugerencias del profesor y los compañeros, así como las tareas a realizar para la siguiente semana. Además, se incluye una sección para cada grupo con el feedback proporcionado por el grupo 9.
 
 ## Feedback del día 14/02
