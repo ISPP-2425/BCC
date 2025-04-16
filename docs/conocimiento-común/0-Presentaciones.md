@@ -72,7 +72,7 @@ En esta página se recoge el feedback proporcionado por el profesor y los compa�
 - La tercera sección hay que hablar de la competencia, explicar competidores como siempre.
 - La cuarta sección hablar del equipo.
 - La quinta sección tartar de como la idea podría ser rentable. Enfatizando en los puntos principales del modelo de negocio.(fuentes de ingresos, costes, plan de negocio y una seccion que sea oportunidades de inversion donde ponemos e video maximo de 1 minuto para inversores).
-- Última sección, donde se puede ver mas informacion, link a landinpgage, qr y un enlace al sistema de produccion (producto).
+- Última sección, donde se puede ver mas informacion, link a landing page, qr y un enlace al sistema de produccion (producto).
 - La primera sección de la sección de 5 minutos, debe tratar sobre el modelo de segmentacion, a que segmentos de nuestro público objetivo vamos a orientar la campaña, y poner un par de protopersonas, definir campañas para cada segmentación.
 - La segunda sección, debe tratar del posicionamiento en los motores de busqueda (palabras clave para encontrarnos).
 - La tercera sección, la camapaña de lanzamiento, esta tiene que tener algun evento antes del WPL, enfocado a ganar visibilidad y clientes (aliados, partnership).
