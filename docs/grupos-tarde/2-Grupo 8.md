@@ -763,7 +763,7 @@ Sería importante incluir la estimación del número de usuarios esperados, dife
 - Evitar usar el nombre del archivo directamente como hipervínculo para la demo (por ejemplo, "video.mp4"); es mejor darle un nombre más descriptivo y profesional.
 
 
-# Semana 31/03
+# Semana 07/04
 #### Feedback relacionado con la presentación
 - En los anuncios, mejorar el uso de la IA para mantener una coherencia lingüística, aunque la inclusión de subtítulos es muy acertada para facilitar la comprensión.
 - El inicio está bien conectado, pero se necesita un orden más claro y lineal en las secciones para una presentación más fluida y dinámica.
