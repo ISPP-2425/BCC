@@ -75,7 +75,7 @@ En esta página se recoge el feedback proporcionado por el profesor y los compa�
 - Última sección, donde se puede ver mas informacion, link a landing page, qr y un enlace al sistema de produccion (producto).
 - La primera sección de la sección de 5 minutos, debe tratar sobre el modelo de segmentacion, a que segmentos de nuestro público objetivo vamos a orientar la campaña, y poner un par de protopersonas, definir campañas para cada segmentación.
 - La segunda sección, debe tratar del posicionamiento en los motores de busqueda (palabras clave para encontrarnos).
-- La tercera sección, la camapaña de lanzamiento, esta tiene que tener algun evento antes del WPL, enfocado a ganar visibilidad y clientes (aliados, partnership).
+- La tercera sección, la campaña de lanzamiento, esta tiene que tener algun evento antes del WPL, enfocado a ganar visibilidad y clientes (aliados, partnership).
 - Hay que definir rol community manager, tratar sobre la planificacion publicaciones (cuando se va a publicar).
 - Hablar de los costes de marketing (desglosar de la primera presentacion estos costes)
 - Por último, los anuncios dirigidos (banners, etc.) requerirán actualizar la landing page para incluirlos.
