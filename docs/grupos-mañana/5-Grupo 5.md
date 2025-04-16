@@ -478,6 +478,61 @@ En esta página se encuentra el feedback recogido por el equipo del grupo 5 dura
 15. **Diapositiva final con información de contacto y QR**:  
     - Crear una diapositiva final que incluya información de contacto y un QR para facilitar la interacción posterior.
 
+## Semana 9
+
+### Feedback relacionado con la presentación
+- **Tono de la demo**: La demo debe adoptar un tono más formal. Se sugiere ajustar el modelo actual para reducir la informalidad.  
+- **Claridad de la voz**: La voz de las presentadoras no se escuchaba bien. Se recomienda plantear el uso de micrófonos o mejorar la calidad del sonido durante la presentación.  
+- **Valor para el usuario en la demo**: La demo debería centrarse más en lo que aporta valor al usuario. Además, debe mostrar todas las funcionalidades clave de forma clara y completa.  
+- **Consulta a usuarios pilotos sobre la demo**: Considerar preguntar a los usuarios pilotos su opinión sobre la demo para identificar áreas de mejora desde la perspectiva del usuario final. 
+
+### Feedback relacionado con el desarrollo del proyecto
+- **Hilación de cambios**: Se valoró positivamente que se hayan tenido en cuenta los comentarios de la semana pasada y que los cambios estén bien hilados en la presentación.  
+- **Anuncio inicial**: El anuncio inicial fue destacado como efectivo, ya que va directo al grano y capta la atención del público al transmitir claramente el mensaje y el valor de la plataforma.  
+- **Datos sobre clientes y transportistas**: Es necesario incluir datos concretos (no porcentajes) sobre el número de clientes o transportistas que se espera alcanzar en diferentes puntos temporales. Por ejemplo: ¿cuántos transportistas habrá en X años?
+- **Apartado de inversión**: El apartado de inversión no fue percibido con suficiente detalle. Se sugiere profundizar en este aspecto para ofrecer una visión más clara y convincente a los inversores.  
+
+#### Tareas a realizar para la siguiente semana
+
+**1. Ensayo del World Project Launch (10 min)**  
+Una buena presentación debe responder a las siguientes preguntas:
+
+1. **¿De qué va el proyecto?**  
+   - Puede ser un *killer opener* o un anuncio corto de máximo un minuto.
+2. **¿Qué hace exactamente?**  
+   - Demostración, enlazada con una historia (si puede estar conectada al anuncio, mejor).  
+   - ¿Y cómo lo hace?
+3. **¿Cómo nos diferenciamos de la competencia?**  
+   - Comentar los factores clave que nos hacen únicos frente a la competencia.
+4. **¿Quién hay detrás de esto?**  
+   - Presentar al equipo.
+5. **¿Puede llegar a ser rentable?**  
+   - Puntos clave del mercado, planes de negocio, costos a corto y medio plazo, oportunidades de inmersión.  
+   - Ejemplo: incluir un vídeo de anuncio.
+6. **¿Dónde puedo encontrar más información?**
+
+**2. Algo más específico del PPL (5 min)**  
+Estas son sugerencias; podemos decidir qué incluir o no en la presentación:
+
+1. **Marketing para ganar más mercado**  
+   - Segmentación de los usuarios.
+2. **Usuarios potenciales, tipo de usuario/tipo de cliente**  
+   - Concepto de *persona*: caracterización de un cliente ficticio como una historia que sitúe al usuario.  
+   - Crear un par de *personas* para entender las necesidades de los clientes y usuarios.  
+   - Referencia: [Persona (Wikipedia)](https://en.wikipedia.org/wiki/Persona).
+3. **SEO**  
+   - Palabras clave: ¿cuáles serían las nuestras?
+4. **Campaña de lanzamiento del producto**  
+   - Promociones y acciones para impulsar la tracción inicial.
+5. **Crecimiento de la comunidad inicial**  
+   - Partners potenciales e impacto mediático.
+6. **Community management**  
+   - Objetivos, plan y roles.  
+   - Nivel de detalle según decisión interna.
+7. **Costes del marketing.**
+8. **Anuncios**  
+   - No es necesario repetir anuncios si ya se incluyeron en otra presentación.
+
 # Otros Grupos
 
 ## Semana 1
@@ -1014,3 +1069,123 @@ En esta página se encuentra el feedback recogido por el equipo del grupo 5 dura
   - Tienen muchas tareas de implementación pendientes para el PPL. Es importante que sean conscientes de la carga de trabajo y planifiquen adecuadamente para cumplir con los plazos.  
 - **Priorización del feedback**:  
   - Mejorar la priorización del feedback recibido de los usuarios pilotos. Clasificarlo de manera clara y enfocarse en resolver primero los aspectos más críticos.  
+
+## Semana 9
+
+### Grupo 1 (Holos)
+
+#### Feedback relacionado con la presentación
+- **Hilo de discurso y ritmo**:  
+  - El hilo de discurso y el ritmo de la presentación fueron valorados positivamente. Se percibió como fluido y bien estructurado.  
+- **Anuncio de inversores**:  
+  - El anuncio dirigido a inversores fue destacado por su dinamismo, considerado adecuado y efectivo para captar la atención del público objetivo.  
+- **Claridad en los roles**:  
+  - No quedaron claros los roles en el anuncio. Se sugiere validar los vídeos con alguien que tenga un perfil similar al público objetivo para asegurar que los roles y mensajes sean comprensibles y efectivos.  
+- **Calidad del audio**:  
+  - Hubo problemas de audición durante la presentación. Realizar ejercicios de vocalización puede ayudar a mejorar la claridad y proyección de la voz.  
+
+#### Feedback relacionado con el desarrollo del proyecto
+- **Explicación de problemas**:  
+  - Aunque la forma de comentar los problemas fue valorada positivamente, aún falta explicitar el horizonte temporal o plazo para la resolución de dichos problemas. Esto permitirá tener una visión más clara del progreso.  
+- **Nivel de automatización**:  
+  - Mejorar el nivel de automatización de la aplicación, especialmente en el testing. Se recomienda explorar herramientas como Playwright para optimizar este proceso.  
+- **Pruebas end-to-end automatizadas**:  
+  - Incorporar pruebas end-to-end automatizadas para garantizar la calidad y estabilidad del producto.
+- **Velocidad de revisiones de código**:  
+  - Mejorar la velocidad de las revisiones de código. Medir y reducir el tiempo promedio de revisión será crucial para agilizar el desarrollo del proyecto.  
+
+### Grupo 2 (Gastrostock)
+
+#### Feedback relacionado con la presentación
+- **Adaptación a contratiempos**:  
+  - El equipo ha demostrado una gran capacidad para adaptarse a los contratiempos relacionados con algunos miembros del grupo, lo cual es un punto muy positivo.  
+- **Guion y realización del anuncio**:  
+  - El guion y la realización del anuncio fueron muy bien valorados, destacando su calidad y efectividad.  
+- **Uso de porcentajes**:  
+  - Se destacó positivamente el uso del porcentaje de bares en la presentación, ya que añade credibilidad y contexto al proyecto.  
+- **Killer opener**:  
+  - El killer opener fue percibido como demasiado atrevido y podría interpretarse como gordofobia. Es importante ajustar este elemento para evitar malentendidos o percepciones negativas.  
+- **Duración del anuncio**:  
+  - El principio del anuncio es demasiado largo, y en general, su duración excede lo recomendable. Se sugiere acortarlo para mantener la atención del público.  
+
+#### Feedback relacionado con el desarrollo del proyecto
+- **Paquetes de inversión**:  
+  - Es necesario incluir paquetes de inversión claros en el anuncio dirigido a inversores. Esto permitirá captar mejor su interés y facilitará la toma de decisiones.  
+- **Números en el anuncio**:  
+  - Mostrar números concretos en el anuncio (como estimaciones de mercado, beneficios, etc.) para aumentar la credibilidad y el impacto del mensaje.  
+- **Gráfica de costes**:  
+  - No es necesario separar los costes fijos y variables en gráficas distintas. Pueden mostrarse juntos en una misma gráfica para simplificar la visualización.  
+- **Matriz de rendimiento**:  
+  - Detallar más la matriz de rendimiento, evitando limitarse a un solo número. Individualizar el rendimiento de cada miembro del equipo para proporcionar una visión más completa.  
+- **Evolución de las soluciones**:  
+  - Mostrar claramente la evolución de las soluciones implementadas para los problemas identificados. Esto ayudará a evidenciar el progreso del proyecto.  
+- **CapEx**:  
+  - Recordar que los CapEx corresponden a costes capitalizables. Asegurarse de clasificarlos correctamente en el análisis financiero.  
+
+### Grupo 3 (Eventbride)
+
+#### Feedback relacionado con la presentación
+- **Acabado de la presentación**:  
+  - El acabado de la presentación fue destacado como muy superior al de otras aplicaciones actuales. Se nota el esfuerzo dedicado y el tiempo invertido en mejorar los detalles.  
+- **Demostración**:  
+  - La demo debe seguir una historia coherente en lugar de ser simplemente un listado de funcionalidades. Esto permitirá que el público conecte mejor con el producto.  
+  - Se sugiere que la demo muestre todo el potencial de la aplicación mediante un recorrido por un escenario realista y atractivo.  
+- **Tono del anuncio**:  
+  - Es importante ajustar el tono del anuncio según el público objetivo. Para inversores, se recomienda reducir el nivel de informalidad y centrarse en aspectos más profesionales.  
+  - Los efectos deben estar alineados con el público al que va dirigido el mensaje. Evitar excesos que puedan restar seriedad o credibilidad.  
+- **Demo como herramienta de interés**:  
+  - La demo debe ser lo suficientemente atractiva como para que alguien externo entienda el valor de la aplicación y decida utilizarla. Debe generar interés y transmitir claramente su utilidad.  
+
+#### Feedback relacionado con el desarrollo del proyecto
+- **Información del mercado**:  
+  - Incluir datos sobre el potencial del mercado y cómo la inversión puede generar retornos significativos. Esto ayudará a captar el interés de los inversores. 
+- **Paquetes de inversión**:  
+  - En lugar de presentar paquetes de inversión cerrados, se recomienda hablar directamente con los inversores para llegar a acuerdos personalizados basados en sus necesidades y expectativas.  
+- **Estructura de problemas**:  
+  - Mejorar la estructura de presentación de los problemas utilizando el formato: **Problema → Medida → Objetivo → Trazabilidad**. Esto permitirá una mejor comprensión y seguimiento del progreso.  
+
+### Grupo 4 (Borroo)
+
+#### Feedback relacionado con la presentación
+- **Trabajo general**:  
+  - Se destacó el buen trabajo realizado por el equipo, evidenciando un esfuerzo notable en la preparación y ejecución de la presentación.  
+- **Uso de muletillas**:  
+  - El presentador ha reducido significativamente el uso de muletillas, lo cual mejora la fluidez y profesionalidad de la presentación.  
+- **Presentación del equipo**:  
+  - La forma en que se presentó al equipo fue eficiente y rápida, destacando como un punto positivo.  
+- **Demo**:  
+  - La demo fue valorada muy positivamente, considerada clara, atractiva y bien estructurada.  
+- **Claridad en la demo**:  
+  - Es necesario explicar al principio de la demo qué se va a mostrar para que el público tenga una idea clara de lo que verá.  
+- **Datos en el anuncio de inversores**:  
+  - Evitar frases sacadas "de la manga" en el anuncio de inversores. Siempre que se mencionen datos impresionantes, deben ir respaldados por cifras concretas o una fuente confiable.  
+
+#### Feedback relacionado con el desarrollo del proyecto
+- **Claridad entre alquiler y venta**:  
+  - Actualmente hay confusión entre si el proyecto está orientado al alquiler o a la venta, ya que tanto el anuncio como el killer opener parecen abordar ambas soluciones. Es importante clarificar que el foco es el alquiler.  
+- **Opciones de inversión**:  
+  - Falta incluir las opciones de inversión (paquetes) en el anuncio dirigido a inversores.
+- **Evolución de los datos**:  
+  - Sería útil incluir diferencias de datos entre semanas, utilizando flechas o indicadores visuales que muestren si han subido o bajado con respecto a la semana anterior. Esto permitirá visualizar mejor la evolución del proyecto.  
+- **Priorización del feedback**:  
+  - La priorización del feedback fue bien realizada, destacando varios apartados de manera clara y efectiva. Este enfoque debe mantenerse en futuras iteraciones.  
+
+### Grupo 6 (FisioFind)
+
+#### Feedback relacionado con la presentación
+- **Demo**:  
+  - La demo fue muy bien recibida, especialmente por la clara comparación entre el "antes" y el "después", lo cual resultó impactante y efectivo. 
+- **Anuncios específicos**:  
+  - La idea de crear anuncios específicos para características nuevas fue valorada positivamente, ya que permite destacar mejor las funcionalidades clave del proyecto.  
+- **Vocalización en los vídeos**:  
+  - Se sugiere mejorar la vocalización en los vídeos para garantizar que el mensaje sea claro y comprensible.  
+- **Redundancia del video final**:  
+  - El video final fue percibido como redundante. Es importante evitar repeticiones innecesarias y centrarse en contenido que aporte valor adicional. 
+
+#### Feedback relacionado con el desarrollo del proyecto
+- **Datos e iconos realistas**:  
+  - Evitar el uso de datos o imágenes genéricas en las demos. Incluir datos e imágenes realistas, como fotos de fisioterapeutas reales, para aumentar la credibilidad y el impacto visual.  
+- **Anuncio para inversores**:  
+  - El anuncio dirigido a inversores no cumplió con las expectativas. Se recomienda revisar el feedback de otros grupos y ajustar el contenido para que sea más atractivo y relevante para este público objetivo. 
+- **Aspectos técnicos en la demo en directo**:  
+  - En la demo en directo, uno de los problemas identificados fue el zoom. Es necesario abordar aspectos técnicos como este para mejorar la experiencia del usuario durante la presentación.  
