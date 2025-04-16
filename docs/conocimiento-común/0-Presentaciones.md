@@ -63,7 +63,7 @@ En esta página se recoge el feedback proporcionado por el profesor y los compa�
 - Reducir al máximo el texto en las diapositivas y hacer uso de metáforas gráficas.
 
 ## Feedback del día 11/04
-- Se tiene que elaborar dos presentaciones diferetes.
+- Se tiene que elaborar dos presentaciones diferentes.
 - Hay que contar el proyecto de cara a inversores, no centrandote tanto en el como, sino más en el que. 
 - Una presentación igual a la que llevamos presentando hasta hoara, la otra vamos a ir iterando sobre ella de cara al World Project Launch.
 - La presentación para el WPL debe durar en torno a los 10 min. La otra unos 5 minutos, este tiempo no se puede repartir, es fijo.
