@@ -71,7 +71,7 @@ En esta página se recoge el feedback proporcionado por el profesor y los compa�
 - La segunda sección, que hace exactamente (demo del proyecto), contar casos de uso basados en una historia, solo cosas importantes, y consistente con killer opener y el video.
 - La tercera sección hay que hablar de la competencia, explicar competidores como siempre.
 - La cuarta sección hablar del equipo.
-- La quinta sección tartar de como la idea podría ser rentable. Enfatizando en los puntos principales del modelo de negocio.(fuentes de ingresos, costes, plan de negocio y una seccion que sea oportunidades de inversion donde ponemos e video maximo de 1 minuto para inversores).
+- La quinta sección tratar de como la idea podría ser rentable. Enfatizando en los puntos principales del modelo de negocio.(fuentes de ingresos, costes, plan de negocio y una seccion que sea oportunidades de inversion donde ponemos e video maximo de 1 minuto para inversores).
 - Última sección, donde se puede ver mas informacion, link a landing page, qr y un enlace al sistema de produccion (producto).
 - La primera sección de la sección de 5 minutos, debe tratar sobre el modelo de segmentacion, a que segmentos de nuestro público objetivo vamos a orientar la campaña, y poner un par de protopersonas, definir campañas para cada segmentación.
 - La segunda sección, debe tratar del posicionamiento en los motores de busqueda (palabras clave para encontrarnos).
