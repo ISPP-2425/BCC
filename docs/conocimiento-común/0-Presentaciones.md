@@ -65,7 +65,7 @@ En esta página se recoge el feedback proporcionado por el profesor y los compa�
 ## Feedback del día 11/04
 - Se tiene que elaborar dos presentaciones diferentes.
 - Hay que contar el proyecto de cara a inversores, no centrandote tanto en el como, sino más en el que. 
-- Una presentación igual a la que llevamos presentando hasta hoara, la otra vamos a ir iterando sobre ella de cara al World Project Launch.
+- Una presentación igual a la que llevamos presentando hasta ahora, la otra vamos a ir iterando sobre ella de cara al World Project Launch.
 - La presentación para el WPL debe durar en torno a los 10 min. La otra unos 5 minutos, este tiempo no se puede repartir, es fijo.
 - La primera sección de la presentación para el WPL, tienen que tener un killer opener y un primer anuncio orientado a clientes, todo esto unido.
 - La segunda sección, que hace exactamente (demo del proyecto), contar casos de uso basados en una historia, solo cosas importantes, y consistente con killer opener y el video.
