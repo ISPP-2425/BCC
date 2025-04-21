@@ -28,3 +28,8 @@ En esta página se recoge el feedback proporcionado por el profesor y los compa�
 - Usar imágenes libres de derechos o creadas por el equipo para evitar problemas legales.
 - Añadir imágenes de usuarios más realistas y asegurarse de que la información contenida no sea repetitiva. Evitar patrones evidentes, como imágenes de usuario duplicadas, para aumentar la credibilidad del proyecto.
 - Destacar qué funcionalidades se han implementado basadas en el feedback de los usuarios pilotos.  
+
+## Feedback del dia 11/04
+- Controla los efectos de zoom in/out para no marear
+- Aumenta el enfoque visual e interactividad con la aplicacion
+- Acorta la demo y céntrala únicamente en las funcionalidades fundamentales.

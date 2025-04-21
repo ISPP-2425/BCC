@@ -43,3 +43,9 @@ En esta página se recoge el feedback proporcionado por el profesor y los compa�
 
 ## Feedback del día 04/04
 - El análisis de esta semana muestra que los comentarios recibidos por los grupos siguen líneas similares a feedbacks anteriores, sin aportar observaciones fundamentalmente nuevas. Se mantienen las áreas de mejora ya identificadas en sesiones previas, centradas principalmente en aspectos de ejecución y presentación.
+
+## Feedback del día 11/04
+- Abrevia cifras (usa “k”/“m”)
+- Define explícitamente las protopersonas (clientes objetivo) y ajusta los datos de ingresos o mercado para que encajen con ellas.
+- Refina el target con datos cuantitativos reales y racionaliza el punto de entrada al mercado, justificando la estrategia de lanzamiento.
+

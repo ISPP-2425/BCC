@@ -79,3 +79,4 @@ En esta página se recoge el feedback proporcionado por el profesor y los compa�
 - Hay que definir rol community manager, tratar sobre la planificacion publicaciones (cuando se va a publicar).
 - Hablar de los costes de marketing (desglosar de la primera presentacion estos costes)
 - Por último, los anuncios dirigidos (banners, etc.) requerirán actualizar la landing page para incluirlos.
+- Gestiona mejor el tiempo para no dejar espacios o extenderse demasiado.
