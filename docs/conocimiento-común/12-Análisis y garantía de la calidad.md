@@ -17,3 +17,7 @@ En esta sección se presenta el feedback recibido sobre la **calidad del proyect
 ## Feedback del día 04/04
 
 En el apartado de métricas y validación, se presentó una crítica constructiva sobre la gráfica de rendimiento del sprint 3. Se cuestionó la validez de los datos al ver que casi todos los miembros aparecen con un rendimiento del 10, lo cual puede ocultar problemas reales en la productividad. También se mencionó que los números laterales de la gráfica no se leían bien, dificultando la interpretación. Este tipo de observaciones apunta a una mejora en la visualización de datos y una reflexión más crítica sobre su significado real. Por otra parte, se felicitó a los equipos por la priorización del feedback recibido de los usuarios piloto, diferenciando adecuadamente entre errores técnicos, percepciones de UX y nuevas ideas de mejora. Esta categorización es clave para tomar decisiones informadas y mantener el enfoque del producto.
+
+## Feedback del día 11/04
+- Documenta y explica los bugs hallados durante el testing
+- Si se realizan tests de estrés y performance para verificar la robustez del sistema, hacerlos en entornos que simulen el estado de despliegue sin estar en despliegue.

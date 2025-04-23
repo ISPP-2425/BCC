@@ -13,3 +13,6 @@ En esta sección se presenta el feedback recibido sobre la **asuntos legales del
 ## Feedback del día 04/04
 
 En lo relativo al aspecto legal, se comentó que el enfoque del impacto legal resultaba anticlimático, dado que se centraba en lo que no se debía hacer en lugar de transmitir una visión clara y positiva de cómo se abordaban las normativas. Esta crítica sugiere reformular esta parte del entregable para convertirla en una oportunidad narrativa, demostrando cómo el cumplimiento normativo forma parte del valor del producto y no solo una limitación. También es importante destacar que en semanas anteriores se había mencionado la necesidad de mostrar de forma concreta los acuerdos legales y cómo afectan al modelo de negocio, algo que convendría recuperar en futuras entregas.
+
+## Feedback del día 11/04
+- Identifica y menciona las leyes o regulaciones regionales que puedan afectar el uso o despliegue de la app.

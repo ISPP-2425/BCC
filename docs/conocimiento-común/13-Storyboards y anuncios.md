@@ -1,6 +1,6 @@
 # Storyboards
 
-En esta sección se presenta el feedback recibido sobre la **Storyboards**, basado en las evaluaciones realizadas por el profesor y los compañeros durante las presentaciones.
+En esta sección se presenta el feedback recibido sobre la **Storyboards y anuncios**, basado en las evaluaciones realizadas por el profesor y los compañeros durante las presentaciones.
 
 ## Feedback del día 21/03
 - Definir claramente el público objetivo para realizar los storyboards, resaltando la propuesta única y diferenciadora de la aplicación y usando elementos distintivos para reforzar el mensaje.
@@ -12,3 +12,6 @@ En esta sección se presenta el feedback recibido sobre la **Storyboards**, basa
 - Por mucho que la ejecución técnica de un anuncio se vea agradable, si este no representa una situación creíble o relevante, no vale la pena. Alinear mejor el caso mostrado con un escenario realista y relevante para el usuario objetivo.
 - Tener cuidado con los sonidos: música muy alta, voces muy bajas, etc.
 - Hacer un anuncio muy largo con una mezcla de temas diferentes puede hacer que este sea pesado, poco llamativo y difícil de entender. Hay que mantener un hilo conductor claro y objetivo.
+
+## Feedback del día 11/04
+- Overlays y gráficos dinámicos con datos reales para el anuncio de inversores
