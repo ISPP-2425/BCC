@@ -533,6 +533,77 @@ Estas son sugerencias; podemos decidir qué incluir o no en la presentación:
 8. **Anuncios**  
    - No es necesario repetir anuncios si ya se incluyeron en otra presentación.
 
+
+## Semana 10
+
+### Feedback relacionado con la presentación
+- **Claridad visual y técnica**:  
+  - Se recomienda apagar la luz frontal para mejorar el contraste visual.  
+  - La demo se veía regular; se sugiere revisar iluminación o aplicar más zoom.  
+- **Distribución del contenido**:  
+  - En el anuncio de usuarios, se justificó el plan premium muy brevemente, solo se sentía como si se justificara su compra por el precio.  
+  - La diapositiva sobre funcionalidades se hizo pesada. Se sugiere explicar rápido y dejar que se entienda en la demo.  
+  - Hay repetición innecesaria del modelo de negocio y planes de precios antes y durante el anuncio para inversores. Se recomienda reorganizar para evitar redundancia.  
+  - La duración actual necesita recortes para incluir todo el contenido necesario en la presentación final del WPL.  
+- **Contenido de la demo y anuncios**:  
+  - Buena presentación general y enfoque claro de la demo.  
+  - Gustó mucho el anuncio para inversores y cómo se estructuró.  
+  - El anuncio de usuarios fue valorado positivamente, aunque se percibió un poco largo; acortarlo puede beneficiar.  
+  - En el video de artículos, fue positivo que se mostraran claramente las fuentes.  
+- **Contenido de marketing (PPL)**:  
+  - Faltan detalles de community management: objetivos, plan, roles, y cómo se gestionarán las redes sociales.  
+  - Se recomienda incluir el cronograma de publicaciones y detallar si se usarán banners en webs u otros canales externos.  
+  - El plan de difusión de anuncios debe desarrollarse más (anuncios, banners, fechas, invitaciones a influencers, etc.).  
+  - Faltan objetivos claros para la campaña de marketing y un plan de referidos con plazos y metas definidas.
+
+### Feedback relacionado con el desarrollo del proyecto
+- **Enfoque estratégico**:  
+  - Les gusta cómo se está presentando el proyecto y su enfoque general.  
+  - El anuncio inicial fue bien valorado, al igual que la explicación de los planes de inversión.  
+- **Datos financieros y de crecimiento**:  
+  - Faltan datos de costes concretos y gráficas explicativas.  
+  - Es necesario incluir estimaciones financieras claras y objetivos específicos de marketing.  
+  - Al final de la presentación debe definirse una de las dos ofertas como prioritaria.  
+
+#### Tareas a realizar para la siguiente semana
+
+**1. Ensayo del World Project Launch (10 min)**  
+Una buena presentación debe responder a las siguientes preguntas:
+
+1. **¿De qué va el proyecto?**  
+   - Puede ser un *killer opener* o aprovechar con demo o anuncio corto de máximo un minuto.
+2. **Anuncio**  
+   - Anuncio de inversores, se hizo hincapié en que apareciera en la primera presentación.
+3. **¿Cómo nos diferenciamos de la competencia?**  
+   - Comentar los factores clave que nos hacen únicos frente a la competencia.
+4. **¿Quién hay detrás de esto?**  
+   - Presentar al equipo.
+5. **¿Puede llegar a ser rentable?**  
+   - Puntos clave del mercado, planes de negocio, costos a corto y medio plazo, oportunidades de inmersión.  
+   - Ejemplo: incluir un vídeo de anuncio.
+6. **¿Dónde puedo encontrar más información?**
+   - Landing page, correo y como contactarnos.
+
+**2. Algo más específico del PPL (5 min)**  
+
+1. **Marketing para ganar más mercado**  
+   - Modelo de segmentación de los usuarios (se recomienda ver la píldora teórica).
+2. **Usuarios potenciales, tipo de usuario/tipo de cliente**  
+   - Concepto de *persona*: caracterización de un cliente ficticio como una historia que sitúe al usuario.  
+   - Crear un par de *personas* para entender las necesidades de los clientes y usuarios.
+3. **SEO**  
+   - Palabras clave: ¿cuáles serían las nuestras?
+4. **Campaña de lanzamiento del producto**  
+   - Promociones y acciones para impulsar la tracción inicial.
+   - Partners potenciales e impacto mediático.
+5. **Community management**  
+   - Objetivos, plan y roles.  
+   - Nivel de detalle según decisión interna.
+6. **Costes del marketing.**
+7. **Anuncios**  
+   - Videos, banners y demás material promocional.
+
+
 # Otros Grupos
 
 ## Semana 1
@@ -1189,3 +1260,151 @@ Estas son sugerencias; podemos decidir qué incluir o no en la presentación:
   - El anuncio dirigido a inversores no cumplió con las expectativas. Se recomienda revisar el feedback de otros grupos y ajustar el contenido para que sea más atractivo y relevante para este público objetivo. 
 - **Aspectos técnicos en la demo en directo**:  
   - En la demo en directo, uno de los problemas identificados fue el zoom. Es necesario abordar aspectos técnicos como este para mejorar la experiencia del usuario durante la presentación.  
+
+## Semana 10
+
+### Grupo 1 (Holos)
+
+#### Feedback relacionado con la presentación
+- **Inicio de la presentación**:  
+  - El inicio fue percibido como poco efectivo debido al ruido en la clase y problemas con el micrófono. Es fundamental garantizar que el **inicio de la presentación** sea claro y profesional para captar la atención del público.  
+- **Dinamismo y ritmo**:  
+  - Se percibió una actitud demasiado relajada durante la presentación. Se sugiere variar los ritmos y añadir más dinamismo para mantener el interés del público.  
+- **Contexto geográfico**:  
+  - Falta indicar si los datos presentados en el anuncio de inversores aplican a España, Europa u otra región específica. Proporcionar este contexto es clave para que la audiencia entienda mejor el alcance del proyecto.   
+- **Claridad en términos técnicos**:  
+  - Unificar los términos utilizados, como "escrow/mediador". Se sugiere usar "mediador" porque es un término más comprensible para el público general. 
+
+#### Feedback relacionado con el desarrollo del proyecto
+- **Volumen económico y accesibilidad**:  
+  - No se especificó el volumen económico de los usuarios potenciales (artistas) ni cuán asequible sería la herramienta para ellos. Este dato es crucial para evaluar la viabilidad del proyecto.  
+- **Target audience**:  
+  - Es importante considerar si el target audience (por ejemplo, si realmente quieren captar la atención de los inversores en Bitcoin) realmente coincidiría con los usuarios objetivo de la herramienta para artistas.  
+
+### Grupo 2 (Gastrostock)
+
+#### Feedback relacionado con la presentación
+- **Ritmo y estructura**:  
+  - Buen ritmo de presentación, con una forma efectiva de hilar las ideas.  
+
+- **Anuncio inicial**:  
+  - Al anuncio inicial le falta un poco más de información para contextualizar mejor el proyecto.  
+
+- **Uso del tiempo verbal**:  
+  - No hablar en futuro al presentar el equipo, ya que estamos ya terminando y esto puede generar confusión sobre el estado actual del proyecto.  
+
+- **Posición de la demo**:  
+  - La demo no debe ir al final; es mejor colocarla antes de la presentación del equipo para mantener el interés del público.  
+
+- **Vídeo de inversores**:  
+  - No hay vídeo dirigido a inversores. Es importante incluir uno, pensando en el target audience y manteniendo un tono formal.  
+
+- **Claridad en la demo**:  
+  - La demo va muy rápido y no se entiende claramente de qué trata la aplicación. Se sugiere centrarse en los casos de uso clave y destacar lo que diferencia al proyecto de la competencia.  
+
+#### Feedback relacionado con el desarrollo del proyecto
+- **Exceso de detalles en costes**:  
+  - Proporcionar demasiados detalles sobre los costes puede restar claridad y desviar el foco de los aspectos más relevantes del proyecto.  
+
+- **Transición entre secciones**:  
+  - No pasar directamente de la parte de inversores a la presentación del equipo sin una transición adecuada. Esto puede romper la línea argumental natural.  
+
+- **Seguimiento de la línea argumental**:  
+  - Es importante seguir la línea argumental dada para mantener una narrativa coherente y fluida que guíe al público de manera natural.  
+
+### Grupo 3 (Eventbride)
+
+#### Feedback relacionado con la presentación
+- **Uso de elementos visuales**:  
+  - El uso de la tarta fue muy acertado y gustó mucho. Se sugiere ampliar esta idea para reforzar su impacto visual y narrativo.    
+  - El equipo visual estuvo muy bien presentado, lo que contribuyó positivamente a la percepción general.  
+  - Se sugiere revisar el contraste de colores en la presentación para mejorar la legibilidad y el impacto visual.
+  - Algunas diapositivas contenían demasiado texto, lo que puede abrumar al público. Se recomienda simplificar y resaltar solo los puntos clave. 
+
+- **Aspectos emotivos y estacionalidad**:  
+  - La presentación fue muy emotiva y tuvo en cuenta aspectos clave como la estacionalidad de los clientes, demostrando un buen análisis del mercado para las campañas de marketing.  
+
+- **Persona profiles**:  
+  - Los persona profiles fueron espectaculares, destacando un diseño e información claros y relevantes.  
+
+- **Killer opener**:  
+  - No fue el mejor killer opener, puesto que tenían el listón muy alto y se arriesgaron por un tono mas formal. Ahora se sabe que se puede planear un killer opener sin un toque completamente serio para el WPL. 
+
+- **Manejo de tiempos**:  
+  - Se dedicó demasiado poco tiempo a explicar las características de la aplicación; se sugiere utilizar elementos como la tarta para reforzar esta parte.   
+  - La presentación del equipo ocupó demasiado tiempo, lo que puede restar atención a otros aspectos importantes del proyecto.  
+
+- **Historia en la demo**:  
+  - La demo no sigue una historia clara ni muestra los casos de uso específicos; es importante explicar cómo interactúa un usuario con la aplicación.   
+
+- **Definición de roles**:  
+  - Los roles presentados fueron demasiado genéricos, lo que generó redundancia y falta de diferenciación entre los miembros del equipo.  
+
+- **Calidad de audio en vídeos**:  
+  - En el vídeo de inversores, se detectó eco y falta de datos concretos para respaldar la propuesta de inversión.  
+
+- **Diálogo en el vídeo**:  
+  - En el vídeo, resulta poco natural que la madre mencione utilizar Eventbride en lugar de los miembros del equipo. Esto debería ajustarse para mayor credibilidad.  
+
+#### Feedback relacionado con el desarrollo del proyecto
+- **Enfoque en casos de uso**:  
+  - Es fundamental centrarse más en los casos de uso clave y explicar cómo interactúan los usuarios con la aplicación para transmitir mejor su valor diferencial.  
+
+- **Datos para inversión**:  
+  - Falta incluir datos concretos y convincentes en la propuesta para inversores, lo que es crucial para captar su interés y confianza.  
+
+### Grupo 4 (Borroo)
+
+#### Feedback relacionado con la presentación
+- **Ritmo, estructura y expresión**:  
+  - Buen ritmo y calidad general de la presentación.  
+  - Evitar frases redundantes o ambiguas. 
+  - Recomiendan cuidar las transiciones y mantener una línea argumental coherente que conecte todas las secciones de la presentación.  
+
+- **Longitud de vídeos**:  
+  - El anuncio inicial parece repetitivo y se puede reducir para ser más efectivo. Un mejor enfoque sería añadir información clave que genere interés desde el inicio.  
+  - La demo es demasiado corta y rápida, lo que dificulta entender claramente el funcionamiento y propósito del proyecto.  
+
+- **Profundidad y datos técnicos**:  
+  - Se debe encontrar un equilibrio entre simplificar y proporcionar detalles técnicos relevantes, considerando que es una aplicación software siendo presentada a personas que igual no son conocedoras del lenguaje técnico en profundidad.  
+  - Si se menciona la cantidad de miembros en grupos específicos, es importante incluir también el número total de miembros del equipo.  
+
+- **Datos reales para inversores**:  
+  - Faltan datos concretos y reales en la sección dirigida a inversores.  
+
+#### Feedback relacionado con el desarrollo del proyecto
+- **Perfiles de usuarios**:  
+  - Aunque se muestran cuatro perfiles de usuarios, solo se explican dos. Además, ambos perfiles alquilan, lo que genera confusión sobre las diferencias entre ellos.  
+
+- **Planes de inversión**:  
+  - Los planes de inversión parecen poco realistas o mal planificados.  
+
+### Grupo 6 (FisioFind)
+
+#### Feedback relacionado con la presentación
+- **Killer opener enlazado con anuncio inicial**:  
+  - El killer opener ha sido bien recibido, aunque se reconoce que hay otros mejores. Sin embargo, carece de personajes o elementos narrativos claros que conecten con el resto de los vídeos.
+
+- **Estructura, presentación y fluidez**:  
+  - La presentación no fluye de manera óptima debido al orden de las diapositivas. Se sugiere revisar la secuencia para mejorar la coherencia narrativa.  
+  - Explicar claramente qué representa cada vídeo (demo, anuncio, etc.) para evitar confusiones. 
+  - Evitar términos ambiguos como "pretende" y ser contundentes ("hace") para transmitir certeza sobre el estado actual del proyecto.  
+  - Hay diapositivas que se tardan demasiado tiempo en desarrollar, lo que puede desviar la atención del público. Es mejor ser conciso y directo.   
+
+- **Contenido audiovisual**:  
+  - La demo es muy profesional, pero le falta información clave para que sea completamente efectiva. Esto puede generar ambigüedad sobre el propósito del proyecto.  
+  - El vídeo dirigido a inversores no incluye planes de inversión concretos, lo que reduce su utilidad para ese público objetivo.  
+  - El anuncio inicial sobre FisioFind necesita más contexto; si alguien no está familiarizado con el proyecto, podría no entenderlo completamente.  
+
+- **Roles del equipo y claridad**:  
+  - Aunque es original presentar al equipo mediante un vídeo, es necesario especificar los roles de cada miembro de manera clara y comprensible para un público no técnico.
+
+- **Profundidad técnica y características**:  
+  - Se dedica demasiado tiempo a describir características sin profundizar en cómo estas benefician al usuario o diferencian al proyecto. Es importante centrarse en los casos de uso clave y los beneficios principales.    
+
+- **Planes de pago y objetivos**:  
+  - Los planes de pago no especifican que son mensuales, lo que puede generar confusión. Además, falta incluir los objetivos de la campaña de marketing, un aspecto crucial para contextualizar el alcance del proyecto.  
+
+#### Feedback relacionado con el desarrollo del proyecto
+- **SEO y trabajo realizado**:  
+  - El SEO ha sido destacado como un punto fuerte, y se nota el trabajo dedicado al proyecto. Este esfuerzo debe reflejarse también en la claridad y cohesión de la presentación para maximizar su impacto.  
