@@ -573,6 +573,42 @@ No procede ya que no hubo clase
     * Desarrollar sistema para verificar que las soluciones se implementan correctamente.
 * **Omitir SLA para la próxima semana.**
 
+## Semana 10 (11/04/2025)
+#### Feedback relacionado con la presentación
+
+* **Presentación General:**
+  * Se reconoce el **buen trabajo de marketing en redes sociales**, cumpliendo con los objetivos propuestos.
+  * Se destaca el **buen desglose de información** en cuanto a costes y usuarios piloto.
+  * Se aprecia que se ha dedicado **bastante tiempo al acabado visual de la aplicación**.
+  * Sin embargo, **la demo no transmite todo ese esfuerzo**: se percibe como una **lista de funcionalidades sin hilo conductor**.
+  * Se recomienda seguir una **historia durante la demo**, mostrando solo algunas funcionalidades clave en lugar de intentar cubrirlo todo.
+  * El enfoque debe ser **más corto, narrativo y centrado**, facilitando así la conexión emocional y funcional con el público.
+
+* **Enfoque para inversores:**
+  * El nivel de acabado es **positivo**, pero se debe **reforzar el mensaje dirigido a inversores** con un tono más **formal y profesional**.
+  * Es necesario **mostrar información sobre el mercado** para contextualizar el proyecto en un entorno económico real.
+  * Se recomienda explicar de forma más clara **a qué se va a destinar el dinero** y **por qué tiene potencial de retorno**.
+  * Añadir datos económicos relevantes para proyectar beneficios y crecimiento del negocio.
+  * Enfatizar el **potencial del proyecto**, más allá del producto como tal.
+
+* **Medición de Objetivos:**
+  * Se sugiere establecer **medidas concretas para los problemas detectados**, indicando el **objetivo de mejora y cómo se medirá su avance**.
+  * Este patrón de "problema – objetivo – medida" no debe limitarse a incidencias, sino aplicarse también a **mejoras** dentro del proyecto.
+
+#### Feedback relacionado con el desarrollo del proyecto
+
+* **Gestión de Problemas:**
+  * Se valora positivamente la **gestión activa de problemas**, siendo este un aspecto a **mantener** en futuras entregas.
+  * Es importante continuar profundizando en **cómo se mide la efectividad de las soluciones aplicadas**.
+
+* **Usuarios Piloto:**
+  * Muy buena **gestión de los usuarios piloto**, otro punto fuerte del proyecto que debe conservarse.
+  * Se agradece la claridad al explicar su rol y utilidad en el proceso de desarrollo.
+
+#### Tareas a realizar para la siguiente semana
+
+Intencionalmente en blanco.
+
 ---
 
 ## Grupo 1 - Holos
@@ -853,6 +889,43 @@ Intencionalmente en blanco, ya que no se nos asignó recoger el feedback de dich
 
 Intencionalmente en blanco, ya que no se nos asignó recoger el feedback de dichos grupos.
 
+## Semana 10 (11/04/2025)
+#### Feedback relacionado con la presentación
+
+* **Narrativa General:**
+  * El **hilo de discurso es positivo**, con partes especialmente buenas.
+  * El **anuncio para inversores** ha sido muy bien valorado: aporta una **idea clave en el mercado** y encuentra el **punto justo entre dinamismo y seriedad**.
+  * Se recomienda **contrastar el anuncio con un inversor real**, para validar el enfoque. Esta recomendación se extiende al resto de los vídeos del proyecto.
+
+* **Voz y Audición:**
+  * Se indica que **no se escucha bien desde el fondo del aula**, lo que genera pérdida de información.
+  * Se recomienda el uso de **micrófonos** y realizar **ensayos previos**.
+  * Es importante **mejorar la vocalización y el ritmo** al hablar, evitando explicaciones demasiado rápidas.
+  * Se sugiere practicar con **ejercicios de vocalización** (ej. vídeo de William Treasure).
+
+* **Problemas y Soluciones:**
+  * Se valora positivamente cómo se **plantean las soluciones a los problemas**, aunque se sugiere **extender un poco más la explicación** de los mismos.
+
+#### Feedback relacionado con el desarrollo del proyecto
+
+* **Automatización y Calidad del Código:**
+  * Se recomienda **automatizar las pruebas** para evitar que nuevo código rompa la aplicación.
+  * Incluir **pruebas de integración y pruebas end-to-end** utilizando frameworks como **Playwright**.
+  * Estas pruebas deben centrarse al menos en los **casos de uso core**.
+
+* **Gestión de Pull Requests:**
+  * Uno de los principales problemas detectados es la **lentitud en las revisiones de PR**.
+  * Se debe **medir el tiempo entre la creación y revisión de una pull request**, y **minimizarlo al máximo**.
+  * La revisión debe ser lo más **instantánea posible** tras la creación de la PR.
+
+* **Usuarios Piloto:**
+  * Actualmente hay **34 usuarios piloto, de los cuales 27 usan la app activamente**.
+  * Se destaca que lo realmente importante es que **la aplicación forme parte de su día a día**, no que se use únicamente para rellenar encuestas.
+
+#### Tareas a realizar para la siguiente semana
+
+Intencionalmente en blanco.
+
 ---
 
 ## Grupo 2 -  GastroStock
@@ -1014,6 +1087,49 @@ Intencionalmente en blanco, ya que no se nos asignó recoger el feedback de dich
 #### Tareas a realizar para la siguiente semana
 
 Intencionalmente en blanco, ya que no se nos asignó recoger el feedback de dichos grupos.
+
+## Semana 10 (11/04/2025)
+#### Feedback relacionado con la presentación
+
+* **Narrativa General y Killer Opener:**
+  * Se valora el esfuerzo por **innovar y aplicar el feedback recibido anteriormente**.
+  * El **Killer Opener ha sido bien recibido**, salvo el comentario del "niño gordo", que puede resultar inapropiado o contraproducente de cara a ciertos públicos. Se recomienda **eliminar este tipo de referencias** para evitar perder potenciales clientes o inversores.
+  * Se aprecia que el grupo **ha sabido adaptarse a las críticas anteriores**, lo cual es muy positivo.
+
+* **Anuncio para Inversores:**
+  * El **inicio del anuncio es muy largo**; dedicarle **dos minutos al principio** es excesivo. Se sugiere **acortar esa parte inicial** sin perder la conexión emocional.
+  * Buena **empatía con los personajes** y **personalización del guion**.
+  * Se recomienda **mostrar paquetes de inversión diferenciados**, especialmente para incluir **opciones de microinversores**, con presupuestos más modestos pero igualmente interesados.
+  * Se destaca que **no se han dado detalles específicos de inversión**, lo cual es importante para hacerlo más realista.
+  * Sería ideal **mostrar en el anuncio los mismos datos económicos que se presentan en la presentación** para reforzar el mensaje.
+
+* **Costes y Datos Económicos:**
+  * Se indica que los **costes presentados son más bien capitalizables que capitales**, es decir, que pueden transformarse en inversión y mejoras a futuro.
+  * Se valora positivamente la **respuesta al feedback anterior sobre los porcentajes de los bares**, integrándolos correctamente en la narrativa económica.
+
+* **Claridad del Mensaje:**
+  * Se señala que **algunas ideas no quedan claras** durante la presentación. Por ejemplo, **no se entiende bien la referencia al "Terminator"**, lo que puede generar confusión en el público.
+
+* **Matriz de Rendimiento:**
+  * La matriz ha resultado **demasiado resumida**.
+  * Se recomienda mostrar una **matriz individualizada previa**, para poder ver **si quienes estaban peor están mejorando**.
+  * También se sugiere **mostrar el lugar que ocupa cada miembro** del equipo dentro del conjunto.
+
+#### Feedback relacionado con el desarrollo del proyecto
+
+* **Gestión de Problemas:**
+  * Se reconoce que el equipo ha sido **resiliente**, enfrentando numerosos problemas y mostrando **retrasos en ciertas áreas**, pero ha sabido **tirar para adelante** con motivación.
+  * Se valora el hecho de que **han cogido todo lo que tenían mal y han seguido adelante**, aprendiendo del proceso.
+  * Faltó **mostrar la evolución de las soluciones a los problemas**, especialmente en cómo han cambiado desde los problemas iniciales hasta los actuales.
+  * Dado que **han tenido problemas diferentes a los de otros grupos**, sería útil explicar **cómo se han adaptado a esos retos concretos**.
+
+* **Seguimiento del Rendimiento:**
+  * Se sugiere ampliar la información sobre la **evolución del rendimiento**, no solo en general, sino también por miembro.
+  * Mostrar si quienes tenían bajo rendimiento al inicio están **mejorando de forma objetiva y medible**.
+
+#### Tareas a realizar para la siguiente semana
+
+Intencionalmente en blanco.
 
 ---
 
@@ -1212,6 +1328,67 @@ Intencionalmente en blanco, ya que no se nos asignó recoger el feedback de dich
 #### Tareas a realizar para la siguiente semana
 
 Intencionalmente en blanco, ya que no se nos asignó recoger el feedback de dichos grupos.
+
+## Semana 10 (11/04/2025)
+#### Feedback relacionado con la presentación
+
+* **Killer Opener:**
+  * Muy buen killer opener, **gracioso y efectivo**.
+  * Se nota que **la tensión inicial ayudó a captar la atención** y que se ha corregido respecto al feedback anterior.
+  * Aunque es un opener **reciclado**, funcionó bien y no fue necesario cambiarlo.
+  
+* **Presentación General:**
+  * El presentador ha sido **muy bueno**, con un lenguaje **cordial**, sin faltar al respeto al mencionar los problemas del equipo.
+  * Mantiene **buen tono, lenguaje corporal adecuado y comentarios ligeros que aportan frescura**.
+  * La velocidad de presentación ha sido **óptima**, sin acelerarse pero sin perder el ritmo.
+
+* **Anuncios:**
+  * Los anuncios son **creativos, interesantes y captan bien la atención del público**.
+  * El anuncio para inversores está muy bien logrado, con elementos visuales como el **"draw my life"** que **explican claramente los ingresos y gastos**.
+  * La canción utilizada es **pegadiza**, lo que ayuda a que se recuerde mejor el mensaje.
+
+* **Gráficas y Costes:**
+  * Las **gráficas de costes y rentabilidad** al inicio de la presentación están **muy bien explicadas y visualmente claras**.
+  * Se nota que se ha **estabilizado la curva de costes** y que se acerca más a lo estimado.
+  * Se han **priorizado bien los feedbacks anteriores** y se han abordado en distintos apartados.
+  
+* **Demo:**
+  * La **demo es excelente**, mantiene la **temática del killer opener** e incluye toques de humor (como **Don Ramón y Novita en 3D**).
+  * Se ha explicado bien **por encima del vídeo**, lo que ha facilitado su comprensión.
+  * La demo se ve con claridad y presenta **perfectamente la funcionalidad de la app**.
+
+* **Colaboración:**
+  * Muy buena la **idea de colaborar con otros grupos para el PPL**, ha sido bien recibida por profesorado y alumnado.
+
+* **Comunicación del equipo:**
+  * Se valora cómo se **presenta rápidamente el equipo** y se comunican **muchas cosas en poco tiempo**.
+
+#### Feedback relacionado con el desarrollo del proyecto
+
+* **Rendimiento y Gestión del Tiempo:**
+  * Se ha utilizado un **calendario Niko Niko** para medir el rendimiento del equipo y evaluar el ambiente de trabajo.
+  * Se ha explicado **cómo se ha dividido el tiempo** del sprint, lo cual ayuda mucho a planificar el siguiente.
+  * Las **horas trabajadas** están bien **alineadas con lo estimado por la asignatura**.
+
+* **Calidad del Código:**
+  * Se destaca la **gran cobertura con Pytest** y la **baja complejidad ciclomática según Codacy**.
+  * ¡OJO! Se señala como **muy grave hacer merge de ramas incorrectas**. Hay que tener mayor cuidado en este aspecto.
+  
+* **DAFO y Priorización de Problemas:**
+  * El análisis DAFO ha sido **muy bien explicado**.
+  * Buena **priorización del feedback recibido**, aplicando mejoras por bloques.
+
+* **Problemas Técnicos:**
+  * Se ha **solucionado el problema de usuarios concurrentes** acotando correctamente su número.
+  * Se recomienda **detectar el número de usuarios concurrentes en tiempo real** para evitar errores futuros.
+
+* **Datos y Enfoque del Proyecto:**
+  * Se sugiere usar **datos reales** (por ejemplo, del **Instituto Nacional de Estadística** o noticias) para reforzar el análisis.
+  * En cuanto a la idea del trastero, se recomienda **enfocar la solución únicamente al alquiler**, ya que puede prestarse a confusión si también parece de compraventa.
+
+#### Tareas a realizar para la siguiente semana
+
+Intencionalmente en blanco.
 
 ---
 
@@ -1416,6 +1593,71 @@ Intencionalmente en blanco, ya que no se nos asignó recoger el feedback de dich
 #### Tareas a realizar para la siguiente semana
 
 Intencionalmente en blanco, ya que no se nos asignó recoger el feedback de dichos grupos.
+
+## Semana 10 (11/04/2025)
+#### Feedback relacionado con la presentación
+
+* **Narrativa General:**
+  * Pablo valora que **son el único grupo que parece haber entendido de verdad las competencias**.
+  * Se destaca que **unen muy bien todos los apartados de la presentación**, manteniendo coherencia y conexión entre ideas.
+  * El **anuncio gusta**, se percibe como **profesional y bien planteado**.
+  * El **Killer Opener está bien ejecutado**, aunque se recomienda **controlar la informalidad** para no generar una imagen poco profesional, ya que “la peña lo va a mirar”.
+  * Se sugiere **dar una frase final potente** para cerrar la presentación y **volver a enlazar todos los elementos**.
+
+* **Demo:**
+  * Pablo confiesa que **esperaba que diera problemas, pero funcionó bien**.
+  * Se aprecia el enfoque desde la perspectiva de la radio del camión, lo cual aporta un **toque original**.
+  * La **UI se muestra de forma profesional**, y las **validaciones de formularios están bien integradas**.
+  * La demo es **orgánica y natural**, bien conectada con el resto de la presentación.
+  * Se valora que se **pregunte sobre el impacto de la demo y los anuncios**, aunque se advierte que “nuestra peña no va a responder eso ni de coña”.
+
+* **Anuncios:**
+  * El **anuncio de estilo “FisioFind”** está bien ejecutado, aunque se advierte que **se ha creado una tendencia y todos están copiando**.
+  * Se recomienda **mantener el estilo propio**, dejando atrás la “ola” y los “porros ajenos”.
+  * Lo ideal sería **ajustar los anuncios al estilo que Pablo lleva recomendando semanas**: claridad, profesionalidad y creatividad sin excesos.
+
+* **Costes y Marketing:**
+  * Se destaca la **planificación de marketing**, usando **técnicas actuales**.
+  * La **representación visual de los costes de marketing** (como el quesito) es original y clara.
+  * Se valora positivamente que los **costes estén vinculados con la estrategia de penetración en el mercado**.
+
+* **Audio y Presentación:**
+  * Por fin se menciona que **no se escucha bien**, y se recomienda **tener en cuenta el ruido ambiente y mejorar el audio**.
+  * Se ha **mejorado la velocidad de presentación**, presentando con ritmo sin acelerarse.
+
+* **Categorización del Feedback:**
+  * La forma en que presentan el feedback **es visual y clara**, muy útil para seguir el hilo de la exposición.
+
+* **Elementos creativos:**
+  * La sección de **“Empleado de la semana”** gusta, pero se advierte que **Pablo podría considerarlo poco profesional** si no se hace con objetividad.
+
+#### Feedback relacionado con el desarrollo del proyecto
+
+* **Usuarios Piloto:**
+  * Se destaca la **buena tasa de adopción (80%)** de los 31 usuarios piloto: 6 empresas, 10 transportistas y el resto compañeros.
+  * Pablo insiste en saber cuántos **usuarios piloto reales** hay y si la app **se usa de verdad**.
+
+* **Planificación y Trazabilidad:**
+  * La **planificación está bien, sin más**.
+  * Se destaca positivamente el uso de **gráficas de trazabilidad de problemas**, que permiten hacer seguimiento visual.
+  * Se recomienda **crear un Excel o similar** con estos datos y **no dejarlo para el último día**.
+  * El **reloj de avance del proyecto** ha gustado mucho. Se sugiere **instalar ZenHub** para automatizar y visualizar el progreso.
+
+* **Rendimiento y Productividad:**
+  * La **distribución de horas es original**, dividiéndolas por tareas o secciones.
+  * El **rendimiento está bien presentado**, aunque algunos consideran que **la métrica es poco aplicable ahora mismo**.
+
+* **Calidad del Código:**
+  * El **análisis de código es correcto**: se habla de cómo se han reducido los números y se enlaza con el **plan de pruebas**.
+  * Buena cobertura con `pytest`, y **ciclomática baja** según los análisis.
+
+* **Gestión de Problemas:**
+  * Los **problemas se presentan de forma narrativa**, no como una tabla fría, lo cual aporta dinamismo.
+  * Se valora que se muestren **las gráficas asociadas** a cada problema.
+
+#### Tareas a realizar para la siguiente semana
+
+Intencionalmente en blanco.
 
 ---
 
@@ -1644,3 +1886,55 @@ Intencionalmente en blanco, ya que no se nos asignó recoger el feedback de dich
 #### Tareas a realizar para la siguiente semana
 
 Intencionalmente en blanco, ya que no se nos asignó recoger el feedback de dichos grupos.
+
+## Semana 10 (11/04/2025)
+#### Feedback relacionado con la presentación
+
+* **Anuncios y Marketing:**
+  * El **anuncio es una sobrada**, muy bien logrado. Algunos ya “**esperan verlo en la tele**”.
+  * Se aprecia haber **introducido el marketing desde el principio**, lo que ha ayudado a **mantener el presupuesto bajo control**.
+  * La **ampliación de redes sociales** es otro punto positivo.
+  * Los **anuncios con características nuevas** son un puntazo.
+  * El **anuncio final puede resultar redundante**, se recomienda revisar si realmente aporta valor.
+  * Se valora la **incorporación de voz en off**, pero se insiste en que **debe vocalizarse bien**.
+
+* **Demo:**
+  * La **demo en vivo fue espectacular**, pero se advierte que **arriesgarse con una demo en directo siempre tiene sus riesgos**.
+  * La **pre-demo en silencio mientras el presentador comenta** ha sido muy bien recibida por su claridad.
+  * Se recomienda mejorar la **visibilidad durante la demo**, usando **zoom u otras técnicas** para que se vea bien.
+  * No utilizar **lorem ipsum** ni **iconos genéricos**, se deben mostrar **datos reales**.
+
+* **Presentación Técnica:**
+  * Se valora que se haya explicado la **arquitectura de forma clara**, mostrando cómo está **todo enlazado**.
+  * El presentador tiene **muy buena dicción** (aunque se pide vocalizar más en los vídeos).
+  * El equipo fue **presentado de forma clara**, sin rodeos.
+
+* **Tono y Profesionalidad:**
+  * Se nota un tono más profesional, incluyendo elementos como **la agregación de persona para verificación de identidad** (referenciado como práctica en LinkedIn).
+  * El uso de una **mascota cabra** aporta un toque de originalidad al branding.
+
+* **Otros comentarios:**
+  * “Nunca confíes en eduroam” — anotado como un recordatorio realista para futuras presentaciones en directo.
+  * Comentarios como “Persona, solo diré eso” denotan **identificación emocional con el contenido**, algo positivo para el engagement.
+
+#### Feedback relacionado con el desarrollo del proyecto
+
+* **Gestión del Tiempo y Recursos:**
+  * Se menciona en tono de broma que tienen **una solución para no pasarse de 10 horas semanales** (“¿te esposan si te pasas?”), lo cual refleja **una muy buena organización y control del esfuerzo**.
+  * Comentario destacado: “**Ojalá acabar dos días antes como ellos**”, lo que refuerza la percepción de **buena planificación**.
+
+* **Gestión de Problemas y Usuarios Piloto:**
+  * Muy clara la **escalera de prioridades de problemas basada en feedback de usuarios piloto**.
+  * Se valora cómo han abordado de forma **estructurada** los problemas.
+
+* **Pruebas y Calidad:**
+  * Uso de **Selenium para pruebas de formularios**, algo que ha sido muy bien visto y recomendado para aplicar en otros grupos.
+  * El **chatbot** y la **accesibilidad** fueron señalados como aspectos **muy importantes y correctamente tratados**.
+  * Mención a **las “píldoras” de accesibilidad**, valorando que hayan sido tenidas en cuenta.
+
+* **Comparación de DEMO anterior vs actual:**
+  * Se agradece que se haya mostrado una **mejora notable respecto a la demo anterior**, aunque se podría haber presentado un poco más esa comparativa de forma explícita.
+
+#### Tareas a realizar para la siguiente semana
+
+Intencionalmente en blanco.
