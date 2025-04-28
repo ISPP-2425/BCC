@@ -448,6 +448,28 @@ Uso inconsistente del idioma (se recomienda unificar en inglés o español).
 -  Actualización constante de la landing page.
 -  **Uso de IA** para apoyo en marketing (por ejemplo: generación de contenido, análisis de rendimiento, etc.).
 
+## Semana 10
+### Feedback relacionado con la presentación
+- Faltó un "killer opener" que captara la atención desde el principio.
+- La demo fue muy rápida y la música de fondo resultó distractora.
+- Faltó un flujo narrativo más claro, como resumir las principales características de *MapYourWorld* antes de la demo.
+- Se mencionaron competidores pero no se destacó claramente el diferencial de la aplicación en base al contexto en el que se mueven. Se sugiere crear una fila adicional para enfatizar en qué se centran otros competidores y qué nos diferencia.
+- Los paquetes de inversión presentados fueron percibidos como demasiado pretenciosos.
+- Se recomienda ajustar los paquetes para permitir microinversiones (máximo 10 %) pensando en un público tipo Kickstarter.
+
+### Feedback relacionado con el desarrollo del proyecto
+- Variación de gastos semana a semana (semana 29 y 30) parece aleatoria, falta explicación o justificación.
+- Se necesita concretar más la planificación de publicaciones en redes sociales.
+- Falta establecer métricas claras como porcentaje de impresiones que deben convertirse en usuarios y cómo reaccionar si no se alcanza.
+- Incluir coste por adquisición (CPA), coste por instalación y análisis del funnel de conversión (clics vs. instalaciones).
+- Considerar también herramientas de marketing que impliquen costes y su justificación.
+- Definir el peso visual de las características principales y evitar sombras en los iconos, ya que afectan negativamente al diseño.
+- Especificar qué palabras clave se optimizaron y aportar datos.
+- Usar herramientas para medir y gestionar el crecimiento, recopilando métricas relevantes.
+
+### Tareas a realizar para la siguiente semana
+- Aplicar el feedback
+- Cambiar el enfoque de un plan de marketing sobre el papel a un plan de marketing en marcha 
 
 ---
 
@@ -597,6 +619,18 @@ Uso inconsistente del idioma (se recomienda unificar en inglés o español).
 - **Población objetivo**: Refinar mejor el target con cifras concretas y reales.
 - **Métrica de rendimiento**: Se sigue utilizando una métrica que limita el rendimiento a 10, lo cual puede estar afectando negativamente los resultados.
 
+### Semana 10
+#### Feedback relacionado con la presentación
+- La presentación terminó demasiado rápido; podrían gestionar mejor el tiempo.
+- El hilo argumental de la presentación necesita mejorar para ser más claro y coherente.
+- El anuncio debería mostrar comida o problemas relacionados con la comida, para reforzar el mensaje.
+- La demo fue algo breve; podría apoyarse más en explicar las características del producto.
+- En el anuncio dirigido a inversores, falta incluir las opciones de inversión.
+- En el calendario de publicaciones, la iconografía debería ser más clara para facilitar la comprensión.
+
+#### Feedback relacionado con el desarrollo del proyecto
+- Sería mejor agrupar todos los costes en un único apartado para mayor claridad.
+
 ---
 
 ## Grupo 9 - Caronte
@@ -727,6 +761,18 @@ Uso inconsistente del idioma (se recomienda unificar en inglés o español).
 #### Feedback relacionado con el desarrollo del proyecto
 - **Código duplicado:** Hay duplicidad de código, aunque no se cuentan los test en esto.
 - **Certificación:** No generéis un certificado si no es necesario.
+
+### Semana 10
+#### Feedback relacionado con la presentación
+- El collage de imágenes inicial es muy heterogéneo y tiene demasiadas cosas; se recomienda **eliminarlo**.
+- Se sugiere **empezar directamente con el video**.
+- El **concepto del video** no se entiende bien y el **audio se escucha mal**.
+- El apartado "estado civil: trabajando" **no es adecuado**; debe corregirse porque no es un estado civil.
+- Debe **especificarse que el número mencionado corresponde a publicaciones**.
+- En la comparación de costes (pesimista vs optimista), es necesario **explicar claramente qué significa ser optimista o pesimista**.
+
+#### Feedback relacionado con el desarrollo del proyecto
+- Los temas de la **moral** y de la **retrospectiva** **no deben incluirse** en esta fase actual, ya que correspondían a una fase anterior del proyecto.
 
 ---
 
@@ -868,6 +914,20 @@ Uso inconsistente del idioma (se recomienda unificar en inglés o español).
 #### Feedback relacionado con el desarrollo del proyecto
 - Se deben realizar pruebas de carga (test de estrés o performance) del sistema.
 - El inicio del mercado objetivo necesita estar más racionalizado y enfocado.
+
+### Semana 10
+#### Feedback relacionado con la presentación
+- Mejorar el timing de hablar con sorpresin
+- No hablar sobre el desarrollo actual del equipo.
+- No mostrar la comparación entre costes esperados y costes reales.
+- Simplificar la diapositiva del mercado objetivo.
+- Mejorar la gráfica de estimación de ingresos: mostrar solo la estimación esperada.
+- Antes del video para inversores, explicar claramente cómo gana dinero el proyecto.
+- Añadir paquetes de inversión y porcentaje de participación de la app.
+- Especificar el público objetivo de la campaña de marketing.
+
+#### Feedback relacionado con el desarrollo del proyecto
+- Definir en qué momento se tomará acción si las métricas no van bien y revisar el plan.
 
 ---
 
@@ -1014,3 +1074,16 @@ Uso inconsistente del idioma (se recomienda unificar en inglés o español).
 
 #### Feedback relacionado con el desarrollo del proyecto
 - **Bug en imágenes**: Existe un error relacionado con las imágenes de los hoteles que debe corregirse.
+
+### Semana 10
+#### Feedback relacionado con la presentación
+- La parte técnica de la presentación debe estar resuelta antes de empezar.
+- Ha tardado mucho en comenzar ("ha tardado en salir el perro, ha tardado en arrancar").
+- Hay disonancia entre audio y video en la demo.
+- El audio de la demo no está bien afinado.
+
+#### Feedback relacionado con el desarrollo del proyecto
+- Incorporar técnicas de **gamificación** para enganchar a los usuarios y evitar que se salten la comisión.
+- El **proto persona** debe ser más general y no tan específico.
+- En el **posicionamiento digital**, considerar que **la estacionalidad** es probablemente el factor más importante para el negocio.
+- Al mencionar el uso de inteligencia artificial, evitar decir "y otras IAs"; en su lugar, especificar claramente cuáles se están utilizando.
