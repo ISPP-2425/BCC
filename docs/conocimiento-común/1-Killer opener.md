@@ -35,3 +35,11 @@ En esta página se recoge el feedback proporcionado por el profesor y los compa�
 ## Feedback del día 04/04
 - Realizar un inicio efectivo que siga la estructura de un anuncio puede captar la atención fácilmente.
 - Por otro lado, el análisis de esta semana muestra que los comentarios recibidos por los grupos siguen líneas similares a feedbacks anteriores, sin aportar observaciones fundamentalmente nuevas. Entre las áreas de mejora mencionadas y ya identificadas en sesiones previas encontramos: mejorar la conexión con el elevator pitch.
+
+## Feedback del día 11/04
+
+- Aprovechar el killer opener para introducir sutilmente la propuesta de valor: Aunque sea indirecta, la audiencia debería acabar el opener con una idea preliminar de cuál es el problema a resolver y por qué es relevante.
+- se vuelve a recalcar de nuevo la importancia de que el killer opener sea corto, pues en algunos grupos ha sido demasiado largo y eso obliga a recortar tiempo de otras partes importantes.
+- Cuidado con contenido potencialmente polémico en el killer opener, aunque capta la atención, puede tener connotaciones éticamente delicadas.
+-  Algunos grupos optan por repetir el killer opener, esto introduce una idea nueva: la repetición está bien si sigue siendo efectiva, lo que abre la puerta a una reflexión sobre iteración versus innovación.
+
