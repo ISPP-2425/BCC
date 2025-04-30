@@ -517,12 +517,11 @@ En esta página se encuentra el feedback recogido por el equipo del grupo 4 dura
 - Evitar usar tecnicismos.
 - Especificad que feedback han dado los usuarios piloto y en que ha repercutido.
 - Cuidado con el copyright.
-- Laa trazabilidad en menos importante que el objetivo y el periodo.
-
+- La trazabilidad en menos importante que el objetivo y el periodo.
 ### Feedback relacionado con la presentación
 
 - Evitar muletillas.
-- Fata un eslogan al final del killer opener.
+- Falta un eslogan al final del killer opener.
 - Ha faltado la mejora de UX en la demo.
 - La falta de confianza se arregla con un seguro o una fianza.
 - Categorizar el feedback de los usuarios pilotos.
@@ -533,8 +532,8 @@ En esta página se encuentra el feedback recogido por el equipo del grupo 4 dura
 
 ### Tareas que realizar durante esta semana:
 
--	Ver las pildoras teoricacas
--	Killer opener y elvator pitch 
+-	Ver las píldoras teóricas
+-	Killer opener y elevator pitch 
 -	Competidores
 -	Anuncio diferente(inversores o clientes)
 -	Customer agreement no se pone
