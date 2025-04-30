@@ -1061,8 +1061,6 @@ Por último, en cuanto a los usuarios pilotos, es esencial llegar a un acuerdo f
 
 ## Semana 8
 
-Claro, aquí tienes tus anotaciones reestructuradas y pasadas a formato Markdown. He organizado la información por grupos, separado en párrafos, y mejorado la legibilidad sin omitir ningún contenido:
-
 ---
 
 #### Grupo 8
@@ -1175,3 +1173,111 @@ Claro, aquí tienes tus anotaciones reestructuradas y pasadas a formato Markdown
   - Costes actualizados del estudio preliminar de marketing
   - Nuevos roles del equipo en marketing
   - Retrospectiva habitual
+
+
+---
+
+## Semana 9
+
+---
+
+#### Grupo 10
+
+Más que inversor es de negocio, del cliente que es la empresa. Faltaría el story board del inversor. Inversor es el que soporta los costes de calidad. Falta hacer el del PPL el video del inversor. El killer opener es medio, hay que innovar un poco más. La primera vez empezó un poco más arriba, y el nivel de emoción parecía más enfadado. Esa falta de energía en el inicio hay que conseguirlo de nuevo. Que se lo tome de prueba para las siguientes presentaciones. Análisis de competidores, de forma en la que lo cuenta no es del todo convincente. Eso no lo tenía claro lo de definir en tema de viajes. Se puede apoyar con una metáfora visual. No son del todo competidores, se puede contar como algo similar pero que no es igual. Tiene que hacer el enfasis en la diferencia. Anuncios, el primero del cliente sigue siendo largo. Ese tipo de anuncios debe de ponerlo en el proyect launch, con menso tiempo. Si se puede quitar más tiempo para el discurso mejor. No le gusta en los roles del equipo muchas cabezas. Puede hacer una espeicie de tabla para mejorar la forma visual del mismo. En el de “inversores”, el anuncio no deja claro que es por eventos por sorpresa, se deja en el aire. El otro como que se lo cree pero no sabe por qué vienen. Debe ser un anuncio autocontenido. La demo le ha faltado zoom en algunas partes. Podría hacer algo parecido con sorpresóin, explicando el video mientras se hace la demo. Pagaría por ver a alguien vestido de sorpresín. Le ha dado la impresión del primer problema de entrar de vd en la causa del problema. Se ha quedado un poco en la superficie del mismo. Quien, por qué (Se han subestimado, si alguien ha desaparecido…) Si lo pone va a la raiz del problema, y es lo que ha faltado. El burndown y el control chart le permite analizar si es por el tipo de tareas que tenemos. A lo mejor se pueden poner tareas má s pequeñas. El resto de problema smuy bien explicados. No hace falta poner la evolución de la solución. La gráfica le ha quedado muy claro. Le ha gustado que hayamos hecho con Locust. 
+
+Cliente que es empresa el segundo story board, entonces nos faltaría el story board del inversor.  Inversor es el que soportan los costes del proyecto. Son dos tipos de clientes. Hemos cumplido el requisito pero casi. El killer opener es medianamente efectivo, pero fue mas efectivo el primero, y en go4surprise espero sorpresa. Tambien hay un ingrediente que la primera vez empezaste un poc mas arriba, pero hoy hemos venido mas apagado porque nos dijeron que no podian decir palabrotas. Falta de energia en cuanto a las otras semanas. Para el PPL, innova y practicalo mucho. Se han dado cuenta hoy que el tema de los analisis de competidores no estan bien. Metafora visual apoyando lo que esta diciendo. Venta de entradas no es tanto un competidor, puede contarlo por algo similar pero hacer enfasi en la diferencia. No esta el tick para lo que ha dicho de experiencias alargadas en el tiempo. El anuncio de cliente le parece un pelín largo. El anuncio lo vamos a poner en el PPL y vamos a tener menos tiempo, intentar acortar. No le gusta roles, mejor en cuadro o mas metafora visual. Anuncio de inversor: en la discusión de las personas, no queda claro que le vienen clientes por evento sorpresa. El otro no sabe ni porque le vienen los clientes ni nada, el anuncio debe ser autocontenido , porq imagina q no han visto el video de antes. En la demo: le falta zoom en algunos momentos, e intentar coger lo bueno, hacer parecido algo con sorpresin haciendo el dialogo del video o interactuando con pablo. Problema 1: le ha dado la impresion de que no has terminado de entrar de verdad en la causa del problema, nos hemos quedado en la superficie, por no apuntar a la gente, ¿no se sabia la productividad de la gente?,¿gente que ha desaparecido?, hay q ser claro con la raíz del problema. Hay que poner lo que ha dicho pablo. ¿No tenemos problema actual de si solucionar o no? No tenemos, tenemos al project manager. Queda muy claro la grafica de rendimiento, bien con Locust. Analizamos de la maquina y no de en produccion, normalmente hacer una copia de la infraestructura para mantenerla durante 6,12,24 horas y ya simulas todo. Al final la capacidad de la maquina es en local. 
+
+#### Grupo 7
+
+##### Aspectos positivos
+- Muy bien el inicio efectivo, llama mucho la atención para que eches cuenta. 
+
+- El anuncio de inversores es de buena calidad, y me ha gustado como lo cuentan de forma de historia entre dos personas. 
+
+- El video de la DEMO es muy interactiva, con música de fondo y todo. Es lo que más me ha gustado, como hace zoom en las partes importantes y como visualmente se explica muy bien
+
+- Muy bien explicado la gestión que llevan a cabo con los usuarios pilotos, además parece buena idea lo de los premios.x
+
+##### Feedback
+La energía ha sido buena, y aunque se rían está muy bien. La gentehace que te atienda. El anuncio de usuario está muy bien hecho. La semana pasada era más largo, pero tenía más interacciones. Del segundo video que compren bombillas, les hace falta. Buscar noticias cercanas en el tiempo para apoyar el video. Es bueno conocer el mercado y el tamaño del mismo. Les ha hecho falta entrar en detalle con lo que se ha comentado la semana pasada. Buen feedback en la DEMO. En el impacto legal hay tres niveles. Dependerá de donde se pueda utilizar la aplicación tendrá unas normas o restricciones legales. Aplica poco pero puede aplicar. Dar ejemplos de los testing y que errores o bugs se han encontrado, para explicar mejor. 
+  
+#### Grupo 8
+
+##### Aspectos positivos
+
+- Muy bien incluidos los anuncios en la presentación, muy orgánico. Se ve por la estética que la publicidad tiene una clara conexión con la presentación
+
+- Spoony en la DEMO está muy chulo. Además por la DEMO se puede ver que la aplicación es muy intuitiva y sencilla. La estética lo mismo que con la publicidad, que tenga la misma estética permite ver una clara conexión entre ambas partes
+
+- Posible mejora, la demo es un poco larga.
+
+- Spoony cuenta la calidad del código, buen uso de la mascota, no simplemente que esté en la presentación, si no que haya interacciones con ella.
+
+- Buena gestión con los usuarios pilotos, centrándose sobre todo en la categorización y priorización de las respuestas de los usuarios pilotos dando detalles de cuando es alta, baja y media.
+
+##### Feedback
+
+Su forma de presentar le falta un poco de mejora. Parece que se solape una frase con la otra. Se puede recortar un poco el alcance de lo que cuentas. Eso provoca que la audiencia se salta varias partes. Falta un poco más de metáforas visuales y menos texto. Deberían de intentar el equilibrio entre ambas partes. El killer opener está mucho mas hilado con el restos e la presentación. De los anuncios primero han puesto uno de usuario normal, otro de premium. Mejor unir ambos videos. De esta forma puedes hacer un único video con todo. Pueden hacer un anuncio donde se comenten dichas partes. El de inversores han puesto las cifras, pero no la cita de la institución/fuente. Cuando tienen una cifra que intenten como ponerlo. La población entre 25 y 35 años no saben de donde se saca ese número. Mejor que no descarten la población entre los 35 y 49 años, ya que también puede ser público objetivo y se puede perder. La priorización de los UP es muy bueno, con ejemplos… Ahí se ha empezado a cansar con el texto. El plan de contingencia también es muy bueno. En el análisis de rendimiento no ha entendido nada. El análisis de rendimiento son como problemas o retrospectiva, y es anticlimático, y puede ser el título. No le ha terminado de encajar. MUCHO TEXTO.
+
+
+#### Grupo 11
+
+##### Aspectos positivos
+
+- Muy buen inicio efectivo, y buenos anuncios, divertidos, llaman mucho la atención para que estés atento.
+
+- La interfaz de la aplicación me parece super buena, muy atractiva e intuitiva. Muy buena idea lo de la persona de mediador y lo del paintball.
+
+- Me ha gustado la gráfica de horas / sprint, enseña muy bien como la automatización de tareas les ha ayudado a ajustarse a las horas por entrega recomendadas.
+
+- Muy bien el Hall of Fame y Hall of Shame, muy divertido
+
+- Filmora y ElevenLabs (herramientas IA para anuncios)
+
+
+##### Feedback
+El killer opener algunas veces infieren un poco demasiado. Hila muy bien los videos con la presentación. Las dos mascotas está n muy bien planteadas y hechas, y se integran mucho en la presentación. El hilo argumental tiene que ir más continuado. Dicen que tienen que estar, en un orden. No tiene por qué ir en ese orden, pueden modificarlo para que siga un hilo. La gráfica de costes, no ponen ni el número de coste ni ingresos, tienen que cambiar la forma en la que se muestran las gráficas. El team building es por parte del feedback positivo. No sabe quien ha ganado en el paintball. Hall of fame está muy bien contado. Ha sobrado demasiado tiempo. Si le quita el incremento ha terminado demasiado pronto. 
+
+La idea muy graciosa y muy bien pero hasta q no rompe no ve la intención. El anuncio de cliente muy bien, con el perro, lo unico que no se entiende bien lo que dice el perro, subir audio para que se escuche mejor, bien que se utilice IA pero cambia el acento un poco. La demo muy bien hilada con javi y coco, igual que al final, muy bien hilado desde anuncio y demo y al final, eso es lo que buscan y que cirren el hilo argumental. Ha habdo varios saltos de temas, el orden no esta bien, la demos despues del rendimiento del equipo. Los anuncios, demos del producto primero el qué y luego el cómo. La comparativa de la competencia despues de hablar de numero y cifras y demas, primero el que haceis. Es importante que el hilo argumental vaya continuado. Dicen un orden pero no tiene porque ser ese orden, debemos seguir un hilo conductor y encontrar el mejor orden. La grafica de evolucion del TCO, beneficios perdidas,¿porq poneis eso?, beneficios 20 y perdidas 20, por ejemplo poner 20, 60, -20, -60. Team building cree que todos los grupos deberiamos hacerlo. El hall of fame espectacular, super bien contado, te ha dado tiempo recrearte pero ha sobrado demasiado tiempo. 
+
+#### Grupo 9
+
+##### Aspectos positivos
+
+- El segundo video es muy gracioso, y le explica muy bien alas personas que venden esquelas como puede mejorar su negocio. Es intuitivo. 
+
+- Os felicito por refactorizar el backend, eso ayuda en un futuro a que sea más facil de poder corregir posibles errores en un futuro
+
+- Muy buena cobertura, también os felicito por eso, ya que estar solucionando esos errores es muy pesado y tedioso. 
+
+##### Feedback
+
+Muy bien hecha la presenyación. Ha ido muy bien de tiempo. Les va a ayudar lo que va a necesitar para la siguiente semana. Certifican el fallecimiento? No, lo exigen para poder continuar con el procedimiento. La demo era excesivamente rápida. A lo mejor no tienen que presentar todos los casos de uso, puede que sea menos pero más pausado. Entre zoom y el zoom-out lia mucho. No sabe si está haciendo una acción u otra. Cuando se usa mucho abruma. No tienen por qué poner el login y eso que es innecesario. El de usuarios ya lo vieron el otro día. El de empresa decae un poco en estilo, forma y fondo. El para empresa podrían usar la IA para hacer el video. El story board de la empresa estaba más claro que el video. En que momento han añadido esas características o requisitos? la diferencia no la termina de ver. Cuando aparece ese salto de la parte abierta del product backlog. Hay que aclararlo, y no tiene que haber mucho esfuerzo para aclarar eso.
+
+---
+
+#### Indicaciones Generales
+
+##### Tareas Extra y Recuperación de Nota
+
+Van a permitir recuperar la nota del sprint S1 y S2, los documentos a entregar se harán por EV. Tenemos que dejarlos congelados el 24 de abril. Se entregará como parte de world project launcher. No va a estar en el S3. Con un trabajo extra individual se hará una tarea extra. Se Propondrá durante semana santa y feria. Es entre el 25 y el 2. Solo por participar en esas sesiones de los viernes, y con las preguntas se tendrá un 0,5 (0,25 solo por asistir y otro por hacer preguntas). Es un repaso de aspectos interesantes. Para apuntarse a esta actividad podrá ahora una URL, antes del próximo viernes después de feria, 23 de abril
+
+---
+
+##### Para la Siguiente Semana
+
+Nose pedirá una presentación grande. Se harán dos presentaciones pequeñas. Una que tenga estructura arecida, siendo lo que se va a lanzar el día del lanzamiento. Son 10 min máximo. Otra de 5 min donde se darán detalles más específicos de lo que se ha modificado. Como el márketing, cosas del prooject launch. DOS PRESENTACIONES. Para la presentación debe responder 6 preguntas, de un nuevo producto que se está lanzando. 
+
+- ¿De que va el proyecto? Por ejemplo killer opener o anuncio, lo que queramos (1 min como mucho) 
+
+- ¿Que hace exáctamente? Por ejemplo una DEMO, enlazada con la historia del inicio. Que sea consistente 
+
+- ¿A esto nadie se le ha ocurrido antes? Decir cuales son los factores claves, competencia 
+
+- ¿Después de esto quien hay? el equipo 
+
+- ¿Esto puede llegar a ser rentable? el negocio, los planes, la forma de vender el producto. Una versión muy alta del modelo de negocio, los costes, ingresos, a corto o medio (Imp las oportunidades que ofrecemos son estas, como por ejemplo un video, contando oportunidades de inversión) 
+
+- ¿Qué enlace o QR puede tener para contactar? 
+
+Segunda presentación: como es para el primer proyect launch, siendo oriendata a vender el producto, se dedicará a como vamos a hacer el márketing con ejemplos, al modelo de segmentación, cuales son los usuarios potenciales y caracterizarlos (el concepto de persona se puede usar, es una caracterización de un personaje ficticio, pero que parezca realista, donde se incluyan los objetivos, frustraciones…) Como vamos a usar las herramientas de búsqueda (Si buscas un anuncio sobre que palabras claves queremos que se busque el negocio), organizar la campaña de lanzamiento del producto (Como eventos, actividades a realizar para promocionar), que tipo de forma para poder tener el crecimiento de la comunidad inicial. Cuales son los objetivos del comuniti management, los roles, los costes del márketing varias en base a eso, propio comunity manager… Imp los anuncios del inversor, uno para el usuario y otro para el cliente, si estos dos son distintos. Si ya hemos presentado los anuncios. Podemos mejorarlos o podemos hacer uno nuevo, tenemos libertad para definir pero sobre todo echando cuenta a su feedback para ello.
