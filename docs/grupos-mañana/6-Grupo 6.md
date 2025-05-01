@@ -1,7 +1,7 @@
 # GRUPO 6 - FISIO FIND
 
 **ÍNDICE**
-- [Grupo 6 - Fisio Find](#grupo-6---fisio-find)
+## [Grupo 6 - Fisio Find](#grupo-6---fisio-find)
   - [Semana 1 (Gallery Guide)](#semana-1-gallery-guide)
       - [Feedback relacionado con la presentación](#feedback-relacionado-con-la-presentación)
       - [Feedback relacionado con el desarrollo del proyecto](#feedback-relacionado-con-el-desarrollo-del-proyecto)
@@ -14,71 +14,112 @@
       - [Feedback relacionado con la presentación](#feedback-relacionado-con-la-presentación-2)
       - [Feedback relacionado con el desarrollo del proyecto](#feedback-relacionado-con-el-desarrollo-del-proyecto-2)
       - [Tareas a realizar para la siguiente semana](#tareas-a-realizar-para-la-siguiente-semana-2)
-  - [Semana 5](#semana-5)
+  - [Semana 4](#semana-4)
       - [Feedback relacionado con la presentación](#feedback-relacionado-con-la-presentación-3)
       - [Feedback relacionado con el desarrollo del proyecto](#feedback-relacionado-con-el-desarrollo-del-proyecto-3)
       - [Tareas a realizar para la siguiente semana](#tareas-a-realizar-para-la-siguiente-semana-3)
-  - [Semana 6](#semana-6-1)
+  - [Semana 5](#semana-5)
       - [Feedback relacionado con la presentación](#feedback-relacionado-con-la-presentación-4)
       - [Feedback relacionado con el desarrollo del proyecto](#feedback-relacionado-con-el-desarrollo-del-proyecto-4)
       - [Tareas a realizar para la siguiente semana](#tareas-a-realizar-para-la-siguiente-semana-4)
-  - [Semana 7](#semana-7-1)
+  - [Semana 6](#semana-6)
       - [Feedback relacionado con la presentación](#feedback-relacionado-con-la-presentación-5)
       - [Feedback relacionado con el desarrollo del proyecto](#feedback-relacionado-con-el-desarrollo-del-proyecto-5)
       - [Tareas a realizar para la siguiente semana](#tareas-a-realizar-para-la-siguiente-semana-5)
-  - [Semana 8](#semana-8-1)
+  - [Semana 7](#semana-7)
       - [Feedback relacionado con la presentación](#feedback-relacionado-con-la-presentación-6)
       - [Feedback relacionado con el desarrollo del proyecto](#feedback-relacionado-con-el-desarrollo-del-proyecto-6)
       - [Tareas a realizar para la siguiente semana](#tareas-a-realizar-para-la-siguiente-semana-6)
-  - [Semana 9](#semana-9-1)
+  - [Semana 8](#semana-8)
       - [Feedback relacionado con la presentación](#feedback-relacionado-con-la-presentación-7)
       - [Feedback relacionado con el desarrollo del proyecto](#feedback-relacionado-con-el-desarrollo-del-proyecto-7)
       - [Tareas a realizar para la siguiente semana](#tareas-a-realizar-para-la-siguiente-semana-7)
-- [Grupo 1 - Holos](#grupo-1---holos)
-  - [Semana 1](#semana-1)
-  - [Semana 2](#semana-2-1)
-  - [Semana 3](#semana-3-1)
-  - [Semana 5](#semana-5-1)
-  - [Semana 6](#semana-6)
-  - [Semana 7](#semana-7)
-  - [Semana 8](#semana-8)
   - [Semana 9](#semana-9)
-- [Grupo 2 - Gastrostock](#grupo-2---gastrostock)
-  - [Semana 1](#semana-1-1)
-  - [Semana 2](#semana-2-2)
-  - [Semana 3](#semana-3-2)
-  - [Semana 5](#semana-5-2)
-  - [Semana 6](#semana-6-1)
-  - [Semana 7](#semana-7-1)
-  - [Semana 8](#semana-8-2)
-  - [Semana 9](#semana-9-2)
-- [Grupo 3 - Eventbride](#grupo-3---eventbride)
-  - [Semana 1](#semana-1-2)
-  - [Semana 2](#semana-2-3)
-  - [Semana 3](#semana-3-3)
-  - [Semana 5](#semana-5-3)
-  - [Semana 6](#semana-6-2)
-  - [Semana 7](#semana-7-2)
-  - [Semana 8](#semana-8-3)
-  - [Semana 9](#semana-9-3)
-- [Grupo 4 - BORROO](#grupo-4---borroo)
-  - [Semana 1](#semana-1-3)
-  - [Semana 2](#semana-2-4)
-  - [Semana 3](#semana-3-4)
-  - [Semana 5](#semana-5-4)
-  - [Semana 6](#semana-6-3)
-  - [Semana 7](#semana-7-3)
-  - [Semana 8](#semana-8-4)
-  - [Semana 9](#semana-9-4)
-- [Grupo 5 - CAMYO](#grupo-5---camyo)
-  - [Semana 1](#semana-1-4)
-  - [Semana 2](#semana-2-5)
-  - [Semana 3](#semana-3-5)
-  - [Semana 5](#semana-5-5)
-  - [Semana 6](#semana-6-4)
-  - [Semana 7](#semana-7-4)
-  - [Semana 8](#semana-8-5)
-  - [Semana 9](#semana-9-5)
+      - [Feedback relacionado con la presentación](#feedback-relacionado-con-la-presentación-8)
+      - [Feedback relacionado con el desarrollo del proyecto](#feedback-relacionado-con-el-desarrollo-del-proyecto-8)
+      - [Tareas a realizar para la siguiente semana](#tareas-a-realizar-para-la-siguiente-semana-8)
+  - [Semana 10](#semana-10)
+      - [Feedback relacionado con la presentación](#feedback-relacionado-con-la-presentación-9)
+      - [Feedback relacionado con el desarrollo del proyecto](#feedback-relacionado-con-el-desarrollo-del-proyecto-9)
+      - [Tareas a realizar para la siguiente semana](#tareas-a-realizar-para-la-siguiente-semana-9)
+  - [Semana 11](#semana-11)
+      - [Feedback relacionado con la presentación](#feedback-relacionado-con-la-presentación-10)
+      - [Feedback relacionado con el desarrollo del proyecto](#feedback-relacionado-con-el-desarrollo-del-proyecto-10)
+      - [Tareas a realizar para la siguiente semana](#tareas-a-realizar-para-la-siguiente-semana-10)
+  - [Semana 12](#semana-12)
+      - [Feedback relacionado con la presentación](#feedback-relacionado-con-la-presentación-11)
+      - [Feedback relacionado con el desarrollo del proyecto](#feedback-relacionado-con-el-desarrollo-del-proyecto-11)
+      - [Tareas a realizar para la siguiente semana](#tareas-a-realizar-para-la-siguiente-semana-11)
+
+## [Grupo 1 - Holos](#grupo-1---holos)
+  - [Semana 1 - Holos](#semana-1---holos)
+  - [Semana 2 - Holos](#semana-2---holos)
+  - [Semana 3 - Holos](#semana-3---holos)
+  - [Semana 4 - Holos](#semana-4---holos)
+  - [Semana 5 - Holos](#semana-5---holos)
+  - [Semana 6 - Holos](#semana-6---holos)
+  - [Semana 7 - Holos](#semana-7---holos)
+  - [Semana 8 - Holos](#semana-8---holos)
+  - [Semana 9 - Holos](#semana-9---holos)
+  - [Semana 10 - Holos](#semana-10---holos)
+  - [Semana 11 - Holos](#semana-11---holos)
+  - [Semana 12 - Holos](#semana-11---holos)
+
+## [Grupo 2 - Gastrostock](#grupo-2---gastrostock)
+  - [Semana 1 - Gastrostock](#semana-1---gastrostock)
+  - [Semana 2 - Gastrostock](#semana-2---gastrostock)
+  - [Semana 3 - Gastrostock](#semana-3---gastrostock)
+  - [Semana 4 - Gastrostock](#semana-4---gastrostock)
+  - [Semana 5 - Gastrostock](#semana-5---gastrostock)
+  - [Semana 6 - Gastrostock](#semana-6---gastrostock)
+  - [Semana 7 - Gastrostock](#semana-7---gastrostock)
+  - [Semana 8 - Gastrostock](#semana-8---gastrostock)
+  - [Semana 9 - Gastrostock](#semana-9---gastrostock)
+  - [Semana 10 - Gastrostock](#semana-10---gastrostock)
+  - [Semana 11 - Gastrostock](#semana-11---gastrostock)
+  - [Semana 12 - Gastrostock](#semana-11---gastrostock)
+
+## [Grupo 3 - Eventbride](#grupo-3---eventbride)
+  - [Semana 1 - Eventbride](#semana-1---eventbride)
+  - [Semana 2 - Eventbride](#semana-2---eventbride)
+  - [Semana 3 - Eventbride](#semana-3---eventbride)
+  - [Semana 4 - Eventbride](#semana-4---eventbride)
+  - [Semana 5 - Eventbride](#semana-5---eventbride)
+  - [Semana 6 - Eventbride](#semana-6---eventbride)
+  - [Semana 7 - Eventbride](#semana-7---eventbride)
+  - [Semana 8 - Eventbride](#semana-8---eventbride)
+  - [Semana 9 - Eventbride](#semana-9---eventbride)
+  - [Semana 10 - Eventbride](#semana-10---eventbride)
+  - [Semana 11 - Eventbride](#semana-11---eventbride)
+  - [Semana 12 - Eventbride](#semana-11---eventbride)
+
+## [Grupo 4 - BORROO](#grupo-4---borroo)
+  - [Semana 1 - BORROO](#semana-1---borroo)
+  - [Semana 2 - BORROO](#semana-2---borroo)
+  - [Semana 3 - BORROO](#semana-3---borroo)
+  - [Semana 4 - BORROO](#semana-4---borroo)
+  - [Semana 5 - BORROO](#semana-5---borroo)
+  - [Semana 6 - BORROO](#semana-6---borroo)
+  - [Semana 7 - BORROO](#semana-7---borroo)
+  - [Semana 8 - BORROO](#semana-8---borroo)
+  - [Semana 9 - BORROO](#semana-9---borroo)
+  - [Semana 10 - BORROO](#semana-10---borroo)
+  - [Semana 11 - BORROO](#semana-11---borroo)
+  - [Semana 12 - BORROO](#semana-11---borroo)
+
+## [Grupo 5 - CAMYO](#grupo-5---camyo)
+  - [Semana 1 - CAMYO](#semana-1---camyo)
+  - [Semana 2 - CAMYO](#semana-2---camyo)
+  - [Semana 3 - CAMYO](#semana-3---camyo)
+  - [Semana 4 - CAMYO](#semana-4---camyo)
+  - [Semana 5 - CAMYO](#semana-5---camyo)
+  - [Semana 6 - CAMYO](#semana-6---camyo)
+  - [Semana 7 - CAMYO](#semana-7---camyo)
+  - [Semana 8 - CAMYO](#semana-8---camyo)
+  - [Semana 9 - CAMYO](#semana-9---camyo)
+  - [Semana 10 - CAMYO](#semana-10---camyo)
+  - [Semana 11 - CAMYO](#semana-11---camyo)
+  - [Semana 12 - CAMYO](#semana-11---camyo)
 
 ---
 
@@ -303,6 +344,19 @@ La organización de la presentación no es la que indicaron los profesores.
 
   - Lo que no se menciona no se pide (se puede poner pero tiene que tener una razón).
 
+## Semana 4
+#### Feedback relacionado con la presentación
+
+- Intencionalmente en blanco (no hubo clase).
+
+#### Feedback relacionado con el desarrollo del proyecto
+
+- Intencionalmente en blanco (no hubo clase).
+
+#### Tareas a realizar para la siguiente semana
+
+- Intencionalmente en blanco (no hubo clase).
+
 ## Semana 5
 #### Feedback relacionado con la presentación
 
@@ -493,9 +547,113 @@ La organización de la presentación no es la que indicaron los profesores.
 
 - Cambiar el PPL añadiendo más tareas de marketing.
 
+## Semana 10
+
+#### Feedback relacionado con la presentación
+
+- Preparar mejor la demo en vivo en caso de volver a hacerse: solucionar los problemas de red y asegurar el uso de zoom adecuado.
+
+- Eliminar o rediseñar el video final si solo repite contenido anterior; enfocarlo en novedades si se mantiene.
+
+- Reemplazar iconos genéricos por imágenes reales de fisioterapeutas dentro de la aplicación.
+
+- Mantener los anuncios específicos para características nuevas.
+
+- Reflexionar sobre la estrategia de captación de inversores y considerar pequeños ensayos de aproximación.
+
+#### Feedback relacionado con el desarrollo del proyecto
+
+- Genial lo de los anuncios específicos para características nuevas. Muy top. 
+
+- El killer opener se ha cambiado por un pseudo anuncio de inversores, ¿por qué? No queríamos hablar de dinero, paquete de inversiones, etc. Apostamos porque los inversores nos encuentren. Ya, pero hay que intentar, con prueba y error, llegar a los inversores. 
+
+#### Tareas a realizar para la siguiente semana
+
+- Preparar mejor la demo en vivo: solucionar los problemas de red y asegurar el uso de zoom adecuado.
+
+- Eliminar o rediseñar el video final si solo repite contenido anterior; enfocarlo en novedades si se mantiene.
+
+- Reemplazar iconos genéricos por imágenes reales de fisioterapeutas dentro de la aplicación.
+
+- Reflexionar sobre la estrategia de captación de inversores y considerar pequeños ensayos de aproximación.
+
+## Semana 11
+#### Feedback relacionado con la presentación
+
+- Intencionalmente en blanco (no hubo clase).
+
+#### Feedback relacionado con el desarrollo del proyecto
+
+- Intencionalmente en blanco (no hubo clase).
+
+#### Tareas a realizar para la siguiente semana
+
+- Intencionalmente en blanco (no hubo clase).
+
+## Semana 12
+#### Feedback relacionado con la presentación
+
+- El video de presentación del equipo estuvo muy bien, pero faltaría especificar los roles de manera más general para que sea fácilmente entendido por un público general.
+
+- El Killer Opener estuvo muy bien, aunque quizás se podría encontrar algo aún más “impactante”. Un punto muy positivo es que siempre se presenta un nuevo Killer Opener.
+
+- Para Cristina, el Killer Opener fue más apropiado y alineado con el mensaje que se quería transmitir.
+
+- Se dedicó demasiado tiempo a explicar características que posteriormente se repiten en la demo.
+
+- Se echó en falta la presencia de actores en el Killer Opener para alinearlo mejor con la demo y los posibles anuncios.
+
+- Aunque la primera presentación fue muy profesional, en algunas secciones el flujo no fue tan bueno como debería. Sería recomendable explicar antes de un video qué contenido introduce (si es demo o anuncio).
+
+- Aunque en algunas partes el flujo no fue óptimo, eso no quita todo el trabajo importante que hay detrás.
+
+- La diapositiva 10 pudo alterar el flujo de la presentación, afectando la continuidad.
+
+- En cuanto a posibles muletillas, se debería evitar decir "FisioFind pretende" y utilizar "FisioFind hace".
+
+- Muy bien incluir los costes en la presentación.
+
+- Respecto al anuncio de FisioFind, aunque gustó, sería importante inferir más contexto para personas que no conocen la aplicación.
+
+- Puede ser buena idea que el fisioterapeuta comience trabajando de manera offline y que reciba un flyer de FisioFind invitándolo a hacer fisioterapia online, aportando así más contexto.
+
+#### Feedback relacionado con el desarrollo del proyecto
+
+- Para el anuncio de inversores, sería recomendable preparar una versión más corta.
+
+- Aunque no se incluyeron los planes de inversión, se argumentó adecuadamente el motivo.
+
+- El proyecto muestra mucho potencial para el futuro.
+
+- Faltó incluir métricas sobre el posicionamiento SEO.
+
+- En los planes de precios debería aclararse que el precio es por mes; actualmente pone "PERMANENTE".
+
+- Faltó incluir el tema de los perfiles (profiles)
+
+#### Tareas a realizar para la siguiente semana
+
+- Añadir contexto antes de cada video en la presentación para mejorar el flujo narrativo.
+
+- Mejorar el killer opener buscando uno más impactante o más alineado con los anuncios/demos.
+
+- Hacer más explícitos los roles del equipo en la presentación, con un enfoque comprensible para el público general.
+
+- Evitar muletillas como “FisioFind pretende” y reemplazarlas por frases concretas como “FisioFind hace”.
+
+- Ajustar la presentación de los precios: cambiar “PERMANENTE” por “€/mes”.
+
+- Incluir métricas de posicionamiento SEO si están disponibles.
+
+- Añadir una sección clara sobre la gestión de perfiles de usuario.
+
+- Preparar una versión resumida del anuncio para inversores.
+
+- Proporcionar mayor contexto en los anuncios para audiencias que no conocen la app (por ejemplo, fisioterapeutas offline).
+
 # Grupo 1 - Holos
 
-## Semana 1
+## Semana 1 - Holos
 
 En la presentación de cada viernes deberemos incluir una diapositiva en la que mostremos cómo hemos usado la inteligencia artificial durante esa semana. En la documentación semanal sí deberemos extendernos más indicando los *prompts* y justificando su uso.
 
@@ -514,7 +672,7 @@ En la presentación de cada viernes deberemos incluir una diapositiva en la que 
 
 - No pueden asegurar que una gran comunidad haga uso de la aplicación. 
 
-## Semana 2
+## Semana 2 - Holos
 
 Debido a dificultades en la definición del MVP, especialmente en la selección de los casos de uso *core*, el proyecto ha sido replanteado. Ahora, su enfoque se centra en un sistema de comisiones de arte, permitiendo a artistas particulares gestionar encargos personalizados.
 
@@ -534,7 +692,7 @@ Debido a dificultades en la definición del MVP, especialmente en la selección 
 
 - ***Dificultades en la legibilidad*** de la presentación desde distintos puntos del aula.
 
-## Semana 3
+## Semana 3 - Holos
 
 Los compañeros felicitaron (solo dio tiempo al feedback de una persona):
 
@@ -558,7 +716,24 @@ El equipo de FISIO FIND destaca también el hilo de la presentación y la forma 
 
 - Usuarios piloto
 
-## Semana 5
+## Semana 4 - Holos
+**Feedback alumnos**
+
+- Intencionalmente en blanco (no hubo clase). 
+ 
+**Feedback recibido (resumen de los comentarios de los profesores)**
+
+- Intencionalmente en blanco (no hubo clase). 
+
+**Puntos positivos destacados**
+
+- Intencionalmente en blanco (no hubo clase). 
+
+**Áreas de mejora sugeridas**
+
+- Intencionalmente en blanco (no hubo clase). 
+
+## Semana 5 - Holos
 
 **Feedback alumnos**
 - No se entiende la parte de que se limite para siempre sobre el plan de negocio.  
@@ -610,7 +785,7 @@ El equipo de FISIO FIND destaca también el hilo de la presentación y la forma 
 
 - Posible integración de IA regenerativa.  
 
-## Semana 6
+## Semana 6 - Holos
 
 **Feedback alumnos**
 
@@ -663,7 +838,7 @@ El equipo de FISIO FIND destaca también el hilo de la presentación y la forma 
 
 - Sustituir la métrica de número de commits.
 
-## Semana 7
+## Semana 7 - Holos
 
 **Feedback alumnos**
 
@@ -703,7 +878,7 @@ El equipo de FISIO FIND destaca también el hilo de la presentación y la forma 
 
 - Replantear cómo se detecta el uso de IAs.
 
-## Semana 8
+## Semana 8 - Holos
 
 **Feedback alumnos**
 
@@ -763,7 +938,7 @@ El equipo de FISIO FIND destaca también el hilo de la presentación y la forma 
 
 - Aumentar el porcentaje de testing.
 
-## Semana 9
+## Semana 9 - Holos
 
 **Feedback alumnos**
 
@@ -811,12 +986,124 @@ El equipo de FISIO FIND destaca también el hilo de la presentación y la forma 
 
 - Más importancia a la mejora continua.
 
+## Semana 10 - Holos
+
+**Feedback alumnos**
+
+- El grupo se fija mucho en la satisfacción del equipo, video para inversores muy bueno (simple, directo).
+
+- Es valiente que hayan cambiado de PM. 
+
+- Ha gustado el cambio que han hecho de PM y la forma de analizar los roles del equipo.
+
+
+**Feedback recibido (resumen de los comentarios de los profesores)**
+
+- En general, se ve en la presentación que el hilo de discurso y ritmo están bien.  
+
+- Ha habido aprtes que estan especialmente bien. El anuncio de inversores tiene el punto justo de dinamismo y cómo lo presentan. Si pueden hacer una demostración del anuncio a algún inversor estaría bien para validarlo. 
+
+- La forma de mostrar problemas, soluciones es bastante top.  
+
+- Hay que intentar hacer ensayos de volumen. Buscarse micrófonos, proyectar la voz, etc. Vocalizar. 
+
+- La integración continua es muy importante. **Se deberían poder meter cosas y que las pruebas sean automáticas**, sobre todo hacer pruebas end-to-end para casos de uso más importantes.
+
+- Se deberia de medir el tiempo relacionado con las pull requests.
+
+- Usuarios pilotos, ¿cuántos usuarios pilotos están usando la app? Lo importante es que la usen diariamente.
+
+**Puntos positivos destacados**
+
+- Buen ritmo.
+
+- Buen anuncio de inversores.
+
+- La forma de mostrar problemas.
+
+**Áreas de mejora sugeridas**
+
+- Hacer ensayos de volumen.
+
+- Integración continua.
+
+- Medir el tiempo de las PR.
+
+## Semana 11 - Holos
+
+**Feedback alumnos**
+
+- Intencionalmente en blanco (no hubo clase).
+
+**Feedback recibido (resumen de los comentarios de los profesores)**
+
+- Intencionalmente en blanco (no hubo clase).
+
+**Puntos positivos destacados**
+
+- Intencionalmente en blanco (no hubo clase).
+
+**Áreas de mejora sugeridas**
+
+- Intencionalmente en blanco (no hubo clase).
+
+## Semana 12 - Holos
+**Feedback alumnos**
+
+- Intencionalmente en blanco.
+
+**Feedback recibido (resumen de los comentarios de los profesores)**
+
+- El inicio podría haber sido más efectivo; había demasiado ruido y el micro se escucha algo distorsionado. Es importante hacer algo que detenga todo el ruido de la clase e intentar captar la atención.
+
+- La presentación, respecto al flujo e imagen corporativa, estuvo muy bien.
+
+- El presentador transmite una sensación de tranquilidad, algo muy difícil de conseguir.
+
+- Hay que intentar evitar estar demasiado relajado, implementando cambios de ritmo para aportar dinamismo.
+
+- Respecto a los costes, han mejorado, ya que se ha dado el número de artistas. Es importante caracterizar los datos que se expongan, así como las fuentes de donde se han obtenido.
+
+- En el video para inversores, ya que se menciona que el mercado del arte está en auge, se debe aportar una referencia para poder dar credibilidad a dicha información.
+
+- Intentar dar un perfil económico por parte de los artistas para conocer las probabilidades de que ellos se suscriban a la plataforma. Estos datos se pueden recabar mediante los usuarios piloto si están dispuestos a compartirlos.
+
+- Respecto al video, el comienzo fue muy bueno con las gráficas. La diapositiva del Bitcoin hay que reevaluarla; si los inversores en Bitcoin no coinciden con el perfil de sus inversores, deberían replantear otra metáfora para el cierre.
+
+- En el video de inversores se hizo referencia a los costes, pero fue algo confuso diferenciar exactamente a qué tipo de costes se referían.
+
+- Kanban es un término muy técnico que no todo el mundo conoce, al igual que el pago ESCROW. Se debería intentar utilizar términos más comunes y con los que el público esté familiarizado.
+
+**Puntos positivos destacados**
+
+- Flujo de presentación e imagen corporativa.
+
+- Transmitir una sensación de tranquilidad inigualable.
+
+- Mejora en la presentación de los costes.
+
+- Las gráficas iniciales en el video.
+
+**Áreas de mejora sugeridas**
+
+- Más dinamismo.
+
+- Cuidado con la falta de captación de atención en el killer opener.
+
+- Aportar referencias de datos.
+
+- Reevaluar la gráfica de Bitcoin.
+
+- Video de inversores confuso.
+
+- Usar términos más comunes.
+
 ---
 
 
 # Grupo 2 - Gastrostock
 
-## Semana 1
+## Semana 1 - Gastrostock
 
 **Feedback recibido (resumen de los comentarios de los profesores)**
 
@@ -830,7 +1117,7 @@ El equipo de FISIO FIND destaca también el hilo de la presentación y la forma 
 
 - Idea demasiado ambiciosa. Cuidado con emplear la palabra implementación para referirse a integrar una app en el negocio. 
 
-## Semana 2
+## Semana 2 - Gastrostock
 
 Han redefinido el alcance de su proyecto, pasando de ser un sistema de gestión de stock para múltiples entornos y negocios a una solución especializada en el sector de la hostelería.
 
@@ -860,7 +1147,7 @@ La versión de pago ofrece herramientas avanzadas de gestión, diferenciándose 
 
 - El logo podría mejorar en términos de interpretación y claridad.
 
-## Semana 3
+## Semana 3 - Gastrostock
 
 Los compañeros han felicitado:
 
@@ -906,8 +1193,24 @@ Un aspecto positivo que no se nombró pero que el equipo de FISIO FIND quiere an
 
 - Landing page.  
 
+## Semana 4 - Gastrostock
+**Feedback alumnos**
 
-## Semana 5
+- Intencionalmente en blanco (no hubo clase). 
+ 
+**Feedback recibido (resumen de los comentarios de los profesores)**
+
+- Intencionalmente en blanco (no hubo clase). 
+
+**Puntos positivos destacados**
+
+- Intencionalmente en blanco (no hubo clase). 
+
+**Áreas de mejora sugeridas**
+
+- Intencionalmente en blanco (no hubo clase). 
+
+## Semana 5 - Gastrostock
 
 - Han mejorado en los usuarios piloto respecto a la última presentación.
 
@@ -937,7 +1240,7 @@ Un aspecto positivo que no se nombró pero que el equipo de FISIO FIND quiere an
 
 - Intencionalmente en blanco.
 
-## Semana 6
+## Semana 6 - Gastrostock
 
 **Feedback alumnos**:
 
@@ -1002,7 +1305,7 @@ Un aspecto positivo que no se nombró pero que el equipo de FISIO FIND quiere an
 
 - Redefinir los castigos y avisos.
 
-## Semana 7
+## Semana 7 - Gastrostock
 
 **Feedback alumnos**:
 
@@ -1042,7 +1345,7 @@ Un aspecto positivo que no se nombró pero que el equipo de FISIO FIND quiere an
 
 - Faltan métricas cuantitativas de calidad.
 
-## Semana 8
+## Semana 8 - Gastrostock
 
 **Feedback alumnos**:
 
@@ -1104,7 +1407,7 @@ Un aspecto positivo que no se nombró pero que el equipo de FISIO FIND quiere an
 
 - Soluciones mejor planteadas.
 
-## Semana 9
+## Semana 9 - Gastrostock
 
 **Feedback alumnos**:
 
@@ -1148,12 +1451,147 @@ Un aspecto positivo que no se nombró pero que el equipo de FISIO FIND quiere an
 
 - Transmitir correctamente la funcionalidad principal.
 
+## Semana 10 - Gastrostock
+**Feedback alumnos**:
+
+- Killer opener muy bueno, hall of fame muy bueno.
+
+- Muy bueno anuncio de inversores y costes.
+
+**Feedback recibido (resumen de los comentarios de los profesores)**
+
+- Han cogido el toro por los cuernos. Han cogido todo lo que tenía mal, han hecho lo que han podido y han tirado para alante. Se anima a que sigan así. 
+
+- Como han empezado tarde, hay muchas cosas en las que tienen que ir a remolque. Han echado agallas al tema y han tirado para adelante, enhorabuena. 
+
+- Killer opener muy bien menos lo del niño gordo. Gordofobia no. Le han hecho caso a feedback anteriores. 
+
+- Muy bien el guión del anuncio, pero el principio es demasiado largo, y te quita tiempo para contar otras cosas. Que quiten que el del gorro de tanta pena. 
+
+- Detalles del anuncio: 
+
+    - El mostrar paquetes de inversión es buena idea. 
+
+    - Deben aparecer números para que el negocio sea creible. 
+
+    - Producción y guión del anuncio muy buenos.
+
+- Han puesto costes fijos, pero después los costes del OpEx. Quizás los costes fijos sobran en la forma en la que lo explican. Podrían integrarlo en la gráfica.
+
+- No es costes capitales, sino capitalizados o capitalizables, o costes de capital.
+
+- El porcentaje de los bares bien puesto, comentado en feedbacks anteriores. 
+
+- Ha faltado la evolución de cómo van yendo las soluciones a los problemas, quiere ver un poco de eso el próximo día. 
+
+- La matriz de rendimiento está demasiada resumida, quiere ver distintos puntos y la evolución respecto a la semana anterior. 
+
+- Duda: No queda claro el terminator para qué es (la IA): han quitado la IA del alcance. 
+
+**Puntos positivos destacados**
+
+- Killer opener muy bueno.
+
+- Se felicita la resiliencia.
+
+- Buen anuncio de inversores.
+
+- Han hecho caso a feedback anteriores.
+
+**Áreas de mejora sugeridas**
+
+- No a la gordofobia.
+
+- Deben aparecer números para que el negocio sea creible.
+
+- Costes.
+
+- Matriz de rendimiento.
+
+## Semana 11 - Gastrostrock
+
+**Feedback alumnos**
+
+- Intencionalmente en blanco (no hubo clase).
+
+**Feedback recibido (resumen de los comentarios de los profesores)**
+
+- Intencionalmente en blanco (no hubo clase).
+
+**Puntos positivos destacados**
+
+- Intencionalmente en blanco (no hubo clase).
+
+**Áreas de mejora sugeridas**
+
+- Intencionalmente en blanco (no hubo clase).
+
+## Semana 12 - Gastrostock
+**Feedback alumnos**
+
+- Intencionalmente en blanco.
+
+**Feedback recibido (resumen de los comentarios de los profesores)**
+
+- En algunas partes no se escuchaba bien.
+
+- El anuncio inicial está bien, pero quizás se necesita aportar más información acerca de lo que se digitaliza.
+
+- Cuando se presenta al equipo, se habla en pasado o presente, pero no en futuro. Hay que cuidar el tiempo verbal.
+
+- Respecto a los costes, se dan demasiados detalles; quizás se podría acortar.
+
+- De manera general, todos los grupos están trasladando los anuncios a la sección de marketing; esto debería incluirse en la primera presentación.
+
+- La demo debería presentarse antes.
+
+- Respecto al ritmo de la presentación, fue bastante bueno, y las ideas se hilvanaron correctamente.
+
+- Intentar ajustarse más a la estructura propuesta para facilitar la narrativa de la información.
+
+- El principal problema puede ser el desbalance en el peso de la presentación, que debería centrarse en explicar qué se ha hecho.
+
+- Es mejor incluir brevemente un caso de uso core muy específico para que quede muy claro y, a partir de ahí, desarrollar la presentación.
+
+- Respecto al tema del video, habría que intentar identificar mejor a los tipos de inversores a los que se quiere atraer.
+
+**Puntos positivos destacados**
+
+- Buen ritmo en la presentación.
+
+- Anuncio inicial efectivo.
+
+- Presentación clara del equipo.
+
+- Correcta exposición de problemas.
+
+
+**Áreas de mejora sugeridas**
+
+- Mejorar la calidad del sonido
+
+- Aportar más información sobre la digitalización
+
+- Cuidar el uso de tiempos verbales
+
+- Sintetizar la sección de costes
+
+- Reorganizar la estructura de la presentación
+
+- Adelantar la demo
+
+- Equilibrar el contenido de la presentación
+
+- Incluir un caso de uso específico
+
+- Afinar el perfil de inversores
+
 ---
 
 
 # Grupo 3 - Eventbride
 
-## Semana 1
+## Semana 1 - Eventbride
 
 **Feedback recibido (resumen de los comentarios de los profesores)**
 
@@ -1171,7 +1609,7 @@ Un aspecto positivo que no se nombró pero que el equipo de FISIO FIND quiere an
 
 - **DEBEMOS TENER MUY CLAROS NUESTROS CASOS DE USO Y EN QUÉ NOS DIFERENCIAMOS DE LOS COMPETIDORES.**
 
-## Semana 2
+## Semana 2 - Eventbride
 
 Han realizado un estudio de mercado que revela que la demanda de la aplicación varía según la estación del año, afectando la cantidad de eventos organizados. El análisis de viabilidad, basado en encuestas, destaca el interés de los clientes en módulos para la gestión de listas de invitados, la selección de proveedores y la accesibilidad.
 
@@ -1195,7 +1633,7 @@ Han realizado un estudio de mercado que revela que la demanda de la aplicación 
 
 - Reestructurar el contenido para garantizar un orden lógico y claro.
 
-## Semana 3
+## Semana 3 - Eventbride
 
 Los compañeros de clase felicitamos:
 
@@ -1239,7 +1677,24 @@ Por otro lado, un aspecto que no se nombró en el feedback de los compañeros es
 
 - Dedicar más tiempo a prácticar la presentación.
 
-## Semana 5
+## Semana 4 - Eventbride
+**Feedback alumnos**
+
+- Intencionalmente en blanco (no hubo clase). 
+ 
+**Feedback recibido (resumen de los comentarios de los profesores)**
+
+- Intencionalmente en blanco (no hubo clase). 
+
+**Puntos positivos destacados**
+
+- Intencionalmente en blanco (no hubo clase). 
+
+**Áreas de mejora sugeridas**
+
+- Intencionalmente en blanco (no hubo clase). 
+
+## Semana 5 - Eventbride
 
 **Feedback alumnos**
 
@@ -1287,7 +1742,7 @@ Por otro lado, un aspecto que no se nombró en el feedback de los compañeros es
 
 - Mencionar pull requests.
 
-## Semana 6
+## Semana 6 - Eventbride
 
 **Feedback alumnos**
 
@@ -1348,7 +1803,7 @@ Por otro lado, un aspecto que no se nombró en el feedback de los compañeros es
 
 - Ensayar más las presentaciones para conseguir una mayor elasticidad.
 
-## Semana 7
+## Semana 7 - Eventbride
 
 **Feedback alumnos**
 
@@ -1404,7 +1859,7 @@ Por otro lado, un aspecto que no se nombró en el feedback de los compañeros es
 
 - Gráfica de barras de evolución cuantitativa del rendimiento del equipo.
 
-## Semana 8
+## Semana 8 - Eventbride
 
 **Feedback alumnos**
 
@@ -1463,7 +1918,7 @@ Por otro lado, un aspecto que no se nombró en el feedback de los compañeros es
 
 - Ceñirse a las horas mínimas de trabajo.
 
-## Semana 9
+## Semana 9 - Eventbride
 
 **Feedback alumnos**
 
@@ -1505,12 +1960,112 @@ Por otro lado, un aspecto que no se nombró en el feedback de los compañeros es
 
 - Demo mejorable.
 
+## Semana 10 - Eventbride
+**Feedback alumnos**
+
+- Gusta cómo tienen todo gestionado. Recuerda a PGPI. Está bien que tengan registro claro de todo lo relacionado con problemas.
+
+- En las redes sociales se nota que cumplen los objetivos de marketing. Me ha gustado mucho cómo han solucionado los problemas los compañeros.
+
+- Ha gustado mucho que sigan la historia, y cómo desglosan el feedback de los Usuarios Piloto y trabajan en las redes sociales.
+
+**Feedback recibido (resumen de los comentarios de los profesores)**
+
+- En general, se nota que le dedican bastante esfuerzo a la aplicación, pero no se le saca el brillo que debería sacarse en una demo de producto, porque se entiende mucho mejor si la demo sigue una historia, en vez de simplemente mostrar las funcionalidades y escenarios de la aplicación. Lo importante es que sea más corta y focalizada y se muestren los elementos core. Que los posibles clientes tengan claro lo que hace la aplicación concretamente, en vez de saber todo lo que hace. 
+
+- Con respecto a los inversores, se nota que lo han intentado hacer de la mejor manera posible, y que es bastante superior a lo que se suele ver, pero el contenido en sí debería dar un mensaje más apropiado para un inversor. Tenemos que identificar hacia quién va dirigido lo que hacemos. El nivel de informalidad en ciertos aspectos puede ser raro para inversores serios. Hay que buscar el mostrar un mensaje claro y serio. Intentar mucha más información sobre el mercado, el mercado potencial. Los inversores quieren saber a qué aspiramos, y si hay potencial para conseguir dinero. Centrarnos en mostrar datos y cosas objetivas. 
+
+- A nivel general de presentación, se repiten un par de cosas ya comentadas y que son importantes: 
+
+    - Por favor, Ciclo: problemas, acciones, cómo medir. Faltan: medidas, objetivos de esas medidas, cuándo llegar a esas medidas. Porque si no, no pueden hacer el seguimiento. 
+
+    - No pensar que es solo un patrón para los problemas, también tenerlo para las mejoras. Por ejemplo: queremos organizar para mejorar la eficiencia, pues debe seguirse el mismo ciclo. 
+
+**Puntos positivos destacados**
+
+- Se nota el trabajo y el esfuerzo dedicado.
+
+**Áreas de mejora sugeridas**
+
+- Perfilar la seriedad del anuncio de inversores.
+
+- Ciclo de problemas.
+
+## Semana 11 - Eventbride
+
+**Feedback alumnos**
+
+- Intencionalmente en blanco (no hubo clase).
+
+**Feedback recibido (resumen de los comentarios de los profesores)**
+
+- Intencionalmente en blanco (no hubo clase).
+
+**Puntos positivos destacados**
+
+- Intencionalmente en blanco (no hubo clase).
+
+**Áreas de mejora sugeridas**
+
+- Intencionalmente en blanco (no hubo clase).
+
+## Semana 12 - Eventbride
+**Feedback alumnos**
+
+- Intencionalmente en blanco.
+
+**Feedback recibido (resumen de los comentarios de los profesores)**
+
+- El killer opener no ha sido el mejor, y lo sabéis.
+
+- El recurso de la tarta ha estado muy bien utilizado; se recomienda seguir utilizándolo.
+
+- Los competidores fueron presentados de manera muy clara.
+
+- La presentación del equipo fue muy buena visualmente, aunque quizá estuvo demasiado especificada y resultó algo larga.
+
+- La demo estuvo muy bien, pero no había personajes definidos, por lo que se notó la falta de personas.
+
+- En las diapositivas 14 y 15, la letra era quizá un poco demasiado grande.
+
+- El anuncio general está muy bien enfocado.
+
+- Los perfiles estaban muy bien detallados.
+
+- En la diapositiva 9 faltaba una "H".
+
+**Puntos positivos destacados**
+
+- El recurso de la tarta estuvo muy bien utilizado.
+
+- Los competidores fueron presentados de manera clara.
+
+- El equipo fue presentado de manera muy visual.
+
+- La demo estuvo bien realizada.
+
+- El anuncio general está muy bien enfocado.
+
+- Los perfiles estaban muy bien detallados.
+
+**Áreas de mejora sugeridas**
+
+- Mejorar el killer opener.
+
+- Ajustar la presentación del equipo para evitar exceso de especificaciones y reducir su duración.
+
+- Incluir personajes en la demo para dar más contexto.
+
+- Reducir el tamaño de la letra en las diapositivas 14 y 15.
+
+- Corregir la falta ortográfica en la diapositiva 9.
+
 ---
 
 
 # Grupo 4 - BORROO
 
-## Semana 1
+## Semana 1 - BORROO
 
 **Feedback recibido (resumen de los comentarios de los profesores)**
 
@@ -1532,7 +2087,7 @@ Por otro lado, un aspecto que no se nombró en el feedback de los compañeros es
 
 - **Invertir mucho más tiempo en un buen análisis de competidores.**
 
-## Semana 2
+## Semana 2 - BORROO
 
 Implementaron un enfoque innovador al agilizar su presentación mediante recursos teatrales, lo que ayudó a captar la atención del público. Su propuesta se centra en proporcionar un servicio que garantice la seguridad y confianza de los usuarios. Además, han desarrollado una estrategia para analizar el éxito de sus competidores y evaluar sus patrones de crecimiento.
 
@@ -1560,7 +2115,7 @@ Implementaron un enfoque innovador al agilizar su presentación mediante recurso
 
 
 
-## Semana 3
+## Semana 3 - BORROO
 
 Los compañeros de clase felicitamos:
 
@@ -1608,7 +2163,24 @@ El equipo de FISIO FIND, además de lo anterior, ha encontrado muy interesante e
 
 - Poner la landing page al final de la presentación.
 
-## Semana 5
+## Semana 4 - BORROO
+**Feedback alumnos**
+
+- Intencionalmente en blanco (no hubo clase). 
+ 
+**Feedback recibido (resumen de los comentarios de los profesores)**
+
+- Intencionalmente en blanco (no hubo clase). 
+
+**Puntos positivos destacados**
+
+- Intencionalmente en blanco (no hubo clase). 
+
+**Áreas de mejora sugeridas**
+
+- Intencionalmente en blanco (no hubo clase). 
+
+## Semana 5 - BORROO
 
 **Feedback alumnos**
 - Muy buen inicio efectivo.
@@ -1667,7 +2239,7 @@ El equipo de FISIO FIND, además de lo anterior, ha encontrado muy interesante e
 
 - Dedicar más tiempo a la retrospectiva y explicarla mejor.
 
-## Semana 6
+## Semana 6 - BORROO
 
 **Feedback alumnos**
 
@@ -1721,7 +2293,7 @@ El equipo de FISIO FIND, además de lo anterior, ha encontrado muy interesante e
 
 - Realizar análisis de las alucinaciones de la IA.
 
-## Semana 7
+## Semana 7 - BORROO
 
 **Feedback alumnos**
 
@@ -1775,7 +2347,7 @@ El equipo de FISIO FIND, además de lo anterior, ha encontrado muy interesante e
 
 - Detallar el proceso de evaluación del rendimiento individual del equipo.
 
-## Semana 8
+## Semana 8 - BORROO
 
 **Feedback alumnos**
 
@@ -1829,7 +2401,7 @@ El equipo de FISIO FIND, además de lo anterior, ha encontrado muy interesante e
 
 - Mostrar más información del feedback de los usuarios piloto.
 
-## Semana 9
+## Semana 9 - BORROO
 
 **Feedback alumnos**
 
@@ -1875,11 +2447,137 @@ El equipo de FISIO FIND, además de lo anterior, ha encontrado muy interesante e
 
 - Poner número de usuarios en los costes.
 
+## Semana 10 - BORROO
+**Feedback alumnos**
+
+- Muy bien la forma en la que se afrontan problemas. Categorización del feedeback. 
+
+- Calendario niko niko muy bien, la categorización muy buena respecto al feedback pasado.
+
+**Feedback recibido (resumen de los comentarios de los profesores)**
+
+- Muy bien trabajado, dan buena sensación de principio a fin. 
+
+- Enhorabuena por decir solo 2 “seguidamente”, lo ha sustituido por “de acuerdo” y “a continuación”. 
+
+- Aplica tanto al killer opener como al anuncio de clientes: hacen hincapié en que las cosas se usan, se guardan y se quieren dar salida. Hay que hacer diferenciación entre alquilar y vender, porque es lo que se muestra en el anuncio. Si hay objetos que puedo no usar esporádicamente, y por tanto puedo alquilar, entonces se refleja mejor la idea de la aplicación. 
+
+- Hay cosas sacadas de la manga: mercado en auge, cada vez las personas alquilan más. Hay que meter datos: noticias, estudios, etc. Hay que convencer con estadísticas. 
+
+- Faltan las opciones de inversión y porcentajes de cuánto vender. 
+
+- Son los que de manera más eficiente cuentan el equipo. 
+
+- La demo está genial, pero no han contado al principio lo que iba a aparecer en esta. 
+
+- El incremento o decremento de datos respecto a la semana anterior es importante reflejarlo, junto con flechas y cosas así. 
+
+- Buena priorización del feedback, con varios apartados para priorizar. 
+
+- Lo de hacer merges de ramas incorrectas es muy grave. Deberian de añadir una leccion aprendida sobre esto.
+
+- ¿El tema de Locust cómo lo estan haciendo? Estan midiendo como si fuesen 10 usuarios los que hacen la petición y viendo como va la pagina. Lo importante es detectar los límites, ¿eso lo han hecho? No, porque no están terminados los test de Locust. Se anima a detectarlos. 
+
+**Puntos positivos destacados**
+
+- Muy buen trabajo.
+
+- Buen cambio de muletillas.
+
+- Eficiendia al contar el equipo.
+
+- Buena priorización del feedback.
+
+**Áreas de mejora sugeridas**
+
+- Killer opener y anuncios.
+
+- Meter más datos reales.
+
+- Opciones de inversión y porcentajes.
+
+- Incremento o decremento de datos respecto a la semana anterior.
+
+## Semana 11 - BORROO
+
+**Feedback alumnos**
+
+- Intencionalmente en blanco (no hubo clase).
+
+**Feedback recibido (resumen de los comentarios de los profesores)**
+
+- Intencionalmente en blanco (no hubo clase).
+
+**Puntos positivos destacados**
+
+- Intencionalmente en blanco (no hubo clase).
+
+**Áreas de mejora sugeridas**
+
+- Intencionalmente en blanco (no hubo clase).
+
+## Semana 12 - BORROO
+**Feedback alumnos**
+
+- Intencionalmente en blanco.
+
+**Feedback recibido (resumen de los comentarios de los profesores)**
+
+- El anuncio inicial está bien, pero se puede reducir; a largo plazo puede volverse monótono.
+
+- Cuidado con el uso de muletillas.
+
+- Respecto a la demo, fue demasiado corta y rápida. No hay que tener miedo de mostrar más cosas, siempre y cuando puedan ser entendidas por un público general.
+
+- Los planes de inversión resultaron algo pesados.
+
+- En cuanto a la segunda presentación, se presentaron cuatro perfiles, pero solo se explicaron dos. Se debería marcar más claramente las diferencias entre los perfiles para evitar confusiones.
+
+- En el anuncio dirigido a inversores, hay que intentar dar datos concretos y citar la fuente de los mismos.
+
+- Faltó detallar cuándo y qué se va a publicar en las redes sociales.
+
+- La calidad de la presentación, en cuanto a flujo y dinamismo, fue buena.
+
+- Deberían mejorar el inicio efectivo, ya que incluir únicamente el anuncio puede ser poco impactante, además de que el anuncio se hacía algo largo.
+
+- Cuando se habla de rentabilidad, hay que referirse a la posibilidad de que sea rentable, no afirmar directamente que "será rentable".
+
+- Deben incluir, en el tema de la rentabilidad, el volumen de transacciones que efectúen los usuarios en la plataforma.
+
+- A Pablo le pareció buena idea el concepto de paquetes de inversión, pero considera que puede haber demasiados paquetes. Podría ser mejor reducir su número y explicar que están abiertos a negociación.
+
+- En la estructura de la presentación, lo que debe estar detallado correctamente es aquello que aporte valor a las personas que utilizarán la aplicación. Es importante mejorar el mensaje que se transmite acerca del producto.
+
+**Puntos positivos destacados**
+
+- El anuncio inicial fue correcto en su planteamiento.
+
+- La calidad de la presentación en cuanto a flujo y dinamismo fue buena.
+
+- La idea de los paquetes de inversión fue bien recibida.
+
+**Áreas de mejora sugeridas**
+
+- Optimizar el anuncio inicial.
+
+- Mejorar la calidad de la presentación oral.
+
+- Ampliar y estructurar mejor la demo.
+
+- Clarificar el contenido de la presentación.
+
+- Aportar datos concretos.
+
+- Simplificar los planes de inversión.
+
+- Mejorar el mensaje sobre el producto.
+
 ---
 
 # Grupo 5 - CAMYO
 
-## Semana 1
+## Semana 1 - CAMYO
 
 **Feedback recibido (resumen de los comentarios de los profesores)**
 
@@ -1897,7 +2595,7 @@ El equipo de FISIO FIND, además de lo anterior, ha encontrado muy interesante e
 
 - Hay que aprovechar al máximo el tiempo de la presentación para obtener el mejor feedback posible.
 
-## Semana 2
+## Semana 2 - CAMYO
 
 **Feedback recibido (resumen de los comentarios de los profesores)**
 
@@ -1921,7 +2619,7 @@ El equipo de FISIO FIND, además de lo anterior, ha encontrado muy interesante e
 
 - Definir claramente los usuarios piloto y sus características.
 
-## Semana 3
+## Semana 3 - CAMYO
 
 Los compañeros de clase felicitamos al equipo por la claridad de la exposición y su inicio efectivo. El equipo de FISIO FIND piensa que su gestión de usuarios piloto y su exposición de la rentabilidad es algo de lo que podrían aprender. 
 
@@ -1960,7 +2658,24 @@ Los compañeros de clase felicitamos al equipo por la claridad de la exposición
 
 - En vez de poner los números con todas las cifras, ponerlo con Ks.
 
-## Semana 5
+## Semana 4 - CAMYO
+**Feedback alumnos**
+
+- Intencionalmente en blanco (no hubo clase). 
+ 
+**Feedback recibido (resumen de los comentarios de los profesores)**
+
+- Intencionalmente en blanco (no hubo clase). 
+
+**Puntos positivos destacados**
+
+- Intencionalmente en blanco (no hubo clase). 
+
+**Áreas de mejora sugeridas**
+
+- Intencionalmente en blanco (no hubo clase). 
+
+## Semana 5 - CAMYO
 
 **Feedback alumnos**:
 
@@ -2029,7 +2744,7 @@ Los compañeros de clase felicitamos al equipo por la claridad de la exposición
 
 - Si hay pull request de mejora se debe decir en la presentación.
 
-## Semana 6
+## Semana 6 - CAMYO
 
 **Feedback alumnos**:
 
@@ -2075,7 +2790,7 @@ Los compañeros de clase felicitamos al equipo por la claridad de la exposición
 
 - Generalizar adecuadamente.
 
-## Semana 7
+## Semana 7 - CAMYO
 
 **Feedback alumnos**:
 
@@ -2139,7 +2854,7 @@ Los compañeros de clase felicitamos al equipo por la claridad de la exposición
 
 - No se ha hablado expresamente de problemas/soluciones/estado.
 
-## Semana 8
+## Semana 8 - CAMYO
 
 **Feedback alumnos**:
 
@@ -2200,7 +2915,7 @@ Los compañeros de clase felicitamos al equipo por la claridad de la exposición
 
 - Rendimiento evaluable con métricas ya mostradas.
 
-## Semana 9
+## Semana 9 - CAMYO
 
 **Feedback alumnos**:
 
@@ -2254,3 +2969,121 @@ Los compañeros de clase felicitamos al equipo por la claridad de la exposición
 - Reducción de texto y más metáforas gráficas.
 
 - Métricas de calidad en perspectiva.
+
+## Semana 10 - CAMYO
+**Feedback alumnos**
+
+- Enhorabuena porque sus presentaciones son siempre muy buenas. El anuncio es brillante. Muy desglosado el plan de marketing. Siguen siendo creativos en la forma en la que hilan.
+
+- Muy bien el apartado de marketing.
+
+- Muy bien los iconos en la PPT.
+
+**Feedback recibido (resumen de los comentarios de los profesores)**
+
+- Han tenido bastante en cuenta el feedback de la semana pasada, se ha reflejado. 
+
+- El ritmo de la presentacion y el hilo están muy bien y son muy naturales. 
+
+- El anuncio inicial está muy bien y va muy a lo concreto, da a entender el mensaje y valor de la plataforma de manera muy directa y sencilla. 
+
+- La demo se ve bien, pero hay que transicionar a otro modelo de demo en el que la informalidad se mida un poco, porque son demos ya para clientes objetivos. ¿Qué queremos que piense? Si metemos demasiado humor e informalidad, no va a pensar que sea una aplicación seria. 
+
+- ¿Cuántos UP reales tienen actualmente? Ahora mismo, unos 31 contando con empresas, transportitstas y personas de la clase. Suelen tener un 80% de respuesta. De los UP que tienen, ¿Cuántos son les empresas y cuáles transportistas? 10 transportitstas y 6 empresas (10 empleados). Estaría bien hacer una pequeña encuesta sobre la demo, para conocer la opinión de los clientes y que ellos promuevan ese video con compañeros. A Pablo le preocupa que el video está super bien para esta clase, pero puede que no sea el mejor vídeo de presentación para clientes serios.  
+
+- Preocupa que no se oía muy bien en muchas partes. Hablaban muy bajo. Que hagan pruebas de volumen e incluso se planteen usar un micro. 
+
+- En general, la parte de inversión no se ha visto muy en detalle el mensaje principal. Justificación: como debían hacer anuncios para distintos usuarios, se han centrado en clientes, y además tienen pensado cosas para los inversores, no van a trabajar desde cero.  
+
+- En las estimaciones, los porcentajes deberían decir qué significan, para no tener que hacer cálculos. Pablo no entiende bien las estimaciones de a cuántos clientes quieren llegar y en qué momento. Los datos que pongan deben ser entendidos sin tener que coger la calculadora. El principal análisis que hace alguien cuando ve la gráfica es si es realista, y darle información para que vea que es realista. 
+
+**Puntos positivos destacados**
+
+- Han tenido en cuenta el feedback de la semana pasada.
+
+- Buen ritmo de la presentación.
+
+- Buen anuncio.
+
+- Buena demo.
+
+**Áreas de mejora sugeridas**
+
+- Demo menos informal.
+
+- Realizar pruebas de volumen.
+
+- Usar micro.
+
+- Indicar el significado de los porcentajes.
+
+## Semana 11 - CAMYO
+
+**Feedback alumnos**
+
+- Intencionalmente en blanco (no hubo clase).
+
+**Feedback recibido (resumen de los comentarios de los profesores)**
+
+- Intencionalmente en blanco (no hubo clase).
+
+**Puntos positivos destacados**
+
+- Intencionalmente en blanco (no hubo clase).
+
+**Áreas de mejora sugeridas**
+
+- Intencionalmente en blanco (no hubo clase).
+
+## Semana 12 - CAMYO
+**Feedback alumnos**
+
+- Intencionalmente en blanco.
+
+**Feedback recibido (resumen de los comentarios de los profesores)**
+
+- El Killer Opener estuvo muy bien enfocado, pero se debería mejorar cómo el personaje escoge el plan de precios. Actualmente, simplemente menciona que el precio está bien, pero sería mejor añadir más razones o alicientes que justifiquen su elección, adaptándola a sus necesidades.
+
+- Se debería intentar mostrar las características fundamentales dentro de la misma demo, para no tener que explicarlas primero de manera verbal y luego nuevamente en la demo.
+
+- La primera parte de la presentación fue muy profesional y bien orientada al WPL.
+
+- La luz estaba encendida delante del proyector, lo que dificultó la visibilidad de las diapositivas.
+
+- La demo estuvo muy bien enfocada, aunque algunos profesores tuvieron problemas para ver correctamente, ya sea por el tamaño de la proyección o por la iluminación.
+
+- El anuncio de inversores fue muy bueno; se basaron en temas reales, se explicaron los planes de inversión y se aportó información sobre el mercado que respalda la viabilidad del proyecto.
+
+- Se dedicó demasiado tiempo a los planes de precios, ya que tienen una sección específica para ello y luego vuelven a aparecer en el video de inversores. Se podría ajustar para que se cuente únicamente en el video, y comentar brevemente solo las particularidades no mencionadas.
+
+- En el video de inversores, estuvo muy bien que justificaran la fuente de los datos presentados.
+
+- En la primera presentación se echó en falta más detalles sobre la gestión de redes sociales, como cuándo se realizará la subida de contenido.
+
+- No se incluyeron los costes.
+
+**Puntos positivos destacados**
+
+- Killer Opener muy bien enfocado.
+
+- Primera parte de la presentación muy profesional y bien orientada al WPL.
+
+- Demo bien enfocada.
+
+- Buen anuncio de inversores, basado en datos reales y planes de inversión claros.
+
+- Justificación adecuada de las fuentes de datos en el video de inversores.
+
+**Áreas de mejora sugeridas**
+
+- Mejorar cómo el personaje escoge el plan de precios en la demo.
+
+- Mostrar las características fundamentales dentro de la misma demo para evitar duplicidad de explicaciones.
+
+- Mejorar las condiciones de visibilidad (controlar la iluminación y el tamaño de la proyección).
+
+- Ajustar el tiempo dedicado a los planes de precios para evitar repeticiones.
+
+- Incluir detalles sobre la gestión y calendario de publicaciones en redes sociales.
+
+- Incorporar información sobre los costes.
