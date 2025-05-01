@@ -219,6 +219,31 @@ En esta página se encuentra el feedback recogido por el equipo del grupo 8 dura
 - El análisis de amenazas fue adecuado, pero el título debería ser más específico. Ej.: “Amenazas críticas del sistema”.
 - Las métricas usadas para calcular el diferencial de notas son poco informativas actualmente; hay que detallarlas mejor.
 
+## Semana 21/04
+#### Feedback sobre la presentación
+- Antes del WPL, se reservará el salón de actos para hacer las pruebas necesarias y garantizar que todo funcione correctamente.
+
+- David ha mejorado notablemente su expresión oral, realizando pausas adecuadas. Aunque en las enumeraciones aún tiende a ir rápido, ha mejorado hacia el final.
+
+- Mejorar la coherencia narrativa: se comenzó con el tema del bebé y las verduras; sería más eficaz que el killer opener lo realizara el personaje del anuncio, construyendo así una historia completa.
+
+
+#### Feedback sobre el proyecto
+- En el anuncio, debe mostrarse comida, especialmente alimentos para bebés, con una escena donde no se sabe qué darle al bebé, para conectar con el propósito de la aplicación.
+
+- La demo se queda corta: debería reflejar claramente las funciones diferenciadoras como la creación de recetas, métricas del bebé, gestión de múltiples perfiles de bebés, y el marketplace.
+
+- Las cifras deben abreviarse (por ejemplo, "k" para miles y "M" para millones) y la escala de tiempo debería ajustarse a cada dos meses.
+
+- El vídeo para inversores necesita mayor desarrollo, especialmente en la parte de paquetes de inversión. Los puntos 4 y 5 pueden acortarse para incluir el retorno estimado de la inversión.
+
+- Las colaboraciones con influencers son una excelente idea, aunque el coste actual es elevado.
+
+- Sería conveniente que el filtro fuera un bebé (no es prioritario, pero aportaría valor).
+
+- La funcionalidad de Spoony es atractiva, pero falta claridad: especificar en qué redes sociales se publica, cuántas publicaciones y si se aplica a todas las plataformas o solo a una. Detallarlo en la diapositiva 17 de la segunda presentación.
+
+- Incluir los sorteos dentro del plan de marketing.
 
 
 ## Grupo 7 - Map Your World
@@ -371,6 +396,31 @@ Innovar no siempre es la mejor opción si se pierde claridad en la información.
 - Aportar datos combinados con las acciones de marketing planeadas fortalecerá la estrategia de cara a inversores.
 - Deben contemplar el impacto legal a nivel regional y nacional, y considerar posibles restricciones legales.
 
+# Semana 21/04
+#### Feedback sobre la presentación
+- La presentación no incluyó un killer opener, lo que dificultó captar la atención inicial de la audiencia. Esto, sumado a la ausencia de un elevator pitch claro, provocó una falta de coherencia y de hilo argumental.
+
+- El audio presentó problemas de eco, lo cual afectó la comprensión.
+
+- Aunque el anuncio para captar clientes estuvo bien planteado, la demo fue demasiado acelerada. La música de fondo, en lugar de aportar, resultó más una distracción.
+
+
+
+
+#### Feedback sobre el proyecto
+- En la proyección de beneficios, se observa una disminución de gastos en la semana 30 que luego vuelve a subir. Es importante que el equipo tenga claridad sobre estas variaciones y pueda explicarlas con precisión.
+
+- En la tabla de competidores, se deben destacar de forma más evidente los elementos que diferencian a MapYourWorld del resto.
+
+- Fue muy valorada la estrategia de publicaciones según el tipo de usuario y objetivo.
+
+- El cronograma de pre-lanzamiento, lanzamiento y post-lanzamiento está bien estructurado, pero faltó concretar fechas específicas para las publicaciones. Aunque el equipo tenía esta información preparada, no la mostraron durante la presentación.
+
+- Es necesario definir los objetivos concretos que se buscan con las publicaciones (por ejemplo, métricas de impresiones, engagement o conversiones).
+
+- Hace falta detallar cuánto se va a invertir en cada red social, el coste por usuario, coste por instalación, y realizar experimentos que permitan estimar ingresos esperados y tipos de anuncios a utilizar.
+
+- El branding ha sido bien recibido. Sin embargo, se necesita definir con precisión el uso tipográfico y los estilos visuales del logo, como la sombra o la fuente exacta, ya que actualmente no parece corresponder a una fuente estándar.
 
 
 ## Grupo 9 - Caronte
@@ -487,6 +537,30 @@ Innovar no siempre es la mejor opción si se pierde claridad en la información.
 #### Feedback sobre el proyecto
 - Los anuncios fueron espectaculares, salvo el de empresa, que perdió fuerza. Por ejemplo, en el caso de la floristería, ni siquiera apareció una maceta.
 - El anuncio para inversores está mucho más trabajado y ha mejorado notablemente.
+
+# Semana 21/04
+#### Feedback sobre la presentación
+- El mensaje inicial con el collage de imágenes resulta recargado y poco serio, contrastando con el tono del vídeo posterior. Se recomienda reconsiderar el orden de los elementos.
+
+- El eslogan carece de fuerza emocional en comparación con el vídeo. Sería más efectivo presentarlo después del vídeo.
+
+- Las diapositivas relativas a "moral" y "horas invertidas" no son necesarias en la presentación.
+
+- En el vídeo para inversores, el audio tiene mala calidad y la introducción no es coherente con el resto del contenido.
+
+#### Feedback sobre el proyecto
+- En la diapositiva de monetización (CAPEX y OPEX), se deben explicar mejor los conceptos de escenario pesimista y optimista. Este error también aparece en el vídeo para inversores.
+
+- En la presentación de inversión, es importante aclarar qué porcentaje de la empresa se ofrece a cambio de las acciones vendidas.
+
+- Revisar los perfiles de protopersonas: por ejemplo, no debería figurar como estado civil "trabajando" y "jubilada" tampoco tiene sentido en este contexto.
+
+- Excelente la idea del concurso interno de anuncios.
+
+- La integración de IA para la validación de esquelas es un elemento clave, ya que automatiza un proceso que de otro modo requeriría contratación.
+
+- Buen trabajo en el número de publicaciones alcanzadas.
+
 
 ## Grupo 10 - Go 4 Surprise
 # Semana 10/02
@@ -634,6 +708,32 @@ Sería importante incluir la estimación del número de usuarios esperados, dife
 - No se ha explicado de forma clara la diferenciación respecto a la competencia, especialmente sobre si los demás también ofrecen experiencias sorpresa.
 - El test realizado con Locust se ha hecho en local, no en producción; hay que tener cuidado con este tipo de pruebas.
 
+# Semana 21/04
+#### Feedback sobre la presentación
+- Presentación muy efectiva, destacando especialmente el killer opener y el anuncio con "Sorpresín".
+
+- Mejorar ligeramente el ritmo del diálogo durante el vídeo de presentación.
+
+- En el vídeo de demo, sería conveniente mostrar más características del producto.
+
+- El vídeo dirigido al cliente tiene un buen detalle, pero no requiere una presentación tan extensa.
+
+- No es necesario incluir una retrospectiva del trabajo en la presentación final.
+
+- El anuncio para inversores tiene un concepto acertado y es divertido, pero algunos elementos clave se pierden visualmente.
+
+
+
+#### Feedback sobre el proyecto
+- La diapositiva de mercado objetivo contiene demasiada información; debe simplificarse. A cambio, se puede ampliar la sección de estimación de ingresos.
+
+- En el WPL, se recomienda incluir solo la estimación esperada y omitir las versiones optimista y pesimista.
+
+- Explicar más a fondo el modelo de negocio.
+
+- En la sección de publicidad, explicar cómo se segmentará al público objetivo.
+
+
 
 ## Grupo 11 - Pawtel
 # Semana 10/02
@@ -780,3 +880,27 @@ Sería importante incluir la estimación del número de usuarios esperados, dife
 - Limitar las calificaciones a un máximo de 10 puede indicar problemas en el diseño de la escala.
 - Priorizar el feedback de los usuarios piloto en cada iteración.
 - Los usuarios piloto no deben actuar como beta testers; los errores técnicos deberían haberse detectado y corregido previamente.
+
+# Semana 21/04
+#### Feedback sobre la presentación
+- Hubo graves problemas técnicos que impidieron ver correctamente la demo y los anuncios.
+
+- La historia inicial no resulta realista ni coherente con el resto del proyecto. El presentador logró compensar parcialmente esto con una buena oratoria.
+
+- La introducción tiene demasiado texto, a pesar de que la historia era divertida.
+
+- El volumen del audio estaba excesivamente alto.
+
+
+
+#### Feedback sobre el proyecto
+- Usar un cursor con forma de pata de perro ayudaría a reforzar la narrativa relacionada con "Koko" y su estancia en el hotel.
+
+- Implementar un sistema de puntos para evitar el uso fraudulento de la app (puenteo) es una idea acertada.
+
+- Corregir el uso de “Valencia” por “Valenciano” al referirse a idiomas.
+
+- En la gráfica de posicionamiento digital, utilizar fechas más cercanas entre sí. Reflejar también la estacionalidad del servicio.
+
+- En cuanto al uso de IA, especificar qué herramientas de inteligencia artificial se han utilizado y mostrarlas explícitamente en la presentación.
+
