@@ -569,9 +569,13 @@ La organización de la presentación no es la que indicaron los profesores.
 
 #### Tareas a realizar para la siguiente semana
 
-- Mostrar la priorización del feedback.
+- Preparar mejor la demo en vivo: solucionar los problemas de red y asegurar el uso de zoom adecuado.
 
-- Cambiar el PPL añadiendo más tareas de marketing.
+- Eliminar o rediseñar el video final si solo repite contenido anterior; enfocarlo en novedades si se mantiene.
+
+- Reemplazar iconos genéricos por imágenes reales de fisioterapeutas dentro de la aplicación.
+
+- Reflexionar sobre la estrategia de captación de inversores y considerar pequeños ensayos de aproximación.
 
 ## Semana 11
 #### Feedback relacionado con la presentación
