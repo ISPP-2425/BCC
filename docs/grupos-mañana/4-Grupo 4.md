@@ -628,7 +628,7 @@ En esta página se encuentra el feedback recogido por el equipo del grupo 4 dura
 - Tratar de convencer con el anuncio de inversores
 - Planificación de marketing con fechas y tal
 - El inicio efectivo, no es un inicio efectivo
-- Alguien que no sabe de que va el poryecto no se entera hasta el final
+- Alguien que no sabe de que va el proyecto no se entera hasta el final
 - Hablar en futuro, por ejemplo sera rentable??
 - Hablar de transacciones para el tema de comisiones
 - Paquetes de inversion ha demasiados reducir a 1 o 2 y decir que estamos abiertos a otras opciones
