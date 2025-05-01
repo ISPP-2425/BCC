@@ -598,7 +598,7 @@ En esta página se encuentra el feedback recogido por el equipo del grupo 4 dura
     - SEO
     - Campaña de lanzamiento
     - Publicaciones en redes social
-    - Comunity management
+    - Community management
     - Anuncios, videos, banners
 
 
