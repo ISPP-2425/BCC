@@ -144,6 +144,21 @@ En esta página se encuentra el feedback recogido por el equipo del grupo 9 dura
 - En la sección de los anuncios, mejorar la calidad de los vídeos para empresas e inversores. 
 - En la sección de análisis de código, no incluir los test para el análisis de código en Codacy para evitar la redundancia y duplicidad de código.
 
+## Feedback del día 25/04
+#### Feedback relacionado con la presentación
+- Cambiar el orden del comienzo de la presentación, la transparencia del  mensaje inicial tiene demasiadas imágenes heterogéneas. Se podría utilizar el anuncio de usuarios como killer opener.
+- Se podría combinar la demostración funcional con la explicación de las diferentes características que ofrecemos.
+- En la monetización falta apoyo visual para comprender cuales son las situaciones pesimistas y optimistas.
+- Fallo en la diapositiva de protopersonas, en el estado civil ponía la ocupación de la persona.
+- No se entienden bien los números que están junto a las redes sociales, a primera vista parece los seguidores y no el número de publicaciones.
+- No hay que hablar sobre retrospectiva, moral o nada relacionado con el equipo en esta presentación.
+- Lo que importa al inversor no es el precio, si no que porcentaje y que está comprando por ese dinero.
+
+#### Feedback relacionado con el desarrollo del proyecto
+- Posible futura implementación de una IA para la validación de esquelas.
+- El vídeo de la demostración funcional va muy rápido y la música está altísima.
+
+
 ## Grupo 7 - Map Your World
 # Feedback del día 14/02
 #### Feedback relacionado con la presentación
@@ -312,6 +327,21 @@ En esta página se encuentra el feedback recogido por el equipo del grupo 9 dura
 #### Feedback relacionado con el desarrollo del proyecto
 - En la sección de los anuncios, evitar grabar escenas a contraluz y apoyarse en mayor medida en datos y cifras reales, por ejemplo, incluyendo estadísticas del nivel de sedentarismo en España. Por otro lado, se ha aplicado correctamente el feedback de la semana pasada incluyendo más dinamismo a las escenas.
 - En la sección de Lecciones aprendidas, incluir ejemplos concretos de los errores que han sido encontrados gracias al testing de la aplicación.
+
+# Feedback del día 25/04
+#### Feedback relacionado con la presentación
+- La gráfica proyección de beneficios no es representativa, los gastos varían en función de la cantidad de trabajo, normalmente los costes deberían ser estables.
+- Ausencia del Killer opener efectivo.
+- Demasiado eco en los audios de los vídeos.
+- Incluir un resumen de las características de la aplicación previa al anuncio de clientes o la demostración funcional.
+- Destacar en el análisis de competidores lo que verdaderamente los diferencia de cada uno de ellos, con los rasgos relevantes respecto a la competencia.
+
+#### Feedback relacionado con el desarrollo del proyecto
+- La demo es demasiado acelerada y la música de fondo despistaba más que ayudaba.
+- En la sección de inversores, considerar la propuesta de establecer paquetes de inversión a un precio muy bajo y asequible con la finalidad de tener muchas acciones a muy poco precio, porque los actuales son demasiado pretenciosos.
+- En la campaña de lanzamiento falta ser más concreto en el apartado de la planificación de las publicaciones (definir fechas exactas para cada actividad). Además, establecer los objetivos (número de publicaciones, repercusión, etc.).
+- Para el branding las sombras son malas, con un borde difuso da sensación de no estar bien diseñado.
+
 
 ## Grupo 8 -  Infantem
 # Feedback del día 14/02
@@ -506,6 +536,19 @@ No se dice Usuarios Pilotos sino Usuarios Piloto, error que también se cometió
 - En la sección de Sprint Retrospective, evitar realizar un análisis de rendimiento, realizando una retrospectiva de todos aquellos aspectos que han ido bien o se pueden mejorar, así como de las debilidades afrontadas por el equipo a lo largo del Sprint.
 - En la sección de Usuarios piloto, buena priorización y categorización del feedback, incluyendo ejemplos reales.
 
+# Feedback del día 25/04
+#### Feedback relacionado con la presentación
+- En la presentación falta hilo argumental, podrían hacer el killer opener las personas que hacen el anuncio.
+- No poner cifras enteras, acortar con letras que hagan referencia al valor de la cifra.
+- Al poner a Spoony no se entiende bien en la planificación que se va a hacer, especificar en qué redes sociales que se va a subir en qué red social y cuando.
+- Falta de soporte visual en algunas secciones.
+
+#### Feedback relacionado con el desarrollo del proyecto
+- En el anuncio no aparecen problemas relacionados con la comida, que es lo principal de esta aplicación.
+- La demostración funcional de la aplicación es muy breve y no recoge los casos de uso core de la aplicación
+- Vídeo de inversores corto, se debería ampliar con paquetes de inversión.
+
+
 ## Grupo 10 -  Go4Surprise
 # Feedback del día 14/02
 #### Feedback relacionado con la presentación
@@ -667,6 +710,16 @@ No se dice Usuarios Pilotos sino Usuarios Piloto, error que también se cometió
 - Reducir la duración de los anuncios para que se adapten en mayor medida a las actuales y futuras presentaciones.
 - En la sección de la demostración funcional, mejorar la visualización a lo largo de todo el vídeo, incluyendo zooms e interactuando con la mascota Sorpresín. 
 - En la sección de Lecciones aprendidas, detallar en mayor medida los problemas surgidos y no quedarse en la superficie. Para ello, es necesario abordar el problema, comentar las soluciones propuestas y la realizada, así como la evolución del problema tras la aplicación de una solución.
+
+# Feedback del día 25/04
+#### Feedback relacionado con la presentación
+- No hay que hablar sobre retrospectiva ni nada relacionado con el equipo en esta presentación.
+- Falta de información en cuanto al modelo de negocio, de donde sale el dinero, los ingresos, etc.
+
+#### Feedback relacionado con el desarrollo del proyecto
+- En el  anuncio de inversores no se ve la pantalla de fondo que se supone que es importante. Además de la falta de opciones de inversiones.
+- Incluir la funcionalidad del tema de notificaciones que quedan x días en la demostración funcional.
+
 
 ## Grupo 11 -  Pawtel
 # Feedback del día 14/02
@@ -831,3 +884,13 @@ Mejorar el tema de cuadrantes en el rendimiento del Sprint, es confuso poner dir
 
 #### Feedback relacionado con el desarrollo del proyecto
 - En la sección de anuncios, mejorar el uso de la IA en estos para unificar el idioma empleado a lo largo de los vídeos. Aún así, está muy bien introducir subtítulos para que el mensaje del anuncio llegue a toda la audiencia. 
+
+# Feedback del día 25/04
+#### Feedback relacionado con la presentación
+- La historia inicial no es realista, no tiene que ver con el producto. Necesita un enfoque más visual y utilizar apoyo en las diapositivas de la propia presentación.
+- Problemas técnicos con la presentación.
+- Disonancia entre audio y video.
+
+#### Feedback relacionado con el desarrollo del proyecto
+- Si solo monetizan de la comisión de reserva, pueden perder dinero si hay otro medio de comunicación entre dueño y propietario de hotel.
+- Dar importancia a la estacionalidad del negocio ya que es un punto importante en este proyecto en concreto.
