@@ -378,6 +378,77 @@ Uso inconsistente del idioma (se recomienda unificar en inglés o español).
 - Actualizar los **roles del equipo**, especialmente en marketing.
 - Preparar una **retrospectiva** del trabajo hasta ahora.
 
+## Semana 9
+### Feedback relacionado con la presentación
+- Mejorar la iluminación del video para mayor calidad visual en el video de inversores
+- En el video de inversoresUsar overlays visuales (gráficos, cifras) para mostrar fuentes de ingresos y datos que respalden el negocio con datos reales para generar confianza y credibilidad.
+- Resaltar el impacto en salud, explicar de forma clara cómo la app ayuda en este ámbito.
+- Aportar datos del mercado y cifras que validen el tamaño de la oportunidad.
+- Conocer bien las protopersonas (clientes objetivo) y reflejarlo de manera explícita en el pitch.
+- Alinear cifras de ingresos o mercado con esas protopersonas para mayor coherencia.
+- Analizar si existen leyes regionales que podrían afectar el uso o despliegue de la app.
+- Tener cuidado con zoom in / zoom out, puede marear al usuario.
+
+### Feedback relacionado con el desarrollo del proyecto
+- Mencionar los bugs encontrados durante el testing.
+- Identificar y explicar problemas concretos que surgieron durante el desarrollo.
+- Usar métricas como burn-up/down charts.
+- Dar estimaciones de completitud de la app (porcentaje, horas trabajadas, costos).
+- Incluir gráficas por entregable mostrando el trabajo realizado por cada integrante del equipo.
+  
+### Tareas a realizar para la siguiente semana
+#### **PRESENTACIÓN 1: World Project Launch (duración: 10 minutos)**
+##### 1. **Estructura general del pitch:**
+-  **Killer opener (1 minuto)**: Apertura fuerte y memorable.
+-  **Anuncio orientado al cliente (1 minuto)**: Qué problema resolvemos, cómo cambia la vida del usuario.
+-  **Qué hace el proyecto (sin explicar cómo se construyó)**:  
+  -  Historia coherente y realista u optimista.
+  -  Demostración del producto (demo basada en un recorrido narrativo).
+-  **Competencia**:  
+  -  Quiénes son los competidores actuales.
+  -  En qué nos diferenciamos.
+-  **Equipo (opcional o breve)**:  
+  -  Quiénes están detrás del proyecto.
+  -  Estructura organizativa (si aporta valor).
+-  **Sostenibilidad y rentabilidad**:  
+  -  Pricing plan.
+  -  Costes principales.
+  -  Paquetes de inversión (breve anuncio, 1 minuto máx).
+-  **Call to action final**:  
+  -  Enlace a la landing page.
+  -  Enlace al producto/prototipo.
+
+---
+
+#### 📊 **PRESENTACIÓN 2: Go-to-Market & Marketing Plan (duración: 5 minutos)**
+
+##### 1. **Segmentación del público:**
+-  Modelo de segmentación de audiencia.
+-  Crear mínimo **2 protopersonas** (buyer personas).
+
+##### 2. **Visibilidad y adquisición de usuarios:**
+-  Estrategia SEO:  
+  -  Palabras clave principales.
+-  Redes sociales:  
+  -  Segmentación por persona.
+  -  Plan de publicaciones.
+  -  Campaña de contenidos previa al lanzamiento (soft-launch).
+-  Campaña de lanzamiento clara:
+  -  Acciones para ganar visibilidad y tracción.
+  -  Posibles **aliados o partnerships** para amplificación.
+
+##### 3. **Community Management:**
+-  Definir **rol, objetivos e impacto**.
+-  Plan de publicaciones con intención clara.
+-  Sistema de seguimiento y mejora del plan.
+
+##### 4. **Costes y herramientas:**
+-  Desglose de costes de marketing.
+-  Anuncios dirigidos (targeted ads).
+-  Actualización constante de la landing page.
+-  **Uso de IA** para apoyo en marketing (por ejemplo: generación de contenido, análisis de rendimiento, etc.).
+
+
 ---
 
 ## Grupo 8 - Infanten
@@ -509,6 +580,23 @@ Uso inconsistente del idioma (se recomienda unificar en inglés o español).
 - Dividir la inversión necesaria en paquetes que prometan retorno.
 - Enfocar más en problemas de comunicación que se puedan medir y seguir en el tiempo.
 - Los problemas técnicos no interesa tanto medir en su evolución; priorizar los no técnicos.
+
+### Semana 9
+#### Feedback relacionado con la presentación
+- **Claridad y ritmo**: Se solapan frases entre sí, lo que dificulta la comprensión. Se recomienda ensayar más y respetar pausas.
+- **Uso de texto vs elementos visuales**: Hay demasiado texto; se sugiere incluir más metáforas visuales y reducir el contenido escrito, especialmente en las diapositivas de usuarios piloto.
+- **Datos y cifras**:  
+  - Abreviar cifras (usar “k” o “m”).  
+  - Usar estadísticas reales y citar las fuentes.
+- **Diapositivas específicas**:  
+  - Recortar el anuncio de “gratis” y unirlo con el del “premium”.  
+  - Separar con una metáfora visual a los que suben y bajan en la tabla de rendimiento.
+- **Título inadecuado**: El análisis de rendimiento en realidad muestra problemas; cambiar el título a algo más acorde.
+
+#### Feedback relacionado con el desarrollo del proyecto
+- **Población objetivo**: Refinar mejor el target con cifras concretas y reales.
+- **Métrica de rendimiento**: Se sigue utilizando una métrica que limita el rendimiento a 10, lo cual puede estar afectando negativamente los resultados.
+
 ---
 
 ## Grupo 9 - Caronte
@@ -627,6 +715,18 @@ Uso inconsistente del idioma (se recomienda unificar en inglés o español).
 #### Feedback relacionado con el desarrollo del proyecto
 - Añadir un **nivel más de categorización al feedback**, incluyendo qué comentarios se van a ignorar y por qué (por ejemplo: contradictorios, fuera del dominio del proyecto, etc.).
 - Incorporar una métrica que permita ver el **acumulado de horas trabajadas**, comparándolo con la media del resto del proyecto para identificar si hay desviaciones o retrasos sistemáticos.
+
+### Semana 9
+#### Feedback relacionado con la presentación
+- **Cuidado con lo que se comunica:** No digáis que habéis completado todo si realmente se ha recortado el alcance.
+- **Demo:** Se sugiere acortarla y centrarse en lo fundamental.
+- **Anuncio de la empresa:** Es muy genérico y no refleja bien la temática (es una floristería sin una sola maceta). Se podría mejorar, pero no eliminar por completo.
+- **Gráfica de trabajo (slide 21):** No queda claro lo que quiere transmitir.
+- **Gráfica del Sprint 4:** El salto en la gráfica no tiene sentido y puede generar confusión.
+
+#### Feedback relacionado con el desarrollo del proyecto
+- **Código duplicado:** Hay duplicidad de código, aunque no se cuentan los test en esto.
+- **Certificación:** No generéis un certificado si no es necesario.
 
 ---
 
@@ -752,6 +852,23 @@ Uso inconsistente del idioma (se recomienda unificar en inglés o español).
 - Hacer más clara la **trazabilidad entre los problemas** que se abordan y las soluciones propuestas.
 - Las **gráficas de horas/rendimiento** deben mostrar **segmentos de rendimiento claros**, como la **media y la semana actual**, y utilizar una representación más técnica (por ejemplo, un vector entre dos puntos).
 - Planificar una **actividad de team building**, preferiblemente **después de clases**, para mejorar la dinámica del equipo sin interferir con el horario académico.
+
+### Semana 9
+#### Feedback relacionado con la presentación
+- El killer opener pierde el factor sorpresa; se sugiere innovar más en la introducción.
+- El primer pitch está demasiado animado, lo que puede restar seriedad o claridad.
+- El análisis de competidores no convence lo suficiente; falta énfasis claro en qué los diferencia y las diapositivas no ayudan a reforzarlo.
+- El anuncio del cliente es algo largo; se recomienda acortarlo para mantener la atención.
+- El anuncio del cliente tipo bar no queda claro por qué funciona → se sugiere clarificarlo con la idea de “go 4 surprise”.
+- El equipo debería mostrarse más condensado en una sola diapositiva.
+- La demo necesita más enfoque visual (zoom en momentos clave) y más interactividad (ej., vestir a alguien como "Sorpresín" para mayor impacto visual).
+- Faltó la board del inversor, ya que el anuncio mostrado era del otro tipo de cliente.
+- La raíz del problema principal no se explica con claridad; hay que ser más específicos y concretos al definirlo.
+
+#### Feedback relacionado con el desarrollo del proyecto
+- Se deben realizar pruebas de carga (test de estrés o performance) del sistema.
+- El inicio del mercado objetivo necesita estar más racionalizado y enfocado.
+
 ---
 
 ## Grupo 11 - Pawtel
@@ -886,3 +1003,14 @@ Uso inconsistente del idioma (se recomienda unificar en inglés o español).
 - Si todo el mundo está "capado" al 10, puede que haya un problema con el diseño de la escala.
 - Priorizar el feedback de usuarios piloto en el proceso iterativo.
 - Los usuarios piloto no deben actuar como beta testers: los fallos técnicos deberían detectarse antes.
+
+### Semana 9
+#### Feedback relacionado con la presentación
+- **Apertura poco clara**: El inicio ("killer opener") no deja claro lo que ha ocurrido; se recomienda revisar el guion para mayor claridad.
+- **Audio y acento**: Mejorar la calidad del audio de la demo y asegurar que el acento sea constante.
+- **Estructura del contenido**: Hay varios saltos de tema (por ejemplo, pasar a la demo justo después del rendimiento del equipo), se sugiere encontrar una narrativa más cohesionada.
+- **Visualización de datos**: El eje de beneficios en la gráfica debería permitir mostrar números negativos para una mejor interpretación.
+- **Gestión del tiempo**: Ha sobrado demasiado tiempo; se podría aprovechar mejor o recortar la duración.
+
+#### Feedback relacionado con el desarrollo del proyecto
+- **Bug en imágenes**: Existe un error relacionado con las imágenes de los hoteles que debe corregirse.

@@ -51,3 +51,32 @@ En esta página se recoge el feedback proporcionado por el profesor y los compa�
 - Mantener un estilo de presentación claro y conciso, evitando el uso excesivo de texto y priorizando la información visual, como gráficos y diagramas, para facilitar la comprensión del contenido, así como el uso de metáforas visuales para apoyar el mensaje del presentador.
 - Mantener un lenguaje adecuado y profesional, evitando el uso de bulgarismos, expresiones coloquiales o palabras malsonantes que puedan restar seriedad a la presentación.
 - Evitar el uso de palabras en inglés innecesarias, a menos que sean términos técnicos específicos que no tengan una traducción adecuada al español.
+
+## Feedback del día 04/04
+- La presentación debe ser diseñada de forma que sea entendida por alguien de fuera de la asignatura.
+- Aglutinar la información de manera clara y concisa. Un ejemplo claro fue que había varias diapositivas con varías gráficas de costes distintas, que podían incluirse en una sola.
+- Tener cuidado con el momento del desarrollo en el que nos encontramos. Ejemplo: hubo un grupo que puso Sprint 2 en algunas diapositivas, cuando estamos ya en el 3.
+- Cuidado con las imágenes con Copyright.
+- No usar muletillas.
+- No incluir suposiciones al presentar datos, en todo caso aproximaciones.
+- Tener cuidado con el uso de ciertos gráficos que no son claros indicadores de lo que se quiere expresar.
+- Reducir al máximo el texto en las diapositivas y hacer uso de metáforas gráficas.
+
+## Feedback del día 11/04
+- Se tiene que elaborar dos presentaciones diferentes.
+- Hay que contar el proyecto de cara a inversores, no centrandote tanto en el como, sino más en el que. 
+- Una presentación igual a la que llevamos presentando hasta ahora, la otra vamos a ir iterando sobre ella de cara al World Project Launch.
+- La presentación para el WPL debe durar en torno a los 10 min. La otra unos 5 minutos, este tiempo no se puede repartir, es fijo.
+- La primera sección de la presentación para el WPL, tienen que tener un killer opener y un primer anuncio orientado a clientes, todo esto unido.
+- La segunda sección, que hace exactamente (demo del proyecto), contar casos de uso basados en una historia, solo cosas importantes, y consistente con killer opener y el video.
+- La tercera sección hay que hablar de la competencia, explicar competidores como siempre.
+- La cuarta sección hablar del equipo.
+- La quinta sección tratar de como la idea podría ser rentable. Enfatizando en los puntos principales del modelo de negocio.(fuentes de ingresos, costes, plan de negocio y una seccion que sea oportunidades de inversion donde ponemos e video maximo de 1 minuto para inversores).
+- Última sección, donde se puede ver mas informacion, link a landing page, qr y un enlace al sistema de produccion (producto).
+- La primera sección de la sección de 5 minutos, debe tratar sobre el modelo de segmentacion, a que segmentos de nuestro público objetivo vamos a orientar la campaña, y poner un par de protopersonas, definir campañas para cada segmentación.
+- La segunda sección, debe tratar del posicionamiento en los motores de busqueda (palabras clave para encontrarnos).
+- La tercera sección, la campaña de lanzamiento, esta tiene que tener algun evento antes del WPL, enfocado a ganar visibilidad y clientes (aliados, partnership).
+- Hay que definir rol community manager, tratar sobre la planificacion publicaciones (cuando se va a publicar).
+- Hablar de los costes de marketing (desglosar de la primera presentacion estos costes)
+- Por último, los anuncios dirigidos (banners, etc.) requerirán actualizar la landing page para incluirlos.
+- Gestiona mejor el tiempo para no dejar espacios o extenderse demasiado.

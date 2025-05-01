@@ -8,15 +8,21 @@ Este sitio web está construido usando [Docusaurus](https://docusaurus.io/), un 
 docs/
   conocimiento-común/
     0-Presentaciones.md
-    1-Idea de negocio.md
-    2-MVP.md
-    3-Organización del equipo.md
-    4-Commitment Agreement.md
-    5-Informe de uso de la IA.md
-    6-Competidores.md
-    7-Killer opener.md
-    8-Retrospectiva.md
-  grupos-manana/
+    1-Killer opener.md
+    2-Idea de negocio.md
+    3-MVP.md
+    4-Análisis de costes y TCO.md
+    5-Organización del equipo.md
+    6-Commitment Agreement.md
+    7-Uso de la IA.md
+    8-Sprint Retrospective.md
+    9-Demo del producto.md
+    10-Usuarios piloto.md
+    11-Desarrollo del producto.md
+    12-Análisis y garantía de la calidad.md
+    13-Storyboards.md
+    14-Cumplimiento legal.md
+  grupos-mañana/
     1-Grupo 1.md
     2-Grupo 2.md
     3-Grupo 3.md

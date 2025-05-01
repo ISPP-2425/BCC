@@ -159,7 +159,65 @@ En esta página se encuentra el feedback recogido por el equipo del grupo 8 dura
 - La última diapositiva contiene una URL antigua del despliegue; actualizarla.
 - El informe de métricas es excelente y destaca sobre los otros grupos. Sin embargo, no es necesario incluir archivos específicos solo para el equipo interno.
 
+## Semana 24/03
+#### Feedback relacionado con la presentación
+- En general, muchas cosas se han hecho muy bien. La presentación fue extensa pero bien ejecutada.
+- Killer opener muy efectivo y bien conectado con la demo.
+- Para reforzar la conexión con la demo, sería bueno incluir una foto del compañero que está usando la aplicación.
+- En algunos puntos, hay demasiado texto en las diapositivas y pocas metáforas visuales. Se recomienda invertir esta relación: usar más imágenes y metáforas, y que el texto sirva solo como apoyo. Esto es especialmente importante en el Customer Agreement y en la - retrospectiva.
+- No leer directamente las diapositivas, sino utilizarlas como guía visual.
+- Presentador debería intentar variar más el tono de voz para evitar un discurso monótono.
 
+
+#### Feedback relacionado con el desarrollo del proyecto
+- El storyboard del cliente está muy bien elaborado.
+- El storyboard de inversores necesita mejoras: es recomendable resumir los números y evitar incluir céntimos.
+- La priorización del feedback de los usuarios piloto ha gustado mucho y ha sido clara.
+- Sin embargo, podría reorganizarse o reconsiderarse si es necesario mencionar el MVP en ese punto, ya que puede sobrar en la presentación.
+- Se recomienda desgranar la información de SonarQube para identificar con precisión los márgenes de mejora. Es importante hablar en términos generales y también destacar la progresión de las métricas más relevantes.
+- La gráfica de costes necesita un cambio en el título, ya que no refleja únicamente costes.
+
+## Semana 31/03
+#### Feedback relacionado con la presentación
+- David ha mejorado la modulación de la voz respecto a la vez anterior, pero aún puede mejorar jugando más con los tiempos y las pausas. Recordar que en presentación oral, las comas no existen y los puntos se convierten en comas para mantener fluidez.
+- El killer opener fue efectivo, pero sería más potente si estuviera mejor conectado con el problema real que resuelve el proyecto. - La frase “parece que está malo el chaval” remite a un tema de salud, por lo que habría que enlazarlo más con la dimensión de salud, no solo alimentación.
+- El anuncio es un muy buen primer intento, pero debe ser autónomo y comprensible por sí solo, no depender del storyboard para entenderlo.
+- Es importante acortar aún más el contenido general, especialmente la parte del MVP, que actualmente es extensa.
+- El sistema de priorización y categorización de feedback de usuarios piloto ha sido muy bien valorado, aunque podría reorganizarse para mejorar la claridad.
+- La diapositiva de horas debería mostrar el número total de horas trabajadas, no solo la distribución.
+- Se valoró positivamente la idea de hablar de la experiencia de usuario basada en los usuarios piloto. Hay que desarrollarlo un poco más.
+- En el gráfico de SonarQube, se debe explicar qué significa la letra E, para que no quede ambigua.
+- La parte de inteligencia artificial no llegó a explicarse. Si no se puede abordar en el tiempo disponible, es mejor recortar el MVP y enfocarse en lo esencial
+
+
+
+#### Feedback relacionado con el desarrollo del proyecto
+
+- En la demo, se deben incluir fotos reales de las recetas. El uso de texto tipo lorem ipsum en ese contexto no es aceptable.
+- Es fundamental explicar claramente cómo se personalizan las recetas y cómo se realiza el proceso de matching con el usuario. Este aspecto debe abordarse en futuras explicaciones del producto. 
+- Para mostrar la evolución del proyecto, no basta con listar mejoras basadas en usuarios piloto. Sería útil montar un sistema como Grafana, que permita automatizar la detección y visualización de mejoras de forma más técnica y continua.
+- El enfoque del marketplace debe revisarse para evitar problemas al redirigir a páginas externas, lo que podría comprometer la experiencia del usuario.
+- En el tema de inversión, sería más realista buscar pequeños inversores con aportaciones menores, en lugar de depender de un único gran inversor. Inversiones típicas rondan los 50k a cambio de un porcentaje, con expectativas de retorno de x20 o un 30% anualizado. Estas cifras no deben mostrarse literalmente, sino reflejarse a través de proyecciones trabajadas.
+- El manual de marca debe complementarse añadiendo el slogan y desarrollando un poco más el contenido visual e identidad.
+
+
+## Semana 07/04
+#### Feedback sobre la presentación
+- David ha mejorado su forma de presentar, aunque a veces solapa frases o abarca demasiado contenido. Se recomienda reducir el alcance de algunas secciones.
+- Se sugiere incluir más metáforas visuales y reducir la cantidad de texto en las diapositivas.
+- El killer opener está mucho mejor alineado con la temática del proyecto.
+- El anuncio de freemium y premium debería unificarse en una sola pieza para mayor claridad.
+- Aunque el análisis del rendimiento y del plan de contingencia fue muy sólido, algunas diapositivas contenían demasiado texto.
+
+#### Feedback sobre el proyecto
+- En el vídeo de inversores, es necesario incluir las fuentes de los datos además de las cifras, que por cierto, se pueden abreviar (ej. “1k” en lugar de “1.000”).
+- Adaptar la estrategia de marketing considerando que la edad media de los padres primerizos ha aumentado. Justificar el enfoque hacia distintos segmentos del mercado.
+- Las métricas sobre bebés provienen de la OMS, pero convendría adaptarlas al contexto local.
+- Se debe clarificar el código duplicado diferenciando claramente entre frontend y backend.
+- Las métricas de Sonar deben interpretarse (algunas son buenas si suben, otras si bajan); usar metáforas o separarlas visualmente para facilitar su comprensión.
+- Buen trabajo priorizando el feedback del usuario piloto, aunque se recomienda reforzar el apoyo visual en esa sección.
+- El análisis de amenazas fue adecuado, pero el título debería ser más específico. Ej.: “Amenazas críticas del sistema”.
+- Las métricas usadas para calcular el diferencial de notas son poco informativas actualmente; hay que detallarlas mejor.
 
 
 
@@ -256,6 +314,63 @@ En esta página se encuentra el feedback recogido por el equipo del grupo 8 dura
 - La tabla de competidores y su análisis no encajan bien con el resto de la presentación. Se recomienda replantear su inclusión o presentarla de una forma más integrada con el discurso general.
 - A la hora de hablar sobre el equipo, es importante no mencionar fotos ni nombres, manteniendo un enfoque más profesional y general.
 
+# Semana 24/03
+#### Feedback relacionado con la presentación
+- El presentador lo hizo muy bien.
+- El killer opener puede mejorar significativamente. Se recomienda añadir originalidad, por ejemplo, entrando en clase utilizando la propia aplicación.
+- Hay diapositivas en las que se pierde el número de transparencia; es importante mantenerlo visible para facilitar el seguimiento.
+- No es necesario nombrar a cada miembro del equipo individualmente. Se puede incluir un resumen con fotos sin mencionarlos uno por uno.
+- La diapositiva del círculo con números no se entiende bien; hay que mejorar su diseño y claridad.
+- La retrospectiva en círculo se lee en sentido antihorario, lo cual no es correcto; es importante corregirlo.
+- La diapositiva de costes con los círculos es confusa, hay que revisarla para que los datos sean más claros y coherentes.
+
+
+#### Feedback relacionado con el desarrollo del proyecto
+- Buen producto, pero el modelo de negocio necesita mejoras.
+- La gráfica de costes no encaja con los números y datos mostrados. Se necesita un crecimiento exponencial, pero con el presupuesto actual, las cifras no cuadran. Antes de seguir desarrollando la aplicación, deben asegurarse de que las cuentas sean viables.
+- El storyboard debe ser independiente y bien diferenciado, aunque se entienda la intención de unirlos. En la versión para inversores, sería útil resumirlo e incluir datos numéricos atractivos.
+- La idea de los mapas colaborativos tiene mucho potencial y debería explotarse más. Actualmente, si los usuarios no caminan, no usan la aplicación; es clave pensar en funcionalidades que fomenten su uso en equipo.
+- En la sección de pricing, los precios aparecen en la demo, pero no en una diapositiva específica. Es importante incluirlos en una transparencia aparte.
+- La escala en la gráfica de rendimiento y esfuerzo debe mejorar; es preferible quitar los nombres y centrarse en los ejes X e Y.
+- La aproximación de precios debe ser más realista. Indicaron valores de 2 a 10 €, pero la estimación de 100 € parece poco fundamentada.
+- Se debe considerar más el punto de vista de los usuarios para mejorar la propuesta de valor.
+Innovar no siempre es la mejor opción si se pierde claridad en la información. La diapositiva Traspa 10 no deja claro qué es lo más importante.
+- En la parte de métricas y análisis, no basta con numerarlas; es clave identificar buenas y malas prácticas y extraer conclusiones.
+- Las tareas y responsabilidades deben estar bien definidas y no improvisadas.
+- Actualmente, el proyecto lleva un retraso considerable; es fundamental mejorar la planificación.
+
+# Semana 31/03
+#### Feedback relacionado con la presentación
+- Presentación muy sólida, con un inicio efectivo y bien enlazado con el anuncio, lo cual generó buen impacto.
+- En el vídeo, se podría considerar grabar caminando en lugar de quedarse en un solo sitio para hacerlo más dinámico. También sería útil especificar claramente cuáles son las funcionalidades premium.
+- Durante la demo, sería recomendable mostrar iconos que indiquen quién está utilizando cada parte del sistema
+- La demo podría beneficiarse de un poco más de zoom y un ritmo más pausado para facilitar la comprensión. También es importante revisar el uso de texto tipo lorem ipsum.
+- El storyboard para inversores está bien planteado e incluye algunas opciones de inversión, aunque sería útil acotar mejor esas opciones.
+- La gráfica de la diapositiva 32 sobre la evolución de métricas de predicción está muy bien, pero sería conveniente que las líneas fueran rayadas o discontinuas para mayor claridad.
+- En la diapositiva 36, la evolución de la calidad del código está bien mostrada; convendría indicar de forma más precisa cómo ha sido esa evolución.
+- En la diapositiva 40 hay iconos que no se cargan correctamente; revisar las imágenes para que aparezcan
+
+
+#### Feedback relacionado con el desarrollo del proyecto
+- La idea de establecer alianzas con usuarios como estrategia de marketing y generación de ingresos es interesante y tiene potencial.
+- El plan de precios dirigido a empresas está bien pensado e integrado en el proyecto.
+- La proyección financiera necesita una revisión, especialmente en el eje X del gráfico, que actualmente no está alineado correctamente a izquierda y derecha.
+- Sería bueno mostrar con mayor claridad el avance exacto de las tareas del equipo.
+
+# Semana 07/04
+
+#### Feedback sobre la presentación
+- Excelente energía al presentar, aunque el ritmo acelerado hace que el nombre se entienda como “Marioworld”.
+- El vídeo para usuario transmite muy bien el propósito de la app, mostrando a la persona en movimiento.
+- Se recomienda que los datos utilizados en el vídeo del inversor estén incluidos ahí mismo y no repetidos en la presentación.
+- El testing fue exhaustivo, pero sería necesario incluir los bugs detectados en la presentación de forma detallada.
+
+#### Feedback sobre el proyecto
+- El vídeo de inversores está a contraluz; conviene mejorar la iluminación y claridad del mismo.
+- Es importante incluir cifras que respalden el potencial de negocio de MapYourWorld, tanto actuales como proyectadas.
+- Aportar datos combinados con las acciones de marketing planeadas fortalecerá la estrategia de cara a inversores.
+- Deben contemplar el impacto legal a nivel regional y nacional, y considerar posibles restricciones legales.
+
 
 
 ## Grupo 9 - Caronte
@@ -329,7 +444,49 @@ En esta página se encuentra el feedback recogido por el equipo del grupo 8 dura
 - Aprovechar mejor la tecnología disponible para optimizar procesos.
 - El uso de Codacy ha sido correcto, y sería útil incluir una gráfica de evolución.
 
+# Semana 24/03
+#### Feedback relacionado con la presentación
+- Muy buen trabajo y bien presentado.
+- Han mejorado el inicio con elementos visuales, y el elevator pitch fue muy correcto.
+- Aun así, el killer opener en comparación con los storyboards podría mejorarse. Sería útil enfocarse más en los storyboards para lograr un mayor impacto.
+- El orden de la presentación podría ajustarse: después del elevator pitch, no es recomendable mostrar la demo directamente. Sería mejor remarcar primero las diferencias con la competencia.
+- La demo no se visualizó bien; es importante hacer zoom para que se vea con claridad. No obstante, el uso de los cuatro cuadrantes y las gráficas burnup y burndown fue muy bueno.
 
+#### Feedback relacionado con el desarrollo del proyecto
+- Se nota que han dedicado muchas horas al proyecto.
+- Sería recomendable reducir el alcance o gestionar mejor la carga de trabajo, especialmente para quienes han invertido más tiempo.
+- La presentación de la parte de Codacy fue muy buena.
+- Incluir métricas de Codacy y su evolución en una misma diapositiva facilitaría su análisis.
+- Como sugerencia, podrían explorar el nuevo uso de Copilot para revisar pull requests.
+- Han utilizado Claudete en el Customer Agreement para detectar cláusulas abusivas, pero no lo han mencionado en la presentación; sería bueno resaltarlo.
+- Habría sido útil mostrar el feedback de los usuarios piloto, explicando cómo lo priorizan y resuelven.
+
+# Semana 31/03
+#### Feedback relacionado con la presentación
+- Vídeo: En general, muy bien realizado. Sin embargo, podría resultar un poco largo. Una posible mejora sería agrupar varios mensajes sobre pantalla negra en una sola secuencia para hacerlo más dinámico.
+- Presentador (Daniel): Excelente desempeño en la presentación, comunica con claridad y confianza.
+- Elevator pitch: Muy bien trabajado y refinado. Transmite con claridad el propósito del proyecto.
+- Storyboard para inversores: Está bien planteado, pero sería conveniente añadir distintas opciones de inversión para hacerlo más completo.
+- Monetización: Sería recomendable aplicar una paleta de colores coherente en la diapositiva de monetización (especialmente en las secciones de CapEx y OpEx) para facilitar la comprensión visual.
+- Gráfica de horas trabajadas: Sería útil solapar las horas semanales con la media de horas de cada persona para visualizar desviaciones. También es algo que podríamos aplicar en nuestro propio trabajo.
+- Lecciones aprendidas: Revisar la redacción de esta sección, en particular la parte que menciona el "aumento de la deuda técnica", para que sea más clara y reflexiva
+- Usuarios piloto: Añadir una sección específica con el feedback recibido, incluyendo también los comentarios que se decidió no tener en cuenta.
+
+
+#### Feedback relacionado con el desarrollo del proyecto
+- Testing: Considerar si sería útil incorporar pruebas de interfaz con Selenium para mejorar la calidad del producto.
+- Plan de tracción: Es importante comenzar a definir un plan de captación y crecimiento de usuarios. Esto es algo que también deberíamos ir considerando nosotros.
+
+
+# Semana 07/04
+#### Feedback sobre la presentación
+- Excelente gestión del tiempo. Sin embargo, la demo fue demasiado rápida; no es necesario mostrar todos los casos de uso.
+- Quizás hubo demasiado uso de zoom en la demo. Recordar que también se presenta ante profesores, no solo usuarios.
+- Las gráficas de rendimiento, especialmente las de horas y burn-up, son difíciles de interpretar. Se recomienda rediseñarlas para que transmitan el mensaje de forma más clara.
+
+#### Feedback sobre el proyecto
+- Los anuncios fueron espectaculares, salvo el de empresa, que perdió fuerza. Por ejemplo, en el caso de la floristería, ni siquiera apareció una maceta.
+- El anuncio para inversores está mucho más trabajado y ha mejorado notablemente.
 
 ## Grupo 10 - Go 4 Surprise
 # Semana 10/02
@@ -425,6 +582,58 @@ En esta página se encuentra el feedback recogido por el equipo del grupo 8 dura
 - Lo ideal es ir directamente a los casos de uso principales sin desviarse en explicaciones innecesarias.
 - En retrospectiva, la falta de comunicación dentro del equipo se ha reflejado en la dificultad para informar sobre el avance de tareas.
 
+# Semana 24/03
+#### Feedback relacionado con la presentación
+- Buen ritmo y argumentación en general, con una estructura clara y bien organizada.
+- Inicio muy efectivo y bien planteado.
+- Es importante evitar términos demasiado coloquiales para mantener un tono profesional.
+- El presentador lo hizo muy bien, pero debe intentar mirar a todo el público, no solo a los profesores. Se recomienda mirar a las cuatro esquinas de la sala para abarcar a todos los oyentes.
+- La presentación tuvo un buen hilo argumental, con un formato tipo pregunta-respuesta bien hilado.
+- Se recomienda personalizar más la presentación, haciendo que parezca que los propios ponentes usan realmente la aplicación.
+- Buscar un eslogan y una mascota ayudaría a reforzar la identidad del proyecto, algo que todos los grupos deberían considerar.
+
+
+#### Feedback relacionado con el desarrollo del proyecto
+- Los storyboards están muy bien planteados y desarrollados.
+- Como idea, podrían representar en los storyboards dos tipos de usuarios: uno deprimido y otro aburrido, y cómo la aplicación les aporta valor.
+- En lugar de excluir a los menores de 18 años, sería mejor incluir sorpresas o contenido específico para ellos.
+- No se debe minimizar los problemas que han surgido. Es importante explicar qué ha salido mal y, sobre todo, cómo se ha solucionado (problema = solución).
+- La evolución del rendimiento del equipo debe mostrarse de manera más clara. Para ello, se recomienda unir los puntos entre los distintos sprints en la gráfica de rendimiento.
+- El SLA (Acuerdo de Nivel de Servicio) no apareció en la presentación, pero se tiene previsto incluirlo pronto; sería bueno destacarlo en futuras presentaciones.
+
+# Semana 31/03
+#### Feedback relacionado con la presentación
+- Muy buen trabajo en general, con una presentación clara y bien estructurada.
+- El presentador lo hizo muy bien y el contenido estuvo bien explicado.
+- El anuncio fue de gran calidad, aunque quizás un poco largo. Además, el móvil que aparece en el vídeo se ve demasiado pequeño, por lo que convendría mostrarlo en pantalla de forma más destacada.
+- Las diapositivas 27 y 28, que presentan problemas y soluciones, se beneficiarían de una mejor organización. En lugar de listar todos los problemas y luego todas las soluciones, sería más claro presentar cada problema junto con su solución correspondiente.
+- En la diapositiva sobre inteligencia artificial, el contenido no se alcanza a leer. Habría que mejorar la legibilidad o simplificar el texto.
+- La comparativa de rendimiento del equipo usando colores rojo y verde es una buena idea visual. Sin embargo, falta una referencia que indique cómo se comparan esos datos respecto a la semana anterior o a la media de horas trabajadas.
+- Las fórmulas mostradas en una de las diapositivas deben eliminarse, ya que no aportan claridad al público general.
+
+
+#### Feedback relacionado con el desarrollo del proyecto
+- Muy buena idea utilizar el slogan "la vida misma es una sorpresa" como mantra del proyecto; es pegadizo, coherente y ha sido bien transmitido.
+- En la demo, es mejor no mostrar elementos como la opción de "contraseña olvidada", ya que no aporta valor en ese contexto.
+Sería importante incluir la estimación del número de usuarios esperados, diferenciando entre un escenario optimista y uno pesimista.
+
+
+# Semana 07/04
+#### Feedback sobre la presentación
+- El killer opener ya no genera tanto impacto como antes; sería recomendable innovar y buscar uno que encaje mejor con el WPL.
+- La sección de roles del equipo podría unificarse en una sola diapositiva, en lugar de dividirla entre varias personas.
+- El presentador no entró en detalle al explicar el primer problema del proyecto; sería útil profundizar en las causas para llegar a la raíz del mismo.
+- Buena explicación del resto de problemas, aunque da la sensación de que actualmente no enfrentan ninguno. Sería útil clarificar si realmente es así o simplemente no se abordaron.
+- La matriz de rendimiento del equipo fue muy clara y está bien explicada.
+
+#### Feedback sobre el proyecto
+- El vídeo dirigido a inversores parece más un anuncio comercial. Se recomienda cambiar el título y desarrollar un storyboard específico para el enfoque de inversión.
+- El anuncio para cliente es un poco largo; convendría hacerlo más conciso.
+- El anuncio comercial o para inversores debe ser autocontenido y ofrecer suficiente contexto para ser entendido por sí solo.
+- En las demos, aunque el contenido es bueno, se echa en falta un mayor enfoque (zoom) en ciertos momentos clave. Además, sería interesante incluir al personaje "Sorpresín" explicando elementos de la demo.
+- No se ha explicado de forma clara la diferenciación respecto a la competencia, especialmente sobre si los demás también ofrecen experiencias sorpresa.
+- El test realizado con Locust se ha hecho en local, no en producción; hay que tener cuidado con este tipo de pruebas.
+
 
 ## Grupo 11 - Pawtel
 # Semana 10/02
@@ -515,3 +724,59 @@ En esta página se encuentra el feedback recogido por el equipo del grupo 8 dura
 - Es importante unificar el análisis del rendimiento del equipo, en lugar de separarlo en backend y frontend.
 - La consistencia en el code style es clave: tener 600 code style issues es demasiado y debe corregirse.
 - En cuanto a la UI, debe estar o completamente perfecta o al menos al 90%, pero no ambas cosas a la vez. Se debe elegir una postura clara sobre su estado.
+
+# Semana 24/03
+#### Feedback relacionado con la presentación
+- Killer opener muy bien logrado, con una buena conexión entre la mascota y el tema.
+- El ritmo de la presentación es demasiado acelerado, lo que dificulta tomar notas y procesar la información. Se recomienda hablar más pausadamente y estructurar mejor las ideas, evitando enumeraciones inconclusas.
+- Es importante hilar mejor el inicio con la demo para lograr mayor coherencia en el discurso.
+- La diapositiva de evolución del rendimiento del equipo resulta abrumadora ("bombardeo de pelotas"); sería útil simplificarla o presentar la información de manera más clara.
+- Al explicar la diapositiva de incidencia y resolución de problemas (III), se ha narrado de abajo arriba, lo que puede dificultar su comprensión.
+- Sería interesante incluir imágenes de la mascota en las fotos para reforzar la identidad visual del proyecto.
+- La palabra clave “mascota” ha sido bien utilizada como eje central del mensaje.
+
+
+#### Feedback relacionado con el desarrollo del proyecto
+- La idea del mediador para resolver conflictos es muy buena y se recomienda implementarla en todos los grupos.
+- Se necesitan más cifras y datos numéricos en el storyboard para inversores.
+- La gráfica de rendimiento del Sprint 2 no está bien centrada y necesita ajustes.
+- La gráfica de costes presenta errores en la parte CAPEX, por lo que debe revisarse.
+- A veces, los números netos no son lo más importante; es clave enfocarse en datos que realmente aporten valor a la toma de decisiones.
+- Es importante definir y mantener los estilos de código en Codacy para mejorar la calidad y coherencia del código.
+- Cuando se utilicen rangos en gráficos o análisis, deben estar correctamente definidos y justificados.
+- El ejemplo utilizado en la demo es demasiado costoso y no representa bien el caso de uso; sería recomendable elegir un ejemplo más realista.
+
+# Semana 31/03
+#### Feedback relacionado con la presentación
+- Se ha notado una mejora en el inicio efectivo, ahora es más directo y enfocado. Aun así, sería conveniente cuidar mejor la elección de palabras para transmitir profesionalismo.
+- Es importante evitar frases como "esto es muy fácil", ya que pueden restar seriedad o dar una impresión equivocada.
+- El inicio efectivo estuvo muy bien conectado con la demo y con el cierre de la presentación. El hilo argumental en general se percibió bien ensayado y estructurado.
+- El impacto legal del proyecto debe estar mejor integrado en el ritmo general de la presentación. La justificación de por qué no se incluyó cierto contenido se sintió forzada y poco natural.
+
+
+
+#### Feedback relacionado con el desarrollo del proyecto
+- Muy bien las mejoras implementadas a partir del feedback de los usuarios piloto, y además bien integradas en la presentación.
+- El storyboard orientado a los usuarios está muy bien elaborado. El anuncio es de tan buena calidad que se plantea reutilizarlo en futuras ediciones.
+- Sería útil revisar la sección sobre mejoras para el usuario piloto, clarificando si se refieren a una mejora en la experiencia de usuario (UX) o simplemente a una adaptación a sus preferencias.
+- La gráfica de rendimiento del sprint 3 necesita revisión: no es realista que todos los miembros del equipo estén al máximo rendimiento y aún así se obtenga una nota perfecta. Además, los números y leyendas no son legibles.
+- Evitar usar el nombre del archivo directamente como hipervínculo para la demo (por ejemplo, "video.mp4"); es mejor darle un nombre más descriptivo y profesional.
+
+
+# Semana 07/04
+#### Feedback relacionado con la presentación
+- En los anuncios, mejorar el uso de la IA para mantener una coherencia lingüística, aunque la inclusión de subtítulos es muy acertada para facilitar la comprensión.
+- El inicio está bien conectado, pero se necesita un orden más claro y lineal en las secciones para una presentación más fluida y dinámica.
+- La presentación debe durar entre 14 y 15 minutos, evitando añadir contenido innecesario para alargarla.
+- Mejorar gráficos y tablas: ejes legibles, uso de abreviaciones (“K”) y evitar enlaces poco estéticos.
+- Usar un vocabulario comprensible, evitar tecnicismos en exceso, expresiones condescendientes y mezclar idiomas sin necesidad.
+- Tratar la parte legal de forma natural y no como un añadido forzado que rompa el ritmo narrativo.
+- Gran diferenciación frente a competidores, excelente storyboard y anuncios profesionales reutilizables.
+
+
+#### Feedback relacionado con el desarrollo del proyecto
+
+- Si todos los usuarios obtienen una puntuación de 10, puede que la métrica no sea útil; se recomienda revisar el sistema de evaluación.
+- Limitar las calificaciones a un máximo de 10 puede indicar problemas en el diseño de la escala.
+- Priorizar el feedback de los usuarios piloto en cada iteración.
+- Los usuarios piloto no deben actuar como beta testers; los errores técnicos deberían haberse detectado y corregido previamente.
