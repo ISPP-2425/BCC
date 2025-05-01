@@ -49,3 +49,6 @@ En esta página se recoge el feedback proporcionado por el profesor y los compa�
 - Define explícitamente las protopersonas (clientes objetivo) y ajusta los datos de ingresos o mercado para que encajen con ellas.
 - Refina el target con datos cuantitativos reales y racionaliza el punto de entrada al mercado, justificando la estrategia de lanzamiento.
 
+## Feedback del día 25/04
+- Desglosar los costes de CAPEX y OPEX de una manera más detallada y clara, incluyendo los gastos relacionados con el desartamento de marketing.
+

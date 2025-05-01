@@ -32,3 +32,6 @@ En esta página se recoge el feedback proporcionado por el profesor y los compa�
 - Hay que tener cuidado al mezclar clasificaciones del feedback de usuarios piloto. Por ejemplo: no mezclar el tipo con la prioridad.
 - Hay que poner en la presentación cuánto feedback reciben de cada tipo.
 - Si hay feedback que se ha priorizado es importante destacarlo, aunque sea muy general.
+
+## Feedback del día 25/04
+- Considerar el feedback de los usuarios piloto incluso en las fases finales del proyecto. Incluir el Preparing Project Launch en el programa de usuarios piloto, se puede incluir una encuesta para evaluar la experiencia de usuario y la satisfacción general con el producto y el uso de las redes sociales.

@@ -49,6 +49,8 @@ En esta página se recoge el feedback proporcionado por el profesor y los compa�
 ## Feedback del día 28/03
 - Introducir las alucinaciones de la IA como métrica para analizar su uso.
 
-
 ## Feedback del día 04/04
 A lo largo del sprint, se valoró positivamente la integración de la inteligencia artificial siempre que se justificara su uso con impacto directo en la mejora del proyecto. Aunque no se abordó explícitamente en esta sesión, es evidente que herramientas de IA podrían resultar fundamentales para mejorar la presentación de métricas, optimizar la visualización de datos de rendimiento o incluso asistir en la edición y montaje del material audiovisual. Se recomienda seguir profundizando en su uso, especialmente de cara a automatizar análisis del feedback recibido o predecir patrones de uso en futuras pruebas con usuarios piloto.
+
+## Feedback del día 25/04
+- Enfocar el uso de la IA en la mejora de las redes sociales y la comunicación del proyecto. Se sugiere utilizar herramientas de IA para analizar el rendimiento de las publicaciones y optimizar la estrategia de marketing digital, proponer ideas de contenido y mejorar la interacción con la audiencia. También se recomienda utilizar IA para las voces en off de los vídeos, ya que esto puede mejorar la calidad del contenido y hacerlo más atractivo y accesible para la audiencia.
