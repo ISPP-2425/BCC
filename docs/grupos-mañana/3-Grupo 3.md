@@ -609,6 +609,58 @@ No procede ya que no hubo clase
 
 Intencionalmente en blanco.
 
+## Semana 11 (25/04/2025)
+#### Feedback relacionado con la presentación
+
+* **Presentación del equipo:**
+  * Se recomienda agilizar la presentación de los miembros del equipo, ya que actualmente se pierde un tiempo considerable en esta sección.
+  * Si bien el planteamiento de la presentación del equipo es adecuado, su extensión resulta excesiva, afectando al ritmo general de la exposición.
+
+* **Costes:**
+  * En la diapositiva relativa a los costes no se aprecia claramente el número de meses en los cortes de datos. Se sugiere una revisión para mejorar su legibilidad y comprensión.
+
+* **Ortografía y estética:**
+  * Se han detectado errores ortográficos en la presentación. Es imprescindible realizar una revisión exhaustiva para corregirlos y mantener la profesionalidad del trabajo.
+  * La estética general de las diapositivas ha mejorado notablemente, aunque se recomienda revisar el contraste de colores para optimizar la legibilidad.
+
+* **Paquetes de inversión:**
+  * Se observa redundancia en la explicación de los paquetes de inversión, al presentarse tanto en la exposición oral como en el vídeo. Se sugiere concentrar esta explicación en uno de los momentos para evitar reiteraciones.
+  * Se percibe que los paquetes de inversión podrían resultar algo elevados en precio para el público objetivo. Se invita a replantear o justificar mejor su valor.
+
+* **Inicio (Killer Opener) y transiciones:**
+  * Aunque el tiempo dedicado al killer opener fue adecuado, no se ha considerado que haya generado el impacto deseado en la audiencia.
+  * Se detecta falta de conexión fluida entre el elevator pitch y la demo, lo cual interrumpe la narrativa de la presentación. Se recomienda trabajar una transición más natural y cohesionada.
+
+* **Demo:**
+  * La demo no presenta una narrativa clara ni muestra perfiles de usuarios reales o distintos casos de uso. Se sugiere estructurar la demo como una historia para facilitar la conexión emocional con la audiencia.
+
+* **Vídeo:**
+  * El vídeo protagonizado por la madre ha sido valorado positivamente por su emotividad, si bien genera cierta desconexión el hecho de que la madre recomiende de forma explícita el uso de Eventbride, resultando poco natural.
+
+* **Otros aspectos visuales:**
+  * El uso de la gráfica de tipo tarta ha sido muy bien recibido. Se recomienda ubicarla antes de la demo de características para maximizar su impacto.
+  * En la diapositiva 14, la sección de ejemplo es visualmente más prominente que el título de la diapositiva. Se sugiere equilibrar los tamaños para mantener la jerarquía visual adecuada.
+
+* **Tono y coordinación:**
+  * La exposición de algunos apartados resultó extensa. Se aconseja mejorar la coordinación entre los ponentes para optimizar los tiempos de intervención.
+  * Se detectaron comentarios informales durante la presentación. Es recomendable mantener un tono formal y profesional durante toda la exposición.
+
+#### Feedback relacionado con el desarrollo del proyecto
+
+* **Análisis de competidores:**
+  * El análisis de competidores ha sido valorado muy positivamente por su calidad y profundidad.
+
+* **Modelo de negocio y análisis de costes:**
+  * Se reconoce un buen planteamiento en el análisis de costes y en la definición del modelo de negocio. Asimismo, se valora el haber considerado la estacionalidad del sector, destacando los picos de actividad en primavera.
+
+* **Personal profiles y funcionalidades a destacar:**
+  * Se ha valorado positivamente la inclusión de los "personal profiles", considerándolos alineados con la propuesta de valor de la plataforma.
+  * Se recomienda destacar de manera más explícita en la presentación la funcionalidad del calendario ya implementada, ya que no ha quedado suficientemente reflejada en la demo.
+
+#### Tareas a realizar para la siguiente semana
+
+Intencionalmente en blanco.
+
 ---
 
 ## Grupo 1 - Holos
@@ -926,6 +978,58 @@ Intencionalmente en blanco, ya que no se nos asignó recoger el feedback de dich
 
 Intencionalmente en blanco.
 
+## Semana 11 (25/04/2025)
+#### Feedback relacionado con la presentación
+
+* **Inicio (Killer Opener):**
+  * Aunque el inicio es efectivo en estructura, no ha generado el impacto esperado. Además, se detecta una distorsión en el sonido del micrófono, lo que afecta negativamente a la calidad de la apertura.
+  * Se recomienda buscar una alternativa que capte mucho más la atención, especialmente considerando que el proyecto se encuentra en fases finales y se requiere un inicio memorable.
+  * El anuncio inicial resulta repetitivo y monótono. Se sugiere reducir su duración o darle un enfoque más dinámico.
+
+* **Presentación General:**
+  * Se destaca que la presentación ha estado bien en términos generales, aunque el evaluador señala que este nivel habría sido muy positivo en una fase inicial (semana 3), insinuando que para esta etapa se esperaba un avance aún mayor.
+  * La calidad del ritmo y la estructura general de la presentación son consideradas buenas, aunque se recomienda incrementar el dinamismo en los cambios de ritmo durante las exposiciones.
+
+* **Expresión oral:**
+  * Se felicita la naturalidad de algunos presentadores (como Chemita), valorando su relajación, pero también se critica la falta de dinamismo, calificándolo como "plano".
+  * Se detecta una muletilla recurrente en la exposición oral, por lo que se recomienda trabajar en su eliminación para transmitir un discurso más fluido.
+
+* **Vídeos:**
+  * Se elogia la calidad de las gráficas utilizadas en el vídeo.
+  * El mensaje transmitido en los vídeos está focalizado, lo cual se valora positivamente. No obstante, se observa que para una persona ajena al proyecto el contenido puede resultar confuso, ya que no queda claro de qué trata hasta bien avanzada la exposición.
+
+* **Demo:**
+  * La demo es percibida como corta y demasiado rápida. Se aconseja no temer a incluir una sección más técnica para enriquecer la presentación.
+  * En la segunda presentación, se muestran cuatro perfiles pero solo se describen dos, lo que genera una sensación de falta de cierre en esa parte.
+
+* **Contenido y referencias:**
+  * Se valora positivamente que se haya proporcionado un número concreto de artistas, prefiriéndose los datos absolutos a los porcentajes.
+  * Se recuerda la importancia de mencionar siempre las fuentes de las cifras y datos presentados.
+
+* **Planes de inversión:**
+  * Los planes de inversión han sido percibidos como pesados. Asimismo, se considera que la cantidad de paquetes ofrecidos podría ser excesiva.
+
+* **Otros aspectos:**
+  * Como consejo adicional, se sugiere indicar el número total de miembros del equipo en la presentación.
+  * Ya no resulta necesario distinguir entre backend y frontend en las explicaciones generales del proyecto.
+  * Se señala la falta de planificación específica para la gestión de la publicidad, recomendando desarrollarla e incorporarla en futuras exposiciones.
+  * Se propone, como idea de marketing, lanzar un concurso dirigido a diseñadores gráficos para la creación del logotipo de Holos.
+
+#### Feedback relacionado con el desarrollo del proyecto
+
+* **Gestión del marketing:**
+  * Se detecta la falta de planificación en la gestión de la publicidad del proyecto, lo cual debería ser abordado en futuras iteraciones para completar el plan de negocio.
+
+* **Comunicación de la propuesta de valor:**
+  * Aunque los vídeos presentan un mensaje focalizado, el proyecto tarda demasiado en clarificar su propósito para un espectador externo. Se recomienda trabajar en mejorar la comunicación de la propuesta de valor de forma más inmediata y clara.
+
+* **Paquetes de inversión:**
+  * Se considera interesante la existencia de paquetes de inversión, pero se opina que la oferta actual incluye demasiados, por lo que se aconseja simplificar o reestructurar las opciones ofrecidas.
+
+#### Tareas a realizar para la siguiente semana
+
+Intencionalmente en blanco.
+
 ---
 
 ## Grupo 2 -  GastroStock
@@ -1126,6 +1230,39 @@ Intencionalmente en blanco, ya que no se nos asignó recoger el feedback de dich
 * **Seguimiento del Rendimiento:**
   * Se sugiere ampliar la información sobre la **evolución del rendimiento**, no solo en general, sino también por miembro.
   * Mostrar si quienes tenían bajo rendimiento al inicio están **mejorando de forma objetiva y medible**.
+
+#### Tareas a realizar para la siguiente semana
+
+Intencionalmente en blanco.
+
+## Semana 11 (25/04/2025)
+#### Feedback relacionado con la presentación
+
+* **Anuncio de inversores:**
+  * Se señala la ausencia de un anuncio específico dirigido a inversores, lo cual sería recomendable incorporar para reforzar la propuesta de valor del proyecto en esta fase.
+
+* **Presentación General:**
+  * Se destaca el buen ritmo de la presentación, lo que ha favorecido la atención y el seguimiento por parte de la audiencia.
+  * Sin embargo, se observa que no se ha seguido un hilo narrativo claro, lo cual ha afectado a la cohesión del discurso. Se recomienda estructurar mejor la secuencia de ideas para mejorar la conexión entre las distintas secciones.
+
+* **Demo:**
+  * La demo ha sido percibida como excesivamente rápida, dificultando la comprensión del funcionamiento de la aplicación. Se sugiere focalizar la demostración en una funcionalidad concreta que destaque frente a la competencia.
+  * No se ha visualizado claramente el proceso de introducción de datos, y el procedimiento mostrado ha resultado aparatoso. Se recomienda simplificar la experiencia de usuario en la demo.
+  * Se sugiere mostrar en la demo el caso de uso clave de la plataforma para reforzar su propuesta de valor de forma más directa.
+
+* **Narración en la Demo:**
+  * El presentador ha comentado la demo en directo, lo que ayuda a evitar problemas de audio. No obstante, este enfoque resta inmersión, ya que la falta de una historia con personajes reduce la capacidad de ejemplificar casos reales de uso.
+
+* **Vídeo:**
+  * El anuncio inicial ha sido valorado como divertido y ha generado un impacto positivo en términos de entretenimiento.
+
+#### Feedback relacionado con el desarrollo del proyecto
+
+* **Enfoque estratégico:**
+  * Se ha valorado positivamente el cambio de enfoque estratégico, pasando de competir directamente contra los terminales de punto de venta (TPV) tradicionales a digitalizar a aquellos negocios que aún no disponen de TPV. Esta adaptación se considera adecuada y realista.
+
+* **Definición del objetivo:**
+  * El objetivo de la aplicación ha sido explicado de manera clara y efectiva, facilitando su comprensión tanto para inversores como para usuarios potenciales.
 
 #### Tareas a realizar para la siguiente semana
 
@@ -1385,6 +1522,53 @@ Intencionalmente en blanco, ya que no se nos asignó recoger el feedback de dich
 * **Datos y Enfoque del Proyecto:**
   * Se sugiere usar **datos reales** (por ejemplo, del **Instituto Nacional de Estadística** o noticias) para reforzar el análisis.
   * En cuanto a la idea del trastero, se recomienda **enfocar la solución únicamente al alquiler**, ya que puede prestarse a confusión si también parece de compraventa.
+
+#### Tareas a realizar para la siguiente semana
+
+Intencionalmente en blanco.
+
+## Semana 11 (25/04/2025)
+#### Feedback relacionado con la presentación
+
+* **Inicio (Killer Opener):**
+  * Se señala que el killer opener, introducido mediante un anuncio, no genera el impacto deseado. Además, el volumen del audio es bajo, lo que dificulta su comprensión.
+  * La introducción del problema ha sido considerada correcta y adecuada para contextualizar el proyecto.
+  * Se recomienda trabajar en un killer opener más potente y directo, evitando iniciar con un anuncio confuso y aumentando la claridad del mensaje desde los primeros segundos.
+
+* **Anuncio Inicial:**
+  * El anuncio ha sido valorado como visualmente atractivo, aunque transmite más la sensación de ser un tráiler de thriller político que un anuncio de una plataforma de eventos.
+  * Se sugiere modificar el enfoque para que el mensaje principal se comprenda de forma más rápida y clara.
+  * Se propone inspirarse en estrategias visuales como mostrar "cajas" acumulativas que representen los problemas de otros servicios, en contraste con Borro, que tendría pocas cajas para representar su simplicidad.
+
+* **Vídeos:**
+  * El mensaje en los vídeos es considerado correcto, aunque se sugiere copiar aspectos positivos de presentaciones anteriores para optimizar la claridad.
+  * Se sugiere mejorar el anuncio dirigido a inversores: debe ser más corto (30-40 segundos) y centrarse en transmitir números, referencias y datos claros que avalen el proyecto.
+
+* **Ritmo y Calidad de la Presentación:**
+  * Se ha destacado que el ritmo y la calidad general de la presentación van en la dirección correcta.
+  * No obstante, se observa que integrar directamente el anuncio dentro del killer opener genera confusión en el mensaje inicial.
+
+* **Anuncios de Inversores:**
+  * Se indica que el anuncio de inversores debe ser convincente mediante el uso de cifras, fuentes fiables y datos concretos.
+  * Actualmente, los paquetes de inversión son percibidos como excesivos. Se recomienda simplificarlos, reduciéndolos a aproximadamente tres opciones.
+
+* **Demo:**
+  * Se sugiere que la demo sea más detallada, enfocándose en aquellas funcionalidades que transmitan claramente el valor añadido para el cliente objetivo.
+  * Es importante que en la demo se ejemplifique de forma concreta cómo la aplicación resuelve un problema o mejora la experiencia del usuario, para reforzar su propuesta de valor.
+
+#### Feedback relacionado con el desarrollo del proyecto
+
+* **Modelo de Negocio y Rentabilidad:**
+  * Se valora positivamente la introducción de un escenario plausible para amortizaciones, especialmente contextualizado en Sevilla, aunque se percibe que el incremento mensual planteado podría ser mejor ajustado.
+  * Se destaca la mención al crecimiento de usuarios como un punto fuerte.
+  * Ante la duda planteada por los evaluadores sobre la rentabilidad, se recomienda aclarar si existen transacciones u otros mecanismos que generen ingresos recurrentes.
+
+* **Planificación de la Gestión de la Publicidad:**
+  * Se detecta la falta de una planificación específica para la gestión de la publicidad, la cual deberá ser completada en futuras iteraciones.
+  * Se sugiere vincular las estrategias de captación de clientes a redes sociales relevantes para el target, como Instagram y LinkedIn.
+
+* **Idea de Marketing:**
+  * Se propone como idea creativa desarrollar un anuncio que simule un anuncio deportivo de alto nivel, mostrando a alguien "entrenando" para organizar eventos, y que al final transmita un giro humorístico ofreciendo EventBride como alternativa rápida y sencilla.
 
 #### Tareas a realizar para la siguiente semana
 
@@ -1654,6 +1838,32 @@ Intencionalmente en blanco, ya que no se nos asignó recoger el feedback de dich
 * **Gestión de Problemas:**
   * Los **problemas se presentan de forma narrativa**, no como una tabla fría, lo cual aporta dinamismo.
   * Se valora que se muestren **las gráficas asociadas** a cada problema.
+
+#### Tareas a realizar para la siguiente semana
+
+Intencionalmente en blanco.
+
+## Semana 11 (25/04/2025)
+#### Feedback relacionado con la presentación
+
+* **Presentación General:**
+  * Se destaca un tono muy profesional durante toda la exposición, transmitiendo seriedad y preparación.
+  * Se señala como detalle menor que la luz del entorno estaba encendida, lo que podría mejorar apagándola o ajustándola para dar más protagonismo al contenido visual proyectado.
+
+* **Inicio (Killer Opener):**
+  * El vídeo utilizado como killer opener ha sido valorado muy positivamente por su calidad y capacidad de captar la atención.
+  * Sin embargo, se critica que la justificación para contratar el plan premium se limita a su bajo precio, lo cual resulta insuficiente. Se recomienda aportar argumentos de mayor valor que refuercen la propuesta, como funcionalidades exclusivas o beneficios a largo plazo.
+
+* **Demo:**
+  * La demo ha sido considerada muy bien enfocada, mostrando de manera clara el valor diferencial de la aplicación y su usabilidad.
+
+#### Feedback relacionado con el desarrollo del proyecto
+
+* **Planificación de Marketing:**
+  * Se solicita una definición más concreta de las redes sociales que se utilizarán, el tipo de contenido que se publicará en cada una, así como la creación de un cronograma de publicaciones.
+  * Se sugiere elaborar materiales de marketing como banners y plantear la posibilidad de anunciar el proyecto en páginas web relevantes para el público objetivo.
+  * Se menciona la necesidad de desarrollar un calendario de referidos (programa para incentivar la captación de nuevos usuarios a través de recomendaciones).
+  * También se recomienda establecer los objetivos de las campañas de marketing de forma clara y medible para asegurar su efectividad.
 
 #### Tareas a realizar para la siguiente semana
 
@@ -1934,6 +2144,46 @@ Intencionalmente en blanco, ya que no se nos asignó recoger el feedback de dich
 
 * **Comparación de DEMO anterior vs actual:**
   * Se agradece que se haya mostrado una **mejora notable respecto a la demo anterior**, aunque se podría haber presentado un poco más esa comparativa de forma explícita.
+
+#### Tareas a realizar para la siguiente semana
+
+Intencionalmente en blanco.
+
+## Semana 11 (25/04/2025)
+#### Feedback relacionado con la presentación
+
+* **Presentación del Equipo:**
+  * Se valora positivamente la originalidad en la presentación del equipo, aunque se indica que falta especificar claramente los roles de cada miembro.
+
+* **Inicio (Killer Opener):**
+  * El killer opener ha resultado innovador y ha gustado, especialmente por la originalidad, aunque ha tenido un menor impacto en comparación con presentaciones anteriores.
+  * Se señala que el killer opener y el vídeo demo no están completamente sincronizados, debido a la ausencia de personajes que conecten ambos elementos narrativos.
+
+* **Presentación General:**
+  * Se ha dedicado demasiado tiempo a explicar las características de Fisiofind, lo cual ralentiza el ritmo general de la exposición.
+  * Se recomienda eliminar muletillas como "Fisiofind pretende" y utilizar expresiones más firmes y directas como "Fisiofind hace", para transmitir mayor seguridad en el discurso.
+  * Se percibe que la presentación no ha fluido de manera completamente natural, posiblemente debido a dudas o falta de convicción de algunos ponentes en ciertas partes del discurso.
+  * Se menciona que algunos contenidos, como los mostrados en la diapositiva 10 de la primera presentación, hubieran encajado mejor en la segunda presentación, ya que corresponden a desarrollos posteriores al Sprint 3.
+
+* **Costes:**
+  * Se valora muy positivamente la presentación de los costes, aunque se indica que faltó incluir información relativa a camyo (probablemente referido a un aspecto de costes o cambios no detallados).
+
+* **Anuncio de Inversores:**
+  * El vídeo de inversores se percibe como demasiado largo (2 minutos) para el contenido que ofrece, y no presenta claramente los planes de inversión.
+  * Se recomienda hacer el anuncio más breve y concreto, incorporándolo en la primera presentación.
+  * Además, se debe añadir un contexto (background) para dar mayor coherencia al anuncio, por ejemplo, mostrando el paso de publicidad offline a online.
+  * Se propone iniciar el anuncio mostrando a una persona recibiendo un panfleto, para luego evolucionar hacia métodos más modernos de captación online.
+
+* **Planes de Pago:**
+  * Se indica que en la presentación actual no se especifica que los planes de pago son de carácter mensual, siendo este un dato relevante que debe aclararse.
+
+#### Feedback relacionado con el desarrollo del proyecto
+
+* **Estrategia de Publicidad:**
+  * Dado que se desea centrar la estrategia en publicidad offline inicialmente, se sugiere reflejar esta transición de forma narrativa en los materiales de marketing, comenzando con métodos tradicionales y progresando hacia canales digitales.
+
+* **Planes de Inversión:**
+  * Aunque no es imprescindible utilizar la denominación de "paquetes de inversión", sí se recomienda realizar una campaña tipo "crowdfunding" o similar, como un "quidstarter", para captar inversores y mostrar claramente las opciones de participación.
 
 #### Tareas a realizar para la siguiente semana
 
