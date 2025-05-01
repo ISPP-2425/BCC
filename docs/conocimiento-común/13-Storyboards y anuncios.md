@@ -1,4 +1,4 @@
-# Storyboards
+# Storyboards y anuncios
 
 En esta sección se presenta el feedback recibido sobre la **Storyboards y anuncios**, basado en las evaluaciones realizadas por el profesor y los compañeros durante las presentaciones.
 
@@ -15,3 +15,6 @@ En esta sección se presenta el feedback recibido sobre la **Storyboards y anunc
 
 ## Feedback del día 11/04
 - Overlays y gráficos dinámicos con datos reales para el anuncio de inversores
+
+## Feedback del día 25/04
+- Incluir en los anuncios de inversores los paquetes de inversiones y no establecer el coste demasiado elevado.

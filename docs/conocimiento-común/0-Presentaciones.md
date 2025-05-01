@@ -80,3 +80,10 @@ En esta página se recoge el feedback proporcionado por el profesor y los compa�
 - Hablar de los costes de marketing (desglosar de la primera presentacion estos costes)
 - Por último, los anuncios dirigidos (banners, etc.) requerirán actualizar la landing page para incluirlos.
 - Gestiona mejor el tiempo para no dejar espacios o extenderse demasiado.
+- Es importante que la presentación cuente una historia, que siga un hilo conductor, a ser posible, se valora positivamente una conexión directa entre el killer opener, la demo y el final de la presentación. Esto consigue de forma consistente que el público no pierda el hilo de la exposición.
+- Coordinar al equipo durante la exposición: Asegurarse de que cada miembro del equipo tenga un rol claro en la presentación, evitando interrupciones o solapamientos. Esto no solo mejora la fluidez y claridad del mensaje, sino que transmite una imagen de cohesión, preparación y trabajo en equipo.
+Por ejemplo, en algunas presentaciones el ponente tuvo que pedir explícitamente a un compañero que cambiara de diapositiva diciendo “pasa la diapositiva”, lo cual resta profesionalidad. En estos casos, se recomienda el uso de un pasador o establecer señales previamente acordadas.
+
+## Feedback del día 25/04
+- En el PPL no se habla sobre el rendimiento, ni sobre la gestión o moral del equipo. 
+- Probar el audio de la clase antes de comenzar con la presentación.
