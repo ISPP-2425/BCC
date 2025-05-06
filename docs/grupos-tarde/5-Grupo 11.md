@@ -474,3 +474,86 @@ Para la semana que viene:
 
 ### Adicional
 -
+
+## Semana 10
+### **Desarrollo**
+
+### Feedback de las presentaciones
+
+| Grupo                      | Feedback recibido                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | Observaciones adicionales |
+|----------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|
+| **Grupo 7 - MapYourWorld** | - En la semana 30 bajan los gastos y después vuelven a subir, incoherencia, tener claro por qué pasan cosas como esta.<br/> - No ha habido killer opener como tal.<br/> - Audio de los vídeos mal, cuando se ponga el proyector tiene que estar mute.<br/> - DEMO demasiado acelerada y la música de fondo despistaba más que ayudaba.<br/> - No puedes decir "por eso a este no lo consideramos un competidor directo" y que aparezca en la tabla de competidores.<br/> - Anuncio de inversores: Los paquetes de inversión son demasiado pretenciosos, mejor tener muchos paquetes que valgan menos a un gran inversor.<br/> - PPL: Buenos tipos de contenidos en RRSS según usuarios, campañas pre-durante-post lanzamiento.<br/> - Hay que ser más específico en una planificación de lanzamiento (qué se va a hacer cada día, cuándo se van a hacer las publicaciones, etc.).<br/> - Medir efectividad de publicaciones y reflejar NUESTRA REACCIÓN a ello.<br/> - Ver cuánto se espera ganar con anuncios y qué se va a hacer si no se llega a esa cifra.<br/> - Buena diapositiva de branding (logo, paleta de colores, tipografía, logos alternativos...), pero falta indicar el peso de cada elemento. | -                         |
+| **Grupo 8 - Infantem**     | - Falta hilo argumental.<br/> - Buen trabajo en general.<br/> - Gran mejora del presentador.<br/> - DEMO un poco escueta para todas las funcionalidades que tiene la aplicación y que la hacen distinta de los competidores.<br/> - Falta mucha información en la diapositiva de costes-ingresos-beneficios (hacerla homogénea en escala y visible).<br/> - Vídeo para inversores demasiado escueto.<br/> - Bien pensado colaborar con influencers.<br/> - Bien pensado el filtro de TikTok, pero que salga un bebé.<br/> - Planificación: Han usado a la mascota para marcar los días pero no se explica qué significa que salga (¿hay publicación? ¿cuántas? ¿en todas las plataformas?). | -                         |
+| **Grupo 9 - Caronte**      | - Muy buena presentación.<br/> - El mensaje inicial: falla la diapositiva, demasiadas cosas; el vídeo explica mejor. Se puede cambiar el orden y usar el vídeo también para la presentación.<br/> - Buena DEMO.<br/> - Moral del equipo y horas invertidas sobra.<br/> - Falta apoyo visual en la monetización.<br/> - El vídeo de inversores no se entiende.<br/> - Protopersonas: Estado civil /= situación laboral.<br/> - Campaña: igual que el grupo anterior.                                                                                                                            | -                         |
+| **Grupo 10 - Go4Surprise** | - No hacer retrospectiva del desarrollo.<br/> - Para el WPL poner en el TCO la estimación esperada/realista.<br/> - Comentar modelo de negocio.<br/> - No poner "1K = 1000 euros" en la gráfica del TCO.<br/> - No publicitarse en LinkedIn si buscamos usuarios finales (solo para buscar empresas como mucho).<br/> - Es importante conocer bien el nicho al que apelamos para utilizar su red social óptima de la mejor manera.                                                                                             | -                         |
+| **Grupo 11 - Pawtel**      | - Si el público objetivo son perros, debemos ir a buscar a ese nicho principalmente.<br/> - IMPORTANTE: no repetir el fallo de los vídeos; tener backup.<br/> - Enseñar los vídeos en modo presentación (no mostrar todas las diapositivas detrás).<br/> - Anuncio Coco: historia no muy realista; falta apoyo visual. Se sugiere usar el perro Curro (de la primitiva) como ejemplo.<br/> - Usar demo para explicar cómo Coco usa Pawtel (usar una patita en vez del cursor).<br/> - Cuidado con el audio de la demo, estaba demasiado alto.<br/> - Considerar puenteo de reservas tradicionales: estrategia de puntos tipo booking (aunque no esté implementado).<br/> - Cuidado con el desfase audio-vídeo, ser muy perfeccionista.<br/> - El vídeo de inversores está bien.<br/> - Protopersonas: diferenciar problemas de soluciones. ¿Qué problema tienen?<br/> - Gráficas de búsquedas: fechas no se ven bien. Resaltar la estacionalidad y correlaciones observadas. Indicar a qué nivel es la gráfica (España).<br/> - Nombrar las IAs usadas en marketing.<br/> - Carteles: van a pedir minicartel para poner en la escuela (ver proporciones en la web de la escuela). | -                         |
+
+### Para hacer pero no necesariamente para la presentación
+
+### Para la presentación
+#### Estructura principal
+Para la semana pasada fue así:
+- La presentación que teníamos hibrida hecha hasta ahora se divide:
+    - Presentación 1: WPL (10min): ESTE ES EL ORDEN QUE HAY QUE SEGUIR
+        - De que va el proyecto? Killer opener + anuncio orientado a clientes (Video 1min max) (1min EL APARTADO)
+        - Que hace exactamente? Mas detallado, con DEMO del proyecto basada en una historia realista, normalmente optimista (nada de recuperar correos,... eliminar fricciones). Consistente con lo visto anteriormente. 
+        - Hay competencia? Lo de siempre.
+        - Quien hay detras? EL equipo. La estructura será un poco menos relevante.
+        - Podria ser rentable? Puntos principales del modelo de negocio. Fuentes de ingresos, costes, oportunidades de inversión (donde ponemos el video para inversores (Duración máxima del vídeo 1 minuto)). 
+        - Donde puedo ver mas informacion? Transparencia final con link a landing page, qr, producto.
+    - P.2: Resto (PPL, marketing) (5min)
+        - Modelo de segmentación: A que segmentos vamos a orientar nuestro producto (Habrá que caracterizar a la audiencia), poner un par de protopersonas.
+        - De qué forma vamos a optimizar nuestra presencia en los motores de búsqueda (palabras clave). Si vamos a tener presencia en rrss que van por población, tirar de las protopersonas. 
+        - Campaña de lanzamiento, acciones antes del wpl. Crear nuestras rrss y hacer contenido, que debe seguir un plan. Definir acciones que permitan ganar usuarios, clientes, visibilidad. Buscar partnerships, influencers,...
+        - Objetivos de la gestión de la comunidad: planificar cuando se hacen publicaciones, con que objetivo,...
+        - Costes de marketing: Detalles. 
+        - Anuncios dirigidos: Videos, planes,... Actualizar la landing page con este contenido. Se pueden poner videos que no enseñemos en el WPL si no caben ahí. 
+        - Se puede añadir a esta el uso de la IA
+- Sobre esto:
+    - Aplicando el feedback, se debe ver evolución en la presentación.
+	- Pasar más de plan de marketing a plan de ejecución.
+	- Será importante aprovechar el ensayo del WPL (tema sonido de videos, voz al hablar, etc).
+	- La semana que viene es retrospectiva personal de cada integrante del equipo, vendremos un rato solo.
+
+#### Otros
+
+
+
+### Adicional
+- Hay una plataforma para sacar al mercado startups.
+- Hay un concurso de la US para presentar startups.
+
+## Semana 11  
+
+### **Desarrollo**
+
+### Feedback de las presentaciones
+
+| Grupo                         | Feedback recibido                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Observaciones adicionales                                                                                                                                                                      |
+|-------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Grupo 7 - MapYourWorld**    | - Buen killer opener, pero tener cuidado en el WPL que es en el salón de actos (sonido, hacer alguna referencia a ello).<br/>- Buen video de clientes pero la última frase tiene mucho eco.<br/>- DEMO: Bien, pero debe tener una historia completa para toda la presentación, sin dependencias entre aplicaciones.<br/>- Si dices que te diferencia crear una cuenta en 30s, entonces debes comparar con los competidores.<br/>- Inferir que los paquetes de aparición son para empresas, y explicarlos con más calma.<br/>- No se puede hacer una proyección de beneficios sin explicar fuentes de ingreso.<br/>- Paquetes de inversión: Separar precio de la acción y múltiplo mínimo.<br/>- Hablar de rentabilidad de los paquetes de inversión.<br/>- Usar keywords que la gente realmente busque para SEO.<br/>- Bien: Seguimiento y KPIs. | - Feedback positivo: Killer opener, que nos diferencia, video inversores, diferenciación entre RRSS, brandboard.<br/>                                                                        |
+| **Grupo 8 - Infantem**        | - Buen anuncio de clientes.<br/>- Si la DEMO no tiene sonido hay que acompañarla.<br/>- Fuentes de ingresos: El tiempo es clave para ver la evolución del modelo. 13% freemium al principio es demasiado.<br/>- Mala diapositiva de costes, ingresos y beneficios.<br/>- Protopersonas: Poner más información sobre el bebé.<br/>- Marketing: Aterrizarlo en casos concretos, usar datos.<br/>- Estadísticas: Usar gráficas aunque sean pocos días.<br/>- La campaña de influencers debería tener presupuesto.<br/>- Decir en qué se va a gastar el dinero solicitado a inversores y cómo influye.<br/>- Buena idea los carteles.                                                | - Feedback positivo: Killer opener, video clientes, diseño diapositivas, carteles, sorteos como campaña de marketing, uso de IA muy completo.<br/>                                           |
+| **Grupo 9 - Caronte**         | - Muy bien, la mejor a nivel de presentación.<br/>- Volumen de los videos demasiado alto y compitiendo con la música.<br/>- Video de inversores: Eliminar la parodia, hacerlo más neutro. No tiene por qué ser un diálogo.                                                                                                                                                                                                                                                                                                                                                                                                                        | - Feedback positivo: Video clientes, DEMO, usuarios piloto, concurso de anuncios, camisetas y acreditaciones.<br/>                                                                           |
+| **Grupo 10 - Go4Surprise**    | - Muy bien en general.<br/>- ¿Por qué dos videos de clientes? Explicar y situar uno en marketing/publicidad. Cuidar la iluminación y el entorno.<br/>- Cambiar cómo se presentan los paquetes en el video de inversores.<br/>- Keywords demasiado genéricas.                                                                                                                                                                                                                                                                                                                                               | - Feedback positivo: DEMO con interacción con el presentador, rentabilidad, video de inversores, Fever Futura Tech Prize, uso de métricas Metricool para RRSS.<br/>                           |
+| **Grupo 11 - Pawtel**         | - No detallar tanto la organización de los grupos. Usar términos generales como "equipo de desarrollo", "coordinadores"...<br/>- Costes: Aclarar si se han añadido los Pawpoints. Si no están, incluirlos.<br/>- Costes: Evitar usar CAPEX y OPEX, términos demasiado técnicos. Usar otros más comprensibles tanto en diapositiva como en presentación oral.<br/>- En los anuncios, quitar los números de página si se enseñan diapositivas dentro.<br/>- Posicionamiento digital: Buena diapositiva, pero explicarla de forma más sencilla. Puede dividirse en dos.<br/>- Buen análisis de redes sociales.<br/>- Los números de las diapositivas del PPL están todos mal. | - Feedback positivo: Muy buen recurso el del co-branding en el killer opener.<br/>- El audio de los videos: comprobarlo antes del WPL. Tener plan B.<br/>                                   |
+
+### Para hacer pero no necesariamente para la presentación
+
+### Para la presentación
+#### Estructura principal
+Para la semana que viene: El grupo de manera individual
+- Pequeña presentación de máximo 5 minutos de los problemas que ha habido, soluciones aplicadas, nuestra visión, manera de evaluar a los miembros del equipo, notas, cosas a destacar,... Sobre todo el proyecto (no solo la última semana). Nos van a hacer preguntas sobre que ha ido bien, que ha ido mal, como se han solucionado los problemas que han ido surgiendo,...
+- Preparar un slide anunciando nuestro proyecto que se presentará en las pantallas de la etsii. Nos darán una plantilla para saber el formato, pero después no tenemos por qué seguirla. 
+- WPL: 
+    - Será el dia 23 de mayo de 12:30 a 17:30. No tenemos que ir al turno de mañana.
+    - El ensayo es el Jueves 22 de mayo 13:30-16:30 en el salón de actos. 
+    - Presentación 10 minutos. Lo que tenemos ya, añadiendo la parte de marketing. 
+    - Nos darán unos premios según el mejor presentador, mejor DEMO, mejor killer opener,...
+    - Evento publico, se puede invitar a gente de fuera. 
+
+#### Otros
+
+
+
+### Adicional
+- Encuesta anónima para hacer cualquier comentario sobre la asignatura: bit.ly/ispp-acp
