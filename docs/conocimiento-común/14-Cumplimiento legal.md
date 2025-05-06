@@ -16,3 +16,7 @@ En lo relativo al aspecto legal, se comentó que el enfoque del impacto legal re
 
 ## Feedback del día 11/04
 - Identifica y menciona las leyes o regulaciones regionales que puedan afectar el uso o despliegue de la app.
+
+## Feedback del día 02/05
+
+Aunque no se ha profundizado mucho en esta ronda, se han dado toques importantes sobre el cumplimiento legal: es fundamental aclarar aspectos como el uso de imágenes (por ejemplo, en anuncios o demos), la propiedad intelectual y la protección de datos personales. También se remarca que todos los elementos presentados (videos, marketing, etc.) deben cumplir la normativa aplicable, y se recomienda revisar todos los contenidos para evitar errores legales o de licencia antes del world project launch.
