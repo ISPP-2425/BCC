@@ -18,3 +18,10 @@ En esta sección se presenta el feedback recibido sobre la **Storyboards y anunc
 
 ## Feedback del día 25/04
 - Incluir en los anuncios de inversores los paquetes de inversiones y no establecer el coste demasiado elevado.
+
+## Feedback del día 02/05
+- En el anuncio de inversores, al contar los planes de inversión, no es necesario que el presentador los explique posteriormente, porque se solapan las explicaciones. De hecho, es mejor explicar algo más de los planes en el video.
+
+- Si algún anuncio da la impresión de quedarse corto ya sea por contenido, por calidad o porque no es relevante, no hay problema en dejarlo fuera de la presentación del WPL.
+
+- Siempre incluir las fuentes de los datos en los anuncios de inversores, para que el público sienta que es una información profesional y confiable la que se muestra.

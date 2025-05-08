@@ -42,4 +42,13 @@ Priorizar volumen de clientes/usuarios para la viabilidad del proyecto.
 - El volumen de mercado debe aparecer en los hitos.
 - Es esencial transmitir claramente la funcionalidad principal.
 
+## Feedback del día 02/05
+
+- ¿El mínimo 16 años no es ser mayor de edad? Es por el mínimo para tener tarjeta. (relacionado con la viabilidad del modelo de negocio según público objetivo).
+
+- Al hablar de competidores, se deben mostrar todas las funcionalidades que se ofrecen, no solo las que se diferencian.
+
+- Hubo un grupo que dejó un público objetivo de entre 18 y 35 años. A los profesores les pareció raro, ya que había mucho usuario potencial que se quedaba fuera de ese rango. Lo importante es que si tiene justificación, que la expliquen.
+
+- Es mejor centrarse en funcionalidades clave, más que aquellas que se entienden que la aplicación va a tener de manera prácticamente asegurada.
 

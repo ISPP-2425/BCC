@@ -35,3 +35,7 @@ En esta página se recoge el feedback proporcionado por el profesor y los compa�
 
 ## Feedback del día 25/04
 - Considerar el feedback de los usuarios piloto incluso en las fases finales del proyecto. Incluir el Preparing Project Launch en el programa de usuarios piloto, se puede incluir una encuesta para evaluar la experiencia de usuario y la satisfacción general con el producto y el uso de las redes sociales.
+
+## Feedback del día 02/05
+
+- Siempre se debería mencionar que ya hay Usuarios Piloto trabajando con la app. 

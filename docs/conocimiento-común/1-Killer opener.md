@@ -44,3 +44,11 @@ En esta página se recoge el feedback proporcionado por el profesor y los compa�
 
 ## Feedback del día 25/04
 - Intentar 
+
+## Feedback del día 02/05
+
+- El killer opener podría explorar alguna forma de interacción. Interactuar con la audiencia siempre capta atención. 
+
+- Usar música conocida para captar la atención en el killer opener también parece ser útil. Un grupo usó la música de la serie "The last of us" y Carlos se lo reconoió como algo bueno.
+
+- Si algun grupo tiene una mascota o algo parecido, interactuar con esta de alguna manera en el killer opener puede ser una manera original e impactante de comenzar la presentación.
