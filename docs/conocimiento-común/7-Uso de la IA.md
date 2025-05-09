@@ -54,3 +54,7 @@ A lo largo del sprint, se valoró positivamente la integración de la inteligenc
 
 ## Feedback del día 25/04
 - Enfocar el uso de la IA en la mejora de las redes sociales y la comunicación del proyecto. Se sugiere utilizar herramientas de IA para analizar el rendimiento de las publicaciones y optimizar la estrategia de marketing digital, proponer ideas de contenido y mejorar la interacción con la audiencia. También se recomienda utilizar IA para las voces en off de los vídeos, ya que esto puede mejorar la calidad del contenido y hacerlo más atractivo y accesible para la audiencia.
+
+## Feedback del día 02/05
+
+Se destaca un uso generalmente completo y bien planteado de la inteligencia artificial, sobre todo en áreas de marketing y automatización de procesos. Se valoró positivamente que la IA se integre de forma clara en la propuesta de valor, aunque se recomienda siempre explicar las herramientas concretas utilizadas y cómo aportan un diferencial competitivo. También se sugiere cuidar la coherencia en la presentación para que la IA no quede como un simple añadido sino como parte estructural del producto.

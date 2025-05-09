@@ -87,3 +87,23 @@ Por ejemplo, en algunas presentaciones el ponente tuvo que pedir explícitamente
 ## Feedback del día 25/04
 - En el PPL no se habla sobre el rendimiento, ni sobre la gestión o moral del equipo. 
 - Probar el audio de la clase antes de comenzar con la presentación.
+
+## Feedback del día 02/05
+
+- Es raro hablar en tercera persona, lo ideal es hablar de tú a tú con el público.
+
+- Cuando hay muchos datos en una diapositiva, se puede hacer muy pesado para el espectador. hay dos formas de pulir ese defecto: o se explican los datos para escuchar al presentador, o se muestran mejor los datos para que el público lea la diapositiva, no escuchar y leer a la vez. También es muy importante que aquellos datos o números que se presenten en la diapositiva sean explicados por el presentador si estos no son autoexplicativos en la diapositiva.
+
+- Cuidado con hablar en futuro, quieren que se hable en presente. 
+
+- Reducir enseñar quiénes somos al máximo. Evitar detalles innecesarios o muy técnicos, como separar el equipo en backend y frontend. Enseñar una estructura organizativa, con roles. 
+
+- Si se presentan chats en diapositivas, hace falta que se vea, o se hace zoom o se pone la letra más grande. 
+
+- Del equipo, que enseñen una estructura organizativa, roles y tal. 
+
+- Cuidado al presentar competidores. Debe aparecer algo para que se vea que se comparten objetivos con ellos. 
+
+- Evitar diapositivas muy teóricas. 
+
+- Hay que hablar con intención: intentar NO, conseguir/hacer SÍ. 

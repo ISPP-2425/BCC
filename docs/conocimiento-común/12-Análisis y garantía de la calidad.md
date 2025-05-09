@@ -21,3 +21,7 @@ En el apartado de métricas y validación, se presentó una crítica constructiv
 ## Feedback del día 11/04
 - Documenta y explica los bugs hallados durante el testing
 - Si se realizan tests de estrés y performance para verificar la robustez del sistema, hacerlos en entornos que simulen el estado de despliegue sin estar en despliegue.
+
+## Feedback del día 02/05
+
+Se resalta la importancia de tener un análisis claro del rendimiento del producto y del marketing, apoyado por KPIs y métricas relevantes (por ejemplo, a través de herramientas como Metricool). También se ha sugerido usar gráficos, aunque sea con pocos datos disponibles, para visualizar mejor la información. Las campañas, como las de influencers o redes sociales, deben tener un presupuesto detallado y se espera un plan claro sobre cómo se evaluará la efectividad y qué medidas se tomarán si los objetivos no se cumplen. En cuanto a la calidad del producto, se valoró positivamente cuando hubo un buen análisis de redes sociales e intentar conseguir una validación temprana por parte del equipo de trabajo.
