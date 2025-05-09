@@ -42,9 +42,6 @@ En esta página se recoge el feedback proporcionado por el profesor y los compa�
 - Cuidado con contenido potencialmente polémico en el killer opener, aunque capta la atención, puede tener connotaciones éticamente delicadas.
 -  Algunos grupos optan por repetir el killer opener, esto introduce una idea nueva: la repetición está bien si sigue siendo efectiva, lo que abre la puerta a una reflexión sobre iteración versus innovación.
 
-## Feedback del día 25/04
-- Intentar 
-
 ## Feedback del día 02/05
 
 - El killer opener podría explorar alguna forma de interacción. Interactuar con la audiencia siempre capta atención. 
