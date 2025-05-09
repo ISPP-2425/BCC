@@ -50,6 +50,10 @@
       - [Feedback relacionado con la presentación](#feedback-relacionado-con-la-presentación-11)
       - [Feedback relacionado con el desarrollo del proyecto](#feedback-relacionado-con-el-desarrollo-del-proyecto-11)
       - [Tareas a realizar para la siguiente semana](#tareas-a-realizar-para-la-siguiente-semana-11)
+  - [Semana 13](#semana-13)
+      - [Feedback relacionado con la presentación](#feedback-relacionado-con-la-presentación-12)
+      - [Feedback relacionado con el desarrollo del proyecto](#feedback-relacionado-con-el-desarrollo-del-proyecto-12)
+      - [Tareas a realizar para la siguiente semana](#tareas-a-realizar-para-la-siguiente-semana-12)
 
 ## [Grupo 1 - Holos](#grupo-1---holos)
   - [Semana 1 - Holos](#semana-1---holos)
@@ -63,7 +67,8 @@
   - [Semana 9 - Holos](#semana-9---holos)
   - [Semana 10 - Holos](#semana-10---holos)
   - [Semana 11 - Holos](#semana-11---holos)
-  - [Semana 12 - Holos](#semana-11---holos)
+  - [Semana 12 - Holos](#semana-12---holos)
+  - [Semana 13 - Holos](#semana-13---holos)
 
 ## [Grupo 2 - Gastrostock](#grupo-2---gastrostock)
   - [Semana 1 - Gastrostock](#semana-1---gastrostock)
@@ -77,7 +82,8 @@
   - [Semana 9 - Gastrostock](#semana-9---gastrostock)
   - [Semana 10 - Gastrostock](#semana-10---gastrostock)
   - [Semana 11 - Gastrostock](#semana-11---gastrostock)
-  - [Semana 12 - Gastrostock](#semana-11---gastrostock)
+  - [Semana 12 - Gastrostock](#semana-12---gastrostock)
+  - [Semana 13 - Gastrostock](#semana-13---gastrostock)
 
 ## [Grupo 3 - Eventbride](#grupo-3---eventbride)
   - [Semana 1 - Eventbride](#semana-1---eventbride)
@@ -91,7 +97,8 @@
   - [Semana 9 - Eventbride](#semana-9---eventbride)
   - [Semana 10 - Eventbride](#semana-10---eventbride)
   - [Semana 11 - Eventbride](#semana-11---eventbride)
-  - [Semana 12 - Eventbride](#semana-11---eventbride)
+  - [Semana 12 - Eventbride](#semana-12---eventbride)
+  - [Semana 13 - Eventbride](#semana-13---eventbride)
 
 ## [Grupo 4 - BORROO](#grupo-4---borroo)
   - [Semana 1 - BORROO](#semana-1---borroo)
@@ -105,7 +112,8 @@
   - [Semana 9 - BORROO](#semana-9---borroo)
   - [Semana 10 - BORROO](#semana-10---borroo)
   - [Semana 11 - BORROO](#semana-11---borroo)
-  - [Semana 12 - BORROO](#semana-11---borroo)
+  - [Semana 12 - BORROO](#semana-12---borroo)
+  - [Semana 13 - BORROO](#semana-13---borroo)
 
 ## [Grupo 5 - CAMYO](#grupo-5---camyo)
   - [Semana 1 - CAMYO](#semana-1---camyo)
@@ -119,11 +127,12 @@
   - [Semana 9 - CAMYO](#semana-9---camyo)
   - [Semana 10 - CAMYO](#semana-10---camyo)
   - [Semana 11 - CAMYO](#semana-11---camyo)
-  - [Semana 12 - CAMYO](#semana-11---camyo)
+  - [Semana 12 - CAMYO](#semana-12---camyo)
+  - [Semana 13 - CAMYO](#semana-13---camyo)
 
 ---
 
-**Ficha del documento**
+<!-- **Ficha del documento**
 
 - **Nombre del Proyecto:** FISIO FIND
 
@@ -149,15 +158,13 @@
 | 25/02/2025 | v1.1    | Alberto Carmona Sicre           | Elaboración del feedback grupal de la tercera presentación (21-02-2025). |
 | 13/03/2025 | v1.2    | Alberto Carmona Sicre           | Corrección errores |
 | 26/03/2025 | v1.3    | Alberto Carmona Sicre           | Elaboración del feedback grupal de las semanas 6 y 7 |
-| 04/04/2025 | v1.4    | Alberto Carmona Sicre           | Elaboración del feedback grupal de las semanas 8 y 9 |
+| 04/04/2025 | v1.4    | Alberto Carmona Sicre           | Elaboración del feedback grupal de las semanas 8 y 9 | -->
 
 
 
 # Grupo 6 - Fisio Find
 
 En esta página se encuentra el feedback recogido por el equipo del grupo 6 durante las sesiones de clase. Con secciones para cada semana, se detallan los comentarios y sugerencias del profesor y los compañeros, así como las tareas a realizar para la siguiente semana. Además, se incluye una sección para cada grupo con el feedback proporcionado por el grupo 6.
-
-
 
 ## Semana 1 (Gallery Guide)
 #### Feedback relacionado con la presentación
@@ -651,6 +658,46 @@ La organización de la presentación no es la que indicaron los profesores.
 
 - Proporcionar mayor contexto en los anuncios para audiencias que no conocen la app (por ejemplo, fisioterapeutas offline).
 
+## Semana 13
+#### Feedback relacionado con la presentación
+
+- Nivel de presentación aceptable. 
+
+- El killer opener podría explorar alguna forma de interacción. Levantad la mano si habeis tenido algún problema físico, por ejemplo. Interactuar con la audiencia siempre capta atención. 
+
+- El tema de la imagen de una persona haciendo deporte con un portatil al lado, a Pablo no le transmite que sea fisioterapia. 
+
+- Competidores: no la ha seguido bien, visualmente muy bien, pero no se entendía lo que querían transmitir. Parece que hay cosas simpelemente estéticas. Que se graben para ver cómo transmitan la información. Y que resalten en las diapositivas sobre lo que hablan. 
+
+- Raro lo de que se muestre el chatbot separado de la demo si es importante para nosotros. 
+
+- El video final le gusta, pero no le queda claro la parte de los packs de inversores. Pablo razonó de la siguiente forma: normalmente los inversores, si tienen packs es para categorizar que cada persona elija uno, pero eso no suele pasar, los inversores tienen algo en la cabeza y negocian según eso. Lo que se puede decir es que nosotros tenemos estas ofertas como tipo de negocio inicial, pero que el inversor también puede negociar a parte. El pack de inversión no es algo que puedes elegir o no, o al menos que no se transmita eso, si no que es algo inicial. 
+
+- El killer opener es más serio pero es todo muy en linea con lo profesional. 
+
+- La demo no gusta que lo enmarquemos dentro de la presentación y se vea más pequeño de lo normal. También pensar alguna otra alternativa a Antonio y Guadalupe hablando en video y ya. 
+
+- La segunda presentación es muy completa. La parte de la planificación está muy bioen. 
+
+- Hay que hablar con intención: intentar no, conseguir/hacer sí. 
+
+
+#### Feedback relacionado con el desarrollo del proyecto
+
+- Es mejor centrarse en funcionalidades clave, más que aquellas que se entienden. Uno se puede imaginar que ya está en la aplicación. De hecho, queda un poco raro cómo se muestra, no se puede emitir factura antes de realizar el servicio.
+
+- Pablo personalmente se centraría mucho más en las funcionalidades que nos diferencian. 
+
+- Muy profesional todo, hay cosas que no se esperaban, como el chatbot. No se suele llegar a ese nivel. 
+
+#### Tareas a realizar para la siguiente semana
+
+- Darle una vuelta a cómo se presentan los competidores para que se entienda mejor lo que se desea transmitir.
+
+- Dedicar un tiempo extra a preparar un killer opener más interactivo y usarlo en la presentación si es original e impactante.
+
+- Al paquete de inversores también hay que darle una vuelta. Lo de las facturas hay que cambiarlo.
+
 # Grupo 1 - Holos
 
 ## Semana 1 - Holos
@@ -1098,6 +1145,46 @@ El equipo de FISIO FIND destaca también el hilo de la presentación y la forma 
 
 - Usar términos más comunes.
 
+## Semana 13 - Holos
+
+**Feedback alumnos**
+
+- Ha gustado la presentación y el diseño de esta. Muy bien hilado la primera presentación con la segunda. Han desglosado muy bie los costes de marketing. También ha gustado la estética del anuncio de inversores, así como la marca en general del equipo. 
+
+- Muy bien hilado el inicio efectivo con la demo. El usar un micro para que se les escuche mejor les ha dado un "plus".
+
+**Feedback recibido (resumen de los comentarios de los profesores)**
+
+- Muy bien interactuando con la mascota en el killer opener. De los mejores killer openers que ha visto, aunque habría que acortar un poco para que no esté tan agobiado. 
+
+- Muy de acuerdo con los compañeros con el tema de la demo. Está muy bien, sigue un buen hilo argumental, van a lo básico y muestran lo core, sin más ni menos. 
+
+- Ha mejorado mucho la forma de presentar. Ha sido la mejor. Ha fluido mucho mejor. Que le den una vuelta a hablar en tercera persona, funciona mejor si hablan de tú a tú.
+
+- En la diapositiva 17, hay muchos datos, y se entiende poco. Hay que explicar de manera visual esos datos. Dos formas: o se explican los datos para escuchar al presentador, o se muestran mejor los datos para que el píblico lea la diapositiva, no escuchar y leer a la vez. 
+
+- En la diapositiva 19, es de las mejores gráficas que ha visto de costes. 
+
+- El modelo de ingeresos habría que mejorar la forma en la que se presenta. O pagas por etapas o cobras por etapas. 
+
+- ¿El mínimo 16 años no es ser mayor de edad? Es por el mínimo para tener tarjeta.
+
+**Puntos positivos destacados**
+
+- Muy buen killer opener.
+
+- Demo sencilla pero efectiva.
+
+- Buena gráfica de costes.
+
+**Áreas de mejora sugeridas**
+
+- Acortar el killer opener.
+
+- Mostrar mejor los datos visuales.
+
+- Mejorar el modelo de ingresos.
+
 ---
 
 
@@ -1508,7 +1595,7 @@ Un aspecto positivo que no se nombró pero que el equipo de FISIO FIND quiere an
 
 - Matriz de rendimiento.
 
-## Semana 11 - Gastrostrock
+## Semana 11 - Gastrostock
 
 **Feedback alumnos**
 
@@ -1585,6 +1672,60 @@ Un aspecto positivo que no se nombró pero que el equipo de FISIO FIND quiere an
 - Incluir un caso de uso específico
 
 - Afinar el perfil de inversores
+
+## Semana 13 - Gastrostock
+
+**Feedback alumnos**
+
+- La persona que habla llama mucho la atención. Anuncio muy visual y llamativo. Personas muy bien definidas. Aplicación de Android. 
+
+- Enhorabuena. Muy bien el killer opener con la demo. Muy completo el anuncio de inversores. Puntito a favor por haber llevado a cabo dos killer openers.
+
+**Feedback recibido (resumen de los comentarios de los profesores)**
+
+- Lo primero, destacar que la forma de presentar de Alonso es de 10. 
+
+- Muy de acuerdo con los alumnos en cuanto al killer opener, delos mejores, y muy bien hilado con la demo. Pero podrían ir un paso más alla. 
+
+- El formato no es tan visual como otros pero cumple perfecto. 
+
+- Cosas mejorables: 
+
+    - Al hablar de competidores, solo aparece de Gastrostock un apartado de notificaciones, pero deberían mostrar que tienen todo, y no solo destacar eso. 
+
+    - Ha gustado cómo han mencionado lo de 4 de cada 5 bares... Pero en el video no coinciden las cifras en cuanto a cómo se muestran, por ejemplo pasando a ser 8 de cada 10, o un número equivocado como 1 de cada 5. A lo mejor no se ha fijado bien, pero deberían comprobarlo.
+
+    - Cuidado en el marketing con hablar en futuro, quieren que se hable en presente. 
+
+    - Hablar del apagón en el marketing perjudica. Un apagón fastidia el negocio. 
+
+    - El equipo reducirlo un poco. Demasiado técnico y al detalle. 
+
+    - Hablar de los paquetes de inversión un pelín más. Si pueden meter números mejor, que lo valoren. 
+
+- Enhorabuena por cómo han sacado el proyecto adelante. 
+
+**Puntos positivos destacados**
+
+- Muy buen killer opener.
+
+- Presentación de 10.
+
+- Formato visual.
+
+- Enhorabuena por la resiliencia.
+
+**Áreas de mejora sugeridas**
+
+- Mostrar todo lo que hacen respecto de los competidores.
+
+- Cuidado con los datos numéricos.
+
+- No hablar a futuro en el marketing.
+
+- Reducir los detalles del equipo.
+
+- Más información en los paquetes de inversión.
 
 ---
 
@@ -2059,6 +2200,54 @@ Por otro lado, un aspecto que no se nombró en el feedback de los compañeros es
 - Reducir el tamaño de la letra en las diapositivas 14 y 15.
 
 - Corregir la falta ortográfica en la diapositiva 9.
+
+## Semana 13 - Eventbride
+
+**Feedback alumnos**
+
+- Le ha gustado mucho lo de la tarta y lo del equipo con las mesas. Inicio hilado con el apagón como la demo. Demo muy graciosa. 
+
+- Anuncio para clientes muy bonito, la serie de youtube muy original.
+
+**Feedback recibido (resumen de los comentarios de los profesores)**
+
+- La música del The last of us muy guay en el killer opener. 
+
+- Han mejorado muhco el formato, ademas Miguel y Dani presentan cada vez mejor.  
+
+- El hilo del killer opener y la demo muy bien. 
+
+- La temporalidad de los costes, los ingresos muy bien contados. Aparecen en los costes al lado del Capex y el Opex números entre paréntesis que no se explican. En principio son meses, pero no lo ponen ni lo explican. 
+
+- No poner Capex y Opex, son demasiado técnicos. 
+
+- La demo bastante bien pero algunas pantallas no se ven muy bien. 
+
+- En el anuncio de inversores, al contar los planes de inversión, que no lo cuente después Dani, porque se solapa. Explicar algo más de los planes en el video. No quieren que supere el minuto y medio. Carlos propone que se resuma la info de la diapo de después y lo pongan en el video. 
+
+- El anuncio para proveedores se ha quedado un poco corto. No hay motivos para confiar en ellos, o se mejora o que no lo muestren en el WPL. 
+
+- Han hecho caso al feedback con lo de la madre. 
+
+**Puntos positivos destacados**
+
+- Música muy buena en el killer opener.
+
+- Mucho mejor el formato.
+
+- Muy bien el killer opener y la demo.
+
+- Ingresos bien explicados.
+
+- Han hecho caso al feedback.
+
+**Áreas de mejora sugeridas**
+
+- No poner CapEx y OpEx.
+
+- No solapar explicaciones.
+
+- Anuncio de proveedores muy corto.
 
 ---
 
@@ -2572,6 +2761,54 @@ El equipo de FISIO FIND, además de lo anterior, ha encontrado muy interesante e
 - Simplificar los planes de inversión.
 
 - Mejorar el mensaje sobre el producto.
+
+## Semana 13 - BORROO
+
+**Feedback alumnos**
+
+- El video ha subido mucho la calidad. Puntos clave muy interesantes. El calendario predefinido para todo el mes de mayo muy bueno. 
+
+- El último tiktok muy bueno. Se nota que se han visto la píldora teórica. 
+
+**Feedback recibido (resumen de los comentarios de los profesores)**
+
+- Inicio efectivo mejor que otras veces, han hecho caso al feedback y han puesto claro que es solo alquiler, porque Don Ramón quiere recuperar su objeto. 
+
+- Ha mejorado la presentación, ha dejado atrás las muletillas. 
+
+- La fluidez tambien muy bien.
+
+- La demo: no es lo que piden, no es solo mostrar las funcionalidades y ya, sino poner cómo usan los usuarios la aplicación. Lo del 3D esta muy guay, pero no cumple con lo solicitado. Hace falta una historia. Si usan a Don Ramón en el killer opener, que vuelvan ausarlo en la demo. 
+
+- En la diapositiva 6, está muy guay como presentan las funcionalidades, pero no se ve el chat. Hace falta que se vea, o hacerle zoom o poner la letra más grande. 
+
+- Del equipo, que enseñen una estructura organizativa, roles y tal. 
+
+- En la diapositiva 10, en la comparativa hay al menos 3 competidores que a bote pronto no lo son porque no comparten funcionalidades con ellos. Debe aparecer algo para que se vea que comparten objetivos con ellos. 
+
+- El anuncio de inversores se ha hecho un poco largo, y faltan las fuentes de los datos, pero si que aparecen en el video realmente. 
+
+- De la segunda presentación, evitar diapositivas muy teóricas, refiriéndose a la diapositiva 10, si en la 11 pones el titulo SEO es suficiente. 
+
+- En el público objetivo, a lo mejor se dejan a demasiada gente fuera. Si tiene justificación, que la expliquen. 
+
+**Puntos positivos destacados**
+
+- Han mejorado el inicio efectivo y la fluidezy calidad de la presentación.
+
+- Bien como presentan las funcionalidades.
+
+**Áreas de mejora sugeridas**
+
+- Cambiar la demo, no es lo que se pide.
+
+- Usar zoom o aumentar la fuente al mostrar chats en la demo.
+
+- Recortar el anuncio de inversores.
+
+- Evitar diapositivas muy teóricas.
+
+- Justificar que dejen fuera a tanto público objetivo.
 
 ---
 
@@ -3087,3 +3324,53 @@ Los compañeros de clase felicitamos al equipo por la claridad de la exposición
 - Incluir detalles sobre la gestión y calendario de publicaciones en redes sociales.
 
 - Incorporar información sobre los costes.
+
+## Semana 13 - CAMYO
+
+**Feedback alumnos**
+
+- Buen cronograma, anuncio de inversores chulo. 
+
+- Se ven claramente los casos de uso. Diseño de la presentación chulo.
+
+**Feedback recibido (resumen de los comentarios de los profesores)**
+
+- La demo ha gustado. 
+
+- Del equipo deben cambiar lo de poner frontend y backend, deben hacer separación de alto nivel sin que se pregunte el público más genérico qué es frontend y backend. 
+
+- Del anuncio de inversores, la información que aparece de paquetes de inversión pueden ponerla más grande y se vería mejor. 
+
+- La segmentación del mercado está muy bien explicada y justificada. Ha gustado la planificación de redes sociales por tipología. 
+
+- Bastante bien a nivel de ritmo, se nota el cambio. 
+
+- Pequeños matices: 
+
+    - Ha gustado mucho cómo se ha ido contando pero no se veía. En la demo, el punto que tiene de coloquialidad es demasiado grande. Pero hay una que tiene mucha profesionalidad (aunque no se a que se refiere). 
+
+    - El tema del inicio, Pablo intentaria que hubiese un killer opener más sorprendente. 
+
+    - No hablar en futuro, sino en presente. De hecho se debería mencionar que ya hay Usuarios Piloto trabajando con la app. 
+
+**Puntos positivos destacados**
+
+- Buena demo.
+
+- Muy bien la segmentación del mercado.
+
+- Muy bien la planificación de redes sociales por tipología.
+
+- Muy bien a nivel de ritmo.
+
+**Áreas de mejora sugeridas**
+
+- Quitar separación de backend y frontend.
+
+- Poner más grande la información de los paquetes de inversión en el anuncio.
+
+- Demo con demasiada coloquialidad.
+
+- Killer opner más impactante.
+
+- Usar el presente, no el futuro.
