@@ -41,3 +41,5 @@ En esta página se recoge el feedback proporcionado por el profesor y los compa�
 - Incluir objetivos claros y periodos específicos para contextualizar mejor el estado del proyecto. Esto permitirá evaluar si las soluciones implementadas están funcionando según lo planeado. Además de listar problemas, plantear posibles mejoras futuras que puedan optimizar el proyecto.
 - Incluir el número de métricas analizadas, pero siempre en contexto. Mostrar tendencias claras: de dónde venimos, dónde estamos y hacia dónde vamos. Esto ayudará a visualizar el progreso de manera más efectiva.
 - No es aceptable que haya personas que no hayan contribuido esfuerzo al proyecto. Se sugiere realizar una reflexión interna y proponer soluciones para mejorar la colaboración y responsabilidad del equipo.
+
+En próximos feedbacks (_última actualización: día 10/05_), no se ha mencionado nada relacionado con el **Sprint Retrospective**, ya que este no forma parte de los objetivos establecidos para la presentación.
