@@ -30,6 +30,12 @@ En esta página se recoge el feedback proporcionado por el profesor y los compa�
 - Destacar qué funcionalidades se han implementado basadas en el feedback de los usuarios pilotos.  
 
 ## Feedback del dia 11/04
-- Controla los efectos de zoom in/out para no marear
-- Aumenta el enfoque visual e interactividad con la aplicacion
+- Controla los efectos de zoom in/out para no marear.
+- Aumenta el enfoque visual e interactividad con la aplicacion.
 - Acorta la demo y céntrala únicamente en las funcionalidades fundamentales.
+
+## Feedback del dia 02/05
+- Evitar tono demasiado informal (ej: "esto lo tenemos medio hecho").
+- Mostrar un caso de uso concreto (ej: "Así reserva un usuario su primera cita") en lugar de un overview genérico.
+- No explicar lo mismo en la demo y luego en diapositivas.
+- No insertar el vídeo de la demo en pequeño dentro de una diapositiva (mejor pantalla completa o enlace externo).

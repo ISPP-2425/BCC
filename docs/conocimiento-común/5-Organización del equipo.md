@@ -32,7 +32,9 @@ En esta página se recoge el feedback proporcionado por el profesor y los compa�
 - El análisis de esta semana muestra que los comentarios recibidos por los grupos siguen líneas similares a feedbacks anteriores, sin aportar observaciones fundamentalmente nuevas. Se mantienen las áreas de mejora ya identificadas en sesiones previas, centradas principalmente en aspectos de ejecución y presentación.
 
 ## Feedback del dia 11/04
-
 - Respecto a la matriz de rendimiento esfuerzo, se quiere ver un rendimiento individual y quiere ver un seguimiento. Se espera una evaluación individualizada del rendimiento, no solo grupal.
 - Se ha valorado positivamente la introducción de un bot en Discord para que avise cuando una tarea ha sido olvidada. Se considera relevante en organización técnica el apoyo en herramientas automatizadas para asegurar cumplimiento de responsabilidades.
 
+## Feedback del dia 02/05
+- En lugar de hablar de frontend o backend en la organización grupal, se propone un enfoque más general del equipo, como subgrupos o roles destacados.
+- Simplificar la presentación del equipo al máximo.
