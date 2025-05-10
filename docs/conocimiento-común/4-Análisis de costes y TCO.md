@@ -52,3 +52,5 @@ En esta página se recoge el feedback proporcionado por el profesor y los compa�
 ## Feedback del día 25/04
 - Desglosar los costes de CAPEX y OPEX de una manera más detallada y clara, incluyendo los gastos relacionados con el desartamento de marketing.
 
+## Feedback del día 02/05
+- Se recomienda reemplazar CapEx (gastos de capital) y OpEx (gastos operativos) por términos más intuitivos como "inversión inicial" y "costes operativos", especialmente si la audiencia no es técnica o financiera en las presentaciones de PPL y WPL.
