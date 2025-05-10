@@ -34,9 +34,6 @@ En esta página se recoge el feedback proporcionado por el profesor y los compa�
 - Aumenta el enfoque visual e interactividad con la aplicacion.
 - Acorta la demo y céntrala únicamente en las funcionalidades fundamentales.
 
-## Feedback del dia 25/04
-- No se ha registrado feedback.
-
 ## Feedback del dia 02/05
 - Evitar tono demasiado informal (ej: "esto lo tenemos medio hecho").
 - Mostrar un caso de uso concreto (ej: "Así reserva un usuario su primera cita") en lugar de un overview genérico.
