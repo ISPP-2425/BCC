@@ -90,7 +90,7 @@ Por ejemplo, en algunas presentaciones el ponente tuvo que pedir explícitamente
 
 ## Feedback del día 02/05
 
-- Es raro hablar en tercera persona, lo ideal es hablar de tú a tú con el público.
+- Es raro hablar en tercera persona, lo ideal es hablar de tú a tú con el público (usar la primera persona del plural "nosotros" cuando se hable del proyecto, no excluyéndose del grupo en tercera persona).
 
 - Cuando hay muchos datos en una diapositiva, se puede hacer muy pesado para el espectador. hay dos formas de pulir ese defecto: o se explican los datos para escuchar al presentador, o se muestran mejor los datos para que el público lea la diapositiva, no escuchar y leer a la vez. También es muy importante que aquellos datos o números que se presenten en la diapositiva sean explicados por el presentador si estos no son autoexplicativos en la diapositiva.
 
