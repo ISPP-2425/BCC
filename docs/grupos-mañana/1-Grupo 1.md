@@ -13,6 +13,8 @@ En esta página se encuentra el feedback recogido por el equipo del grupo 1 dura
     | [Semana 7](#semana-7)
     | [Semana 8](#semana-8)
     | [Semana 9](#semana-9)
+    | [Semana 10](#semana-10)
+    | [Semana 11](#semana-11)
 - **Grupo 2 - GastroStock**
     - [Semana 1](#semana-1-1)
     | [Semana 2](#semana-2-1)
@@ -23,6 +25,8 @@ En esta página se encuentra el feedback recogido por el equipo del grupo 1 dura
     | [Semana 7](#semana-7-1)
     | [Semana 8](#semana-8-1)
     | [Semana 9](#semana-9-1)
+    | [Semana 10](#semana-10-1)
+    | [Semana 11](#semana-11-1)
 - **Grupo 3 - EventBride**
     - [Semana 1](#semana-1-2)
     | [Semana 2](#semana-2-2)
@@ -33,6 +37,8 @@ En esta página se encuentra el feedback recogido por el equipo del grupo 1 dura
     | [Semana 7](#semana-7-2)
     | [Semana 8](#semana-8-2)
     | [Semana 9](#semana-9-2)
+    | [Semana 10](#semana-10-2)
+    | [Semana 11](#semana-11-2)
 - **Grupo 4 - Borroo**
     - [Semana 1](#semana-1-3)
     | [Semana 2](#semana-2-3)
@@ -43,6 +49,8 @@ En esta página se encuentra el feedback recogido por el equipo del grupo 1 dura
     | [Semana 7](#semana-7-3)
     | [Semana 8](#semana-8-3)
     | [Semana 9](#semana-9-3)
+    | [Semana 10](#semana-10-3)
+    | [Semana 11](#semana-11-3)
 - **Grupo 5 - Camyo**
     - [Semana 1](#semana-1-4)
     | [Semana 2](#semana-2-4)
@@ -53,6 +61,8 @@ En esta página se encuentra el feedback recogido por el equipo del grupo 1 dura
     | [Semana 7](#semana-7-4)
     | [Semana 8](#semana-8-4)
     | [Semana 9](#semana-9-4)
+    | [Semana 10](#semana-10-4)
+    | [Semana 11](#semana-11-4)
 - **Grupo 6 - FisionFind**
     - [Semana 1](#semana-1-5)
     | [Semana 2](#semana-2-5)
@@ -63,6 +73,8 @@ En esta página se encuentra el feedback recogido por el equipo del grupo 1 dura
     | [Semana 7](#semana-7-5)
     | [Semana 8](#semana-8-5)
     | [Semana 9](#semana-9-5)
+    | [Semana 10](#semana-10-5)
+    | [Semana 11](#semana-11-5)
 - **Feedback de final de clase**
     - [Semana 1](#semana-1-6)
     | [Semana 2](#semana-2-6)
@@ -73,6 +85,8 @@ En esta página se encuentra el feedback recogido por el equipo del grupo 1 dura
     | [Semana 7](#semana-7-6)
     | [Semana 8](#semana-8-6)
     | [Semana 9](#semana-9-6)
+    | [Semana 10](#semana-10-6)
+    | [Semana 11](#semana-11-6)
 
 # Grupo 1 Holos
 
@@ -396,7 +410,7 @@ App para venta de obras de artistas.
 
 **Holos**
 
-## Feedback positivo de estudiantes
+**Feedback positivo de estudiantes**
 
 - El killer opener ha captado la atención del público. 
 - Se ha bajado al barro, capta la atención. 
@@ -407,14 +421,14 @@ App para venta de obras de artistas.
 - Felicitan el anuncio de los inversores.
 - Valor a la hora de cambiar de PM, es una decisión arriesgada. Destaca que al poner los mejores del sprint se pone también el motivo.
 
-## Feedback negativo de estudiantes
+**Feedback negativo de estudiantes**
 
 - No se escucha bien el anuncio (muy bajo el volumen).
 - Se ha equivocado al hilar dos diapositivas.
 - Se debería haber mencionado que se iba a ver antes de poner el anuncio para inversores.
 - Presentación muy larga, se vuelve a ir corriendo al final. Debemos recortar el número de diapositivas.
 
-## Feedback de profesores (Pablo)
+**Feedback de profesores (Pablo)**
 
 - En general, el hilo del discurso y el ritmo están bastante bien. En particular ha habido partes que están especialmente bien. Felicita el anuncio de los inversores. Propone contrastarlo con un inversor. 
 - Hay partes que están especialmente bien, por ejemplo el anuncio de inversores.
@@ -427,8 +441,74 @@ App para venta de obras de artistas.
 - Cuanto más tiempo tardemos desde que se crea una pull request hasta que se revisa, peor. Recomienda que en el momento en que se haga una pull request, se revise. 
 - Usuarios piloto: Es muy importante que hagamos que los UP usen en su dia a dia la aplicación. ¿Cuántos usuarios piloto usan la aplicación de verdad? Eso sí que va a ser una fuente de feedback verdadera.  
 
+## Semana 10
+
+**Holos**
+
+**Feedback positivo de estudiantes**
+
+- El killer opener está muy relacionado con el tema y lo presenta de forma escueta y sucinta.
+- El presentador dice quien es la voz de IA que se usa en la demo (Rey felipe)
+-La explicación de para qué sirve holos y qué propósito cumple es muy buena. Queda bastante claro.
+
+**Feedback negativo de estudiantes**
+
+- El killer opener suena mal.
+- No se escucha el primer anuncio.
+- Si bien los colores no están mal, cree que nos favorece más otra paleta.
+
+**Feedback de profesores (Cristina)**
+- Kanban es un término técnico que no todo el mundo conoce.
+
+**Feedback de profesores (Pablo)**
+
+- El inicio efectivo, no ha salido bien. La ejecución ha tenido muchos problemas
+- El micro se oye muy distorsionado. Había elementos que hacían perder la atención
+- No se sabe cuando ha empezado la presentación.
+- Intentaría modificar y ensayar más el inicio efectivo.
+- Con respecto al delivery: la presentación tanto en imagen corporativa y como fluye esta bastante bien, sería casi para un 10 en las primeras 3,4 semanas. Hay que dar un plus para ser nuestra mejor versión.
+- El comunicador da una sensación de tranquilidad, pero estar demasiado relajado hace que las presentaciones no sean super óptimas. Sugiere cambiar los ritmos.
+- Costes: Por fin le hemos dado un número de artistas, ha dicho que nuestro ambito es español, es importante caracterizar los números que damos, si son españoles, europeos. Y dar la fuente de la que se ha sacado esa información. También en el video de inversores.
+- Asumiendo un volumen de transacciones con usuarios…
+- Como de asequible sería para un artista pagar el plan premium.
+- Con respecto al video: Darle una vuelta a lo de “te perdiste bitcoin en 2010”
+- No se entiende muy bien lo de los costes en el anuncio inversores.
+- Incluir valoración de la empresa.
+- Idea de marketing: Concurso para el logo de holos. 
+
+## Semana 11
 
 
+**Holos**
+
+**Feedback positivo de estudiantes**
+- la demo es muy liviana y digerible. El presentador le da una buena introducción.
+- Hay un hilo conductor entre killer opener, demo debido a la inclusión de la mascota
+- Ha cambiado radicalmente el modelo de presentación hablando con la mascota e introduciendo un lenguaje más amigable para posibles inversores.
+- Algunos chascarrillos están bien hilados. (e.g:¿cuánto tiempo habéis usado en ver shorts de youtube? lo raro es que no hayáis visto un anuncio nuestro)
+- Dice tablero de seguimiento en vez de kanban, haciendo caso al feedback que se dio.
+
+**Feedback negativo de estudiantes**
+- A veces dice: “yo lo veo ….”, si bien no es malo per se dar una apreciación personal, parece que estamos intentando vender la app por reiteración de lo que debería ser bueno y no por que lo sea.
+
+
+**Feedback de profesores (Cristina)**
+- Ha mejorado la forma de presentación. 
+- Le ha gustado la forma de hilar entre partes de la presentación.
+- No le ha terminado de gustar que hable en tercera persona. Sugiere que le demos una vuelta.
+- Hablar de donde estamos en rrss. Poner algún post o algo.
+- Corregir el “paga” por “pagos” en el video de inversores.
+- Si bien no ha gustado la idea de la 3ª persona, en la 2 parte habla en primera como nosotros. No es buena idea cambiar esto, carlos sugiere que usemos siempre la primera.
+
+**Feedback de profesores (Carlos)**
+- Killer opener: La idea es muy buena ademas interactuando con la mascota, pero hay que acortarlo un poco. Le ha encantado. De los mejores que ha visto.
+- La demo está muy bien. Sigue el hilo argumental, va a lo básico y muestra el caso de uso core.  
+- Diapositiva 17: Demasiada información. Explicar mejor y resumirla. Quedarnos lo más importante.
+- Sugiere ponerla como traspa oculta por si hay dudas.
+- Felicita la gráfica.
+- El anuncio de inversores muy bien, citando las fuentes y buen inicio.
+- No decir mayor de edad, decir la edad mínima para poder pagar con tarjeta.
+- Sugiere que se hable como parte del grupo, no en tercera persona.
 
 -------------------------------------------
 
@@ -763,6 +843,72 @@ Ayuda a la gestión de inventarios de bares y mejora de logística mediante IA.
 - Costes capitalizables, no capitales.
 - Le ha faltado la evolución de cómo van las soluciones a los problemas. Es normal, porque van un poco retrasados. 
 - Respecto a la matriz de rendimiento esfuerzo demasiada resumida, quiere ver el rendimiento individual y quiere ver un seguimiento.
+
+## Semana 10
+
+**Gastrostock**
+
+**Feedback positivo de estudiantes**
+Intencionalmente en blanco	
+
+**Feedback negativo de estudiantes**
+Intencionalmente en blanco
+
+**Feedback de profesores (Pablo)**
+- Está bien hilada la presentación.
+- El hilo argumental de la presentación pretende captar la atención y dar una idea rápida, para posteriormente decir exactamente lo que se hace, a partir de ahí todo se entiende mucho mejor. Es natural cuando uno entiende la historia. Es altamente sugerido seguir este esquema. 
+- El principal problema es el de balance entre el peso principal (entender bien lo que se ha hecho) (la demo iba demasiado rápida) y explicar de todo un poco. Sugiere explicar como se meten los datos de las tpv.
+- La aplicación no se ve usable.
+- Es muy importante saber a quién va dirigido el vídeo (tipo de inversores…) es un gran video en el caso de que fuera para gente como nosotros, pero no somos el tipo de inversor en el que están interesados.
+- Tener un ámbito para desarrollar ideas locas, no hay que constreñirse a ideas preconcebidas o básicas.
+- Sugiere que se reflexione sobre los videos de inversión.
+
+**Feedback de profesores (Cristina)**
+- Falta información en el anuncio.
+- Cuidado con el tiempo verbal, no estamos en el futuro, sino en el presente.
+- En cuanto a los costes de da demasiado detalle, se puede acortar varias diapositivas, cuando se llega a la parte de puede ser rentable, hablar un poco de planes de precio y rentabilidad pero no en tanto detalle.
+- Evitar poner inversores en la presentación de marketing (la segunda).
+- La demo debería ir antes.
+- No tienen video de inversores.
+
+## Semana 11
+
+**Gastrostock**
+
+**Feedback positivo de estudiantes**
+- El killer opener es muy bueno, indica velocidad y simpleza de instalación unos segundos, así como de uso.
+- Muy claro en qué se diferencia de los competidores (TPVs)
+- Hilar la demo con el teatrillo del KO es sencillamente BRUTAL. Llama la atención e hila perfectamente.
+- Las gráficas se ven muy bien. 
+- Ponen cifras exactas en costes (lo que pierden por mes) y cantidad de bares. Quizás me faltan las fuentes.
+- Buen detalle el destacar que es un negocio escalable a todo el país.
+- Pone muchos casos reales y diversos en los que se mejoraría al usar su app.
+- En la presentación de marketing, convence de que los bares, pase lo que pase, siempre estarán. Por tanto, es buena idea invertir en la app.
+- Está muy bien la traspa de palabras claves.
+- Buen contenido de tiktok. Buen meme.
+- En general, presentación de 10.
+
+**Feedback negativo de estudiantes**
+- Si a estas alturas un bar no está digitalizado es porque no quiere no por falta de opciones.
+- No tienen una valoración de empresa.
+
+**Feedback de profesores (Carlos)**
+- Presenta muy bien, con energía.
+- Muy buen killer opener. Y muy bien hilado con la demo.
+- Cuando se muestra el dashboard, hay que hilarlo.
+- El formato no es el mejor, no es muy visual pero cumple muy bien. Es muy espartano.
+- En la primera presentación se habla de los competidores y ponen una notificación como tick, el pondría un tick
+- Le gusta lo de 1 de cada 5 bares, 1 de cada 5 clientes…
+- Que revisen las cifras que hay alguna que no concuerda.
+- Hablad en presente no en futuro.
+- Hablar del apagón en su caso perjudica. El apagón les fastidia completamente.
+- Dar la enhorabuena por como han código al toro por los cuernos.
+
+**Feedback de profesores (Cristina)**
+- Reducir el equipo y no ser tan técnico ni con tanto detalle.
+- En el anuncio de inversores, hablar más de los paquetes de inversión.
+
+
 ----------------------------------
 
 # Grupo 3 EVENTBRIDE
@@ -1143,6 +1289,67 @@ Aplicación para gestionar eventos cristianos; bodas, bautizos y comuniones
 - Falta siempre en los problemas la medida y los objetivos a los que se pretende llegar.
 - Que por favor, no se piense que es un patrón solo para los problemas, también hay que tener ese patrón para las mejoras.
 
+## Semana 10
+
+**Eventbride**
+**Feedback positivo de estudiantes**
+- Buen tono en el elevator pitch.
+- Ha conseguido sacar un “Ohhhhhh” a la clase.
+
+**Feedback negativo de estudiantes**
+- Necesidad de un pasante, tener que pedir “pasa” cada vez que se quiera avanzar no es profesional.
+- Quizás el nivel de detalle de la explicación del grupo sea demasiado concreto.
+- El anuncio de inversores se escucha mal.
+
+**Feedback de profesores (Carlos)**
+- Visualmente ha mejorado mucho.
+- Lo de la tarta es espectacular.
+- El killer opener no ha sido muy bueno.
+- La demo es demasiado larga. 
+
+**Feedback de profesores (Cristina)**
+- Más contraste en las presentaciones para ver bien las letras.
+- La presentación del equipo se hace larga.
+
+## Semana 11
+
+**Eventbride**
+
+**Feedback positivo de estudiantes**
+- Buena música de The Last of Us de fondo en el anuncio del killer opener.
+- Siguen con la idea de la tarta que fue muy bien recibida en presentaciones anteriores.
+- Daniel, el presentador, va a un ritmo constante y mantiene la atención. Las transiciones entre apartados son muy buenas, se nota que ha practicado la presentación.
+- Han hilado muy bien el killer opener con la demo con el tema apagón.
+- Usar el apagón en la demo es muy buena idea y muy buena excusa para mostrar el chat de soporte.
+- El uso de la tarta para compararse con los competidores es muy visual. Magistral. Además, el decir la cima del pastel o la guinda del pastel son expresiones muy acertadas dado el contexto.
+- Es interesante tener tres tipos de paquetes de inversión para que los inversores tengan diferentes opciones.
+- Las elecciones de las canciones son muy buenas, saben que son momentos emotivos y lo aprovechan.
+- Diapositiva de Mercado (traspa 3), interesante que identifiquen en qué estaciones hay más celebraciones.
+- DivinasTV muy buena idea. Estoy deseando ver las aventuras de esos personajes.
+
+
+*Feedback negativo de estudiantes**
+- Eventbrite no soluciona el problema que se muestra en el killer opener.
+- Usan conceptos tecnicos como Capex y Opex en los costes.
+- Sobreuso de  la tarta.
+- El anuncio de inversores es poco profesional.
+- Ponen muchísimos datos en el anuncio de inversores.
+- Anuncio para proveedores muy breve. No cuenta nada.
+- No introducen la segunda parte de la presentación.
+- Mucho texto en las diapositivas de personas.
+
+**Feedback de profesores (Carlos)**
+- Killer opener le ha gustado mucho con la música de The Last of Us. 
+- Tema de la temporalidad muy bien.
+- En los costes pone Capex y Opex con un número que no ha explicado.
+
+**Feedback de profesores (Cristina)**
+- Felicita las diapositivas. Han mejorado mucho.
+- No usemos términos como Capex y Opex. Son términos técnicos.
+- Presentan muy bien.
+- La demo bastante bien pero algunas pantallas no llegan a verse bien. Deben revisarlo.
+- Se solapa información de inversores. Explicar los planes en el video.
+- El análisis de proveedores no da confianza.
 
 
 --------------------------------------------------
@@ -1505,6 +1712,68 @@ Aplicación para generalizar el alquiler de objetos, es de matchmaking-improved 
 - Lo de hacer merge de ramas incorrectas le parece algo muy grave. Pide algo de integración continua para evitar esto.
 - Pregunta cómo se están haciendo las pruebas de carga con locust, han probado con 10 usuarios, en el caso de que funcione con 10, aumentan la cantidad. Lo interesante es alcanzar el límite.
 - ¿Usuarios concurrentes con locust? no lo saben.
+
+## Semana 10
+
+**Borroo**
+**Feedback positivo de estudiantes**
+- La canción es extremadamente pegadiza, es imposible no bailar.
+- Las diapositivas de las “Persona” son muy buenas y captan la atención.
+
+**Feedback negativo de estudiantes**
+- Sigue repitiendo la muletilla “¿de acuerdo?”
+
+**Feedback de profesores (Cristina)**
+- Anuncio repetitivo.
+- Sale un movil para alquilar y le ha llamado la atencion.
+- Señala una muletilla.
+- Respecto a la demo: Corta y rápida.
+- El equipo: como consejo decir al principio cuántos son en total.
+- Planes de inversión un poco pesado
+- Faltan detalles en el anuncio de inversores.
+- Planificación en cuanto a la publicidad.
+
+**Feedback de profesores (Pablo)**
+- El ritmo y la calidad de la presentación están bastante bien.
+- El inicio efectivo no es efectivo. 
+- Se comenta demasiado tarde lo que se hace en el proyecto
+- Decid es rentable no es acertado, decir: Puede ser rentable.
+- No se habla de número de transacciones. 
+
+
+## Semana 11
+
+**Borroo**
+
+**Feedback positivo de estudiantes**
+- Killer opener muy efectivo. Hila el apagón perfectamente con el problema que soluciona la aplicación.
+- El video demo si bien diferente se ve muy profesional. 
+- Buena diapositiva de puntos clave (a partir de traspa 3)
+- Se ha notado que ha practicado la presentación, además ha disminuido el uso de las muletillas, en concreto la de : “Seguidamente”. (Aunque ahora usa “De acuerdo” pero también la ha corregido).
+- Explica de forma clara y sencilla, como se pretende obtener ganancias, pone números a los porcentajes, y crea métricas como el UTM o la TPU (muy curiosa) que ayuda a contextualizar.
+- Proporcionan la fuente de donde han sacado los datos. Esto es clave para proporcionar credibilidad. 
+- Es interesante tener dos tipos de paquetes de inversión para que los inversores tengan diferentes opciones.
+- Han añadido un calendario de planificación de posts de redes sociales.
+- Muestran el contenido que van subiendo a redes (TikTok), ha funcionado en la clase, es un buen indicador de que funcionará con gente de nuestra edad.
+
+**Feedback negativo de estudiantes**
+- No está muy bien hilada la presentación.
+- No se escuchaba el anuncio.
+
+**Feedback de profesores (Carlos)**
+- Aclarar en el KO que lo quiere recuperar, para recalcar la diferencia de Wallapop.
+- En la traspa 6, no se ve el chat. Debe verse.
+- Hay competidores que no tienen nada en común con ellos.
+
+**Feedback de profesores (Cristina)**
+- Ha mejorado el inicio efectivo con respecto al resto de las presentaciones.
+- Ha solucionado sus muletillas.
+- La demo no cumple con lo pedido, no es poner una serie de funcionalidades sueltas, sino ver cómo se usa la app. Esto hace que se solape con los siguientes diapos.
+- Sugiere usar a Don Ramon en la demo. 
+- Que no sean todo un plano de las 17 personas del grupo, proporcionar subdivisión organizativa en los subgrupos disciplinares.
+- El anuncio de inversores se ha hecho largo.
+- De la segunda presentación, quitar diapositivas teóricas, (la 10 por ejemplo) (enfocado al WPL).
+
 
 -----------------------------------------------------
 
@@ -1870,6 +2139,74 @@ App para juntar camioneros con empresas
 - Pregunta cuántos usuarios pilotos reales tienen actualmente. Más concretamente cuántos transportistas y cuantas empresas. Responden que con 16. Y continúa diciendo que es un buen número para lanzar preguntas sobre los anuncios.
 - Le preocupa que a veces no se puede entender bien lo que se dice en la presentación, hacer pruebas de volumen, tener en cuenta el aire, plantear usar un micrófono
 - Le preocupa que no haya anuncio para inversores.
+
+## Semana 10
+
+**Camyo**
+
+**Feedback positivo de estudiantes**
+- Es muy pegadiza la cancioncilla de ser camionero.
+- Muy buena diapositiva de palabras claves.
+- Felicitan los paquetes de inversión. 
+- Han presentado muy bien los paquetes de inversión
+
+**Feedback negativo de estudiantes**
+- Se han pasado un poco de tiempo.
+- Se han notado nervios en la segunda parte de la exposición.
+
+**Feedback de profesores (Carlos muller)**
+- El killer opener está muy bien pero le parece que la justificación de coger el plan por el dinero más que por la funcionalidad
+- Antes del anuncio de inversores, se dedica demasiado tiempo a explicar los planes de precio, sin embargo tras el anuncio se vuelve a hablar de los planes de precio, se habla demasiado de esto, puede ser repetivivo.
+- Está muy bien hilada la presentación.
+- Objetivos con las campañas marketing…
+- En general muy bien.
+
+**Feedback de profesores (Cristina)**
+- Les ha gustado mucho la presentación. La primera parte más profesional.
+- La demo está muy bien.
+- La diapo nº3 se hace un poquito pesada.Quiere un poco más de acción.
+- La demo se ve mal (no sabe si por la luz o por el zoom)
+- Muy bien el anuncio de inversores.
+- Más detalle sobre cómo gestionar redes sociales.
+
+
+## Semana 11
+
+**Camyo**
+
+**Feedback positivo de estudiantes**
+- Dan datos obtenidos de fuentes de confianza. Da seriedad a estos datos.
+- La subdivisión de su público objetivo resulta muy sencilla de entender, la exposición es clara.
+- Dejan muy claros sus puntos diferenciadores. 
+- Es muy buena idea añadir en la demo el banner que diga que funcionalidad se está mostrando.
+- Hablan de los porcentajes de usuarios que pagaron cada plan, y asocian estos porcentajes a valor monetario.
+- Muy buen anuncio de inversores. Muestra los paquetes de inversión de manera muy clara. 
+- Han cambiado con respecto a la semana pasada el final, antes no había acuerdo entre los protagonistas del anuncio. Ahora hay “final feliz” entre la empresa del anuncio (Carlos) y el camionero (Joserra), han hecho caso al feedback.
+- Hablan de la segmentación de mercado tal y como se comentó en las theory pills
+- Muy buena diapositiva de palabras clave.  
+- Desglose de costes muy visual.
+- Muy buen cronograma para el contenido de redes.
+
+
+**Feedback negativo de estudiantes**
+- No me termina de convencer el anuncio como KO. Ya lo han comentado los profesores en alguna ocasión. 
+- No se ve el chat.
+- No tiene una estructura intuitiva. Muestra los competidores tarde.
+- Usan Backend y Frontend en la presentación. Ya se ha recomendado anteriormente evitar estos términos técnicos. 
+- Usan términos técnicos como Capex y Opex.
+
+**Feedback de profesores (Pablo)**
+- La ve bastante bien a nivel de ritmo, mas tiene varios matices que comentar, lo primero,  lo de las capturas antes de la demo, está de acuerdo con Cristina.
+- El punto coloquial de la Demo no le acaba de convencer para un público más adulto.
+- El tema del inicio intentaría probar para que el inicio efectivo sea algo más sorprendente
+- A veces se habla en futuro, y hay que cambiar a presente.
+
+**Feedback de profesores (Cristina)**
+- Buen inicio con el anuncio. 
+- Las capturas de pantalla antes de la demo le parece redundante. Algunas capturas incluso no se ven bien. Deben valorar si quitarlas.
+- Los equipos no deben estar separados en Backend y Frontend.
+- Anuncio de inversores: La información de los paquetes de inversión deberían ponerla más grande.
+- En la segunda presentación está muy bien explicada la segmentación del mercado. 
 
 -----------------------------------------
 
@@ -2247,6 +2584,65 @@ App para consultas de fisioterapia
 - Genial lo de anuncios específicos para implementaciones nuevas.
 - El video final le parece redundante, ya se había visto todo.
 
+## Semana 10
+
+**FisioFind**
+
+**Feedback positivo de estudiantes**
+- Buen video de presentación del equipo.
+- Muy profesional la presentación en su totalidad, gran cuidado al detalle y videos bien enfocados.
+
+**Feedback negativo de estudiantes**
+- No hay conexión entre presentador y pasador. Vendría bien un pasante.
+
+**Feedback de profesores (Carlos muller)**
+- Le ha encantado la forma de presentar el equipo, pero no quedan claros los roles.
+- No sabe si es el mejor killer opener de todos (su opinión). Otros le causaron más impacto.
+- Demasiado tiempo explicando las características de fisionfind cuándo se puede ir más al grano y poner el anuncio.
+- Al no tener personajes no hay un hilo conductor. Aconseja tener personajes que se unen con los anuncios o la demo.
+- Que quede más claro si es la demo o el anuncio.
+- En la diapositiva 10 se ha perdido demasiado tiempo.
+- Muy bien los costes, en camyo ha faltado y aqui han estado muy bien.
+
+**Feedback de profesores (Cristina)**
+- Buen inicio efectivo y además diferente. Es difícil elegir uno para el WPL.
+- Evitar usar “pretende”.
+
+## Semana 11
+
+**FisioFind**
+
+**Feedback positivo de estudiantes**
+- Buen killer opener.
+- Buena explicación de competidores, bien explicada y enlaza con lo que tiene su app.
+- La herramienta de accesibilidad es un extra muy bueno y necesario.
+- Buena demo centrándose en lo esencial, lo que les diferencia. Van explicándolo los presentadores a medida que avanza la demo. 
+- La presentación del equipo es amena y se sale de la norma, destacando así por encima del resto de los grupos.
+- Muy buen detalle el chatbot de ayuda. Junto con la accesibilidad, son detalles que suman mucho y dan un aura de profesionalidad.
+- Buena explicación de posibles perfiles que usen su app.
+- La diapositiva 12, que explica los planes de suscripciones, está muy clara.
+- Calendario de publicaciones muy completo.
+- En general, dan una imagen de equipo y proyecto muy profesional.
+
+
+**Feedback negativo de estudiantes**
+- Va demasiado rápido, quiere acortar tiempo quizás.
+- Muletilla “Vale?”
+
+**Feedback de profesores (Pablo)**
+- Siendo esta la última vez del feedback, el nivel de presentación es muy aceptable y solo quedan pequeños matices por corregir.
+- El KO propondría alguna forma de interacción con el público.
+- Cuando uno confronta directamente con el publico se capta automaticamente la atención.
+- La persona haciendo deporte con un ordenador al lado no le resulta intuitiva.
+- La parte de los competidores no la ha seguido bien, no ha entendido lo que se quería transmitir.
+- En la demo resaltar la funcionalidad clave y dejar cosas que se sobreentienden como el registro o las facturas.
+- El video de inversores está muy muy bien. Pero los packs no les da tiempo a verlo. 
+
+
+**Feedback de profesores (Cristina)**
+- Muy profesional.
+- Tienen cosas como la accesibilidad que no se pedían. No se llega a ese nivel y lo destaca.
+- La demo la pueden mejorar, no le gusta que lo enmarquen porque reduce la visibilidad. 
 ------------------------------------------
 
 # Feedback de final de clase
@@ -2633,3 +3029,37 @@ Lo nuevo:
 	- Costes del marketing.
 	- Anuncio de inversor, anuncio para usuario y anuncio para cliente. (Si se presenta alguno antes no hace falta repetirlo) Los anuncios no tienen porqué ser nuevos.
  
+## Semana 10
+
+- No se pide nada nuevo para la semana que viene.
+- Última píldora teórica del curso
+- Para la semana que viene:
+        - 2 presentaciones
+        Estructura: 
+            1. de qué va el proyecto (como venderias la aplicacion, anuncio)
+            2. Que hace la aplicación 
+            3. Hay competencia?
+            4. El equipo
+            5. ¿Rentable? Planes de precio, coste, oportunidades de inversion (anuncio inversores)
+            6. Concluimos con landing page QR…
+- Para marketing
+    - Plan de marketing
+    - Personas
+    - Optimización 
+    - Campaña de lanzamiento
+    - Creación y crecimiento
+    - Influencers
+    - Community management
+    - Responsables
+    - Costes de marketing (deben ir incluidos en la primera presentacion)
+    - Videos o anuncios restantes.
+
+## Semana 11
+
+**para el próximo dia**
+
+- Es la sesión de retrospectiva (media hora por grupo).
+- Se debe hacer una presentacion de 5 min de esfuerzo-rendimiento individual.
+- la participación de los UP (nota opcional) con la entrega del PPl se acaba lo de los UP y no hay que hacer más entregas.
+- Para el martes 13 de mayo hay que entregar la plantilla que dan en ev con datos de la app para que lo pongan en cafetería.
+- de 12:30 a 17:30 el evento.
