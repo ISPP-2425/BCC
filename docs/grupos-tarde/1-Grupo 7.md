@@ -471,6 +471,28 @@ Uso inconsistente del idioma (se recomienda unificar en inglés o español).
 - Aplicar el feedback
 - Cambiar el enfoque de un plan de marketing sobre el papel a un plan de marketing en marcha 
 
+## Semana 11
+### Feedback relacionado con la presentación
+- Crear un killer opener atractivo y conectarlo con el anuncio al cliente y la demo, para que todo cuente una historia coherente.
+- Mejorar la parte inicial de la presentación (quiénes somos, qué hacemos, competidores, demo) para que tenga más claridad y cohesión.
+- La diapositiva 21 fue explicada demasiado rápido; necesita más desarrollo.
+- La diapositiva 29 es demasiado teórica y no aporta valor en la presentación actual.
+- El anuncio dirigido al cliente necesita una mejora en la voz de la frase final, y hay que nivelar el audio de los 3 videos.
+- El anuncio a inversores no debe centrarse en la cifra de 40k, sino en puntos de equilibrio y retorno de inversión (ROI).
+- Primero se deben explicar las fuentes de beneficio antes de hablar del balance.
+- Especificar claramente en qué se va a gastar el dinero que se pide a los inversores (por ejemplo, acciones concretas de marketing y sus efectos).
+- En la nueva presentación no es necesario detallar la estructura del equipo a nivel de roles, ya que no aporta valor en esta fase.
+
+### Feedback relacionado con el desarrollo del proyecto
+- Repensar los paquetes de inversión: definir cuánto vale cada acción y qué beneficios obtienes al alcanzar ciertos niveles de inversión.
+- En el anuncio del CEO, enfocar el discurso en palabras clave que buscarían las protopersonas.
+
+### Tareas a realizar para la siguiente semana
+- Defensa 16 de mayo presentacion de 5 min con los apartados: que ha hecho cada individuo, que problemas se han encontrado y que soluciones se han dado, como se ha hecho esa evaluación de la nota final. 
+- 12:30 a 5:30 (3:30-5:30 turno de tarde) viernes 23 de mayo dia de presentación final.
+- Jueves 22 de mayo ensayar presentación en salón de actos de 13:30 hasta las 16:30
+- Martes 13 de mayo slide de anuncio en la etsii.
+
 ---
 
 ## Grupo 8 - Infanten
@@ -631,6 +653,17 @@ Uso inconsistente del idioma (se recomienda unificar en inglés o español).
 #### Feedback relacionado con el desarrollo del proyecto
 - Sería mejor agrupar todos los costes en un único apartado para mayor claridad.
 
+### Semana 11
+#### Feedback relacionado con la presentación
+- Narración en la demo: Si no hay audio en la demo, es necesario narrarla en directo para facilitar la comprensión.
+- Diapositiva 14: Ocupó demasiado tiempo, habría que agilizarla o resumirla.
+- Gráficos: En lugar de mostrar datos en diapositivas separadas, conviene usar una gráfica de evolución para facilitar la comprensión visual y la comparación.
+
+#### Feedback relacionado con el desarrollo del proyecto
+- Modelo de ingresos: El término "freemium" no es del todo preciso; sería más adecuado hablar de usuarios premium como fuente de ingresos principal.
+- Proyección de usuarios: El objetivo del 14% parece demasiado ambicioso; se recomienda justificarlo mejor o presentar una evolución progresiva más realista.
+- Segmentación de usuarios: Los dos segmentos identificados pueden coincidir en una misma persona; es importante tenerlo en cuenta al definir la estrategia.
+- Protopersonas: Falta información sobre el bebé, lo cual es relevante si es un usuario o parte clave del contexto de uso.
 ---
 
 ## Grupo 9 - Caronte
@@ -774,6 +807,12 @@ Uso inconsistente del idioma (se recomienda unificar en inglés o español).
 #### Feedback relacionado con el desarrollo del proyecto
 - Los temas de la **moral** y de la **retrospectiva** **no deben incluirse** en esta fase actual, ya que correspondían a una fase anterior del proyecto.
 
+### Semana 11
+#### Feedback relacionado con la presentación
+- En la demo estabas compitiendo con la musica
+en el video de inversores quizás darle un tono mas serio menos parodia
+#### Feedback relacionado con el desarrollo del proyecto
+- En el video de inversores quizás darle un tono mas serio menos parodia
 ---
 
 ## Grupo 10 - Go4Surprise
@@ -929,6 +968,18 @@ Uso inconsistente del idioma (se recomienda unificar en inglés o español).
 #### Feedback relacionado con el desarrollo del proyecto
 - Definir en qué momento se tomará acción si las métricas no van bien y revisar el plan.
 
+### Semana 11
+#### Feedback relacionado con la presentación
+- Inicio de la presentación ("killer opener"): Se debe innovar más para captar mejor la atención desde el inicio.
+- Estructura y orden de los elementos: No poner dos anuncios al principio, mover uno más adelante.
+- No leer las transparencias de derecha a izquierda (mejorar el orden lógico o visual de los slides).
+- Claridad en los KPIs: Si se usa un KPI como el "descarte de categoría", se debe justificar claramente su relevancia.
+- Discurso del CEO: Las palabras del CEO fueron demasiado genéricas; se sugiere un tono más auténtico o emocional (“estoy aburrido” como ejemplo provocador para hacerlo más interesante o realista).
+
+#### Feedback relacionado con el desarrollo del proyecto
+- Modelo de inversión: No referirse a "paquete de inversión", sino a "coste en función del porcentaje de inversión".
+- Costes de beneficios en la app: Tener en cuenta que los beneficios por hacer reservas en la app también representan un coste y deben reflejarse como tal.
+- Funcionalidad futura - interacción social: Considerar incluir en el futuro una funcionalidad que permita conocer gente a través de un formulario o similar
 ---
 
 ## Grupo 11 - Pawtel
@@ -1087,3 +1138,12 @@ Uso inconsistente del idioma (se recomienda unificar en inglés o español).
 - El **proto persona** debe ser más general y no tan específico.
 - En el **posicionamiento digital**, considerar que **la estacionalidad** es probablemente el factor más importante para el negocio.
 - Al mencionar el uso de inteligencia artificial, evitar decir "y otras IAs"; en su lugar, especificar claramente cuáles se están utilizando.
+
+### Semana 11
+#### Feedback relacionado con la presentación
+- Para el anuncio si usais transparencias quitarle el numero
+- Dejar claro la diferencia entre datos potenciales y reales
+- En la transparencia 4 de la presentacion de marketing ser mas directo
+
+#### Feedback relacionado con el desarrollo del proyecto
+- Los pawpoints afectan a los costes
