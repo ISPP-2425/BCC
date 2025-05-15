@@ -1341,3 +1341,147 @@ De semana santa y de feria no son lectivas, como se han hecho? No se han contabi
 ##### Para la Siguiente Semana
 
 Lo mismo de hoy, no van a ampliar nada nuevo. Mejorar todo lo dicho. Pasaremos de un plan de márketing a uno más de en ejecución. Esa evolución la quieren ver en la presentación. Hay que revisar el contenido con el contenido nuevo que surja. Es el último ensayo antes del WPL antes de tener feedback. Tenemos la opción de ensayar en el salón de actos el día de antes. Para probar como se ve al enchufar el cañón. PARA EL PPL NUEVO DESPLIEGUE si se han cambiado cosas. La semana después de feria, en la retrospectiva se hará una presentación con lo que han hecho cada estudiante en la presentación. Definiremos los turnos quien va antes y quien después. El grupo completo dirá lo que ha hecho. Después del PPL deberán continuar contactando con estos para ver que han estado haciendo. 
+
+
+---
+
+## Semana 11
+
+---
+
+Aquí tienes el feedback y anotaciones reorganizadas por **grupo** en formato **Markdown** (`.md`) y con explicaciones más claras y ordenadas. He añadido subtítulos y separado el feedback **positivo** del **mejorable**, para que sea fácil de leer y usar como guía de mejora.
+
+### Grupo 11
+
+#### Feedback Positivo
+
+* Inicio muy efectivo, usaron la aplicación de **Caronte** inteligentemente en el killer opener.
+* Colaboración con otro grupo: bien planteada, aporta profesionalismo.
+* Anuncio realizado con **IA**, de calidad profesional.
+* **Carteles publicitarios muy bonitos y bien ubicados** por la universidad, buena estética y buena cantidad de información.
+* Uso de **IA en marketing** para obtener ideas: gran acierto.
+* Análisis de **KPI’s en redes sociales**: muy valorado.
+* Uso de branding en el killer opener: recurso potente.
+
+#### Aspectos a Mejorar
+
+Hubo un problema técnico repetido que también ocurrió la semana pasada; es importante evitarlo en el WPL. Se sugiere usar, en el peor de los casos, el altavoz del PC. Hablar sobre el equipo de desarrollo no aporta valor al inversor en el momento actual de la presentación, por lo que sería mejor omitirlo o plantearlo de forma más general. Repetir nombres de personas no queda bien.
+
+Se recomienda evitar términos técnicos como CAPEX y OPEX; en su lugar, usar expresiones más claras y accesibles para cualquier audiencia. También es importante evitar mostrar texto mientras se habla, ya que el público no puede leer y escuchar a la vez.
+
+Se observó que la presentación quedó detenida esperando que apareciera un texto, lo cual rompió el ritmo. Además, en el anuncio se mostró la diapositiva número 17, lo cual no tiene sentido en un anuncio público. Sería mejor eliminar los números de las transparencias en este tipo de contenidos.
+
+---
+
+### Grupo 7
+
+#### Feedback Positivo
+
+* Excelente killer opener: buena combinación con audio y recurso del apagón.
+* Anuncio de TikTok muy atractivo.
+* Demo con estilo TikTok: ideal para redes sociales.
+* **Mapa del equipo** en diapositiva: excelente recurso (idea a copiar).
+* Referencia a **Shark Tank** renombrado como “Pescaito Tank”: creativo.
+* Presentación bien vestida y profesional.
+* Amplio rango de inversión: aumenta posibilidades de captar inversores.
+* Bien explicado cómo optimizarán el SEO.
+* Brandboard muy logrado en la penúltima diapositiva.
+
+#### Aspectos a Mejorar
+
+Se valoró la interacción, aunque se recuerda que debe estar alineada con el contexto del salón de actos para el WPL. El anuncio dirigido a clientes gustó, pero la última frase con eco resultó extraña y distrajo.
+
+La historia del "killer opener" no se conectó adecuadamente con la demo, lo cual rompió el hilo argumental. Se recomienda mantener un trabajo autocontenido y con coherencia narrativa. La tabla de competidores necesita una reorganización: primero deben explicarse las características de la app, y después mostrar cómo se comparan los competidores.
+
+La explicación sobre los ingresos fue algo confusa, ya que no se clarificó qué representan cifras como los 40.000€ mencionados: ¿es beneficio?, ¿en qué periodo? También falta claridad sobre el precio por acción y lo que se está comprando exactamente.
+
+Se sugiere explicar mejor la rentabilidad y separar claramente la información financiera. Algunas palabras clave propuestas son poco realistas para búsquedas (“mapas colaborativos” o similares). Se recomienda enfocar las keywords en problemas reales que la gente busca (“Estoy aburrido”, “No sé qué hacer”). Muy bien definido el plan de acción, que relaciona problema con solución.
+
+
+---
+
+### Grupo 10
+
+#### Aspectos a Mejorar
+
+El video de redes sociales tenía una iluminación deficiente. Se recomienda invertir en un buen entorno de grabación para evitar horas de edición. El audio agudo del inicio (“Sorpresín”) no se entendió bien. En la demo, algunas partes no eran visibles, como la reserva en el calendario.
+
+En la diapositiva 16, se leyó el contenido de derecha a izquierda, y faltó justificar la exclusión de algunas categorías. Esto debería explicarse, incluso dentro de la demo. En la parte sobre acuerdos con empresas, faltó detallar la comisión que se espera obtener y la lógica detrás del descuento del 5%.
+
+El video de inversores se quedó congelado en un momento. También se leyeron las transparencias directamente, sin resumir o adaptar el contenido, lo cual resulta poco dinámico. Se recomienda hablar del precio por acción en vez del porcentaje de participación, e incluir detalles sobre incentivos para obtener reviews (por ejemplo, descuentos).
+
+Las keywords son demasiado genéricas (“Estoy aburrido”); sería más útil plantearlas como problemas específicos. La propuesta sobre eventos grupales entre desconocidos ha gustado y puede aportar un valor diferencial.
+
+---
+
+### Grupo 8
+
+#### Feedback Positivo
+
+* Canción personalizada: original y distintiva.
+* Gráfica de **costes, ingresos y beneficios** clara, con eje temporal (1 y 2 años).
+* Estética cuidada y presentación visualmente consistente.
+* Colaboración con influencers (padres y madres): buena idea.
+* Planificación de publicaciones bien pensada y explicada.
+
+#### Aspectos a Mejorar
+
+Aunque el anuncio ya incluye comida (lo cual es positivo), la demo parece que no tiene audio, lo cual genera confusión por contraste con el anuncio, que sí lo tiene y con buena calidad. En la parte de ingresos, el factor tiempo es fundamental y debe tratarse con mayor claridad.
+
+La segmentación del público objetivo debería presentarse de forma más compacta, no en partes. Se echa en falta información sobre el babyboard o el progreso por fases. El marketing necesita aterrizarse más en casos concretos y aplicados. Es importante que se entienda claramente para qué se pide dinero.
+
+---
+
+### Grupo 9
+
+#### Feedback Positivo
+
+* Colocar el killer opener al inicio: acierto.
+* Demo explicada paso a paso, muy clara.
+* Valor añadido de Caronte frente a competidores: bien expuesto.
+* Monetización bien visualizada: CAPEX y OPEX bien diferenciados.
+* Certificación y colaboración con **Pawtel**: valor extra.
+* Cartel hecho a mano: muy estético y destacable.
+* Hilo argumental y ritmo: muy buenos.
+* Tono más serio y menos paródico: bien equilibrado para inversores.
+
+#### Aspectos a Mejorar
+
+Se considera un muy buen ejemplo de proyecto. Muller incluso aplaudió la presentación. El hilo argumental tuvo buen ritmo, y aunque fue uno de los proyectos más complejos de presentar, fue el mejor ejecutado. Sin embargo, el volumen del sonido estaba demasiado alto, compitiendo con la música.
+
+Llamaron la atención términos como “Past Post” o “Life Will”. El ritmo narrativo fue interesante y consiguió destacar. No se abusó de la parodia, algo que se agradece por el tono más profesional. Sin embargo, el video para inversores debe ser más neutro, no completamente serio pero tampoco cómico.
+
+Para el último día, se recomienda evitar cameos confusos o situaciones en las que no quede claro el orden. El proyecto no requiere tantos elementos visuales; mejor centrarse en una sola dirección clara sin dispersarse.
+
+---
+
+### Anotaciones Finales
+
+* **Usuarios piloto** → revisión en **4 entregas**.
+* La semana siguiente será de **evaluación retrospectiva**.
+* Habrá una sesión individual (1 a 1) de **máx. 5 minutos** por grupo para evaluar reparto de puntuaciones y rendimiento.
+* Evaluación grupal, con posibilidad de **normalización** si hay grandes diferencias entre miembros.
+* Presentación grupal final de **5 minutos** sobre:
+
+  * Qué ha ido bien.
+  * Qué ha fallado.
+  * Qué soluciones se han dado.
+  * Nuestra visión del proyecto.
+
+#### Preparación para el WPL
+
+* Fecha del evento: **23 de mayo** (obligatorio turno tarde, opción mañana).
+* **Hay que estar antes de las 15:30**.
+* Posibilidad de ensayo el **22 de mayo de 13:30 a 16:30**.
+* **Duración: 10 minutos**, incluyendo parte de marketing.
+* Crear un **slide de anuncio del proyecto** para colocar en la ESTII (antes del 13 de mayo).
+* Habrá **streaming** del evento (se grabará).
+* Se entregarán premios a:
+
+  * Mejor presentación.
+  * Mejor demo.
+  * Mejor killer opener.
+  * (Otros...).
+* Evaluación también con **Wooclap**.
+
+---
