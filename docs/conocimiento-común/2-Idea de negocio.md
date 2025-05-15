@@ -63,3 +63,4 @@ Priorizar volumen de clientes/usuarios para la viabilidad del proyecto.
 
 - Es mejor centrarse en funcionalidades clave, más que aquellas que se entienden que la aplicación va a tener de manera prácticamente asegurada.
 
+- Revisar periódicamente su actividad debido a que desaparezcan y dejen de serlos. Al contrario, podría surgir un nuevo competidor, esto refuerza la idea de que sea un enfoque iterativo.

@@ -107,3 +107,11 @@ Por ejemplo, en algunas presentaciones el ponente tuvo que pedir explícitamente
 - Evitar diapositivas muy teóricas. 
 
 - Hay que hablar con intención: intentar NO, conseguir/hacer SÍ. 
+
+- Probar previamente todo el material técnico antes de la presentación para evitar fallos en directo. tener planes de sobra por si algo falla.
+
+- El contenido debe ser totalmente autocontenido. No se debe asumir que el público ha visto presentaciones anteriores ni incluir referencias que puedan generar confusión.
+
+- Se debe omitir la parte teórica sobre SEO. En el WPL, es más apropiado centrarse en diapositivas de carácter no técnico.
+
+- Para representar la información de manera más visual y comprensible sobre las estadísticas de redes sociales, se recomienda sustituir los datos estáticos por una gráfica de evolución que muestre la progresión o impacto a lo largo del tiempo.

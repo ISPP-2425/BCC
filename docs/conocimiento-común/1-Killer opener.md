@@ -55,3 +55,5 @@ En esta página se recoge el feedback proporcionado por el profesor y los compa�
 - Usar música conocida para captar la atención en el killer opener también parece ser útil. Un grupo usó la música de la serie "The last of us" y Carlos se lo reconoió como algo bueno, pero hay que tener cuidado con los derechos de autor si se usa en contextos públicos o fuera del aula.
 
 - Si algun grupo tiene una mascota o algo parecido, interactuar con esta de alguna manera en el killer opener puede ser una manera original e impactante de comenzar la presentación, pero hay que cuidar que no reste protagonismo al mensaje principal o se vuelva un recurso forzado si no encaja bien con la narrativa.
+
+- En el caso del WPL, tiene que adaptarse al entorno al que estamos, es decir, al salón de actos de la ETSII.
