@@ -160,6 +160,13 @@ En esta página se encuentra el feedback recogido por el equipo del grupo 9 dura
 - Posible futura implementación de una IA para la validación de esquelas.
 - El vídeo de la demostración funcional va muy rápido y la música está altísima.
 
+## Feedback del día 02/05
+#### Feedback relacionado con la presentación
+- Durante la presentación de la demostración funcional, el volumen del vídeo demo era excesivamente alto, lo cual dificultó la comprensión del presentador.
+
+#### Feedback relacionado con el desarrollo del proyecto
+- En la sección de análisis de competidores, se incluyó a Life Will, una startup que ya ha desaparecido del mercado.
+- El tono paródico del anuncio dirigido a inversores no resulta adecuado para este contexto. Se sugiere evitar el formato de diálogo, adoptando un enfoque más narrativo. Además, el vídeo no deja claro a quién se está dirigiendo la solicitud de inversión.
 
 ## Grupo 7 - Map Your World
 # Feedback del día 14/02
@@ -344,6 +351,20 @@ En esta página se encuentra el feedback recogido por el equipo del grupo 9 dura
 - En la campaña de lanzamiento falta ser más concreto en el apartado de la planificación de las publicaciones (definir fechas exactas para cada actividad). Además, establecer los objetivos (número de publicaciones, repercusión, etc.).
 - Para el branding las sombras son malas, con un borde difuso da sensación de no estar bien diseñado.
 
+# Feedback del día 02/05
+#### Feedback relacionado con la presentación
+- Es recomendable replantear el killer opener para que se adapte mejor al contexto específico del WPL, teniendo en cuenta que se expondrá en el salón de actos de la universidad.
+- Para lograr una presentación completamente coherente, es fundamental establecer un hilo conductor que conecte de forma lógica todas las secciones.
+- El contenido debe ser totalmente autocontenido. No se debe asumir que el público ha visto presentaciones anteriores ni incluir referencias que puedan generar confusión.
+- En la presentación de paquetes de aparición, se debería inferir sutilmente que están dirigidos a empresas y desarrollar la explicación de forma más pausada y clara.
+- Se debe omitir la parte teórica sobre SEO. En el WPL, es más apropiado centrarse en diapositivas de carácter no técnico. Además, es importante contextualizar las cifras de búsqueda y enfocarse en palabras clave que realmente utilice el público objetivo.
+- Antes de mostrar la gráfica de proyección de beneficios, es esencial mencionar todos los datos clave y explicar el contexto para mantener una linealidad narrativa.
+- El término beneficio debería sustituirse por resultado. Además, no queda claro cuáles son las fuentes de ingreso que justifican dichos resultados; esto debe aclararse previamente.
+- Se sugiere mejorar la explicación en el análisis de competidores, destacando de forma más efectiva las diferencias clave y aportando un análisis más estratégico.
+
+#### Feedback relacionado con el desarrollo del proyecto
+- La última parte del anuncio de clientes presenta problemas de calidad de audio (eco y saturación).
+- Es necesario especificar el valor de cada acción y el porcentaje de la empresa que representa dicha inversión.
 
 ## Grupo 8 -  Infantem
 # Feedback del día 14/02
@@ -550,6 +571,19 @@ No se dice Usuarios Pilotos sino Usuarios Piloto, error que también se cometió
 - La demostración funcional de la aplicación es muy breve y no recoge los casos de uso core de la aplicación
 - Vídeo de inversores corto, se debería ampliar con paquetes de inversión.
 
+# Feedback del día 02/05
+#### Feedback relacionado con la presentación
+- La parte dedicada a costes, ingresos y beneficios ocupa demasiado tiempo dentro de la presentación.
+- Las representaciones actuales de los usuarios tipo (protopersonas) requieren mayor profundidad, especialmente en cuanto a los bebés.
+- Para representar la información de manera más visual y comprensible sobre las estadísticas de redes sociales, se recomienda sustituir los datos estáticos por una gráfica de evolución que muestre la progresión o impacto a lo largo del tiempo.
+
+
+#### Feedback relacionado con el desarrollo del proyecto
+- En el modelo de ingresos es importante precisar que no se trata de un modelo freemium, sino de una proporción de usuarios freemium. - Además, la estimación del 13 % de ingresos iniciales provenientes de estos usuarios parece excesiva y podría resultar poco realista en fases tempranas del proyecto.
+- La propuesta de colaboración con influencers necesita incluir un presupuesto estimado.
+- Se sugiere incluir de forma explícita al segmento de personas con bebés dentro de la segmentación de mercado, forman parte del público potencial de la solución.
+- Se recomienda enriquecer la demo incorporando una pista de audio narrado. En particular, sería interesante que el personaje Spoony tuviera voz.
+
 
 ## Grupo 10 -  Go4Surprise
 # Feedback del día 14/02
@@ -722,6 +756,18 @@ No se dice Usuarios Pilotos sino Usuarios Piloto, error que también se cometió
 - En el  anuncio de inversores no se ve la pantalla de fondo que se supone que es importante. Además de la falta de opciones de inversiones.
 - Incluir la funcionalidad del tema de notificaciones que quedan x días en la demostración funcional.
 
+# Feedback del día 02/05
+#### Feedback relacionado con la presentación
+- Se sugiere fortalecer el killer opener incorporando de forma más clara el factor innovador del proyecto. Además, para darle mayor realismo y captar la atención desde el inicio, podría emplearse alguna herramienta de inteligencia artificial (por ejemplo, simular la caída del PM mediante IA).
+- El segundo anuncio, que ha generado gran popularidad de forma inesperada, debe integrarse en la sección de marketing. Se recomienda mencionarlo como un fenómeno de alcance orgánico, mostrando métricas concretas y utilizándolo como argumento de validación del producto o de su atractivo en redes sociales.
+- Corregir los errores ortográficos y la cohesión y coherencia del mensaje en las presentaciones y en el contenido subido a GitHub.
+
+
+#### Feedback relacionado con el desarrollo del proyecto
+- Algunos anuncios presentan deficiencias en audio e iluminación. Es fundamental preparar correctamente el entorno de grabación para asegurar una calidad audiovisual profesional.
+- En la demostración funcional del producto, sería conveniente remarcar la funcionalidad donde, si el usuario descarta más categorías de lo habitual, se le indique que deberá pagar un coste adicional.
+- Si se establece como objetivo la obtención de una gran cantidad de opiniones de usuarios, es necesario plantear mecanismos de incentivo. En caso de incorporar recompensas, estos costes deben estar presentes en el TCO.
+- Las keywords actuales son demasiado genéricas. Se sugiere probar con términos más específicos y relacionados con situaciones reales del usuario, por ejemplo: “estoy aburrido”.
 
 ## Grupo 11 -  Pawtel
 # Feedback del día 14/02
@@ -896,3 +942,15 @@ Mejorar el tema de cuadrantes en el rendimiento del Sprint, es confuso poner dir
 #### Feedback relacionado con el desarrollo del proyecto
 - Si solo monetizan de la comisión de reserva, pueden perder dinero si hay otro medio de comunicación entre dueño y propietario de hotel.
 - Dar importancia a la estacionalidad del negocio ya que es un punto importante en este proyecto en concreto.
+
+# Feedback del día 02/05
+#### Feedback relacionado con la presentación
+- Probar previamente todo el material técnico antes de la presentación para evitar fallos en directo. Tener planes de sobra por si algo falla.
+- No es necesario detallar tanto la composición del equipo (backend, frontend); en el WPL basta con explicar los roles de forma general.
+- Evitar el uso de acrónimos como CAPEX y OPEX en la presentación, ya que pueden no ser comprendidos por toda la audiencia. 
+- Aclarar que los datos de registrados en la plataforma son potenciales, no reales. 
+- Reestructurar la sección de posicionamiento digital para mejorar su claridad y coherencia dentro de la presentación.
+
+#### Feedback relacionado con el desarrollo del proyecto
+- En el análisis de costes y TCO, incluir el gasto asociado a los Pawpoints.
+- Eliminar el número de página visible en el anuncio mostrado durante la presentación.
