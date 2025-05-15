@@ -25,3 +25,7 @@ En esta sección se presenta el feedback recibido sobre la **Storyboards y anunc
 - Si algún anuncio da la impresión de quedarse corto ya sea por contenido, por calidad o porque no es relevante, no hay problema en dejarlo fuera de la presentación del WPL.
 
 - Siempre incluir las fuentes de los datos en los anuncios de inversores, para que el público sienta que es una información profesional y confiable la que se muestra.
+
+- El anuncio para inversores no debería tener ningún tipo de enfoque humorístico, además se recomienda que no sea ningún tipo de diálogo, sino un anuncio narrativo.
+
+- Preparar correctamente el entorno de grabación para asegurar una calidad audiovisual y de iluminación, nos quitará mucho tiempo de edición de vídeo.
