@@ -42,6 +42,12 @@ En esta página se recoge el feedback proporcionado por el profesor y los compa�
 - Cuidado con contenido potencialmente polémico en el killer opener, aunque capta la atención, puede tener connotaciones éticamente delicadas.
 -  Algunos grupos optan por repetir el killer opener, esto introduce una idea nueva: la repetición está bien si sigue siendo efectiva, lo que abre la puerta a una reflexión sobre iteración versus innovación.
 
+## Feedback del día 25/05
+- Es esencial empezar fuerte para captar atención. Se menciona en varios grupos que no hubo killer opener o fue débil, lo que afectó el hilo de la presentación.
+- Faltó conexión con el resto de la presentación.
+- Faltó o fue poco impactante, se recomienda ensayar específicamente esta parte.
+- Debe ser emocional o sorprendente, conectado directamente con la idea de negocio y alineado con el tono y contenido del resto de la presentación.
+
 ## Feedback del día 02/05
 
 - El killer opener podría explorar alguna forma de interacción. Interactuar con la audiencia siempre capta atención. 

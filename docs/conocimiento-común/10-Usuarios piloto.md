@@ -33,6 +33,11 @@ En esta página se recoge el feedback proporcionado por el profesor y los compa�
 - Hay que poner en la presentación cuánto feedback reciben de cada tipo.
 - Si hay feedback que se ha priorizado es importante destacarlo, aunque sea muy general.
 
+## Feedback del día 11/04
+- Son los primeros en probar el producto.
+- Aportan feedback esencial para ajustar la propuesta.
+- Pueden convertirse en promotores si se involucran desde el inicio.
+
 ## Feedback del día 25/04
 - Considerar el feedback de los usuarios piloto incluso en las fases finales del proyecto. Incluir el Preparing Project Launch en el programa de usuarios piloto, se puede incluir una encuesta para evaluar la experiencia de usuario y la satisfacción general con el producto y el uso de las redes sociales.
 

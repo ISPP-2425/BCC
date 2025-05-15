@@ -34,6 +34,15 @@ En esta página se recoge el feedback proporcionado por el profesor y los compa�
 - Aumenta el enfoque visual e interactividad con la aplicacion.
 - Acorta la demo y céntrala únicamente en las funcionalidades fundamentales.
 
+## Feedback del dia 25/04
+- Muy rápida o escueta.
+- Desincronización de audio/video o problemas técnicos.
+- No refleja características clave del producto.
+- La demo no siempre se combina con el pitch o el anuncio, perdiendo impacto.
+- Mostrar usabilidad, beneficios diferenciales y simular el uso real.
+- Relacionarla con los vídeos y narrativa general.
+- Asegurar buen audio, ritmo claro, y funcionalidades destacadas.
+
 ## Feedback del dia 02/05
 - Evitar tono demasiado informal (ej: "esto lo tenemos medio hecho").
 - Mostrar un caso de uso concreto (ej: "Así reserva un usuario su primera cita") en lugar de un overview genérico.

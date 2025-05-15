@@ -19,6 +19,19 @@ En esta página se recoge el feedback proporcionado por el profesor y los compa�
 
 Se señaló la necesidad de cuidar el lenguaje utilizado, evitando frases como “esto es muy fácil”, que pueden sonar condescendientes. Asimismo, se valoró muy positivamente el storyboard del anuncio y la ejecución del vídeo, especialmente detalles creativos. Estas decisiones contribuyen a una identidad visual sólida y profesional. No obstante, se hizo énfasis en cuidar la coherencia visual, como el uso correcto de unidades (“10k” en lugar de “10000”) o evitar nombres de archivos sin contexto como Demo_04_04.mp4.
 
+## Feedback del día 11/04
+- Se hace por etapas (MVP, prototipos, iteraciones).
+- Es fundamental testear rápido y mejorar constantemente.
+- Se protege lo creado (marcas, patentes, propiedad intelectual).
+- Necesita equipos diversos (tecnología, diseño, negocio).
+
+## Feedback del día 25/04
+- Hablar del “pequeño equipo arreglando bugs” en la presentación final.
+- No es el momento para retrospectivas, sino para mostrar que todo va bien.
+- Mostrar funcionalidades útiles y claras.
+- Evitar tecnicismos innecesarios en la presentación final.
+- Transmitir confianza, avance sólido y que el producto está listo para mercado.
+
 ## Feedback del día 02/05
 
 El desarrollo del producto ha sido evaluado con foco en la coherencia y calidad de las demos y materiales presentados. Se recalca que las demos deben tener una historia completa y no depender de factores externos o aplicaciones no integradas. Se valoró la importancia de usar videos claros y sin problemas técnicos (volumen, eco), y se recomienda tener un plan B técnico para la presentación final. Además, se insiste en explicar bien la propuesta de valor (como el tiempo para crear una cuenta) comparándola siempre con competidores, y justificar todas las cifras, incluyendo fuentes de ingreso y proyecciones.

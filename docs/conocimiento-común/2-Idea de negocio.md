@@ -42,6 +42,17 @@ Priorizar volumen de clientes/usuarios para la viabilidad del proyecto.
 - El volumen de mercado debe aparecer en los hitos.
 - Es esencial transmitir claramente la funcionalidad principal.
 
+## Feedback del día 11/05
+- Parte de un problema concreto y relevante.
+- Se valida rápidamente con usuarios reales.
+- Es clave entender bien al cliente y diferenciarse de lo que ya existe.
+
+## Feedback del día 25/05
+- A veces se presenta desconectada de la demo o del anuncio, lo que diluye el mensaje.
+- En varios casos no se explica claramente cómo se genera dinero o de dónde vienen los ingresos (Grupos 10 y 11).
+- Se usa terminología como "aburrimiento crónico" sin respaldarla con fuentes visibles.
+- Mostrar problema real, solución clara, modelo de ingresos concreto y conexión con el público objetivo.
+
 ## Feedback del día 02/05
 
 - ¿El mínimo 16 años no es ser mayor de edad? Es por el mínimo para tener tarjeta. (relacionado con la viabilidad del modelo de negocio según público objetivo).
