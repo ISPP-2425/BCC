@@ -662,9 +662,9 @@ En esta página se encuentra el feedback recogido por el equipo del grupo 4 dura
 
 ### Feedback de otros grupos
 
-- Evitar poner mucha informacion en la diapositiva del modelo de ingreso
-- En los costes especificar que los numeros son meses
-- No usar capex ni opex, son muy tecnicos para el WPL
+- Evitar poner mucha información en la diapositiva del modelo de ingreso
+- En los costes especificar que los números son meses
+- No usar capex ni opex, son muy técnicos para el WPL
 - Muletillas de pequeño
 - La demo no se ve del todo bien
 - Evitar la redundancia en la demo y en la presentacion
@@ -680,10 +680,10 @@ En esta página se encuentra el feedback recogido por el equipo del grupo 4 dura
 - Presentacion muy fluida
 - Demo no cumplen con lo que piden, hay que hacer un caso de uso, hacer una historia
 - No se ve el chat en la diapositiva 6
-- Meter algun rol en las presentaciones de los grupos
+- Meter algún rol en las presentaciones de los grupos
 - Alguno de los competidores tiene que alquilar, parece que no son competidores
 - Anuncio de inversores un poco largo
-- De la segunda presentacion evitar presentaciones teoricas(SEO)
+- De la segunda presentación evitar presentaciones teóricas(SEO)
 - Publico objetivo, poner que el principal publico objetivo, pero se puede expandir
 
 ### Feedback relacionado con el desarrollo del proyecto
@@ -692,7 +692,7 @@ En esta página se encuentra el feedback recogido por el equipo del grupo 4 dura
 
 ### Tareas que realizar durante esta semana:
 
-- Sesion de retrospectiva 
+- Sesión de retrospectiva 
 - Una presentacion de esfuerzo y rendimiento individual
 - PRESENTACION FINAL
 - Enviar una diapositiva a modo de publicidad antes del 13 de mayo
